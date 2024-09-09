@@ -8,4 +8,4 @@
 
 Business comes and goes, much more frequently than governments. 
 So how can commerce thrive without the dread of disillusionment
-that stemmed from the lackluster payoff from zero-sum dynamics? 
+that stems from the lackluster payoff from zero-sum dynamics? 
