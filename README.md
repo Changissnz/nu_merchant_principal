@@ -123,3 +123,8 @@ the gains are not objectively positive gains for the
 two agents in the long term, given the super-agent's 
 influence and capability of intervening between the 
 two. 
+
+Cultural, psychological, and collectivistic factors 
+were especially noted in non-zero sum games, even
+though their existence in zero-sum games is not 
+negligible. 
