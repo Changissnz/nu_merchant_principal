@@ -81,3 +81,45 @@ exemplification on non-zero sum games. These so-called
 into theoretical frameworks, for re-teaching, sometime 
 in the last two centuries. By the standard of non-zero 
 sum games, the fat cow does not have to be a wolf then! 
+
+The mechanics of "costs", including but not limited to 
+quantitative finance, are derived from the cultural 
+mores and collective ambition, but the "faith" in these 
+numbers do not rest on a uniform consensus of agreement. 
+For instance, a sentimental person would probably prefer 
+to sell something else other than the memorabilia 
+that they've acquired through their years. There is 
+the belief in the pricelessness of some material 
+objects. Collectively, these same material objects 
+could very well be circulated by the masses, according 
+to some arbitrarily-set standard of valuation, if 
+they are to land in their hands. There are psychological 
+and collectivist elements in non-zero sum games. Suppose
+that two agents are participants in such a game. Given 
+the perceived costs in this game's cost table, the two 
+agents "cooperate" for outcomes that grant them both 
+"positive" gains, by the table's objective numbers. But
+there is dissatisfaction underneath the compromise. 
+Perhaps either one or both of the agents feel as though
+they deserve more of the "positive" gains. What factors 
+would ensure that for the next "game" these two agents 
+participate in, there would be no disagreement on the
+values of said game's cost table? On the matter of 
+collectivist elements in non-zero sum games, suppose
+that two arbitrary agents are enthusiastic participants. 
+Both of them are practically in sync, with regards to 
+their decisions and the corresponding payoffs from those
+decisions. But regardless of what decisions they made,
+there is a "super-agent" above them. This "super-agent"
+is the singular representative of the collective outside
+of the game's two agents. According to the facts given 
+to this super-agent, both of the agents lose in the 
+non-zero sum game. The deceptively "positive" gains split
+between the two agents are in fact losses to them. Perhaps
+the gains could have been objectively greater if the 
+agents were to participate in non-zero sum games without
+the overhead of the super-agent's authority. Perhaps
+the gains are not objectively positive gains for the
+two agents in the long term, given the super-agent's 
+influence and capability of intervening between the 
+two. 
