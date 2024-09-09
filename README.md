@@ -23,7 +23,13 @@ of brilliance, trained and primed towards "malfeasant" outlets,
 that results in clear defeats for the owner/s of that brilliance. 
 Do you really think that fat cow that is your neighbor really 
 gives a care for your interests and well-being? Laissez-faire 
-feudalism predicts that they do not.
+feudalism predicts that they do not. While you might be digging 
+trenches for "modern-day Rome", that fat cow, the one that has 
+never been hurt in any way except for their feelings, looks at
+you like you are some kind of slave. The fat cow is stupid.
+It is stupid not because it is simple-minded. It is stupid for 
+judging while sitting comfortably in its welfare zone, sponsored 
+by the government in the name of ... what? Merit? Justice? 
 
 
 
