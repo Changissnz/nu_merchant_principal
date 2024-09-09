@@ -66,4 +66,6 @@ confidence instead of fear, that not every person becomes
 an enemy in the eyes of a "neo-mercantilist" (for lack of a 
 better term)? 
 
-
+The notion of the fat cow as a wolf in the context of 
+economic sacrifice is a strong assumption on costs from 
+loss due to some underlying fatalism. 
