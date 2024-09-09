@@ -127,4 +127,15 @@ two.
 Cultural, psychological, and collectivistic factors 
 were especially noted in non-zero sum games, even
 though their existence in zero-sum games is not 
-negligible. 
+negligible. It is obvious to state that zero-sum 
+games, if based on accurate cost tables, result 
+in "cleaner cuts". Every participant has very 
+little motive to consider the outcome and well-being
+of their "competitors". Zero-sum games rest on 
+the principles of physics. Value cannot grow, but 
+it can be cleanly transferred from some original 
+owner, a participant in the zero-sum game, to 
+another. The argument that zero-sum games are 
+more objectively-based than non-zero sum games 
+is more persuasive than the argument for vice-versa. 
+
