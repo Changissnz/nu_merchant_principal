@@ -8,7 +8,7 @@
 
 Business comes and goes, much more frequently than governments. 
 So how can commerce thrive without the dread of disillusionment
-that stems from the lackluster payoff from zero-sum dynamics? 
+that stems from the lackluster payoff in zero-sum dynamics? 
 Zero-sum dynamics carry an extremely bipolar nature in the 
 psychology of actors. And there are few paradigms of thought 
 outside of this zero-sum strategic convention in politics, 
@@ -52,6 +52,18 @@ fat cow, ultimately in the context of economic sacrifice, may
 as well be a wolf. It may as well be a wolf because it would 
 prefer that you are eaten instead of it.
 
-
+Suppose there is some kind of wisdom in ultra-competitive 
+environments, borne out of Laissez-faire, that goes something 
+similar as "one should make as much effort in befriending 
+another as the effort required to defend against an enemy."
+This is an "ideal" that is much easier to declare and believe in 
+than to successfully accomplish. The difficulty of accomplishing
+this "ideal" rests upon the nature that surrounds the center, 
+for there is no mechanical principle behind it that ensures 
+the equal probability of easiness in befriending and enemizing.
+Who is to state, with a guarantee that rests completely on 
+confidence instead of fear, that every person becomes 
+an enemy in the eyes of a "neo-mercantilist" (for lack of a 
+better term)? 
 
 
