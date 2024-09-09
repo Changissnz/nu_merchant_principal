@@ -78,6 +78,6 @@ quantified, rests on a sort of cooperation, a mutual
 assurance, a compromise. There is much opinion and 
 exemplification on non-zero sum games. These so-called 
 "games" do exist in reality, but were only formalized 
-into theoretical frameworks sometime in the last two 
-centuries. By the standard of non-zero sum games, the 
-fat cow does not have to be a wolf then! 
+into theoretical frameworks, for re-teaching, sometime 
+in the last two centuries. By the standard of non-zero 
+sum games, the fat cow does not have to be a wolf then! 
