@@ -21,6 +21,9 @@ Brilliance does not quite make the mark in intensely competitive
 settings. But there are some that argue that it is the misuse 
 of brilliance, trained and primed towards "malfeasant" outlets,
 that results in clear defeats for the owner/s of that brilliance. 
+Do you really think that fat cow that is your neighbor really 
+gives a care for your interests and well-being? Laissez-faire 
+feudalism predicts that they do not.
 
 
 
