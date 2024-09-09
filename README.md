@@ -62,7 +62,7 @@ this "ideal" rests upon the nature that surrounds the center,
 for there is no mechanical principle behind it that ensures 
 the equal probability of easiness in befriending and enemizing.
 Who is to state, with a guarantee that rests completely on 
-confidence instead of fear, that every person becomes 
+confidence instead of fear, that not every person becomes 
 an enemy in the eyes of a "neo-mercantilist" (for lack of a 
 better term)? 
 
