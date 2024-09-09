@@ -21,6 +21,24 @@ Brilliance does not quite make the mark in intensely competitive
 settings. But there are some that argue that it is the misuse 
 of brilliance, trained and primed towards "malfeasant" outlets,
 that results in clear defeats for the owner/s of that brilliance. 
+But there have been and are plenty of brilliant people that 
+did not quite train and prime themselves towards "malfeasant" 
+outlets. And they get paid in dirt. The dumb and perhaps 
+retarded scoff at their ideas, deny their promotion, and ruin 
+their composure. This is how some brilliant people get treated
+like dirt. They get invited to a club or party of some high-society
+members, after achieving much and expecting some festive recognition, 
+and the invites are rescinded. And the club/party mentions them as if 
+they are some dull one fit for exploitation. The high-society 
+members already know, due to the luxury and power that they 
+are able to retain, that preventative measures against 
+exploitation require more than just brilliance. Brilliance 
+is materially less in value than dirt. The brilliant person 
+wants to get somewhere, with rejection thrown in their face 
+as well as insults and knives in their back, their so-called 
+"defensive posturing" against exploitation is most definitely 
+born from a source, or at least an effect, of malice. 
+
 Do you really think that fat cow that is your neighbor really 
 gives a care for your interests and well-being? Laissez-faire 
 feudalism predicts that they do not. While you might be digging 
