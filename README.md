@@ -68,4 +68,15 @@ better term)?
 
 The notion of the fat cow as a wolf in the context of 
 economic sacrifice is a strong assumption on costs from 
-loss due to some underlying fatalism. 
+loss due to some underlying fatalism. Rest assured that 
+there are many in academia and government that strongly 
+disagree with the concept of competition, or at least 
+self-improvement, as zero-sum. These contrarian views 
+harness the game theory specification of "non-zero sum 
+games". The rationale is that some aspects, which can be
+quantified, rests on a sort of cooperation, a mutual 
+assurance, a compromise. There is much opinion and 
+exemplification on non-zero sum games. These so-called 
+"games" do exist in reality, but were only formalized 
+into theoretical frameworks sometime in the last two 
+centuries.
