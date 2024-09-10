@@ -130,12 +130,33 @@ though their existence in zero-sum games is not
 negligible. It is obvious to state that zero-sum 
 games, if based on accurate cost tables, result 
 in "cleaner cuts". Every participant has very 
-little motive to consider the outcome and well-being
-of their "competitors". Zero-sum games rest on 
+little motive to consider the outcome of well-being
+for their "competitors". Zero-sum games rest on 
 the principles of physics. Value cannot grow, but 
 it can be cleanly transferred from some original 
 owner, a participant in the zero-sum game, to 
 another. The argument that zero-sum games are 
 more objectively-based than non-zero sum games 
-is more persuasive than the argument for vice-versa. 
+is more persuasive than the argument for vice-versa.
 
+There is an absolute chance for arguments that non-zero
+sum games are more amenable to participants. And the 
+claim that the base of objectivity is an exclusive 
+trait to zero-sum games is surely to be scrutinized. 
+There is another claim that can be more fully 
+agreed upon: for any prolonged sequence of 
+decision-making events, the usage of both 
+game categories serve unique demands. The payoffs 
+to participants from non-zero sum games may amount 
+to less for each, in comparison to the potential 
+payoff (single participant gain) from zero-sum games.
+But over time, the partial payoffs from each 
+non-zero sum game produce longer lasting and more
+stable benefits to the participants, by the metrics 
+revolving around uniformity and the mean. Needless to 
+say, these two categories of games can be expanded to
+involve more than two agents in the lens of mass 
+organization. Organizations do not tend to encourage
+zero-sum games between its members, given the condition
+that both members are of pertinence to the organization
+(but perhaps not of the same degree). 
