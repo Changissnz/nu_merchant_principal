@@ -185,5 +185,5 @@ value of knowledge wildly oscillates from trivia
 to critical vulnerabilities belonging to persons, 
 organizations, nation-states, etc. What is a non-zero
 sum game to a select group of participants may be
-reflected onto another group as a zero-sum game 
-that adversely affects them.
+reflected onto another group as a zero-sum game's 
+outcome that adversely affects them.
