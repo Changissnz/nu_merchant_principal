@@ -158,5 +158,11 @@ say, these two categories of games can be expanded to
 involve more than two agents in the lens of mass 
 organization. Organizations do not tend to encourage
 zero-sum games between its members, given the condition
-that both members are of pertinence to the organization
-(but perhaps not of the same degree). 
+that both members are of pertinence, through utility, to 
+the organization (but perhaps not of the same degree). 
+The compromise from non-zero sum games suits the purpose
+of pacifying such biases, including jealousy and ambition, 
+for integrity of the organization. However, in an 
+organization's life, there occurs instances where 
+zero-sum games are utilized for the objective of 
+slashing what is deemed to be excess or vice. 
