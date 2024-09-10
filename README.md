@@ -187,3 +187,25 @@ organizations, nation-states, etc. What is a non-zero
 sum game to a select group of participants may be
 reflected onto another group as a zero-sum game's 
 outcome that adversely affects them.
+
+With regards to application of the concepts zero or
+non-zero sum, the first is predominantly used in 
+contexts such as material transfers and clear-cut
+win/lose outcomes. Due to the cooperative nature 
+of non-zero sum games, even with the specification 
+that the participants do not know ahead of time 
+what their counterparts' decisions are, there is 
+a tendency for at least one of the participants 
+to lose sight of the definition behind the outcome
+values. The coupling (two participants) and 
+entanglement (more than two participants) fuzz 
+decision-making in such a way for there to be 
+virtually no optimum payoff by the available 
+options. Perhaps in some cases, contiguous 
+non-zero sum games played by the participants 
+may result for there to be a kind of "delegation"
+from at least one of the players to the remainder.
+The preferences of the remainder become prioritized
+over the delegators, who would rather play and follow
+along than to emphasize their own ideal choices 
+in the "game". 
