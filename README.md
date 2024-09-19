@@ -209,3 +209,16 @@ The preferences of the remainder become prioritized
 over the delegators, who would rather play and follow
 along than to emphasize their own ideal choices 
 in the "game". 
+
+Autonomy is a multi-faceted question in arrangements 
+that are games. Why would an agent participate in some 
+arrangement called a game if there is the certainty 
+that the best outcome, in the form of payoffs from 
+the true cost table, cannot result in their betterment?
+The agent diverges from their original circumstances
+that would have granted them opportunities to pursue 
+some desired sequence of outcomes, each a checkpoint of 
+success or at least, gratification. Then they are 
+enmeshed in circumstances that require their actions 
+to be geared towards some objective directly related 
+to the specific temporal demands of those circumstances.
