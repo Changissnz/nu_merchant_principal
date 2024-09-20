@@ -317,9 +317,15 @@ Experimentation is interesting with regards to
 accountability. Educators generally steer clear from 
 the losses from experimentation. The simple more is that
 they cannot risk their reputation to become entangled 
-in what is perceived by third-party judges as fallibility 
+in what are perceived by third-party judges as fallibility 
 traps. The fact that there are different natures and 
 styles attached to those that experiment validates the 
 anticipation that conceptualizations of fallibility such 
 as the Seven Deadly Sins are to be mentioned by some in 
 their aims to "reveal and penalize evil". 
+
+Autonomy is intricately connected to information-flow
+systems. Some important attributes of noteworthy mention
+are filtration processes, recognition mechanisms, flow 
+control, network administration, and ultimately, capabilities 
+past the knowledge that is perfect information.
