@@ -373,7 +373,8 @@ illustration.
 | --- | ---------- | ------ |
 | Silent Trigger | 10,1 | 10,-100 |
 | Brute's Force | -1,0 | 5,-50 |
-: GVC1; Game of Varying Coercion @ timestamp 1
+
+: GVC1; Game of Varying Coercion @ timestamp 1 {.striped .hover}
 
 Agent A (row-wise) has the clear upper hand, in terms of
 cost as quantified by this table. Agent B is put into a
