@@ -374,7 +374,7 @@ illustration.
 | Silent Trigger | 10,1 | 10,-100 |
 | Brute's Force | -1,0 | 5,-50 |
 
-#### GVC1; Game of Varying Coercion @ timestamp 1 {.striped .hover}
+#### GVC1; Game of Varying Coercion @ timestamp 1. 
 
 Agent A (row-wise) has the clear upper hand, in terms of
 cost as quantified by this table. Agent B is put into a
@@ -392,3 +392,37 @@ case of its act of revealing, then there is a positive
 gain of half that for Silent Trigger. Suppose the 
 revelation is judged to be fallacious, so much that 
 Brute's Force is justified.  
+
+Silent Trigger requires more skill by the actor. It
+also requires more situational expenses so that the
+silence of the Trigger is not exposed to Agent B or
+third-party observers, who then have more knowledge 
+and material to retaliate. The cost values of Table GVC1
+denote the combative gains by the agents. However, 
+there is another set of costs that are pertinent, 
+by Table ST1. 
+
+| ~~ | Effective Cooperative | Ineffective Cooperative |
+| --- | ---------- | ------ |
+| Bull's Eye | -3,-12 | -1000,-50 |
+| Missed Mark | -30,-100 | -1200,-1000 |
+
+#### ST1; Costs to Resources by Silent Trigger. 
+
+There are two possibilities for the actor behind Silent 
+Trigger, labeled by the rows. The infrastructural costs, 
+comprised of sentient agents, the environment, and the 
+situation that is staged by these sentient agents, are 
+the two columns: effective or ineffective cooperative. 
+The cooperative is designated as an alignment with the 
+Silent Trigger's actor. Note that there are no positive
+gains to resources. If the cooperative is ineffective, 
+whether voluntarily or not, then it is critical for 
+Silent Trigger's actor to move by Bull's Eye, in the 
+name of costs to resources. If there is effective 
+cooperative, the event of Missed Mark by Silent Trigger's 
+actor results in less damage to resources. Table ST1 
+illustrates the heavy costs, even without the risk of 
+failure by Silent Trigger's actor and their cooperative, 
+of maintaining the dominated action of Silent Trigger 
+over Brute's Force. 
