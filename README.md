@@ -426,3 +426,27 @@ illustrates the heavy costs, even without the risk of
 failure by Silent Trigger's actor and their cooperative, 
 of maintaining the dominated action of Silent Trigger 
 over Brute's Force. 
+
+By Brute's Force, however, there is a risk that 
+oppositional mass-organization from Agent B 
+(in Table GVC1) ensues. The situation of the involved 
+agents can escalate into something similar to that 
+illustrated below.
+
+| ~~ | Advance Opposition | Maintain Opposition | Withdraw Opposition |
+| --- | -------------------- | ------------------- | ----------------- | 
+| Escalate Brute's Force | 1000,500 | 250,250 | 2000,0 | 
+| Mix Brute's Force with Silent Trigger | 2000,-50 | 1000,500 | 2000,-300
+| Silent Trigger | 0,400 | 0,0 | 4000,-200
+
+#### BFAM; Combative Costs in the Aftermath of Initial Brute's Force. 
+
+Table BFAM gives numbers that still predominantly benefit Agent A.
+But these numbers are based only the starting states of the agents, 
+and shed no evidence on the constancy of costs over repeated iterations.
+Brute's Force may result in the situation of Table BFAM, and the decision 
+for Agent A to choose Brute's Force over Silent Trigger may be due to 
+the latter's unsuccessful enactment, which in turn, is due to the 
+negative gains. Silent Trigger in BFAM, due to its requirements of 
+high skill and effective cooperative, becomes virtually useless 
+unless Agent B chooses to withdraw opposition. 
