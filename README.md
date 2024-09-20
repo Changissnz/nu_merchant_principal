@@ -279,6 +279,47 @@ kinds of education systems, so that the educatees have
 greater awareness of what games will pay them off 
 immensely, what other games are non-profit but greatly
 expands the experience (if experience cannot be 
-quantified), and yet the remaining games that will 
-make them sorely pay beyond their recovery back to 
+quantified), and yet still the remaining games that 
+will make them sorely pay beyond their recovery back to 
 growth or at least, stasis. 
+
+The structuralization of any education system surely 
+cannot accomodate the demands of the lifelong learner.
+This is to assume that any education system imposes
+binding demands on its participants. Without binding
+demands, the freedom of participants to come and go 
+by their own volition somehow dilutes the seriousness
+and truthfulness of the informational material 
+transmitted to them. In these circumstances, education
+becomes casual recreation, and recreation is personally
+experiential events; this is a Dionysian VS Apollonion 
+argument. Even if one is not keen on learning any more 
+past their depth, there is still the requirement 
+of experience in sentient existence (if life goes on). 
+And experience can be very stochastic, or even worse, 
+engineered against those subject to the experience. The 
+term "information-flow system" suffices as a superset 
+of "education system". There is not required to be any 
+binding demands from an educator that does not need to 
+exist. The omnipresent requirement of processing 
+information stands strong in this superset of an 
+education system, even stronger than that of the 
+education system since the lack of structured guidance 
+is compensated by utter seriousness in certain contexts.
+
+In many respects, the objective of education is to 
+enhance and refine risk-averse mentalities and behaviors.
+For example, mistakes from history should not be repeated.
+Make careful calculations before embarking on dangerous
+trails. Take the tragic lessons from literature to heart.
+And so on. With experimentation, there is risk attached.
+Experimentation is interesting with regards to 
+accountability. Educators generally steer clear from 
+the losses from experimentation. The simple more is that
+they cannot risk their reputation to become entangled 
+in what is perceived by third-party judges as fallibility 
+traps. The fact that there are different natures and 
+styles attached to those that experiment validates the 
+anticipation that conceptualizations of fallibility such 
+as the Seven Deadly Sins are to be mentioned by some in 
+their aims to "reveal and penalize evil". 
