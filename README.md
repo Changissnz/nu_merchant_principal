@@ -461,9 +461,10 @@ Game theoretics do presuppose that agents act by rational
 choice, before, during, and after any arbitrary decision 
 junction that is a game. As stated in the beginning of this 
 section, the rationale for why situations such as Game of 
-Varying Coercion is essentially long, nuanced, specific 
-explanations based on histories. A more civilized version 
-of this game can certainly exist.
+Varying Coercion occur is essentially long, nuanced, 
+specific explanations based on histories. A more civilized 
+version of this game can certainly exist, as Game of 
+Pacified Varying Coercion. 
 
 | t=1 | Genuinely Cooperate | Civil Re-negotiation | Fraud/Betrayal |
 | --- | ------------------- | -------------------- | -------------- |
