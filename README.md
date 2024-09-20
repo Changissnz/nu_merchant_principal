@@ -458,15 +458,16 @@ communicative resources than available to its opposer. What
 kind of game is this, for there to be irrationality on the 
 part of Agent B that results in its entering this situation? 
 Game theoretics do presuppose that agents act by rational 
-choice. As stated in the beginning of this section, the 
-rationale for why situations such as Game of Varying Coercion 
-is essentially long, nuanced, specific explanations based 
-on histories. A more civilized version of this game can 
-certainly exist.
+choice, before, during, and after any arbitrary decision 
+junction that is a game. As stated in the beginning of this 
+section, the rationale for why situations such as Game of 
+Varying Coercion is essentially long, nuanced, specific 
+explanations based on histories. A more civilized version 
+of this game can certainly exist.
 
-| t=1 | Genuinely Cooperate | Civil Re-negotiation |
+| t=1 | Genuinely Cooperate | Civil Re-negotiation | Fraud
 | --- | ---------- | ------ |
-| Pacified Silent Trigger | 10,1 | 10,-100 |
-| Pacified Brute's Force | -1,0 | 5,-50 |
+| Pacified Silent Trigger | 100,100 | 0,0 | 1000,0 |
+| Pacified Brute's Force | -1000,0 | -100,500 | 1000,0 |
 
 #### GPVC1; Game of Pacified Varying Coercion @ timestamp 1. 
