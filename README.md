@@ -369,17 +369,10 @@ Consider this situation, called Game of Varying Coercion.
 There are only two players to make way for simplicity of 
 illustration.
 
-:::{table} Game of Varying Coercion (t=1)
-:label: gvctab1
-:align: center
-
-| ~~~ | Play Along | Reveal |
+| t=1 | Play Along | Reveal |
 | --- | ---------- | ------ |
 | Silent Trigger | 10,1 | 10,-100 |
 | Brute's Force | -1,0 | 5,-50 |
-
-:::
-
 
 
 
