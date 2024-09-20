@@ -163,7 +163,7 @@ the organization (but perhaps not of the same degree).
 The compromise from non-zero sum games suits the purpose
 of pacifying such biases, including jealousy and ambition, 
 for integrity of the organization. However, in an 
-organization's life, there occurs instances where 
+organization's life, there occur instances where 
 zero-sum games are utilized for the objective of 
 slashing what is deemed to be excess or vice. 
 
