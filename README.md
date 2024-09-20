@@ -374,6 +374,19 @@ illustration.
 | Silent Trigger | 10,1 | 10,-100 |
 | Brute's Force | -1,0 | 5,-50 |
 
-
-
-
+Agent A (row-wise) has the clear upper hand, in terms of
+cost as quantified by this table. Agent B is put into a
+servile position. Agent A would be wise to maintain 
+preference for the dominated action of Silent Trigger.
+There is no possibility for Silent Trigger to inflict 
+negative gains for Agent A. Whether Agent B chooses to
+obey Agent A by playing along, or revealing so as to 
+catalyze revolt against Agent A, Agent A secures its 
+upper hand by Silent Trigger. For Agent A to act by 
+Brute's Force against an obedient Agent B speaks poorly 
+for its welfare, as denoted by the negative gain of 
+-1. If Brute's Force is used against Agent B in the 
+case of its act of revealing, then there is a positive 
+gain of half that for Silent Trigger. Suppose the 
+revelation is judged to be fallacious, so much that 
+Brute's Force is justified.   
