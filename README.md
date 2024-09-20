@@ -439,7 +439,7 @@ illustrated below.
 | Mix Brute's Force with Silent Trigger | 2000,-50 | 1000,500 | 2000,-300
 | Silent Trigger | 0,400 | 0,0 | 4000,-200
 
-#### BFAM; Combative Costs in the Aftermath of Initial Brute's Force. 
+#### BFAM; Combative Gains (Opponent's Cost) in the Aftermath of Initial Brute's Force. 
 
 Table BFAM gives numbers that still predominantly benefit Agent A.
 But these numbers are based only the starting states of the agents, 
