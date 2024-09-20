@@ -374,7 +374,7 @@ illustration.
 | Silent Trigger | 10,1 | 10,-100 |
 | Brute's Force | -1,0 | 5,-50 |
 
-#### GVC1; Game of Varying Coercion @ timestamp 1. 
+#### GVC1; Game of Varying Coercion @ timestamp 1; (2 x 2).
 
 Agent A (row-wise) has the clear upper hand, in terms of
 cost as quantified by this table. Agent B is put into a
@@ -407,7 +407,7 @@ by Table ST1.
 | Bull's Eye | -3,-12 | -1000,-50 |
 | Missed Mark | -30,-100 | -1200,-1000 |
 
-#### ST1; Costs to Resources by Silent Trigger. 
+#### ST1; Costs to Resources by Silent Trigger; (2 x 2).
 
 There are two possibilities for the actor behind Silent 
 Trigger, labeled by the rows. The infrastructural costs, 
@@ -439,7 +439,7 @@ illustrated below.
 | Mix Brute's Force with Silent Trigger | 2000,-50 | 1000,500 | 2000,-300
 | Silent Trigger | 0,400 | 0,0 | 4000,-200
 
-#### BFAM; Combative Gains (Opponent's Pay) in the Aftermath of Initial Brute's Force. 
+#### BFAM; Combative Gains (Opponent's Pay) in the Aftermath of Initial Brute's Force; (3 x 3).
 
 Table BFAM gives numbers that still predominantly benefit Agent A.
 But these numbers are based only the starting states of the agents, 
@@ -471,4 +471,4 @@ Pacified Varying Coercion.
 | Pacified Silent Trigger | 100,100 | 0,0 | 1000,0 |
 | Pacified Brute's Force | -1000,0 | -100,500 | 1000,0 |
 
-#### GPVC1; Game of Pacified Varying Coercion @ timestamp 1. 
+#### GPVC1; Game of Pacified Varying Coercion @ timestamp 1; (2 X 3).
