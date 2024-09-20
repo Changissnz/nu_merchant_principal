@@ -210,6 +210,8 @@ over the delegators, who would rather play and follow
 along than to emphasize their own ideal choices 
 in the "game". 
 
+## Autonomy and Games
+
 Autonomy is a multi-faceted question in arrangements 
 that are games. Why would an agent participate in some 
 arrangement called a game if there is the certainty 
@@ -222,3 +224,61 @@ success or at least, gratification. Then they are
 enmeshed in circumstances that require their actions 
 to be geared towards some objective directly related 
 to the specific temporal demands of those circumstances.
+They can mention the question of choice, a topic which 
+is generally known to many members of societies that have 
+had their hands forced into certain outlets (certainly by 
+the mortal powers above them), but they will only receive
+a response to accept the matter as another of idealism's
+lost visions.
+
+Children engage in activities that can be termed
+as "games". These activities generally do no harm amongst
+themselves, and give them the benefit of developing their
+values and way of life to eventually play the roles of 
+astute cogs in mature society. It is this premise that 
+is a major moral justification for why some find themselves
+in circumstances, deemed games by some, that they otherwise
+would not engage in, either due to their ignorance that 
+such circumstances (comprised of materials and events) exist 
+or their involuntary stance towards those circumstances.
+The premise as one word is education. Is this word 
+simply a transmission of terminology and procedures,
+as well as the auxiliary materials used to aid in 
+understanding and experiencing this transmission of 
+information? Could education really be as simple as two 
+parallel straight paths, one the perfect transmission 
+(by the educator) and the other the perfect practice or 
+at least the most genuine effort in practice (the educatee)? 
+
+Entertain the notion that there are two tenets in education. 
+For matters of fact, education transmits absolute truth. 
+And for other matters, education transmits perfect knowledge 
+of the methodology. This notion relies on the condition that
+there is nothing to be educated on past the minds of the 
+educators. The educators were selected due to their mastery 
+of the matters that they are to transmit and train their 
+educatees on. So the educators could not possibly steer
+any of their subjects directly towards wrongful practices 
+and fallacies. 
+
+On the idea of autonomy as the choice to participate
+in games that benefit and to not participate in anti-beneficial
+games, education as outlined by the previous paragraph 
+is beneficial. But in games that are believed not to be
+beneficial, how can an agent truly know that they will 
+sorely pay during or after their participation? Couple 
+the particular outlining of education (in the previous 
+paragraph) with active efforts to know the unknown (and 
+all of the unknown's costs), from a perspective that supercedes
+even the educator. And the resultant is not education by 
+the definition. Instead, it is experimentation and education. 
+Education systems can enable their educatees to experiment, 
+outside of constraints designed by the educator.
+There are certainly arguments available to defend these 
+kinds of education systems, so that the educatees have 
+greater awareness of what games will pay them off 
+immensely, what other games are non-profit but greatly
+expands the experience (if experience cannot be 
+quantified), and yet the remaining games that will 
+make them sorely pay beyond their recovery back to 
+growth or at least, stasis?
