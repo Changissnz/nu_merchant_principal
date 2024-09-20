@@ -168,13 +168,13 @@ zero-sum games are utilized for the objective of
 slashing what is deemed to be excess or vice. 
 
 The first paragraph of this essay posits the 
-domineering influence of zero-sum, over others such as 
+domineering influence of zero-sum, over others, such as 
 the alternative of non-zero sum, as a concept taught
 in the education setting. Many in university/government
 settings would probably not be vocal in support of this
 posit. Activities such as research&development, 
 coordinated security, and journal publications do 
-lean towards cost values of non-zero sum game. 
+lean toward cost values of non-zero sum game. 
 Knowledge, especially, is one of the fundamental 
 possessions that do not operate on zero-sum dynamics 
 on the one condition that the knowledge is fairly
