@@ -320,8 +320,8 @@ they cannot risk their reputation to become entangled
 in what are perceived by third-party judges as fallibility 
 traps. The fact that there are different natures and 
 styles attached to those that experiment validates the 
-anticipation that conceptualizations of fallibility such 
-as the Seven Deadly Sins are to be mentioned by some in 
+anticipation that conceptualizations of fallibility, such 
+as the Seven Deadly Sins, are to be mentioned by some in 
 their aims to "reveal and penalize evil". 
 
 Autonomy is intricately connected to information-flow
