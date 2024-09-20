@@ -248,7 +248,7 @@ understanding and experiencing this transmission of
 information? Could education really be as simple as two 
 parallel straight paths, one the perfect transmission 
 (by the educator) and the other the perfect practice or 
-at least the most genuine effort in practice (the educatee)? 
+at least the most genuine effort in practice (by the educatee)? 
 
 Entertain the notion that there are two tenets in education. 
 For matters of fact, education transmits absolute truth. 
