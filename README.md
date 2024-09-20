@@ -373,11 +373,10 @@ illustration.
 :label: gvctab1
 :align: center
 
-| ~~~ | Play Along | Reveal
-| --- | ---------- |
-| Silent Trigger | 10,1     | 10,-100
-| Brute's Force  | -1,0     | 5,-50
-
+| ~~~ | Play Along | Reveal |
+| --- | ---------- | ------ |
+| Silent Trigger | 10,1 | 10,-100 |
+| Brute's Force | -1,0 | 5,-50 |
 
 :::
 
