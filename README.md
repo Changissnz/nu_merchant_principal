@@ -450,3 +450,23 @@ the latter's unsuccessful enactment, which in turn, is due to the
 negative gains. Silent Trigger in BFAM, due to its requirements of 
 high skill and effective cooperative, becomes virtually useless 
 unless Agent B chooses to withdraw opposition. 
+
+The Game of Varying Coercion is an antagonistic game. It 
+requires for there to be an aggressive antagonist and an 
+incapable subordinate target, with much less the social and 
+communicative resources than available to its opposer. What 
+kind of game is this, for there to be irrationality on the 
+part of Agent B that results in its entering this situation? 
+Game theoretics do presuppose that agents act by rational 
+choice. As stated in the beginning of this section, the 
+rationale for why situations such as Game of Varying Coercion 
+is essentially long, nuanced, specific explanations based 
+on histories. A more civilized version of this game can 
+certainly exist.
+
+| t=1 | Genuinely Cooperate | Civil Re-negotiation |
+| --- | ---------- | ------ |
+| Pacified Silent Trigger | 10,1 | 10,-100 |
+| Pacified Brute's Force | -1,0 | 5,-50 |
+
+#### GPVC1; Game of Pacified Varying Coercion @ timestamp 1. 
