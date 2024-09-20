@@ -299,7 +299,7 @@ of experience in sentient existence (if life goes on).
 And experience can be very stochastic, or even worse, 
 engineered against those subject to the experience. The 
 term "information-flow system" suffices as a superset 
-of "education system". There is not required to be any 
+of "education system". There are not required to be any 
 binding demands from an educator that does not need to 
 exist. The omnipresent requirement of processing 
 information stands strong in this superset of an 
