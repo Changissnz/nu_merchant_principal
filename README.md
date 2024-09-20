@@ -329,3 +329,59 @@ systems. Some important attributes of noteworthy mention
 are filtration processes, recognition mechanisms, flow 
 control, network administration, and ultimately, capabilities 
 past the knowledge that is perfect information.
+
+## Situational Engineering
+
+The academic field of game theory has mass-proliferated
+some important findings in the context of decision-making.
+It has structured "games", decision-making junctions between 
+two or more agents, into these classifications: strategic, 
+extensive, and coalitional. It has also put focus on the 
+nature of information available to agents during their 
+activities called "games", that is, perfect and imperfect 
+information. Rules for calculating the optimal decision
+are defined by the Nash equilibrium and its sibling 
+concepts. In cases where there is no optimum by the decisions
+and costs granted to the agents, there is also the 
+"ideal" (or expectation) of steady state, as illustrated
+by games such as Matching Pennies. 
+
+The mathematics applied in game theory is extensive enough 
+to satisfy these two big questions: 
+- best decisions or expected states,
+- expected payoffs (through probabilistic functions or 
+best-decision rules). 
+
+But what about the situation? Given merely the cost tables 
+(as formulated by game theory), some agents are predisposed
+to having some set of moves that may or may not intersect
+with the movesets of their co-participants. In other words,
+there is an unspoken asymmetry or equality in capabilities
+before the consideration of the game in focus. Acceptance of
+these conditions relies on the acceptance of the histories
+(for lack of a better term) of not only the agents belonging
+to the game in focus. There is also the need to understand 
+the outside factors, some of which may be responsible for 
+governing past events, agents, interpretations, and orders 
+into the situation that contains the participating agents. 
+
+Consider this situation, called Game of Varying Coercion. 
+There are only two players to make way for simplicity of 
+illustration.
+
+:::{table} Game of Varying Coercion (t=1)
+:label: gvctab1
+:align: center
+
+| ~~~ | Play Along | Reveal
+| --- | ---------- |
+| Silent Trigger | 10,1     | 10,-100
+| Brute's Force  | -1,0     | 5,-50
+
+
+:::
+
+
+
+
+
