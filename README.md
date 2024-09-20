@@ -281,4 +281,4 @@ immensely, what other games are non-profit but greatly
 expands the experience (if experience cannot be 
 quantified), and yet the remaining games that will 
 make them sorely pay beyond their recovery back to 
-growth or at least, stasis?
+growth or at least, stasis. 
