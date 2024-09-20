@@ -413,7 +413,7 @@ There are two possibilities for the actor behind Silent
 Trigger, labeled by the rows. The infrastructural costs, 
 comprised of sentient agents, the environment, and the 
 situation that is staged by these sentient agents, are 
-the two columns: effective or ineffective cooperative. 
+the two columns: effective and ineffective cooperative. 
 The cooperative is designated as an alignment with the 
 Silent Trigger's actor. Note that there are no positive
 gains to resources. If the cooperative is ineffective, 
