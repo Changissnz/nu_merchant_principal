@@ -465,8 +465,8 @@ Varying Coercion is essentially long, nuanced, specific
 explanations based on histories. A more civilized version 
 of this game can certainly exist.
 
-| t=1 | Genuinely Cooperate | Civil Re-negotiation | Fraud/Betrayal
-| --- | ---------- | ------ |
+| t=1 | Genuinely Cooperate | Civil Re-negotiation | Fraud/Betrayal |
+| --- | ------------------- | -------------------- | -------------- |
 | Pacified Silent Trigger | 100,100 | 0,0 | 1000,0 |
 | Pacified Brute's Force | -1000,0 | -100,500 | 1000,0 |
 
