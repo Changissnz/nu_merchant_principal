@@ -477,7 +477,7 @@ There is the question of the degree of choice
 revolving around the hands (of the agents and third-parties) 
 in the Game of Varying Coercion. Would it not be splendid if
 there was only the alternative of Game of Pacified Varying 
-Coercion to be played. There would be little motive for any 
+Coercion to be played? There would be little motive for any 
 rational Agent B to choose Fraud/Betrayal. The integrity of 
 the feedback loops involving genuine cooperation and civil 
 re-negotiations would lead to a continuous improvement 
