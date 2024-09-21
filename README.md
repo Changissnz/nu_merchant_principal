@@ -472,3 +472,24 @@ Pacified Varying Coercion.
 | Pacified Brute's Force | -1000,0 | -100,500 | 1000,0 |
 
 #### GPVC1; Game of Pacified Varying Coercion @ timestamp 1; (2 X 3).
+
+There is the question of the degree of choice 
+revolving around the hands (of the agents and third-parties) 
+in the Game of Varying Coercion. Would it not be splendid if
+there was only the alternative of Game of Pacified Varying 
+Coercion to be played. There would be little motive for any 
+rational Agent B to choose Fraud/Betrayal. The integrity of 
+the feedback loops involving genuine cooperation and civil 
+re-negotiations would lead to a continuous improvement 
+process, without any second thoughts. But back to the matter 
+of the Game of Varying Coercion, it could be argued that 
+the events leading up to the asymmetric attributes of the 
+involved players are essentially sibling decision junctions 
+of the Game of Chicken. The key difference is that in the 
+Game of Chicken, the objective is mirror-opposite decisions. 
+To achieve the moveset of Agent A in Game of Varying Coercion,
+as a game before this game, there is required a kind of 
+relentless dedication (including the security) to acquiring 
+the skills and resources that then concentrates these 
+attributes into the moveset, the starting possible 
+choices available to Agent A. 
