@@ -507,7 +507,7 @@ obstacles to their objective of becoming Agent A.
 There is a lot to be said,written, or however else 
 communicated on the "power of language", specifically its 
 broad role in retentive and transformative processes. 
-There is a universal desire amongst sentient beings to 
+A universal desire exists amongst sentient beings to 
 privatize (form and uphold attributes of secrecy) 
 communication to their personally desired degrees. 
 Unwanted members, such as those that would oppose the 
@@ -526,6 +526,8 @@ more than one cost table.
 - Agent B: the source and messenger of the communication.
 - Agent C: correspondent to Agent A, otherwise known as a sub-agent of A; provides methodologies,tips, and hints derived from their observation of Agent B. Such observation may require insider knowledge.
 - Agent D: the follow-up actor to the interpretation by Agent A of Agent B's communication.
+Whenever Agent A is mentioned, assume that Agent C is also included
+due to its status as a sub-agent to Agent A.
 
 Three primary decision junctions exist in the Game of 
 Crypto or Gibberish, and this section sequentially presents 
@@ -551,9 +553,9 @@ via some arbitrary mask procedures, denoted by $M_k$. The
 "hardness" of the particular mask is denoted by $k$, such 
 that $k$ is inversely proportional to this variable:
 $1 > 2 > 3$. "Hardness", in computational complexity, 
-refers to the expense of resources required to complete 
-the calculation. So, $M_1$ is more complex than $M_2$ for 
-a third-party to process. 
+refers to the expense of resources required to accurately 
+complete the calculation. So, $M_1$ is more complex than 
+$M_2$ for a third-party to process. 
 
 | $dec_j=1$ | $M_1$ | $M_2$ | $M_3$ |
 | --------- | ----- | ----- | ----- |
@@ -595,11 +597,12 @@ which mask to use. $M_1$ provides the greatest security
 in transmission, that is, the lowest probability that 
 a third-party (not Agent A or B) will able to possess 
 full knowledge of. Junction 1 is a min-max decision 
-problem. Mask $M_1$ is the dominated choice of mask, 
-with respect to two-agent (A and B) privatization.
-This decision problem could be further complicated 
+problem. The information $I_j$ with the lowest corresponding 
+$c_0$ score is the dominated choice. Mask $M_1$ is the 
+dominated choice of mask, with respect to two-agent (A and B) 
+privatization. This decision problem could be further complicated 
 by raising the question on the magnitude of privatization
 desired by Agent B. Agent B could very well not care 
-about maintaining "perfect secrecy", and choose one of 
+about maintaining "perfect secrecy", and chooses one of 
 the masks in $\{M_2,M_3\}$ so that some other arbitrary 
 agent outside of $\{A,B,C,D\}$ can knowledgeably interfere.
