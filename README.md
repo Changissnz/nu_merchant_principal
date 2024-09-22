@@ -492,4 +492,12 @@ as a game before this game, there is required a kind of
 relentless dedication (including the security) to acquiring 
 the skills and resources that then concentrates these 
 attributes into the moveset, the starting possible 
-choices available to Agent A. 
+choices available to Agent A. For clarification, the 
+likeness in these predecessor games to the Game of Chicken, 
+with the aims of achieving the position of Agent A, rests
+on the "security" in the relentless dedication. If Agents 
+C and D are to compete, in forms direct or otherwise, to 
+be Agent A instead of B in Game of Varying Coercion, then
+they are to attempt to appear as doves in particular contexts.
+Playing as the dove helps avoid direct confrontation with 
+obstacles to their objective of becoming Agent A.
