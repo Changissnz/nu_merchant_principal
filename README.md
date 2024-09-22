@@ -374,7 +374,7 @@ illustration.
 | Silent Trigger | 10,1 | 10,-100 |
 | Brute's Force | -1,0 | 5,-50 |
 
-#### GVC1; Game of Varying Coercion @ timestamp 1; (2 x 2).
+**GVC1:** Game of Varying Coercion @ timestamp 1; (2 x 2).
 
 Agent A (row-wise) has the clear upper hand, in terms of
 cost as quantified by this table. Agent B is put into a
@@ -407,7 +407,7 @@ by Table ST1.
 | Bull's Eye | -3,-12 | -1000,-50 |
 | Missed Mark | -30,-100 | -1200,-1000 |
 
-#### ST1; Costs to Resources by Silent Trigger; (2 x 2).
+**ST1:** Costs to Resources by Silent Trigger; (2 x 2).
 
 There are two possibilities for the actor behind Silent 
 Trigger, labeled by the rows. The infrastructural costs, 
@@ -439,7 +439,7 @@ illustrated below.
 | Mix Brute's Force with Silent Trigger | 2000,-50 | 1000,500 | 2000,-300
 | Silent Trigger | 0,400 | 0,0 | 4000,-200
 
-#### BFAM; Combative Gains (Opponent's Pay) in the Aftermath of Initial Brute's Force; (3 x 3).
+**BFAM:** Combative Gains (Opponent's Pay) in the Aftermath of Initial Brute's Force; (3 x 3).
 
 Table BFAM gives numbers that still predominantly benefit Agent A.
 But these numbers are based only the starting states of the agents, 
@@ -471,7 +471,7 @@ Pacified Varying Coercion.
 | Pacified Silent Trigger | 100,100 | 0,0 | 1000,0 |
 | Pacified Brute's Force | -1000,0 | -100,500 | 1000,0 |
 
-#### GPVC1; Game of Pacified Varying Coercion @ timestamp 1; (2 X 3).
+**GPVC1:** Game of Pacified Varying Coercion @ timestamp 1; (2 X 3).
 
 There is the question of the degree of choice 
 revolving around the hands (of the agents and third-parties) 
@@ -501,3 +501,105 @@ be Agent A instead of B in Game of Varying Coercion, then
 they are to attempt to appear as doves in particular contexts.
 Playing as the dove helps avoid direct confrontation with 
 obstacles to their objective of becoming Agent A.
+
+## Security's Price of Choice-Communication
+
+There is a lot to be said,written, or however else 
+communicated on the "power of language", specifically its 
+broad role in retentive and transformative processes. 
+There is a universal desire amongst sentient beings to 
+privatize (form and uphold attributes of secrecy) 
+communication to their personally desired degrees. 
+Unwanted members, such as those that would oppose the 
+communication or would be advantaged as antagonists to 
+know said communication, are the subjects that privatization 
+efforts seek to exclude. In this game, deemed the Game 
+of Crypto or Gibberish, communication does not take 
+place simply between two distinct beings. There are 
+calculations and layers involved, manifesting themselves 
+as functional judgments and tiered structures (geometric 
+spaces,networks,et cetera). 
+
+There are four agents in this game that consists of 
+more than one cost table.
+- Agent A: the interpreter of the communication.
+- Agent B: the source and messenger of the communication.
+- Agent C: correspondent to Agent A, otherwise known as a sub-agent of A; provides methodologies,tips, and hints derived from their observation of Agent B. Such observation may require insider knowledge.
+- Agent D: the follow-up actor to the interpretation by Agent A of Agent B's communication.
+
+Three primary decision junctions exist in the Game of 
+Crypto or Gibberish, and this section sequentially presents 
+explanation on them. 
+
+Agent B has a question Q to provide an answer to. It 
+knows that this answer, formatted according to some 
+specification, will be received by Agent A. There are 
+three possible choices for answers. 
+- $I_1$: completely true in the case of Q being a fact-based query, otherwise completely genuine for Q that is a subjective-based query.
+- $I_2$: trivial, sarcastic, ironic statement.
+- $I_3$: completely fallacious or disingenious statement.
+
+There are also three accomodating objective functions 
+for Agent B, that ranks the choices for $I_j$ by ordinality. 
+- $OBJ_1: I_1 > I_2 > I_3$,
+- $OBJ_2: I_2 > I_1 > I_3$,
+- $OBJ_3: I_3 > I_2 > I_1$.
+
+The first junction is one decision by Agent B to format
+its message into a secure format, such as digital encryption
+via some arbitrary mask procedures, denoted by $M_k$. The 
+"hardness" of the particular mask is denoted by $k$, such 
+that $k$ is inversely proportional to this variable:
+$1 > 2 > 3$. "Hardness", in computational complexity, 
+refers to the expense of resources required to complete 
+the calculation. So, $M_1$ is more complex than $M_2$ for 
+a third-party to process. 
+
+| $dec_j=1$ | $M_1$ | $M_2$ | $M_3$ |
+| --------- | ----- | ----- | ----- |
+| $I_1$ | $OBJ_i(I_1)$,3 | $OBJ_i(I_1)$,2 | $OBJ_i(I_1)$,1 |
+| $I_2$ | $OBJ_i(I_2)$,3 | $OBJ_i(I_2)$,2 | $OBJ_i(I_2)$,1 |
+| $I_3$ | $OBJ_i(I_3)$,3 | $OBJ_i(I_3)$,2 | $OBJ_i(I_3)$,1 |
+
+**GCG1:** Game of Crypto or Gibberish @ decision junction 1; (3 X 3).
+
+For each cost-value pair $(c_0,c_1)$ in the table above, 
+$c_0$ denotes the expense by objective $OBJ_i$ in sending 
+information $I_j$ to Agent A, and $c_1$ denotes the price of 
+using mask $M_k$. 
+
+These two tables below are exemplifications of the objective
+being $OBJ_1$ and $OBJ_2$, respectively.
+
+| $dec_j=1$ | $M_1$ | $M_2$ | $M_3$ |
+| --------- | ----- | ----- | ----- |
+| $I_1$ | 0,3 | 0,2 | 0,1 |
+| $I_2$ | 1,3 | 1,2 | 1,1 |
+| $I_3$ | 2,3 | 2,2 | 2,1 |
+
+**GCGO1:** Table GCG1 by $OBJ_1$; (3 X 3).
+
+| $dec_j=1$ | $M_1$ | $M_2$ | $M_3$ |
+| --------- | ----- | ----- | ----- |
+| $I_1$ | 1,3 | 1,2 | 1,1 |
+| $I_2$ | 0,3 | 0,2 | 0,1 |
+| $I_3$ | 2,3 | 2,2 | 2,1 |
+
+**GCG02:** Table GCG1 by $OBJ_2$; (3 X 3).
+
+Lower expenses in objectives are preferred, for costs 
+incurred upon the objective promote the failure of Agent B.
+The direct association, between the value $c_1$ and the 
+strength of the mask, is used by Agent B to decide on 
+which mask to use. $M_1$ provides the greatest security
+in transmission, that is, the lowest probability that 
+a third-party (not Agent A or B) will able to possess 
+full knowledge of. Junction 1 is a min-max decision 
+problem. Mask $M_1$ is the dominated choice of mask, 
+with respect to two-agent (A and B) privatization.
+This decision problem could be further complicated 
+by raising the question on the magnitude of privatization
+desired by Agent B. Agent B could very well not care 
+about maintaining "perfect secrecy", and choose one of 
+the masks in $\{M_2,M_3\}$ so that some other arbitrary 
+agent outside of $\{A,B,C,D\}$ can knowledgeably interfere.
