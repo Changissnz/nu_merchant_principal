@@ -534,7 +534,7 @@ Crypto or Gibberish, and this section sequentially presents
 explanation on them. 
 
 Agent B has a question Q to provide an answer to. They 
-knows that this answer, formatted according to some 
+know that this answer, formatted according to some 
 specification, will be received by Agent A. There are 
 three possible choices for answers. 
 - $I_1$: completely true in the case of Q being a fact-based query, otherwise completely genuine for Q that is a subjective-based query.
