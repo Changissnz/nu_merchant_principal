@@ -524,8 +524,9 @@ There are four agents in this game that consists of
 more than one cost table.
 - Agent A: the interpreter of the communication.
 - Agent B: the source and messenger of the communication.
-- Agent C: correspondent to Agent A, otherwise known as a sub-agent of A; provides methodologies,tips, and hints derived from their observation of Agent B. Such observation may require positioning for insider knowledge.
+- Agent C: correspondent to Agent A, otherwise known as a sub-agent of A; they provide methodologies,tips, and hints derived from their observation of Agent B. Such observation may require positioning for insider knowledge.
 - Agent D: the follow-up actor to the interpretation by Agent A of Agent B's communication.
+
 Whenever Agent A is mentioned, assume that Agent C is 
 also included due to their status as a sub-agent to Agent A.
 
@@ -542,7 +543,7 @@ three possible choices for answers.
 - $I_3$: completely fallacious or disingenious statement.
 
 There are also three accomodating objective functions 
-for Agent B, that ranks the choices for $I_j$ by ordinality. 
+for Agent B that ranks the choices for $I_j$ by ordinality. 
 - $OBJ_1: I_1 > I_2 > I_3$,
 - $OBJ_2: I_2 > I_1 > I_3$,
 - $OBJ_3: I_3 > I_2 > I_1$.
@@ -566,7 +567,7 @@ $M_2$ for a third-party to process.
 **GCG1:** Game of Crypto or Gibberish @ decision junction 1; (3 X 3).
 
 For each cost-value pair $(c_0,c_1)$ in the table above, 
-$c_0$ denotes the expense by objective $OBJ_i$ in sending 
+$c_0$ denotes the expense on objective $OBJ_i$ in sending 
 information $I_j$ to Agent A, and $c_1$ denotes the price of 
 using mask $M_k$. 
 
@@ -604,8 +605,8 @@ to two-agent (A and B) privatization. This decision problem
 could be further complicated by raising the question on 
 the magnitude of privatization desired by Agent B. Agent 
 B could very well not care about maintaining "perfect 
-secrecy", and chooses one of the masks in $\{M_2,M_3\}$ 
-so that some other arbitrary agent outside of $\{A,B,C,D\}$ 
+secrecy", and chooses one of the masks in ${M_2,M_3}$ 
+so that some other arbitrary agent outside of ${A,B,C,D}$ 
 can knowledgeably interfere.
 
 Now onto the second decision junction, with specific focus 
@@ -639,14 +640,14 @@ capability to decrypt the message $M_?(I_j)$, then they
 encourage conditions that grant Agent A (through themself 
 or their correspondent Agent C) the knowledge of either 
 the actual (inarguable) mask $M_?$ or some combination
-of the masks $\{M_1,M_2,M_3\}$. The numbers in this 
+of the masks ${M_1,M_2,M_3}$. The numbers in this 
 cost table mean very little, in terms of deciding on the 
 best out of the four choices, because the aims of Agent
-A is to derive one of $\{I_1,I_2,I_3\}$ from $M_?(I_j)$.
+A is to derive one of ${I_1,I_2,I_3}$ from $M_?(I_j)$.
 Agent A, for their serious intents and purposes, would 
 only be interested in $I_1$, possibly $I_2$ if $I_2$ 
 sheds some inkling (decreases the breadth of possibilities) 
-on $I_1$. If $I_j$ in table GCGT2 is one of $\{I_2,I_3\}$,
+on $I_1$. If $I_j$ in table GCGT2 is one of ${I_2,I_3}$,
 then Agent A could use a null decryptor $D_{null}$ that
 produces no legible information. Assume that in this 
 game, having full knowledge of a mask $M_i$ naturally 
@@ -658,7 +659,7 @@ put precise and greater effort in ascertaining $M_?$.
 Agent A would not know that $I_1$ is the best option 
 if decision junction 1 is carefully implemented by 
 Agent B in a way that uniformly splits believability 
-between the members of $\{I_1,I_2,I_3\}$, as the 
+between the members of ${I_1,I_2,I_3}$, as the 
 answer to question Q. Then Agent A, upon their belief 
 that $M_?(I_j)$ is pertinent, advances ahead to 
 attempting to use the correct de-masker for the 
@@ -674,7 +675,7 @@ Cost table GCGT2 could be further complicated
 if Agent B were to, instead of selecting only 
 one $I_j$ by their objective $OBJ_i$, instead sends 
 some combinational set of size greater than 1 from 
-$\{I_1,I_2,I_3\}$ to Agent A. 
+${I_1,I_2,I_3}$ to Agent A. 
 
 | $dec_t=2$ | $D_1$ | $D_2$ | $D_3$ | $D_{null}$ |
 | --------- | ----- | ----- | ----- | ---------- |
