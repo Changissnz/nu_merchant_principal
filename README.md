@@ -628,6 +628,7 @@ cost table that accomodates the second decision junction.
 | $dec_t=2$ | $D_1$ | $D_2$ | $D_3$ | $D_{null}$ |
 | --------- | ----- | ----- | ----- | ---------- |
 | $M_?(I_j)$ | 1,3 | 1,2 | 1,1 | 1,0 | 
+
 **GCGT2:** Decision junction 2 for Agent A with C; (1 X 4).
 
 The table GCGT2 pre-supposes that Agent A has been 
