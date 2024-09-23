@@ -595,17 +595,18 @@ The direct association, between the value $c_1$ and the
 strength of the mask, is used by Agent B to decide on 
 which mask to use. $M_1$ provides the greatest security
 in transmission, that is, the lowest probability that 
-a third-party (not Agent A or B) will able to possess 
-full knowledge of. Junction 1 is a min-max decision 
-problem. The information $I_j$ with the lowest corresponding 
-$c_0$ score is the dominated choice. Mask $M_1$ is the 
-dominated choice of mask, with respect to two-agent (A and B) 
-privatization. This decision problem could be further complicated 
-by raising the question on the magnitude of privatization
-desired by Agent B. Agent B could very well not care 
-about maintaining "perfect secrecy", and chooses one of 
-the masks in $\{M_2,M_3\}$ so that some other arbitrary 
-agent outside of $\{A,B,C,D\}$ can knowledgeably interfere.
+a third-party (those that Agent A has not shared with) 
+will able to possess full knowledge of. Junction 1 is a 
+min-max decision problem. The information $I_j$ with the 
+lowest corresponding $c_0$ score is the dominated choice. 
+Mask $M_1$ is the dominated choice of mask, with respect 
+to two-agent (A and B) privatization. This decision problem 
+could be further complicated by raising the question on 
+the magnitude of privatization desired by Agent B. Agent 
+B could very well not care about maintaining "perfect 
+secrecy", and chooses one of the masks in $\{M_2,M_3\}$ 
+so that some other arbitrary agent outside of $\{A,B,C,D\}$ 
+can knowledgeably interfere.
 
 Now onto the second decision junction, with specific focus 
 on Agents A and C. Correspondent Agent C's responsibility 
@@ -615,13 +616,13 @@ objective with respect to $I_j$. While gathering information
 on the mask is an empirical task, meaning the knowledge 
 gathered on its form and parameters can be judged on a 
 continuum spanning from absolutely false to absolutely 
-true (but the question remains as to when the judgment 
-can take place remains), prediction of Agent B's objective 
+true (but the question remains on when the judgment 
+can take place), prediction of Agent B's objective 
 is not as clearly defined, in great part because Agent B 
 could very well change its objective a split instance 
-before for a future unanticipated by Agents A or C. 
-Prediction of Agent B's objective is clearly a 
-probabilistic problem, with some reasonable solution 
+before for a future decision unanticipated by Agents A 
+or C. Prediction of Agent B's objective is clearly 
+a probabilistic problem, with some reasonable solution 
 catered to their behaviorial leanings. Below is a possible
 cost table that accomodates the second decision junction.
 
