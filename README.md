@@ -524,7 +524,7 @@ There are four agents in this game that consists of
 more than one cost table.
 - Agent A: the interpreter of the communication.
 - Agent B: the source and messenger of the communication.
-- Agent C: correspondent to Agent A, otherwise known as a sub-agent of A; provides methodologies,tips, and hints derived from their observation of Agent B. Such observation may require insider knowledge.
+- Agent C: correspondent to Agent A, otherwise known as a sub-agent of A; provides methodologies,tips, and hints derived from their observation of Agent B. Such observation may require positioning for insider knowledge.
 - Agent D: the follow-up actor to the interpretation by Agent A of Agent B's communication.
 Whenever Agent A is mentioned, assume that Agent C is 
 also included due to its status as a sub-agent to Agent A.
@@ -664,7 +664,7 @@ attempting to use the correct de-masker for the
 result $I_j$.
 
 On the matter of capabilities, if masks $M_1,M_2$ 
-and $M_3$ were somehow connected in their calculative 
+and $M_3$ are somehow connected in their calculative 
 procedures, then Agent A's ascertainment of $M_1$ 
 naturally lends way to it also having the capability 
 to ascertain $M_2$ and $M_3$.
