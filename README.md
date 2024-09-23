@@ -526,8 +526,8 @@ more than one cost table.
 - Agent B: the source and messenger of the communication.
 - Agent C: correspondent to Agent A, otherwise known as a sub-agent of A; provides methodologies,tips, and hints derived from their observation of Agent B. Such observation may require insider knowledge.
 - Agent D: the follow-up actor to the interpretation by Agent A of Agent B's communication.
-Whenever Agent A is mentioned, assume that Agent C is also included
-due to its status as a sub-agent to Agent A.
+Whenever Agent A is mentioned, assume that Agent C is 
+also included due to its status as a sub-agent to Agent A.
 
 Three primary decision junctions exist in the Game of 
 Crypto or Gibberish, and this section sequentially presents 
@@ -557,7 +557,7 @@ refers to the expense of resources required to accurately
 complete the calculation. So, $M_1$ is more complex than 
 $M_2$ for a third-party to process. 
 
-| $dec_j=1$ | $M_1$ | $M_2$ | $M_3$ |
+| $dec_t=1$ | $M_1$ | $M_2$ | $M_3$ |
 | --------- | ----- | ----- | ----- |
 | $I_1$ | $OBJ_i(I_1)$,3 | $OBJ_i(I_1)$,2 | $OBJ_i(I_1)$,1 |
 | $I_2$ | $OBJ_i(I_2)$,3 | $OBJ_i(I_2)$,2 | $OBJ_i(I_2)$,1 |
@@ -573,7 +573,7 @@ using mask $M_k$.
 These two tables below are exemplifications of the objective
 being $OBJ_1$ and $OBJ_2$, respectively.
 
-| $dec_j=1$ | $M_1$ | $M_2$ | $M_3$ |
+| $dec_t=1$ | $M_1$ | $M_2$ | $M_3$ |
 | --------- | ----- | ----- | ----- |
 | $I_1$ | 0,3 | 0,2 | 0,1 |
 | $I_2$ | 1,3 | 1,2 | 1,1 |
@@ -581,7 +581,7 @@ being $OBJ_1$ and $OBJ_2$, respectively.
 
 **GCGO1:** Table GCG1 by $OBJ_1$; (3 X 3).
 
-| $dec_j=1$ | $M_1$ | $M_2$ | $M_3$ |
+| $dec_t=1$ | $M_1$ | $M_2$ | $M_3$ |
 | --------- | ----- | ----- | ----- |
 | $I_1$ | 1,3 | 1,2 | 1,1 |
 | $I_2$ | 0,3 | 0,2 | 0,1 |
@@ -606,3 +606,97 @@ desired by Agent B. Agent B could very well not care
 about maintaining "perfect secrecy", and chooses one of 
 the masks in $\{M_2,M_3\}$ so that some other arbitrary 
 agent outside of $\{A,B,C,D\}$ can knowledgeably interfere.
+
+Now onto the second decision junction, with specific focus 
+on Agents A and C. Correspondent Agent C's responsibility 
+was to "observe" Agent B for information regarding the 
+important attribute of the mask $M_k$ used as well as their
+objective with respect to $I_j$. While gathering information 
+on the mask is an empirical task, meaning the knowledge 
+gathered on its form and parameters can be judged on a 
+continuum spanning from absolutely false to absolutely 
+true (but the question remains as to when the judgment 
+can take place remains), prediction of Agent B's objective 
+is not as clearly defined, in great part because Agent B 
+could very well change its objective a split instance 
+before for a future unanticipated by Agents A or C. 
+Prediction of Agent B's objective is clearly a 
+probabilistic problem, with some reasonable solution 
+catered to their behaviorial leanings. Below is a possible
+cost table that accomodates the second decision junction.
+
+| $dec_t=2$ | $D_1$ | $D_2$ | $D_3$ | $D_{null}$ |
+| --------- | ----- | ----- | ----- | ---------- |
+| $M_?(I_j)$ | 1,3 | 1,2 | 1,1 | 1,0 | 
+**GCGT2:** Decision junction 2 for Agent A with C; (1 X 4).
+
+The table GCGT2 pre-supposes that Agent A has been 
+able to ascertain the three available masks, as presented
+in table GCG1. If Agent B wants Agent A to have the 
+capability to decrypt the message $M_?(I_j)$, then it 
+encourages conditions that grant Agent A (through itself 
+or its correspondent Agent C) the knowledge of either 
+the actual (inarguable) mask $M_?$ or some combination
+of the masks $\{M_1,M_2,M_3\}$. The numbers in this 
+cost table mean very little, in terms of deciding on the 
+best out of the four choices, because the aims of Agent
+A is to derive one of $\{I_1,I_2,I_3\}$ from $M_?(I_j)$.
+Agent A, for its serious intents and purposes, would 
+only be interested in $I_1$, possibly $I_2$ if $I_2$ 
+sheds some inkling (decreases the breadth of possibilities) 
+on $I_1$. If $I_j$ in table GCGT2 is one of $\{I_2,I_3\}$,
+then Agent A could use a null decryptor $D_{null}$ that
+produces no legible information. Assume that in this 
+game, having full knowledge of a mask $M_i$ naturally 
+lends way to determining the corresponding de-masker 
+$D_i$. If Agent B simply wants for Agent A to receive 
+$M_?(I_j)$ without providing it any direct or indirect 
+knowledge on the mask used, then Agent C would have to 
+put precise and greater effort in ascertaining $M_?$. 
+Agent A would not know that $I_1$ is the best option 
+if decision junction 1 is carefully implemented by 
+Agent B in a way that uniformly splits believability 
+between the members of $\{I_1,I_2,I_3\}$, as the 
+answer to question Q. Then Agent A, upon its belief 
+that $M_?(I_j)$ is pertinent, advances ahead to 
+attempting to use the correct de-masker for the 
+result $I_j$.
+
+On the matter of capabilities, if masks $M_1,M_2$ 
+and $M_3$ were somehow connected in their calculative 
+procedures, then Agent A's ascertainment of $M_1$ 
+naturally lends way to it also having the capability 
+to ascertain $M_2$ and $M_3$.
+
+Cost table GCGT2 could be further complicated 
+if Agent B were to, instead of selecting only 
+one $I_j$ by its objective $OBJ_i$, instead sends 
+some combinational set of size greater than 1 from 
+$\{I_1,I_2,I_3\}$ to Agent A. 
+
+| $dec_t=2$ | $D_1$ | $D_2$ | $D_3$ | $D_{null}$ |
+| --------- | ----- | ----- | ----- | ---------- |
+| $M_?(I_1)$ | 1,3 | 1,2 | 1,1 | 1,0 | 
+| $M_?(I_2)$ | 1,3 | 1,2 | 1,1 | 1,0 | 
+| $M_?(I_3)$ | 1,3 | 1,2 | 1,1 | 1,0 | 
+
+**GCGT22:** Decision junction 2 for Agent A with C in the event of plural information $I_j$; (3 X 4).
+
+The extent of labor required of Agent C, as well 
+as the degree of its skills in information acquisition,
+in determining the credibility of $I_j$ is proportional 
+to the design, objective, and performance of Agent
+B's transmission.
+
+Moving onto decision junction 3, it is now Agent D's
+turn to act. Agent D is given the information 
+$W=D_?(M_?(I_j))$. It must decide on how to act on 
+$W$. It could just rest its decision on the judgments 
+from correspondent Agent C of A, and move on ahead
+to acting by its prescribed procedure.
+
+| $dec_t=3$ | $A_{pro}$ | $A_{contra}$ | $A_{null}$ |
+| --------- | --------- | ------------ | ---------- |
+| $W$ | ?,? | ?,? | ?,? |
+
+**GCGT3:** Decision junction 3 for Agent D, the follow-up actor to the plain information received from Agent A; (1 X 3).
