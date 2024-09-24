@@ -823,10 +823,16 @@ that is a zero-sum dynamic. If maintenance was the
 absolute peak of potential for an entity, then there 
 can be no question on what further magnitudes they can 
 accomplish, relegated to the confines of their peak 
-potential action of maintenance. 
+potential action of maintenance. Destruction consists
+of related but not entirely connected phenomena to 
+maintenance. A casual reminder on destruction is that 
+it is enabled by specific conditions stemming from 
+over-maintenance (excess magnitude in pro-activity) and 
+lack of maintenance (negligible activity). Destruction is 
+not the focus of this section.  
 
-This section takes a look at maintenance with the aid 
-of a construct called the Game of Tree-Trimming. The 
+A construct called the Game of Tree-Trimming is used 
+to aid in quantitatively abstracting maintenance. The 
 Game of Tree-Trimming is one, similar to the previously 
 discussed Game of Crypto or Gibberish, with multiple 
 cost tables in consideration. Threshold-activation, a 
