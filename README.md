@@ -755,7 +755,7 @@ a precise fit.
 
 Function $\mathrel{F}(A,B,D)$ is used to determine the specific 
 two-value cost for each action $A_{pos},A_{contra},A_{null}$ 
-that D that take:
+that Agent D can take:
 $\mathrel{F}(A,B,D)(A_{?}) \rightarrow (c_0,c_1).$
 The values $c_0$ and $c_1$ have opposite signage to one another. 
 
@@ -794,7 +794,7 @@ approaches.
   $c_0+c_1$ from valuation functions $V_{A}$ through 
   $V_{D}$. 
 - Select $A_{?}$ based on the least variance of 
-  $c_0+c_1$ from valuation functions $V_{A}$ through 
+  $c_0+c_1$ between valuation functions $V_{A}$ through 
   $V_{D}$.
 
 In the first approach, there is the belief that the
