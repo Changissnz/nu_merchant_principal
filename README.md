@@ -807,9 +807,8 @@ D is superior.
 
 The Game of Crypto or Gibberish has the distinction of 
 possessing an innate and constant opaque nature to guard
-understanding from the perspectives of Agents A-D and 
-third-party observers. Exemplifications of the Game of Crypto 
-or Gibberish can be revealed towards full understanding, 
-but perhaps the revelation can take place only after 
-the actualization of events during timespans displeasing 
-for the impatient or those that cannot afford the time. 
+against convenient understanding. Exemplifications of the 
+Game of Crypto or Gibberish can be revealed towards full 
+understanding, but perhaps the revelation can take place 
+only after the actualization of events during timespans 
+displeasing for the impatient or those that cannot afford the time. 
