@@ -786,7 +786,7 @@ interpretation of B's message).
 **GCGSINGLE2** Single-table expression (route two) of the outcomes possible to the involved agents in Game of Crypto or Gibberish; (1 x 3).
 
 The problem that cost table GCGSINGLE2 asks to solve 
-is to determine the action $A_{?}$ that Agent D should 
+is to determine the action $A_{?}$ that Agent D would 
 take to yield the "most benefit" to itself and 
 Agents A,B. There are two standard mathematical 
 approaches. 
@@ -811,4 +811,5 @@ against convenient understanding. Exemplifications of the
 Game of Crypto or Gibberish can be revealed towards full 
 understanding, but perhaps the revelation can take place 
 only after the actualization of events during timespans 
-displeasing for the impatient or those that cannot afford the time. 
+displeasing for the impatient or those that cannot afford 
+the time. 
