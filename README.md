@@ -702,4 +702,114 @@ to acting by their prescribed procedure.
 | --------- | --------- | ------------ | ---------- |
 | $W$ | ?,? | ?,? | ?,? |
 
-**GCGT3:** Decision junction 3 for Agent D, the follow-up actor to the plain information received from Agent A; (1 X 3).
+**GCGT3:** Decision junction 3 for Agent D, the follow-up actor 
+to the plain information received from Agent A; (1 X 3). $A_{?}$
+is a possible classification of action to take. 
+
+The Game of Crypto or Gossip has a few noteworthy
+attributes that if, left unmentioned explicitly, 
+may lead to alternative understanding. Every junction 
+point is a decision to be taken by exactly one agent. 
+Each decision may be comprised of more than one choice, 
+a choice as an $(n,m)$'th element in the appropriate 
+cost table. Given the abstract of this game, there 
+cannot exist a deterministic function that predicts 
+what decisions are to be taken at every one of these 
+junction points. With accurate experimental data 
+taken pertaining to some group of agents that 
+collectively play the roles of Agents A through D, 
+probabilistic methodologies can yield decision 
+functions with predictive accuracy on the outcome 
+of the game greater than that offered on the basis 
+of "random" chance. In the Game of Crypto or 
+Gossip, the three cost tables, each one for one 
+decision junction, can be amalgamated into a 
+single cost table. This single cost table is 
+an action-oriented cost table. The outcome of 
+the action that D is to take is the primary 
+consideration in cost assignment, as a direct 
+determinant for decision.
+
+Relations between Agents A through D are an 
+important aspect in this reduction to a single 
+cost table, that can in turn be represented 
+in at least two ways.
+
+In the first route, there are three relations, 
+each with their own particular set of variables 
+and operators.
+- $\mathrel{R}(A,B)$: Connected to the $OBJ_i$ selected by B in its message,
+  the particular message communicated by B, and the decision by $A$ at decision junction 2.
+- $\mathrel{R}(A,D)$: Connected to the preference of A to want for D to 
+  - follow its preference on what action D should take,
+  - allow for D to take the most ideal action based on A's transmitted interpretation of B's
+    message.  
+- $\mathrel{R}(B,D)$: Connected to the $OBJ_i$ selected by B, the action that B desires for 
+  D to take, and the action that best suits the interests of D. 
+
+The function $\mathrel{F}(A,B,D)$ is formulated as
+$\mathrel{F}(A,B,D)= \mathrel{R}(A,B) \times_0 \mathrel{R}(A,D) \times_1 \mathrel{R}(B,D) \times_2 \epsilon.$ The symbol $\times_?$ is an arbitrary 
+commutative operator, and any two $\times_i,\times_j$ do not have 
+to equal each other. The error term $\epsilon$ allows for 
+a precise fit. 
+
+Function $\mathrel{F}(A,B,D)$ is used to determine the specific 
+two-value cost for each action $A_{pos},A_{contra},A_{null}$ 
+that D that take:
+$\mathrel{F}(A,B,D)(A_{?}) \rightarrow (c_0,c_1).$
+The values $c_0$ and $c_1$ have opposite signage to one another. 
+
+The single cost table, by this first route of expression, is 
+
+| ~~~~~~~~~ | $A_{pro}$ | $A_{contra}$ | $A_{null}$ |
+| --------- | --------- | ------------ | ---------- |
+| $\{A,B,D\}$ | $\mathrel{F}(A,B,D)(A_{pro})$ | $\mathrel{F}(A,B,D)(A_{contra})$ | $\mathrel{F}(A,B,D)(A_{null})$ |
+
+**GCGSINGLE** Single-table expression (route one) of the outcomes possible to the involved agents in Game of Crypto or Gibberish; (1 x 3).
+
+And the best action to take, when the cost values $(c_0,c_1)$
+are oriented for the relation of greater as better, is
+the one with the maximum value $c_0+c_1$ from function 
+$\mathrel{F}(A,B,D)$. 
+
+For the second route, every agent A,B,D has a corresponding 
+valuation function $V_{?}$ that produces a cost-value pair $(c_0,c_1)$ 
+on the outcome from the action taken by D (after its receipt of A's 
+interpretation of B's message).
+
+| ~ | $A_{pro}$ | $A_{contra}$ | $A_{null}$ |
+| - | --------- | ------------ | ---------- |
+| A | $V_{A}(A_{pro})$  | $V_{A}(A_{contra})$ | $V_{A}(A_{null})$ |
+| B | $V_{B}(A_{pro})$ | $V_{B}(A_{contra})$ | $V_{B}(A_{null})$ |
+| D | $V_{D}(A_{pro})$ | $V_{D}(A_{contra})$ | $V_{D}(A_{null})$ | 
+
+**GCGSINGLE2** Single-table expression (route two) of the outcomes possible to the involved agents in Game of Crypto or Gibberish; (1 x 3).
+
+The problem that cost table GCGSINGLE2 asks to solve 
+is to determine the action $A_{?}$ that Agent D should 
+take to yield the "most benefit" to itself and 
+Agents A,B. There are two standard mathematical 
+approaches. 
+- Select $A_{?}$ based on the greatest cumulative summation 
+  $c_0+c_1$ from valuation functions $V_{A}$ through 
+  $V_{D}$. 
+- Select $A_{?}$ based on the least variance of 
+  $c_0+c_1$ from valuation functions $V_{A}$ through 
+  $V_{D}$.
+
+In the first approach, there is the belief that the
+action with the greatest singular value produced from 
+the cumulative attributes and decisions of Agents A 
+through D is most beneficial. In the second approach, 
+there is the belief that the action with the most even 
+distribution of gains or losses between Agents A through 
+D is superior.
+
+The Game of Crypto or Gibberish has the distinction of 
+possessing an innate and constant opaque nature to guard
+understanding from the perspectives of Agents A-D and 
+third-party observers. Exemplifications of the Game of Crypto 
+or Gibberish can be revealed towards full understanding, 
+but perhaps the revelation can take place only after 
+the actualization of events during timespans displeasing 
+for the impatient or those that cannot afford the time. 
