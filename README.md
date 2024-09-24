@@ -706,7 +706,7 @@ to acting by their prescribed procedure.
 to the plain information received from Agent A; (1 X 3). $A_{?}$
 is a possible classification of action to take. 
 
-The Game of Crypto or Gossip has a few noteworthy
+The Game of Crypto or Gibberish has a few noteworthy
 attributes that if, left unmentioned explicitly, 
 may lead to alternative understanding. Every junction 
 point is a decision to be taken by exactly one agent. 
@@ -722,7 +722,7 @@ probabilistic methodologies can yield decision
 functions with predictive accuracy on the outcome 
 of the game greater than that offered on the basis 
 of "random" chance. In the Game of Crypto or 
-Gossip, the three cost tables, each one for one 
+Gibberish, the three cost tables, each one for one 
 decision junction, can be amalgamated into a 
 single cost table. This single cost table is 
 an action-oriented cost table. The outcome of 
