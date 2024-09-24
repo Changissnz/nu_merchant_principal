@@ -816,14 +816,14 @@ the time.
 
 ## Maintenance as Half-Measures of the Potential
 
-Maintenance is associated with the "constant", the 
-"equilibrium", and confusingly, some quality/ies 
-of the full picture belonging to a context that is 
-a zero-sum dynamic. If maintenance was the absolute
-peak of potential for an entity, then there can be 
-no question on what further magnitudes they can 
-accomplish, relegated to the confines of their 
-peak potential action of maintenance. 
+Maintenance is associated with aspiring towards the
+"constant", the "equilibrium", and confusingly, some 
+quality/ies of the full picture belonging to a context 
+that is a zero-sum dynamic. If maintenance was the 
+absolute peak of potential for an entity, then there 
+can be no question on what further magnitudes they can 
+accomplish, relegated to the confines of their peak 
+potential action of maintenance. 
 
 This section takes a look at maintenance with the aid 
 of a construct called the Game of Tree-Trimming. The 
