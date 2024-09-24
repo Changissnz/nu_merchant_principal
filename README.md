@@ -882,7 +882,7 @@ of its growth process is ascribed to the realm of "natural
 activity". The unidirectional source of influence for Agent 
 A's cutting actions is from Agent B's convolutional 
 decision-making process, that which involves contributions 
-from Agent Q. 
+from Agent C. 
 
 ![image info](./images/gtt_flow_diagram.PNG)
 
