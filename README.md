@@ -809,7 +809,29 @@ The Game of Crypto or Gibberish has the distinction of
 possessing an innate and constant opaque nature to guard
 against convenient understanding. Exemplifications of the 
 Game of Crypto or Gibberish can be revealed towards full 
-understanding, but perhaps the revelation can take place 
+understanding, but perhaps the revelation takes place 
 only after the actualization of events during timespans 
 displeasing for the impatient or those that cannot afford 
 the time. 
+
+## Maintenance as Half-Measures of the Potential
+
+Maintenance is associated with the "constant", the 
+"equilibrium", and confusingly, some quality/ies 
+of the full picture belonging to a context that is 
+a zero-sum dynamic. If maintenance was the absolute
+peak of potential for an entity, then there can be 
+no question on what further magnitudes they can 
+accomplish, relegated to the confines of their 
+peak potential action of maintenance. 
+
+This section takes a look at maintenance with the aid 
+of a construct called the Game of Tree-Trimming. The 
+Game of Tree-Trimming is one, similar to the previously 
+discussed Game of Crypto or Gibberish, with multiple 
+cost tables in consideration. Threshold-activation, a 
+quantitative condition that places demands on an actor 
+with respect to their achieving some objective for them 
+to move onto a different cycle or step, is an important 
+component of the Game of Tree-Trimming and accounts for
+the continuum belonging to the actor's potential. 
