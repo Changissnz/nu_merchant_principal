@@ -829,7 +829,9 @@ maintenance. A casual reminder on destruction is that
 it is enabled by specific conditions stemming from 
 over-maintenance (excess magnitude in pro-activity) and 
 lack of maintenance (negligible activity). Destruction is 
-not the focus of this section.  
+not the focus of this section, although phenomena 
+labeled as destructive has a contradicting relationship
+with the defined ideals of maintenance.   
 
 A construct called the Game of Tree-Trimming is used 
 to aid in quantitatively abstracting maintenance. The 
