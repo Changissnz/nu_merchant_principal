@@ -765,7 +765,7 @@ The single cost table, by this first route of expression, is
 | --------- | --------- | ------------ | ---------- |
 | $\{A,B,D\}$ | $\mathrel{F}(A,B,D)(A_{pro})$ | $\mathrel{F}(A,B,D)(A_{contra})$ | $\mathrel{F}(A,B,D)(A_{null})$ |
 
-**GCGSINGLE** Single-table expression (route one) of the outcomes possible to the involved agents in Game of Crypto or Gibberish; (1 x 3).
+**GCGSINGLE:** Single-table expression (route one) of the outcomes possible to the involved agents in Game of Crypto or Gibberish; (1 x 3).
 
 And the best action to take, when the cost values $(c_0,c_1)$
 are oriented for the relation of greater as better, is
@@ -783,7 +783,7 @@ interpretation of B's message).
 | B | $V_{B}(A_{pro})$ | $V_{B}(A_{contra})$ | $V_{B}(A_{null})$ |
 | D | $V_{D}(A_{pro})$ | $V_{D}(A_{contra})$ | $V_{D}(A_{null})$ | 
 
-**GCGSINGLE2** Single-table expression (route two) of the outcomes possible to the involved agents in Game of Crypto or Gibberish; (1 x 3).
+**GCGSINGLE2:** Single-table expression (route two) of the outcomes possible to the involved agents in Game of Crypto or Gibberish; (1 x 3).
 
 The problem that cost table GCGSINGLE2 asks to solve 
 is to determine the action $A_{?}$ that Agent D would 
@@ -825,8 +825,8 @@ can be no question on what further magnitudes they can
 accomplish, relegated to the confines of their peak 
 potential action of maintenance. Destruction consists
 of related but not entirely connected phenomena to 
-maintenance. A casual reminder on destruction is that 
-it is enabled by specific conditions stemming from 
+maintenance. A casual reminder on destruction is it 
+is enabled by specific conditions stemming from 
 over-maintenance (excess magnitude in pro-activity) and 
 lack of maintenance (negligible activity). Destruction is 
 not the focus of this section, although phenomena 
@@ -886,4 +886,4 @@ from Agent C.
 
 ![image info](./images/gtt_flow_diagram.PNG)
 
-**GTTD** Flow-diagram for Game of Tree-Trimming. 
+**GTTD:** Flow-diagram for Game of Tree-Trimming. 
