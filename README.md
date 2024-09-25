@@ -893,3 +893,93 @@ contributions from Agent C.
 
 **GTTD:** Flow-diagram for Game of Tree-Trimming. 
 
+Categories of threshold-activated functions, pertaining to 
+Agent A's actions, exist to fit the attributes of Agent T. 
+One category is for fruit $U$, another for the branches 
+and leaves, and the last for the root $R$.
+
+| branch | geometric measure |
+| --------- | ----- |
+| $B_0$ | $m_0$ | 
+| $B_1$ | $m_1$ |
+| $B_2$ | $m_2$ |
+| ... | ... |
+
+**TBR:** Two-column table of branches and their corresponding non-negative geometric measures.
+
+The threshold function for trimming branches is 
+$F_{branch}$, which outputs a (minimum,maximum)
+activation range, and is controlled by the 
+convolutional judgment of Agents B with C. 
+
+In terms of efficiency and uniformity, it would 
+make sense for $F_{branch}$ to produce activation
+ranges roughly equal to each other for each branch.
+However, in terms of aesthetics, each branch surely
+has a probability of being assigned an activation 
+range from $F_{branch}$ distinct from that of at least 
+one other branch. Recall that since a branch may 
+be finitely recursive, so that some branch $B_x$ 
+may be a subset of another branch $B_y$ in table TBR,
+then the most efficient cutting procedure for 
+Agent A to take based on $F_{branch}$ from Agent 
+B is to first determine which of the branches fit
+their respective ranges for cutting. For any connected
+set of branches,
+$B_x_1 \subset B_x_2 \subset \dots B_x_n$, 
+select the biggest branch $B_x_j$ that is judged by Agent B
+to need cutting, and cut it. This approach guarantees 
+the fewest number of cuts required. But there is one 
+issue not yet mentioned, and that is the regenerative
+potential of Agent T after these cuts are made. Suppose
+for each branch $B_x$ that fits the activation range
+to be cut, the cut by Agent A applied to its specific 
+geometry results in an end so dead that no regenerative 
+process from T can grow back $B_x$ to its former geometry
+and beyond.
+
+The threshold-activation function $F_{L,U}$ is similar
+to $F_{branch}$. But since branches are recursive structures,
+the methodology for selecting the fruits and leaves is 
+more straightforward. And $F_{L,U}$ produces more uniform 
+threshold-activation ranges than $F_{branch}$, on the 
+natural basis that all fruits and leaves from Agent T 
+are of a uniform nature respective to their categories.
+Cutting just the fruit and leaves of Agent T bears no 
+possibility for future dead ends. The fruit and leaves
+regenerate based on the volition of Agent T's root $R$.
+
+And the last threshold-activation function $F_{root}$ 
+is quite complicated to generalize. For Agent A to 
+cut the root $R$ of Agent T, if it really can, Agent 
+B would have to deem the act vital to its interests.
+Perhaps Agent B, through its convolutional thought 
+processes with Agent C, thinks that Agent T has 
+"outserved its purpose" to it. Its judgment may be 
+derived from the temporal accounting of poor yield
+belonging to Agent T, through the branches, fruits 
+and leaves cut. Perhaps Agent B has determined that 
+there is a better alternative to Agent T, such as 
+another replacement tree or no tree whatsoever.
+The function $F_{root}$ outputs a value of 1 (cut 
+it) or 0 (do not cut it). $F_{root}$ is to answer 
+the question of preferring source elimination
+over source control. 
+
+These three threshold-activation functions suffer 
+from the probable problem of coinciding contradiction
+in their outputs. For Agent B to judge, based on 
+its function $F_{l,u}$ to not cut a particular 
+leaf or fruit $f$, but for its function $F_{branch}$
+to label a branch $B$, holding $f$, to be cut 
+is an example of this contradiction. Similar 
+forms of contradiction exist with relations 
+involving $F_{root}$.
+
+As mentioned in the initial introduction of the 
+four agents in the Game of Tree-Trimming, Agent
+A's cutting power is undefined by default, but 
+a sane presupposition can be made that this 
+power it has is finite and non-static. An 
+opportune time for Agent A to cut some part of 
+Agent T may not come again.
