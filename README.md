@@ -876,13 +876,15 @@ such as environmental engineering that would affect Agent T's
 growth process. Maintenance as half-measures of the potential
 refers to A's cutting actions, and the maximum cutting power
 (potential) of A is measured by its capability to cut the 
-branches $B$ and the root $R$ of Agent T. A hierarchical 
-demand-flow is what the Game of Tree-Trimming relies on. Agent 
-T's one action of its growth process is ascribed to the realm 
-of "natural activity". The unidirectional source of influence 
-for Agent A's cutting actions is from Agent B's convolutional 
-decision-making process, that which involves contributions 
-from Agent C. 
+leaves $L$ and fruit $U$, branches $B$, and the root $R$ of 
+Agent T. 
+
+A hierarchical demand-flow is what the Game of Tree-Trimming 
+relies on. Agent T's one action of its growth process is 
+ascribed to the realm of "natural activity". The unidirectional 
+source of influence for Agent A's cutting actions is from Agent 
+B's convolutional decision-making process, that which involves 
+contributions from Agent C. 
 
 ![image info](./images/gtt_flow_diagram.PNG)
 
