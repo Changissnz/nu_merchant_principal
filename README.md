@@ -877,7 +877,10 @@ growth process. Maintenance as half-measures of the potential
 refers to A's cutting actions, and the maximum cutting power
 (potential) of A is measured by its capability to cut the 
 leaves $L$ and fruit $U$, branches $B$, and the root $R$ of 
-Agent T. 
+Agent T. There is a non-zero observable probability for any 
+branch $B$ to be a finitely recursive structure. A branch $B$ 
+may contain some arbitrary number of sub-branches, each still
+classified as a branch.
 
 A hierarchical demand-flow is what the Game of Tree-Trimming 
 relies on. Agent T's one action of its growth process is 
