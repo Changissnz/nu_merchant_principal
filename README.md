@@ -860,30 +860,31 @@ Tree-Trimming has four primary agents.
 - Agent A: in charge of modifying T via its only action
   of cutting. The magnitude of cutting power available to Agent
   A is left undefined by default.
-- Agent B: by its ordainment of perfect continual information 
+- Agent B: by its ordainment of continually perfect information 
   on Agent T, commands to Agent A its preference on how 
   Agent A should cut. 
 - Agent C: otherwise known as a third-party or unknown factor. Plays
   some role of advisor or ruler on Agent A's judgment of the appropriate
   command to Agent B. 
 
-One important constraint is placed on Agents B,A, and C on 
-their capabilities regarding treatment of Agent T. The growth 
+One important constraint is placed on the capabilities of Agents 
+B,A, and C with regards to treatment of Agent T. The growth 
 process of Agent T cannot be augmented by any Agents B,A, or C
 outside of A's cutting actions. The Game of Tree-Trimming is 
 an abstraction, and so does not include real-life considerations 
 such as environmental engineering that would affect Agent T's 
 growth process. Maintenance as half-measures of the potential
-refers to A's cutting actions, and the maximum cutting power 
-of A is measured by its capability to cut the branches $B$ 
-and the root $R$ of Agent T. A hierarchical demand-flow is 
-what the Game of Tree-Trimming relies on. Agent T's one action
-of its growth process is ascribed to the realm of "natural 
-activity". The unidirectional source of influence for Agent 
-A's cutting actions is from Agent B's convolutional 
+refers to A's cutting actions, and the maximum cutting power
+(potential) of A is measured by its capability to cut the 
+branches $B$ and the root $R$ of Agent T. A hierarchical 
+demand-flow is what the Game of Tree-Trimming relies on. Agent 
+T's one action of its growth process is ascribed to the realm 
+of "natural activity". The unidirectional source of influence 
+for Agent A's cutting actions is from Agent B's convolutional 
 decision-making process, that which involves contributions 
 from Agent C. 
 
 ![image info](./images/gtt_flow_diagram.PNG)
 
 **GTTD:** Flow-diagram for Game of Tree-Trimming. 
+
