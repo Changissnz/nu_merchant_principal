@@ -926,7 +926,7 @@ Agent A to take based on $F_{branch}$ from Agent
 B is to first determine which of the branches fit
 their respective ranges for cutting. For any connected
 set of branches,
-$B_x_1 \subset B_x_2 \subset \dots B_x_n$, 
+$B_{x_1} \subset B_{x_2} \subset \dots B_{x_n}$, 
 select the biggest branch $B_x_j$ that is judged by Agent B
 to need cutting, and cut it. This approach guarantees 
 the fewest number of cuts required. But there is one 
