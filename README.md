@@ -926,7 +926,7 @@ Agent A to take based on $F_{branch}$ from Agent
 B is to first determine which of the branches fit
 their respective ranges for cutting. For any connected
 set of branches,
-$B_{x_1} \subset B_{x_2} \subset \dots B_{x_n}$, 
+$B_{x_1} \subset B_{x_2} \subset \dots \subset B_{x_n}$, 
 select the biggest branch $B_{x_j}$ that is judged by Agent B
 to need cutting, and cut it. This approach guarantees 
 the fewest number of cuts required. But there is one 
@@ -957,7 +957,7 @@ Perhaps Agent B, through its convolutional thought
 processes with Agent C, thinks that Agent T has 
 "outserved its purpose" to it. Its judgment may be 
 derived from the temporal accounting of poor yield
-belonging to Agent T, through the branches, fruits 
+belonging to Agent T, through the branches, fruits, 
 and leaves cut. Perhaps Agent B has determined that 
 there is a better alternative to Agent T, such as 
 another replacement tree or no tree whatsoever.
