@@ -895,8 +895,8 @@ contributions from Agent C.
 
 Categories of threshold-activated functions, pertaining to 
 Agent A's actions, exist to fit the attributes of Agent T. 
-One category is for fruit $U$, another for the branches 
-and leaves, and the last for the root $R$.
+One category is for fruit and leaves, another for the 
+branches, and the last for the root $R$.
 
 | branch | geometric measure |
 | --------- | ----- |
