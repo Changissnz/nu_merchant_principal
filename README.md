@@ -969,7 +969,7 @@ over source control.
 These three threshold-activation functions suffer 
 from the probable problem of coinciding contradiction
 in their outputs. For Agent B to judge, based on 
-its function $F_{l,u}$ to not cut a particular 
+its function $F_{L,U}$ to not cut a particular 
 leaf or fruit $f$, but for its function $F_{branch}$
 to label a branch $B$, holding $f$, to be cut 
 is an example of this contradiction. Similar 
