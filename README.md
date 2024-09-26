@@ -1052,7 +1052,7 @@ in such a way that their state cannot improve via efforts
 for their interests. The lack of alignment, which could
 also include malignment, between the interests of at 
 least two entities fuels a nullification process that 
-breaks the expectations of all involved entities in 
+breaks the wanted outcomes of all involved entities in 
 the gridlocked group. A game called the Game of 
 Breaking Gridlock helps to illustrate some of the 
 activity that may occur in gridlocked groups, in efforts
