@@ -1095,4 +1095,5 @@ to the specificities involved in practical affairs.
 ![image info](./images/gbg_diagram1.PNG)
 
 **GBGD1** Graphical illustration of group D's connectivity. In mathematical lexicon, this 
-group is a complete graph.
+group is a complete graph. There is no correlation between node positioning and entity 
+rank in the group. 
