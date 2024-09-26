@@ -1011,7 +1011,8 @@ $D= \{E_0,E_1,E_2,E_3,E_4\}.$
 The integer five is a common number, alongside two and 
 three, in the context of division or at least difference. 
 Five is the value from halving in base-10 numerical 
-systems.
+systems. It was chosen as the number of entities in 
+this example based on this premise. 
 
 Each of the entities $E_i$ is associated with an 
 interest $I_i$. In group D, there exists at least one
@@ -1019,7 +1020,13 @@ pair of entities $(E_i,E_j)$ with relations, based on
 their interests, that do not align. In formulaic notation,
 that is 
 $R_{align}(I_i,I_j) = false.$
-
 The objective of each entity's interest is to yield some
-output:
-$OBJ(I_i) \rightarrow O_i.$
+outcome: $OBJ(I_i) \rightarrow O_i$. 
+The outcome, for practical intents and purposes, is typically
+a set of variable values. Each variable value of an outcome 
+falls on a continuum or a discrete space, such as boolean, of 
+their respective attribute. Additionally, every variable value
+is supposed to satisfy only a portion of the space of 
+possibilities.
+
+
