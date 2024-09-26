@@ -1023,10 +1023,14 @@ $R_{align}(I_i,I_j) = false.$
 The objective of each entity's interest is to yield some
 outcome: $OBJ(I_i) \rightarrow O_i$. 
 The outcome, for practical intents and purposes, is typically
-a set of variable values. Each variable value of an outcome 
-falls on a continuum or a discrete space, such as boolean, of 
+a set of variable values. Each variable value of an outcome $O_i$
+falls on a continuum or a discrete space $S_i$, such as boolean, of 
 their respective attribute. Additionally, every variable value
-is supposed to satisfy only a portion of the space of 
-possibilities.
+is supposed to satisfy only a portion $P_i$ of the space of 
+possibilities. In other words, the satisfying condition for 
+objective $OBJ(I_i)$, based on the associated possible outcomes, 
+is $P_i \subseteq S_i$.
+
+
 
 
