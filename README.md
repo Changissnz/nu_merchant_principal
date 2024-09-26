@@ -1066,12 +1066,14 @@ none of the entities can "outperform" any other
 co-entity. The term "outperform" is a strict classifying 
 term on an entity's success in achieving its interests, 
 by <ins>relying on its own autonomy of resources and 
-capabilities</ins>. Entities can attempt to "outperform"
-another by increasing the magnitude of their resources' and/or
-capabilities' utility, but gridlock will prevent their 
-outperforming, by this game's definition. There can be 
-intersection (sharing) of control (autonomy) between 
-members of a group with respect to resources or capabilities, 
+capabilities</ins> at the initializing start of the Game 
+of Breaking Gridlock (gridlock has already been set). 
+Entities can attempt to "outperform" another by increasing 
+the magnitude of their resources' and/or capabilities' 
+utility, but gridlock will prevent their outperforming, 
+by this game's definition. There can be intersection 
+(sharing) of control (autonomy) between members of a 
+group with respect to resources or capabilities, 
 at the expense of administrative simplicity. The objective 
 of at least one of the entities in a gridlock is 
 "subversion" of the gridlock arrangement. Generally, 
