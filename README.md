@@ -983,3 +983,24 @@ a sane presupposition can be made that this
 power it has is finite and non-static. An 
 opportune time for Agent A to cut some part of 
 Agent T may not come again.
+
+## Wasting the Drive in Gridlock 
+
+Gridlock describes a condition with particular
+traits in a group of entities (two or more), 
+with at least one entity thinking and acting for an 
+interest that does not align with at least one co-entity 
+in this group. The perception of gridlock has a level
+of difficulty in detection, whether by members of 
+the involved group or a third-party, proportional
+to the accurate measurements of each member's 
+advances (improvements, actualization, et cetera)
+in their interest over a selected period in time. 
+
+In gridlock, membership of an entity in a group does 
+not require their voluntary consent. Enactment of 
+connective principles such as contractual agreements
+socio-economic magnetism, and co-dependencies are 
+some of the preventative measures against an entity's
+attempt to separate themselves, by their own perogative,
+from a group. 
