@@ -996,11 +996,30 @@ the involved group or a third-party, proportional
 to the accurate measurements of each member's 
 advances (improvements, actualization, et cetera)
 in their interest over a selected period in time. 
-
 In gridlock, membership of an entity in a group does 
 not require their voluntary consent. Enactment of 
-connective principles such as contractual agreements
+connective principles such as contractual agreements,
 socio-economic magnetism, and co-dependencies are 
 some of the preventative measures against an entity's
 attempt to separate themselves, by their own perogative,
 from a group. 
+
+Suppose a group D has five entities in it:
+$D= \{E_0,E_1,E_2,E_3,E_4\}.$
+
+**NOTE**
+The integer five is a common number, alongside two and 
+three, in the context of division or at least difference. 
+Five is the value from halving in base-10 numerical 
+systems.
+
+Each of the entities $E_i$ is associated with an 
+interest $I_i$. In group D, there exists at least one
+pair of entities $(E_i,E_j)$ with relations, based on 
+their interests, that do not align. In formulaic notation,
+that is 
+$R_{align}(I_i,I_j) = false.$
+
+The objective of each entity's interest is to yield some
+output:
+$OBJ(I_i) \rightarrow O_i.$
