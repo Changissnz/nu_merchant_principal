@@ -1066,7 +1066,7 @@ none of the entities can "outperform" any other
 co-entity. The term "outperform" is a strict classifying 
 term on an entity's success in achieving its interests, 
 by <ins>relying on its own autonomy of resources and 
-capabilities</ins> at the initializing start of the Game 
+capabilities</ins> at the initializing instance of the Game 
 of Breaking Gridlock (gridlock has already been set). 
 Entities can attempt to "outperform" another by increasing 
 the magnitude of their resources' and/or capabilities' 
