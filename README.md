@@ -1044,4 +1044,18 @@ the entities of D are the following.
 **GRLK:** Table showing the wanted and actual outcomes for 
 each entity of group G. None of the actual outcomes in the 
 table above equal their corresponding wanted outcome, due 
-to gridlock. 
+to gridlock.
+
+To conclude on this section's elaboration on gridlock, 
+gridlock places demands on each entity in the group 
+in such a way that their state cannot improve via efforts
+for their interests. The lack of alignment, which could
+also include malignment, between the interests of at 
+least two entities fuels a nullification process that 
+breaks the expectations of all involved entities in 
+the gridlocked group.
+
+A game called the Game of Breaking Gridlock helps to 
+illustrate some of the activity that may occur in 
+gridlocked groups, in efforts by members to break free
+of the gridlock, perhaps even separate from the group.
