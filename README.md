@@ -1001,7 +1001,7 @@ not require their voluntary consent. Enactment of
 connective principles such as contractual agreements,
 socio-economic magnetism, and co-dependencies are 
 some of the preventative measures against an entity's
-attempt to separate themselves, by their own perogative,
+attempt to separate themselves, by their own perogative
 from a group. 
 
 Suppose a group D has five entities in it:
@@ -1068,17 +1068,21 @@ term on an entity's success in achieving its interests,
 by <ins>relying on its own autonomy of resources and 
 capabilities</ins>. Entities can attempt to "outperform"
 another by increasing the magnitude of their resources' and/or
-capabilities' utility, but gridlock, by this game's definition, 
-will prevent their out-performing. There can be intersection 
-(sharing) of control (autonomy) between members of a group 
-with respect to resources or capabilities, at the expense 
-of simplicity. The objective of at least one of the 
-entities in a gridlock is "subversion" of the gridlock 
-arrangement. Generally, "subversion" can be achieved 
-by an entity outperforming or, antithetically, 
-undermining another to such an extent that the other's 
-performance falls short by some measures that would 
-have ensured the preservation of the gridlock arrangement.
+capabilities' utility, but gridlock will prevent their 
+outperforming, by this game's definition. There can be 
+intersection (sharing) of control (autonomy) between 
+members of a group with respect to resources or capabilities, 
+at the expense of administrative simplicity. The objective 
+of at least one of the entities in a gridlock is 
+"subversion" of the gridlock arrangement. Generally, 
+"subversion" can be achieved by an entity outperforming 
+or, antithetically, undermining another to such an extent 
+that the other's performance falls short by some 
+measures that would have ensured the preservation of 
+the gridlock arrangement. The full achievement of subversion 
+disintegrates the conservative force behind gridlock, 
+thereby enabling at least one of the entities in the group 
+to achieve their original interest. 
 
 The below diagram illustrates the connective arrangement 
 in a gridlock of the five entities of group D, in this 
