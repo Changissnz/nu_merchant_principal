@@ -1029,8 +1029,18 @@ their respective attribute. Additionally, every variable value
 is supposed to satisfy only a portion $P_i$ of the space of 
 possibilities. In other words, the satisfying condition for 
 objective $OBJ(I_i)$, based on the associated possible outcomes, 
-is $P_i \subseteq S_i$.
+is $P_i \subseteq S_i$. Based on the nullifying initiator, 
+the lack of alignment $R_{align}(I_i,I_j)$, the outcomes for 
+the entities of D are the following. 
 
+| Interest | Wanted Outcome | Actual Outcome |
+| -------- | -------------- | -------------- |
+| $I_0$ | $P_0$ | $P^{?}_0$ |
+| $I_1$ | $P_1$ | $P^{?}_1$ |
+| $I_2$ | $P_2$ | $P^{?}_2$ |
+| $I_3$ | $P_3$ | $P^{?}_3$ |
+| $I_4$ | $P_4$ | $P^{?}_4$ |
 
-
-
+**GRLK** Table showing the wanted and actual outcomes for 
+each entity of group G.None of the actual outcomes in the 
+table above equal their corresponding wanted outcome. 
