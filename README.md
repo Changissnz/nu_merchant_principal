@@ -1048,13 +1048,47 @@ to gridlock.
 
 To conclude on this section's generalization of gridlock, 
 gridlock places demands on each entity in the group 
-in such a way that their state cannot improve via efforts
-for their interests. The lack of alignment, which could
-also include malignment, between the interests of at 
-least two entities fuels a nullification process that 
-breaks the wanted outcomes of all involved entities in 
-the gridlocked group. A game called the Game of 
-Breaking Gridlock helps to illustrate some of the 
-activity that may occur in gridlocked groups, in efforts
-by members to break free of the gridlock, perhaps 
-even separate from the group.
+in such a way that no entity's state cannot improve via 
+efforts for their interests. The lack of alignment, which 
+could also include malignment, between the interests of 
+at least two entities fuels a nullification process 
+that breaks the wanted outcomes of all involved entities 
+in the gridlocked group. The Game of Breaking Gridlock 
+helps to illustrate some of the activity, efforts by 
+members to break free  of the gridlock and perhaps even 
+separate from the group, that may occur in gridlocked 
+groups. 
+
+In this game, a group G of entities are in a gridlock, 
+a condition that has been generally defined in the 
+beginning of this section. In this gridlock arrangement, 
+none of the entities can "outperform" any other 
+co-entity. The term "outperform" is a strict classifying 
+term on an entity's success in achieving its interests, 
+by <ins>relying on its own autonomy of resources and 
+capabilities</ins>. Entities can attempt to "outperform"
+another by increasing the magnitude of their resources' and/or
+capabilities' utility, but gridlock, by this game's definition, 
+will prevent their out-performing. There can be intersection 
+(sharing) of control (autonomy) between members of a group 
+with respect to resources or capabilities, at the expense 
+of simplicity. The objective of at least one of the 
+entities in a gridlock is "subversion" of the gridlock 
+arrangement. Generally, "subversion" can be achieved 
+by an entity outperforming or, antithetically, 
+undermining another to such an extent that the other's 
+performance falls short by some measures that would 
+have ensured the preservation of the gridlock arrangement.
+
+The below diagram illustrates the connective arrangement 
+in a gridlock of the five entities of group D, in this 
+section's beginning. Each two-headed arrow is a relation 
+between two entities. The lack of labeling and functions 
+for each of these two-headed arrows is intentional, leaving
+the nature, biases, and leanings of each relation open 
+to the specificities involved in practical affairs.
+
+![image info](./images/gbg_diagram1.PNG)
+
+**GBGD1** Graphical illustration of group D's connectivity. In mathematical lexicon, this 
+group is a complete graph.
