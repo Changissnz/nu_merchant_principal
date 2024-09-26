@@ -1041,6 +1041,7 @@ the entities of D are the following.
 | $I_3$ | $P_3$ | $P^{?}_3$ |
 | $I_4$ | $P_4$ | $P^{?}_4$ |
 
-**GRLK** Table showing the wanted and actual outcomes for 
-each entity of group G.None of the actual outcomes in the 
-table above equal their corresponding wanted outcome. 
+**GRLK:** Table showing the wanted and actual outcomes for 
+each entity of group G. None of the actual outcomes in the 
+table above equal their corresponding wanted outcome, due 
+to gridlock. 
