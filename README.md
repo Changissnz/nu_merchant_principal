@@ -1128,4 +1128,15 @@ interests, the losses from their failure to conserve would
 transfer over to another entity in group D. The gravity of 
 change from such zero-sum transfer increases the likelihood
 of a broken gridlock due to the reason of <ins>failed 
-conservation</ins>.
+conservation</ins>. By complication through diversification
+of semantics, the definition of an entity's "performance" 
+is extended to explicitly include its conservative (retentive)
+power in its autonomy (resources and capabilities). 
+
+In diagram GCGD2, the arrow from group D to "middle ground" 
+G is a query (request) by some arbitrary set of D's 
+entities for resources, physical or otherwise, to aid 
+in the entities' objective of underminement. And the 
+"middle ground" G responds by a function that outputs 
+a product (physical or otherwise) back to members of 
+D selected by G as the receiver of the product. 
