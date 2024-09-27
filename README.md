@@ -1119,5 +1119,5 @@ advance or fulfill their interests.
 
 **GBGD2:** Graphical illustration of a functional feedback loop between
 group D and a "middle ground", a composition of each entity's 
-predicted source for underminement activity. 
+predicted source of their underminement activity. 
 
