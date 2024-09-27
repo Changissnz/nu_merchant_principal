@@ -1107,9 +1107,12 @@ time. In cases in which D does not exist in a closed world
 (perhaps a world are better understood as constructed and defined
 rather than the inherited constant), then entities in the 
 Game of Breaking Gridlock will attempt to break gridlock 
-(that is the objective of the game) by underminement. In 
-an open world, members of group D will seek to undermine 
-one another through a "middle ground". 
+(that is the objective of the game) by <ins>underminement</ins>. 
+In an open world, members of group D will seek to undermine 
+one another through specific gains, reaped from a "middle ground"
+through a feedback loop that is predicted to enable at 
+least one entity to "outperform" others, in other words, 
+advance or fulfill their interests. 
 
 ![image info](./images/gbg_diagram2.PNG)
 
