@@ -1121,3 +1121,11 @@ advance or fulfill their interests.
 group D and a "middle ground", a composition of each entity's 
 predicted source of their underminement activity. 
 
+Diagram GBGD2 is not foolproof as an illustration for 
+underminement by members of group D. If perhaps only one
+entity does not conserve their activity for their constant
+interests, the losses from their failure to conserve would
+transfer over to another entity in group D. The gravity of 
+change from such zero-sum transfer increases the likelihood
+of a broken gridlock due to the reason of <ins>failed 
+conservation</ins>.
