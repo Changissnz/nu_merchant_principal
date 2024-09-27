@@ -1087,7 +1087,7 @@ thereby enabling at least one of the entities in the group
 to achieve their original interest. 
 
 The below diagram illustrates the connective arrangement 
-in a gridlock of the five entities of group D, in this 
+in a gridlock of the five entities of group D, from this 
 section's beginning. Each two-headed arrow is a relation 
 between two entities. The lack of labeling and functions 
 for each of these two-headed arrows is intentional, leaving
@@ -1111,11 +1111,12 @@ gridlock (that is the objective of the game) by
 <ins>underminement</ins>. In an open world, members of 
 group D will seek to undermine one another by 
 possession and possibly utility of specific gains, reaped 
-from a "middle ground" through a feedback loop that 
-is a composite prediction by group D to enable at least 
-one entity to "outperform" others. Outperformance would 
-finally directly enable the advancement or fulfillment of
-at least one entity's interests for a broken gridlock. 
+from a "middle ground" through a feedback loop. The 
+"middle ground" is a composite prediction by group D on 
+what would enable at least one entity to "outperform" others. 
+Outperformance would finally and directly enable the advancement 
+or fulfillment of at least one entity's interests for a broken 
+gridlock. 
 
 ![image info](./images/gbg_diagram2.PNG)
 
@@ -1137,10 +1138,10 @@ power in its autonomy (resources and capabilities).
 In diagram GCGD2, the arrow from group D to "middle ground" 
 G is a query (request) by some arbitrary set of D's 
 entities for resources, physical or otherwise, to aid 
-in the entities' objective of underminement. And the 
-"middle ground" G responds by a function that outputs 
-a product (physical or otherwise) back to members of 
-D selected by G as the receiver of the product.
+in the entities' ulterior objective of underminement. 
+And the "middle ground" G responds by a function that 
+outputs a product (physical or otherwise) back to members 
+of D selected by G as the receiver of the product.
 
 Diagram GCGD3 shows the process of underminement from 
 start to potential "finish". The blue nodes are labeled 
@@ -1149,8 +1150,8 @@ outcome $P_i$ (fulfillment of entity $E_i$'s interest)
 is through the gains, made through underminement feedback
 loops with the unrepresented "middle ground", that lends
 to the entity's outperformance (by gridlock arrangement norms). 
-And outperformance naturally cedes barriers against the 
-achievement of the interest $I_i$. 
+And outperformance makes barriers, against the achievement 
+of the interest $I_i$, naturally cede.
 
 ![image info](./images/gbg_diagram3.PNG)
 
