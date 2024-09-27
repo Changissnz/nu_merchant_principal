@@ -1104,16 +1104,18 @@ If the five entities of D exist in a closed world, and they
 conserve their activity for their constant interests, then
 gridlock is expected to last for an indeterminate amount of
 time. In cases in which D does not exist in a closed world
-(perhaps a world are better understood as constructed and defined
-rather than the inherited constant), then entities in the 
-Game of Breaking Gridlock will attempt to break gridlock 
-(that is the objective of the game) by <ins>underminement</ins>. 
-In an open world, members of group D will seek to undermine 
-one another through possession and possibly utility of 
-specific gains, reaped from a "middle ground" through 
-a feedback loop that is predicted to enable at least 
-one entity to "outperform" others, in other words, 
-advance or fulfill their interests. 
+(perhaps a world is better understood as constructed and 
+defined rather than the inherited constant), then entities 
+in the Game of Breaking Gridlock will attempt to break 
+gridlock (that is the objective of the game) by 
+<ins>underminement</ins>. In an open world, members of 
+group D will seek to undermine one another by 
+possession and possibly utility of specific gains, reaped 
+from a "middle ground" through a feedback loop that 
+is a composite prediction by group D to enable at least 
+one entity to "outperform" others. Outperformance would 
+finally directly enable the advancement or fulfillment of
+at least one entity's interests for a broken gridlock. 
 
 ![image info](./images/gbg_diagram2.PNG)
 
@@ -1139,4 +1141,33 @@ entities for resources, physical or otherwise, to aid
 in the entities' objective of underminement. And the 
 "middle ground" G responds by a function that outputs 
 a product (physical or otherwise) back to members of 
-D selected by G as the receiver of the product. 
+D selected by G as the receiver of the product. Diagram
+GCGD3 shows the process of underminement from start to 
+potential "finish". The blue nodes are labeled 
+$P_i \rightarrow I_i$. The possible achievement of 
+outcome $P_i$ (fulfillment of entity $E_i$'s interest)
+is through the gains, made through underminement feedback
+loops with the unrepresented "middle ground", that lends
+to the entity's outperformance (by gridlock arrangement norms). 
+And outperformance naturally cedes barriers against the 
+achievement of the interest $I_i$. 
+
+![image info](./images/gbg_diagram3.PNG)
+
+**GCGD3:** Prospects of underminement by members of gridlocked group D.
+
+There are a few questions for the thinker to ponder on 
+in this Game of Breaking Gridlock. How and why would 
+there be encouragement for entity activity to be 
+redirected towards a middle ground? To answer that 
+the encouragement was instantiated due to the drive 
+of at least one member of a gridlocked group G to 
+break gridlock is a roundabout answer. How would the 
+gains reaped from the "middle ground" and transferred
+to selected members of group G be utilized for partial 
+advantage, on the condition that gridlocking conditions
+prohibit the utility of advantage, that is resources 
+and qualities not present in the initial autonomous 
+conditions of the group's members? As for the possible
+future, abstraction by the Game of Breaking Gridlock 
+opens the doors to the undefined. 
