@@ -1134,16 +1134,16 @@ conservation</ins>. By complication through diversification
 of semantics, the definition of an entity's "performance" 
 is extended to explicitly include its conservative (retentive)
 power in its autonomy (resources and capabilities). 
-
 In diagram GCGD2, the arrow from group D to "middle ground" 
 G is a query (request) by some arbitrary set of D's 
 entities for resources, physical or otherwise, to aid 
 in the entities' objective of underminement. And the 
 "middle ground" G responds by a function that outputs 
 a product (physical or otherwise) back to members of 
-D selected by G as the receiver of the product. Diagram
-GCGD3 shows the process of underminement from start to 
-potential "finish". The blue nodes are labeled 
+D selected by G as the receiver of the product.
+
+Diagram GCGD3 shows the process of underminement from 
+start to potential "finish". The blue nodes are labeled 
 $P_i \rightarrow I_i$. The possible achievement of 
 outcome $P_i$ (fulfillment of entity $E_i$'s interest)
 is through the gains, made through underminement feedback
