@@ -1071,7 +1071,7 @@ of Breaking Gridlock (gridlock has already been set).
 Entities can attempt to "outperform" another by increasing 
 the magnitude of their resources' and/or capabilities' 
 utility, but gridlock will prevent their outperforming, 
-by this game's definition. There can be intersection 
+by this game's starting state. There can be intersection 
 (sharing) of control (autonomy) between members of a 
 group with respect to resources or capabilities, 
 at the expense of administrative simplicity. The objective 
@@ -1150,8 +1150,8 @@ outcome $P_i$ (fulfillment of entity $E_i$'s interest)
 is through the gains, made through underminement feedback
 loops with the unrepresented "middle ground", that lends
 to the entity's outperformance (by gridlock arrangement norms). 
-And outperformance makes barriers, against the achievement 
-of the interest $I_i$, naturally cede.
+And outperformance makes barriers against the achievement 
+of the interest $I_i$ naturally cede.
 
 ![image info](./images/gbg_diagram3.PNG)
 
@@ -1167,7 +1167,7 @@ break gridlock is a roundabout answer. How would the
 gains reaped from the "middle ground" and transferred
 to selected members of group G be utilized for partial 
 advantage, on the condition that gridlocking conditions
-prohibit the utility of advantage, that is resources 
+prohibit the utility of advantage, that is, resources 
 and qualities not present in the initial autonomous 
 conditions of the group's members? As for the possible
 future, abstraction by the Game of Breaking Gridlock 
