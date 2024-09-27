@@ -1096,7 +1096,7 @@ to the specificities involved in practical affairs.
 
 ![image info](./images/gbg_diagram1.PNG)
 
-**GBGD1** Graphical illustration of group D's connectivity. In mathematical lexicon, this 
+**GBGD1:** Graphical illustration of group D's connectivity. In mathematical lexicon, this 
 group is a complete graph. There is no correlation between node positioning and entity 
 rank in the group. 
 
@@ -1117,7 +1117,7 @@ advance or fulfill their interests.
 
 ![image info](./images/gbg_diagram2.PNG)
 
-**GBGD2** Graphical illustration of a feedback loop between group D and a
+**GBGD2:** Graphical illustration of a feedback loop between group D and a
 "middle ground", a composition of each entity's predicted source for 
 underminement activity. 
 
