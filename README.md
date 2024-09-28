@@ -1197,7 +1197,7 @@ hypotheses, since a "hypothesis" is very frequently
 defined simply as an "educated guess". As 
 funny as an "educated hypothesis" sounds, 
 the phrase would go against teachings on its 
-definition as an "educated guess", on the 
+definition as an "educated guess" on the 
 premise of redundancy. To add on more to these 
 elaborations in a way that is besides the point, 
 this statement makes no implicative jab on any 
@@ -1231,7 +1231,7 @@ something inclusive of the error term (typically
 a decimal in standard algebraic equations). The 
 complexity of the solution, meaning the amount 
 of effort required to obtain the solution and 
-the final form of the solution, removes the bias. 
+its the final form, removes the bias. 
 The complexity of the solution may also lead to 
 over-fitting, a technical term used to describe 
 solutions that are virtually perfect (no error in
@@ -1256,7 +1256,7 @@ information space. This commentary on the
 perspective of the concept of bias-complexity 
 tradeoff swaps the roles of bias and complexity,
 from formulation towards the solution (meditation,
-introspection) to actualizing (non-rehearsal utility) 
+introspection) to actualizing (non-rehearsing utility) 
 on the solution.
 
 One broad area of complication in fully describing
@@ -1264,7 +1264,7 @@ judgmental processes is its influence on
 perception. One thing that can be stated for certain 
 is: the extent in existence and use of judgmental 
 functionaries regarding cognition has a correlative 
-influence on perceptual tasks that place after 
+influence on perceptual tasks that take place after 
 said functionaries have taken root. This statement 
 can be used to buttress idioms such as a sentient 
 being "sees what they want to see and hears what 
@@ -1312,7 +1312,7 @@ model that emphasizes perception (indiscriminate
 intake from information-flow) could very well be 
 an advantage in cases where threats or flaws are 
 well-recognized and thus anticipated ahead of 
-time. Judgment-first models intend for barring
+time. Judgment-first models intend to bar
 advantages by threats that would have been given
 wider and deeper opportunities, due to the 
 sentient being's openness, for inflicting fault.
@@ -1335,19 +1335,23 @@ intake that is gainfully important, but that of
 proceeding to action.
 
 An obvious thought on these two models is that 
-there can be a "balancing act" between the two
-models. There is no physical law on cognition, 
-based on prior evidence yielded through empirical 
+there can be a "balancing act" between them. 
+There is no physical law on cognition, based on 
+prior evidence yielded through empirical 
 studies, that states that exactly one model is 
 to be used for the duration of a sentient being's 
 existence. On the premise of design behind the 
 Myer-Briggs test, it is conjectured that preferring 
-one cognitive model over the other may skew overall
+one cognitive model over the other at some critical 
+spans in time (such as the beginning) may skew overall
 cognitive processes through the span of a 
 sentient being's time in ways that contradict the 
 "balancing act" it desires with goals for a middle 
-ground of impartiality.
-
+ground of impartiality. The corrective cycles
+involved in judgment-first models may yield more 
+pronounced changes in acquired solutions, due to 
+the obvious possibility of drastic differences in
+the samples from arbitrary information-flow intake. 
 
 Obtuse judgments can count in cases in which there 
 is the lack of immediate consequences for the sentient 
