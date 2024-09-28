@@ -1354,17 +1354,18 @@ the obvious possibility of drastic differences in
 the samples from arbitrary information-flow intake. 
 
 Obtuse judgments can count in cases in which there 
-is the lack of immediate consequences for the sentient 
+is the lack of immediate consequences against the sentient 
 being, the practitioner of the obtuse judgment, if they 
 are to acquire dominion over their "immediate vicinity". 
 The acquisition of dominion gives credence to the practitioner 
 of the obtuse judgment. And maybe in contentious affairs, 
-those that already have established dominion through 
+those that have already established dominion through 
 their obtuse judgments will find their foe weak and 
 beneath them. The foe may have relied on a perception-first 
 model in their daily practices, only to discover that their 
 information-flow intake was not substantial enough to 
-adversely compare with obtuse judgments.
+adversely compare with those with obtuse judgments against 
+them.
 
 Here is a musing on what superiorities of two 
 classifications in thought processes, with no definitive 
