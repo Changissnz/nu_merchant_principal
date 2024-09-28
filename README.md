@@ -1287,10 +1287,10 @@ exactly sixteen personalities, due to four categories
 such that each category has two variants. This 
 section is only interested in the last of the 
 four categories, with two variants of perceiving 
-and judging types. This specific tests assigns 
+and judging types. This specific test assigns 
 a personality as either perceptive or judgmental
 by the predominance (of frequency) of one of 
-the two traits over others. And the frequencies 
+the two traits over the other. And the frequencies 
 collected are through questions asked that are 
 supposed to yield "genuine" answers. 
 
