@@ -1196,7 +1196,7 @@ word "informed" as a descriptor for these
 hypotheses, since a "hypothesis" is very frequently
 defined simply as an "educated guess". As 
 funny as an "educated hypothesis" sounds, 
-the phrase would go against teachings on its 
+the phrase would go against teachings of its 
 definition as an "educated guess" on the 
 premise of redundancy. To add on more to these 
 elaborations in a way that is besides the point, 
@@ -1346,7 +1346,7 @@ one cognitive model over the other at some critical
 spans in time (such as the beginning) may skew overall
 cognitive processes through the span of a 
 sentient being's time in ways that contradict the 
-"balancing act" it desires with goals for a middle 
+"balancing act" it desires, goals for a middle 
 ground of impartiality. The corrective cycles
 involved in judgment-first models may yield more 
 pronounced changes in acquired solutions, due to 
