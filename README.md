@@ -1206,7 +1206,7 @@ education system.
 The simple logic that judgmental processes 
 are borne from perceptual ones falls very 
 short of capturing the full extent of complex 
-cognitive phenomena. Information-flow engineering,
+cognitive phenomena. <ins>Information-flow engineering</ins>,
 basically data engineering that is directed 
 (maybe by force) into a sentient being's cognition, 
 results in the frequent state that is the sentient 
