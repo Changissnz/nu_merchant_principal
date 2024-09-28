@@ -1184,7 +1184,7 @@ believe in if not to uphold and advance. The
 explicit mention of associative terms, such 
 as consequences and conclusions, belonging 
 to judgments is necessary to discuss the topic 
-as an outline of cognitive processes.
+in this outline of cognitive processes.
 
 A sentient being can "perceive" something. 
 And then that same being forms a judgment of it. 
