@@ -1189,7 +1189,7 @@ in this outline of cognitive processes.
 A sentient being can "perceive" something. 
 And then that same being forms a judgment of it. 
 This sequence follows the logic of forming 
-conclusions, or at least informed hypotheses 
+conclusions, or at least informed hypotheses, 
 derived from experience formatted as the 
 "perception". Note the usage of the additional 
 word "informed" as a descriptor for these 
