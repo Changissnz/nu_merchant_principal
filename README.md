@@ -1364,7 +1364,7 @@ their obtuse judgments will find their foe weak and
 beneath them. The foe may have relied on a perception-first 
 model in their daily practices, only to discover that their 
 information-flow intake was not substantial enough to 
-adversely compare with those with obtuse judgments against 
+adversely compare with those holding obtuse judgments against 
 them.
 
 Here is a musing on what superiorities of two 
