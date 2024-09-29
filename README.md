@@ -1370,3 +1370,55 @@ them.
 Here is a musing on what superiorities of two 
 classifications in thought processes, with no definitive 
 answer for that would require specific examples. 
+
+## To Be Revered by What
+
+The word "reverence" carries attitudes and beliefs
+of genuine respect for a noun, typically a sentient
+being. An attempt is made in this section to detail
+what reverence means in practice, and its alternative
+analogues, intended to appear as the authentic, to shift
+well-meaning focus towards them. 
+
+There is a similar word to reverence that may act as 
+a starting step towards the belief in it. The word is 
+"reference". In a world of utmost connectivity, 
+strong connectivities between polarities (maybe
+the only way the polarity preserves its full identity)
+and between variants (higher orders of difference), 
+a reference can be a or the source from which the 
+connectivity stems from. A reference could 
+also be a derivation of a source. The connectivity, 
+once put in existence, can be shared in some variable 
+manner outside of the full control of the reference as 
+the possible source. The choice to acknowledge connectivity 
+between two seemingly different objects matters in 
+the context of identification by cognitive functions. 
+
+Here are a few broad classifications of references:
+- duplicate (indistinguishable to its "source"), 
+- complement (requires the "source" to be perceived as incomplete in the sense that the 
+  reference can aid as an additive towards its fullness),
+- variant (distinguishable from the "source", but related 
+  to it in ways perceivable by select observers).
+
+In input-output computational network models, with the 
+inputs given the freedom of arbitrary definition 
+(although the networks may immediately reject the 
+inputs if they are to violate network input conditions), 
+cognitive tasks take place by way of information 
+transmitting from element to element of the network. 
+An element of a typical network may be a node 
+(station,endpoint,unit) or an edge (connective piece 
+between any two nodes). Each element is attached to
+some function that serves as a condition for how 
+the information being transmitted is utilized. 
+Common utility purposes include transforming the 
+specific information into another form (of a 
+different data space) or a variant in the same 
+space, as well as routing the information to 
+another node or along another edge.
+
+Some common roles for sources of references, using the 
+data format of networks, are  <ins>centers</ins>, 
+<ins>sinks</ins>, and <ins>directors</ins>.
