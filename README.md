@@ -1421,7 +1421,7 @@ another node or along another edge.
 
 Some common roles for sources of references, using the 
 data format of networks, are  <ins>centers</ins>, 
-<ins>sinks</ins>, and <ins>directors</ins>. Each of these
+<ins>sinks</ins>, and <ins>deflectors</ins>. Each of these
 roles are illustrated in the proceeding diagrams.
 
 ![image info](./images/ref_diagram_star.PNG)
