@@ -1395,7 +1395,8 @@ the possible source. The choice to acknowledge connectivity
 between two seemingly different objects matters in 
 the context of identification by cognitive functions. 
 
-Here are a few broad classifications of references:
+Here are a few broad classifications of attributes for 
+references:
 - duplicate (indistinguishable to its "source"), 
 - complement (requires the "source" to be perceived as incomplete in the sense that the 
   reference can aid as an additive towards its fullness),
@@ -1444,14 +1445,14 @@ $S$ if there was no connection (edge) shared by both $R_0$
 and $R_1$ with $R_4$.
 
 Some formulaic notation is called for in discussing the 
-classifications for references. Suppose an element $E$ has 
-these arbitrarily defined attributes: $[A_0,A_1,A_2,A_3]$.
-Any of these attributes can be "transformed" into 
-another by the use of any of these categories of functions: 
-$C^{(?)}$ (complementary), $D^{(?)}$ (duplicative), and 
-$V^{(?)}$ (variant). These transformative functions are 
-denoted by "power of question mark" since there is no 
-consideration for the control of the material and effort 
+classifications for references based on their attributes. 
+Suppose an element $E$ has these arbitrarily defined attributes: 
+$[A_0,A_1,A_2,A_3]$. Any of these attributes can be 
+"transformed" into another by the use of any of these 
+categories of functions: $C^{(?)}$ (complementary), $D^{(?)}$ 
+(duplicative), and $V^{(?)}$ (variant). These transformative 
+functions are denoted by "power of question mark" since there 
+is no consideration for the control of the material and effort 
 required in their functions to achieve their wanted 
 metrics.
 
@@ -1517,6 +1518,23 @@ patterns allow room for familiarity.
 network. The source node $S$ has the responsibility of 
 being a functional utility to the other nodes (references)
 that have passed it information. Source $S$ also acts the  
-role of a deflector of information against node $R_4$, 
-symbolized the strikethrough of connections $(R_0,R_4)$ and 
-$(R_4,R_5)$. 
+role of a <ins>deflector</ins> of information against 
+node $R_4$, symbolized by the strikethrough of connections 
+$(R_0,R_4)$ and $(R_4,R_5)$. Source $S$ is also a <ins>sink</ins> for 
+functional utility by all involved references,
+$\{R_0,R_1,R_2,R_3,R_5,R_6\}$, in the transmission of 
+information to it. Last but not least, source $S$ acts 
+as an <ins>anti-center</ins> for the origins of information
+flow, since it is to function according to some way by 
+information it did not have prior to the information's 
+receipt by the references. 
+
+Computational reference networks complicate the categorization 
+of nodes by their roles. In diagrams REFSTAR,REFPER, and REFALT,
+the undirected connections between nodes allowed for easier 
+recognition of their most probable role, based on metrics 
+concerning node-to-node distance and centrality. The additional 
+feature of adding directions to these edges (connections) for 
+information flow, without consideration for more network 
+features, allows the possibility for any node connected to the 
+network to appear and act as any role. 
