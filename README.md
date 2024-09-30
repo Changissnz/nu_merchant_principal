@@ -1421,4 +1421,26 @@ another node or along another edge.
 
 Some common roles for sources of references, using the 
 data format of networks, are  <ins>centers</ins>, 
-<ins>sinks</ins>, and <ins>directors</ins>.
+<ins>sinks</ins>, and <ins>directors</ins>. Each of these
+roles are illustrated in the proceeding diagrams.
+
+![image info](./images/ref_diagram_star.PNG)
+
+**REFSTAR:** A <ins>star</ins> graph, with the source (red) in the "center".
+
+![image info](./images/ref_diagram_peripheral.PNG)
+
+**REFPER:** A <ins>line</ins> graph, with the source (red) at the extreme peripheral, the 
+"sink".
+
+![image info](./images/ref_diagram_alternative.PNG)
+
+**REFALT:** An <ins>arbitrary</ins> graph, with a reference (red) acting as a "deflector"
+against the source (labeled S).
+
+In diagram REFALT, reference $R_4$ is able to deflect information flow from nodes $R_0$ and 
+$R_1$ that would have gone to source $S$ if there was no connection (edge) shared by both 
+$R_0$ and $R_1$ with $R_4$. 
+
+
+
