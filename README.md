@@ -1438,9 +1438,66 @@ roles are illustrated in the proceeding diagrams.
 **REFALT:** An <ins>arbitrary</ins> graph, with a reference (red) acting as a "deflector"
 against the source (labeled S).
 
-In diagram REFALT, reference $R_4$ is able to deflect information flow from nodes $R_0$ and 
-$R_1$ that would have gone to source $S$ if there was no connection (edge) shared by both 
-$R_0$ and $R_1$ with $R_4$. 
+In diagram REFALT, reference $R_4$ is able to deflect information 
+flow from nodes $R_0$ and $R_1$ that would have gone to source 
+$S$ if there was no connection (edge) shared by both $R_0$ 
+and $R_1$ with $R_4$.
 
+Some formulaic notation is called for in discussing the 
+classifications for references. Suppose an element $E$ has 
+these arbitrarily defined attributes: $[A_0,A_1,A_2,A_3]$.
+Any of these attributes can be "transformed" into 
+another by the use of any of these categories of functions: 
+$C^{(?)}$ (complementary), $D^{(?)}$ (duplicative), and 
+$V^{(?)} (variant). These transformative functions are 
+denoted by "power of question mark" since there is no 
+consideration for the control of the material and effort 
+required in their functions to achieve their wanted 
+metrics.
 
+The table below shows an element $E$ 
+as the source, its two references, and pertinent 
+attributes for each. 
 
+| Element | Attributes |
+| ------- | ---------- |
+| $E$ | $A_0,A_1,A_2,A_3$ |
+| $R_0$ | $C^{(0)}(A_1),D^{(0)}(A_2),A_4$ |
+| $R_1$ | $C^{(1)}(A_3),A_5,A_6$ |
+
+**ATTRT:** Attributes for element $E$ and two references to it.
+
+The task of distinguishing an element from another
+by mathematical approaches is frequently based on 
+on functions similar to the arithmetic operation of
+subtraction. For any two elements, the qualities that 
+distinguish them are  
+
+$\triangle(E_0,E_1) = E_1 - (E_0 \bigcap E_1)$,   
+$\triangle(E_1,E_0) = E_0 - (E_0 \bigcap E_1)$.  
+
+These two formulae oversimplify the computation 
+of distinguishing two elements based on their 
+specific attributes, but they do serve as a 
+typical template for further specification.
+Specific differentiation between two attributes such 
+as $A_0$ and $D^{(?)}(A_0)$ are left up to design
+alongside verification for their methodological 
+correctness. The first formula distinguishes $E_1$ 
+from $E_0$ by the attributes exclusive to $E_1$, 
+and the second vice-versa.
+
+Qualities of information-flow activity are a 
+central topic for observation in <ins>computational 
+reference networks</ins>, a category of reference 
+networks. Flow of information requires direction
+along edges if the information is to not be jammed 
+in transmission. Edges are typically left open to be 
+bidirectional (in other words, undirected) so that 
+there is possibility for change of flow in spans of 
+activity deemed necessary, such as cycling of 
+information back to nodes and edges already traveled 
+for corrective or reflective purposes. These diagrams 
+show common information flow patterns on reference 
+networks. Each diagram features a role that the 
+source element plays.
