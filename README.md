@@ -1449,7 +1449,7 @@ these arbitrarily defined attributes: $[A_0,A_1,A_2,A_3]$.
 Any of these attributes can be "transformed" into 
 another by the use of any of these categories of functions: 
 $C^{(?)}$ (complementary), $D^{(?)}$ (duplicative), and 
-$V^{(?)} (variant). These transformative functions are 
+$V^{(?)}$ (variant). These transformative functions are 
 denoted by "power of question mark" since there is no 
 consideration for the control of the material and effort 
 required in their functions to achieve their wanted 
@@ -1497,7 +1497,26 @@ bidirectional (in other words, undirected) so that
 there is possibility for change of flow in spans of 
 activity deemed necessary, such as cycling of 
 information back to nodes and edges already traveled 
-for corrective or reflective purposes. These diagrams 
-show common information flow patterns on reference 
-networks. Each diagram features a role that the 
-source element plays.
+for corrective or reflective purposes. There is  
+**exactly one of two responsibilities for a <ins>node 
+recognized as the source</ins>**. These two 
+responsibilities are <ins>material</ins> and 
+<ins>functional</ins> utility. The terms "role" 
+and "responsibility", as categorical terms in this 
+section used to describe how sources and references
+work, are not synonymous with each other, although 
+there is a lot of overlap in interpretation between
+these two terms in plainspeak. Before defining
+these two responsibilities by way of written language,
+these next diagrams below on common information-flow 
+patterns allow room for familiarity. 
+
+![image info](./images/inforef_diagram_deflector.PNG)
+
+**INFOREF1:** Diagram shows a computational reference 
+network. The source node $S$ has the responsibility of 
+being a functional utility to the other nodes (references)
+that have passed it information. Source $S$ also acts the  
+role of a deflector of information against node $R_4$, 
+symbolized the strikethrough of connections $(R_0,R_4)$ and 
+$(R_4,R_5)$. 
