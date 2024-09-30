@@ -1517,7 +1517,7 @@ patterns allow room for familiarity.
 **INFOREF1:** Diagram shows a computational reference 
 network. The source node $S$ has the responsibility of 
 being a functional utility to the other nodes (references)
-that have passed it information. Source $S$ also acts the  
+that have passed it information. Source $S$ also acts the
 role of a <ins>deflector</ins> of information against 
 node $R_4$, symbolized by the strikethrough of connections 
 $(R_0,R_4)$ and $(R_4,R_5)$. Source $S$ is also a <ins>sink</ins> for 
