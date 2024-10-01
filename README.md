@@ -1537,4 +1537,9 @@ concerning node-to-node distance and centrality. The additional
 feature of adding directions to these edges (connections) for 
 information flow, without consideration for more network 
 features, allows the possibility for any node connected to the 
-network to appear and act as any role. 
+network to appear and act as any role.
+
+![image info](./images/inforef_diagram_star.PNG)
+**INFOREF2:** Computational reference network with source S having 
+a <ins>material</ins> responsibility of transmitting information to
+all connected references.
