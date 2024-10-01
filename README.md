@@ -1545,3 +1545,11 @@ network to appear and act as any role.
 a <ins>material responsibility</ins> of transmitting information to
 all connected references.
 
+Diagrams INFOREF1 and INFOREF2 provide visual basis on the 
+two responsibilities of a node in computational reference 
+networks. The responsibilities of material and functional 
+utility are reduced to the relative direction of flow from 
+a node acting as a source in these networks. Material utility 
+consists of negative flows of information from the node acting 
+as a source, and functional utility consists of the opposite 
+that is positive flows.
