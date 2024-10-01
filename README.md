@@ -1597,6 +1597,7 @@ action is taken with regards to the node or edge. If action
 is to be taken on a node, then one of two events may occur:
 - the node is accepted by agent $A$ as the source, 
 - the node routes the information passed to it along an edge. 
+  
 And for action to be taken on an edge, there is the primary 
 one of routing the information along it to the node at the 
 end of it (represented as the arrow in diagrams INFO1 and INFOREF1).
