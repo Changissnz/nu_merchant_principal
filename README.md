@@ -1493,24 +1493,26 @@ central topic for observation in <ins>computational
 reference networks</ins>, a category of reference 
 networks. Flow of information requires direction
 along edges if the information is to not be jammed 
-in transmission. Edges are typically left open to be 
-bidirectional (in other words, undirected) so that 
-there is possibility for change of flow in spans of 
-activity deemed necessary, such as cycling of 
-information back to nodes and edges already traveled 
-for corrective or reflective purposes. There is  
-**exactly one of two responsibilities for a <ins>node 
-recognized as the source</ins>**. These two 
-responsibilities are <ins>material</ins> and 
-<ins>functional</ins> utility. The terms "role" 
-and "responsibility", as categorical terms in this 
-section used to describe how sources and references
-work, are not synonymous with each other, although 
-there is a lot of overlap in interpretation between
-these two terms in plainspeak. Before defining
-these two responsibilities by way of written language,
-these next diagrams below on common information-flow 
-patterns allow room for familiarity. 
+in transmission. Direction of flow can change in 
+these networks, and the mechanisms for these are 
+later specified in more constrained terms. Edges 
+are typically left open to be bidirectional (in 
+other words, undirected) so that there is possibility 
+for change of flow in spans of activity deemed 
+necessary, such as cycling of information back to 
+nodes and edges already traveled for corrective 
+or reflective purposes. There is **exactly one 
+of two responsibilities for a <ins>node recognized 
+as the source</ins>**. These two responsibilities 
+are <ins>material</ins> and <ins>functional</ins> 
+utility. The terms "role" and "responsibility", 
+as categorical terms in this section used to describe 
+how sources and references work, are not synonymous 
+with each other, although there is a lot of overlap 
+in interpretation between these two terms in plainspeak. 
+Before defining these two responsibilities by way of 
+written language, these next diagrams below on common 
+information-flow patterns allow room for familiarity. 
 
 ![image info](./images/inforef_diagram_deflector.PNG)
 
@@ -1552,4 +1554,50 @@ utility are reduced to the relative direction of flow from
 a node acting as a source in these networks. Material utility 
 consists of negative flows of information from the node acting 
 as a source, and functional utility consists of the opposite 
-that is positive flows.
+that is positive flows. No specific conditions are set in 
+computational reference networks for the endpoint receivers 
+of the information from these positive and negative flows. 
+There are innumerable ways in which computational reference 
+networks can be used. Networks, especially in computing, 
+operate by arbitrarily-defined rules. Many in operation 
+today are used in tasks such as communication in social 
+circles or supercomputing. These tasks will not be explored
+by way of computational reference networks since they may 
+require a lot of  proprietary real-life information, and 
+must require technical details too minute for the wanted 
+broadness in this section. 
+
+One way is through the Game of Reference Identification (GRI). 
+Specific calculations in this game can be extensive enough 
+to be very difficult to comprehend in a short amount of time.
+The Game of Reference Identification bases itself on a 
+computational reference network. There is exactly one source 
+and at least one reference. All nodes in the computational 
+reference network are connected to each other, although there 
+may not be an edge shared between every pair. Every node has 
+some set of attributes and also a function that acts on 
+information it receives. Every edge also has a function that 
+acts on information it receives. 
+
+A third-party agent $A$ has a criteria $C$, also the 
+starting information for the flow process in a computational
+reference network. Agent $A$ first gains entry into the 
+computational reference network at an arbitrary node. 
+The agent is to identify the source in the network. From 
+a probabilistic perspective, any node has an equal probability
+of being the source. With the criteria $C$ by the agent, there
+is the potential for the agent to narrow down the possibilities
+for the source. The agent can travel to each node in the network
+by way of edges. For each piece of the network (either a node or edge),
+its associated function uses comparative measures between element (node) 
+attributes to process information that is originally criteria $C$ 
+by third-party agent $A$. If the information satisfies some 
+condition, not yet specified, by the comparative measures, then an 
+action is taken with regards to the node or edge. If action 
+is to be taken on a node, then one of two events may occur:
+- the node is accepted by agent $A$ as the source, 
+- the node routes the information passed to it along an edge. 
+And for action to be taken on an edge, there is the primary 
+one of routing the information along it to the node at the 
+end of it (represented as the arrow in diagrams INFO1 and INFOREF1).
+
