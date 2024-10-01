@@ -1516,7 +1516,7 @@ patterns allow room for familiarity.
 
 **INFOREF1:** Diagram shows a computational reference 
 network. The source node $S$ has the responsibility of 
-being a functional utility to the other nodes (references)
+being a <ins>functional utility</ins> to the other nodes (references)
 that have passed it information. Source $S$ also acts the
 role of a <ins>deflector</ins> of information against 
 node $R_4$, symbolized by the strikethrough of connections 
@@ -1531,7 +1531,7 @@ receipt by the references.
 
 Computational reference networks complicate the categorization 
 of nodes by their roles. In diagrams REFSTAR,REFPER, and REFALT,
-the undirected connections between nodes allowed for easier 
+the undirected connections between nodes allow for easier 
 recognition of their most probable role, based on metrics 
 concerning node-to-node distance and centrality. The additional 
 feature of adding directions to these edges (connections) for 
@@ -1540,6 +1540,8 @@ features, allows the possibility for any node connected to the
 network to appear and act as any role.
 
 ![image info](./images/inforef_diagram_star.PNG)
+
 **INFOREF2:** Computational reference network with source S having 
-a <ins>material</ins> responsibility of transmitting information to
+a <ins>material responsibility</ins> of transmitting information to
 all connected references.
+
