@@ -1572,12 +1572,12 @@ Specific calculations in this game can be extensive enough
 to be very difficult to comprehend in a short amount of time.
 The Game of Reference Identification bases itself on a 
 computational reference network. There is exactly one source 
-and at least one reference. All nodes in the computational 
-reference network are connected to each other, although there 
-may not be an edge shared between every pair. Every node has 
-some set of attributes and also a function that acts on 
-information it receives. Every edge also has a function that 
-acts on information it receives. 
+and at least one reference that is not the source. All nodes 
+in the computational reference network are connected to each 
+other, although there may not be an edge shared between every 
+pair. Every node has some set of attributes and also a function 
+that acts on information it receives. Every edge also has a 
+function that acts on information it receives. 
 
 A third-party agent $A$ has a criteria $C$, also the 
 starting information for the flow process in a computational
@@ -1600,5 +1600,7 @@ is to be taken on a node, then one of two events may occur:
   
 And for action to be taken on an edge, there is the primary 
 one of routing the information along it to the node at the 
-end of it (represented as the arrow in diagrams INFO1 and INFOREF1).
+end of it (represented as nodes touching arrows in diagrams 
+INFOREF1 and INFOREF2).
+
 
