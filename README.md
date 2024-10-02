@@ -1579,9 +1579,9 @@ pair. Every node has some set of attributes and also a function
 that acts on information it receives. Every edge also has a 
 function that acts on information it receives. 
 
-A third-party agent $A$ has a criteria $C$, also the 
+A third-party agent $D$ has a criteria $C$, also the 
 starting information for the flow process in a computational
-reference network. Agent $A$ first gains entry into the 
+reference network. Agent $D$ first gains entry into the 
 computational reference network at an arbitrary node. 
 The agent is to identify the source in the network. From 
 a probabilistic perspective, any node has an equal probability
@@ -1591,11 +1591,11 @@ for the source. The agent can travel to each node in the network
 by way of edges. For each piece of the network (either a node or edge),
 its associated function uses comparative measures between element (node) 
 attributes to process information that is originally criteria $C$ 
-by third-party agent $A$. If the information satisfies some 
+by third-party agent $D$. If the information satisfies some 
 condition, not yet specified, by the comparative measures, then an 
 action is taken with regards to the node or edge. If action 
 is to be taken on a node, then one of two events may occur:
-- the node is accepted by agent $A$ as the source, 
+- the node is accepted by agent $D$ as the source, 
 - the node routes the information passed to it along an edge. 
   
 And for action to be taken on an edge, there is the primary 
@@ -1603,4 +1603,42 @@ one of routing the information along it to the node at the
 end of it (represented as nodes touching arrows in diagrams 
 INFOREF1 and INFOREF2).
 
+On the format for any criteria by any third-party agent $D$, the 
+criteria is information on the source that may be entirely 
+incorrect. The criteria consists of 
+- a sequence $\overrightarrow{A} = \{A^{(D)}_0,\dots,A^{(D)}_l\}$, 
+  values of the attributes hypothesized by $C$ to be the correct
+  answer, 
+-  a non-negative integer that serves as the number of unknown 
+  attributes, 
+- a pairwise attribute-distinguisher function that compares two 
+  values of an attribute $A_i$,
+  $F_{-}(A^{(?)}_i,A_i) = q.$  
+  The value q is typically a real number, due to the space of 
+  real numbers serving as a continuous spectrum for magnitudes 
+  in differences, such that if $q=0$, then there is no difference 
+  between the two attribute values.
 
+Each member of this list can be modified by agent $D$ to suit 
+the information it has received on what it thinks the source is. 
+An example is called for to depict how agent $D$ may operate in 
+the Game of Reference Identification. Consider this criteria. 
+
+| -------------------- | -------------- | ----------- |
+| Attribute Hypothesis | No. of Unknown | Distinguisher Function |
+| $C^{(q)}(A_0),V^{(q)}(A_1),A_2$ | 3 | $F_{-}$ |
+
+**CRI1:** Criteria $C$ for a third-party agent D.
+
+| Element | Attributes |
+| ------- | ---------- |
+| $E$ | $A_0,V^{(E)}(A_1),C^{(E)}(A_1),D^{(E)}(A_2)$ |
+| $R_0$ | $C^{(R_0)}(A_0),A_1,A_2,A_3,A_4,A_5$ |
+| $R_1$ | $C^{(1)}(A_3),A_5,A_6$ |
+
+**ATTRT2:** Table of elements and their attributes, such that $E$ 
+is the source and $R_0,R_1$ are references.  
+
+![image info](./images/crn_one.PNG)
+
+**CRN1:** A computational reference network of elements in table ATTRT2.
