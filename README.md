@@ -1834,3 +1834,21 @@ information that was intended by certain interests to be
 completely privatized, supposed to be known only by those
 interests that prohibit such distribution of said 
 information. 
+
+In the Game of Reference Identification, the act of 
+"doxing" could entail giving a third-party agent the 
+correct criteria for identifying the source, via the 
+source's precise attributes. In the Game of Breaking 
+Gridlock, the doxxer (they that act by doxing) provides
+supplementary material, containing knowledge advantageous
+to the recipient, to specific entities as partisan
+support for their interests. In the Game of Tree-Trimming,
+the doxxer could provide information that leads to the
+most "ideal" decisions made by the cutting agent. In the 
+Game of Crypto or Gossip, the doxxer could provide the 
+agent with the correct contextual or literal information 
+to the correspondent (Agent C) and interpreter (Agent A). 
+In the Game of Varying Coercion, the doxxer could help
+agents of Silent Trigger. These are some very well-known 
+aims of doxxers. This statement can very much go without
+any citations of real-life cases. 
