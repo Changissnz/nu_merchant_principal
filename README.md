@@ -1877,7 +1877,7 @@ empirical reasoning and additionally power ascribed
 to a foreign/alien/deitified force, could very well be the 
 result of recipes heavily reliant on doxing. Suppose these 
 patterns perceived to be malicious by some, those that hold 
-the patterns to be curses, to fall under games akin to those
+the patterns to be curses, fall under games akin to those
 already mentioned in this section. 
 
 Interpret events one step past the five senses in cases such 
