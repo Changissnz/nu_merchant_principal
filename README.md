@@ -1697,7 +1697,7 @@ Functions $F_{R_1},F_{R_0},F_{S}$ are simple, in the sense that
 they merely make decisions of routing information that their 
 respective elements receive based on either an attribute-equality 
 operator, in $F_{S}$, and for the others, a "coin toss"-like 
-function that determines the next node destination for the 
+function determining the next node destination for the 
 information. In the cases of $F_{R_0}$ and $F_{R_1}$, there is 
 also the node functionalities of switching flow direction 
 belonging to an edge or terminating flow. In termination of 
@@ -1753,8 +1753,8 @@ F_{-}(\overrightarrow{A}) =
      \end{cases}
 \end{equation}$$
 
-Using $F_{-}$, agent $D$ recognizes $R_0$ as the source, 
-when much to its chagrin by facts, the source is $S$. 
+Using $F_{-}$, agent $D$ recognizes $R_0$ as the source 
+when, much to its chagrin by facts, the source is $S$. 
 More advanced cases of distinguisher functions 
 by a third-party involve the concept of learnability
 through trial-and-error, that is, improving the 
