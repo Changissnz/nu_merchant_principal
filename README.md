@@ -1859,7 +1859,7 @@ makes for a safe and conservative starting step for
 discussing the topic of doxing. What if, in adaptive 
 systems, the structure nicknamed the "haystack" grows 
 to be insurmountably large in the sense that the doxed 
-information poses no advantageous whatsoever? Doxing 
+information poses no advantage whatsoever? Doxing 
 does not neessarily lead to a certainty in increasing 
 the probability of accomplishing some objective in 
 these games mentioned. Doxing can serve as an aggravating 
