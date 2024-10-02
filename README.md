@@ -1825,7 +1825,7 @@ to tactics such as brute force, and these tactics require
 a scale of resources that correlates by some proportion 
 to the size of the haystack. 
 
-## Curse By Pre-emptive Doxing 
+## Curse by Pre-emptive Doxing 
 
 The newspeak involved in political warfare continues 
 its evolution to this day. The word "doxing", having made 
@@ -1867,7 +1867,7 @@ force. The attempt to disseminate information, without knowing
 the certainty of its correctness or the consequences of
 its use, can lead to dismal answers given to those questions.
 Alas, the intentions and actualization of achieving some
-aims, via knowledge thought to be advantageous by one or  
+aims, via knowledge thought to be advantageous by one or 
 both the recipient or sender in doxing, is essentially 
 specific semantics under the Game of Crypto or Gibberish.
 
@@ -1879,5 +1879,12 @@ result of recipes heavily reliant on doxing. Suppose these
 patterns perceived to be malicious by some, those that hold 
 the patterns to be curses, to fall under games akin to those
 already mentioned in this section. 
+
+Interpret events one step past the five senses in cases such 
+as disintegration of the state, feudal republics, "staged 
+accidents", ultimate mysteries, and other dysfunctions of 
+madness down the darkened list, and to call these kinds of 
+events curses falls under the conclusion that is acceptance 
+without rediscovery.
 
 ## A Simple Template For Expectations of Cost 
