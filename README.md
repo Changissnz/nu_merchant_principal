@@ -1824,3 +1824,5 @@ parties in needle-in-the-haystack problems have to resort
 to tactics such as brute force, and these tactics require 
 a scale of resources that correlates by some proportion 
 to the size of the haystack. 
+
+## Curse By Pre-emptive Doxing 
