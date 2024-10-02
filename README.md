@@ -1753,8 +1753,12 @@ F_{-}(\overrightarrow{A}) =
      \end{cases}
 \end{equation}$$
 
-More advanced cases of distinguisher functions 
+Using $F_{-}$, agent $D$ recognizes $R_0$ as the source, 
+when much to its chagrin by facts, it is $S$. More 
+advanced cases of distinguisher functions 
 by a third-party involve the concept of learnability
 through trial-and-error, that is, improving of the 
 accuracy in distinguishing a source from the reference
-based on 
+based on modifying the running distinguisher function 
+(mutable, in this case) to fit for an output that 
+recognizes $S$ as the source. 
