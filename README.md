@@ -1748,7 +1748,7 @@ hypothesis $C^{(q)}(A_0),V^{(q)}(A_1),A_2$.
 $$\begin{equation}
 F_{-}(\overrightarrow{A}) = 
      \begin{cases}
-      \text{accept as source} & \text{accept if 6 attributes} \\ 
+      \text{accept as source} & \text{if 6 attributes} \\ 
       \text{reject as source} & \text{otherwise.} \\ 
      \end{cases}
 \end{equation}$$
