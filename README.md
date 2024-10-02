@@ -1854,14 +1854,15 @@ aims of doxxers. This statement can very much go without
 any citations of real-life cases. 
 
 The idiom of the needle-in-the-haystack, analogized in 
-the last paragraph, makes for a safe and conservative 
-starting step for discussing the topic of doxing. What 
-if, in adaptive systems, the structure nicknamed the 
-"haystack" grows to be insurmountably large in the sense
-that the doxed information poses no advantageous 
-whatsoever? Doxing does not neessarily lead to a certainty 
-in increasing the probability of accomplishing some objective 
-in these games mentioned. Doxing can serve as an aggravating 
+the end of the last section (To Be Revered by What), 
+makes for a safe and conservative starting step for 
+discussing the topic of doxing. What if, in adaptive 
+systems, the structure nicknamed the "haystack" grows 
+to be insurmountably large in the sense that the doxed 
+information poses no advantageous whatsoever? Doxing 
+does not neessarily lead to a certainty in increasing 
+the probability of accomplishing some objective in 
+these games mentioned. Doxing can serve as an aggravating 
 force. The attempt to disseminate information, without knowing
 the certainty of its correctness or the consequences of
 its use, can lead to dismal answers given to those questions.
