@@ -1884,7 +1884,8 @@ Interpret events one step past the five senses in cases such
 as disintegration of the state, feudal republics, "staged 
 accidents", ultimate mysteries, and other dysfunctions of 
 madness down the darkened list, and to call these kinds of 
-events curses falls under the conclusion that is acceptance 
-without rediscovery.
+events curses falls under the conclusion that is an 
+opinionated acceptance without rediscovery, bound to the 
+lack of light.
 
 ## A Simple Template For Expectations of Cost 
