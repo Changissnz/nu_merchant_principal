@@ -1754,8 +1754,8 @@ F_{-}(\overrightarrow{A}) =
 \end{equation}$$
 
 Using $F_{-}$, agent $D$ recognizes $R_0$ as the source, 
-when much to its chagrin by facts, it is $S$. More 
-advanced cases of distinguisher functions 
+when much to its chagrin by facts, the source is $S$. 
+More advanced cases of distinguisher functions 
 by a third-party involve the concept of learnability
 through trial-and-error, that is, improving the 
 accuracy in distinguishing a source from the reference
@@ -1765,3 +1765,50 @@ recognizes $S$ as the source. Generalized description
 for the Game of Reference Identification is concluded 
 with this example of a computational reference network 
 in diagram CRN1. 
+
+On the idea of reverence briefly mentioned at the 
+beginning of this section, some notions on the idea 
+of reverence not yet discussed can be put forth after 
+elaboration on computational reference networks. 
+Reverence can be further described as a devotion by 
+one, a devotion that is more selfless for the revered 
+than not, and is also a psychological phenomenon 
+by one that holds the revered in higher esteem 
+and light than even themselves.
+
+A computational reference network can, by way of 
+numerical spaces such as the real numbers (where 
+greater numbers represent greater influence), 
+quantitatively model reverence. A typical network
+formation is based on a star graph. For every 
+reference node connected to the source by way of 
+some edge, the associated node and edge functions
+are based on pairwise-comparator functions between
+some wanted (ideal,desired) attributes, such that 
+those attributes may not actually be possessed 
+by the references, and the attributes belonging 
+to the source. Information-flow patterns, in the 
+context of responsibility, tend to oscillate 
+between material and functional utility. The 
+material utility, negative flow of information 
+away from the source, is used by references to
+possibly proliferate (promote and duplicate by 
+transmission) to other elements. Then these other 
+elements may hold functions that are similar to 
+the initial references of the source. And the 
+cycle of proliferation may continue until there 
+are conditions that constrain the process to 
+a stall in growth of number of references, and 
+perhaps the number of references shrink by way 
+of severing or altering connections for 
+information flow in matters of material and 
+functional utility with respect to the source.
+
+![image info](./images/crn_two.PNG)
+
+**CRN2:** A computational reference network, with $S$ as the 
+source. Functions $M_{?}$ are for material utility to 
+the references, and functions $F_{?}$ are for functional utility.
+The green node represents the function that $S$ acts on 
+in information flow that is functional utility. Source $S$
+is, in synonymous terms, a <ins>reverence node</ins>. 
