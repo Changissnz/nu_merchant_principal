@@ -1624,11 +1624,11 @@ the information it has received on what it thinks the source is.
 An example is called for to depict how agent $D$ may operate in 
 the Game of Reference Identification. Consider this criteria. 
 
-| -------------------- | -------------- | ----------- |
 | Attribute Hypothesis | No. of Unknown | Distinguisher Function |
+| -------------------- | -------------- | ----------- |
 | $C^{(q)}(A_0),V^{(q)}(A_1),A_2$ | 3 | $F_{-}$ |
 
-**CRI1:** Criteria $C$ for a third-party agent D.
+**CRI1:** Criteria $C$ for a third-party agent D; (2 x 3). 
 
 | Element | Attributes |
 | ------- | ---------- |
