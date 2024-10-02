@@ -1733,7 +1733,7 @@ after this termination.
 
 An arbitrary feature that can be added to computational 
 reference networks for any third-party agent is cease
-information flow after a specific number of edges that 
+information flow after a specific number of edges 
 the agent has traveled. For instance, if threshold for 
 cessation is exactly 1 edge, then the third-party 
 agent has exactly two node options, based on information 
@@ -1741,4 +1741,20 @@ flow, to choose as the source. But it could still
 guess, with no knowledge acquired through the information 
 flow, that one of the remaining nodes is the source. 
 
+Next, here is one possibility for agent $D$'s 
+distinguisher function, $F_{-}$, and its attribute 
+hypothesis $C^{(q)}(A_0),V^{(q)}(A_1),A_2$.
 
+$$\begin{equation}
+F_{-}(\overrightarrow{A}) = 
+     \begin{cases}
+      \text{accept as source} & \text{accept if 6 attributes} \\ 
+      \text{reject as source} & \text{otherwise.} \\ 
+     \end{cases}
+\end{equation}$$
+
+More advanced cases of distinguisher functions 
+by a third-party involve the concept of learnability
+through trial-and-error, that is, improving of the 
+accuracy in distinguishing a source from the reference
+based on 
