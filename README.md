@@ -1866,6 +1866,16 @@ force. The attempt to disseminate information, without knowing
 the certainty of its correctness or the consequences of
 its use, can lead to dismal answers given to those questions.
 Alas, the intentions and actualization of achieving some
-aims, via knowledge thought to be advantageous if held 
-by being the recipient or sender in doxing, is essentially 
-specific semantics under the Game of Crypto or Gibberish.  
+aims, via knowledge thought to be advantageous by one or  
+both the recipient or sender in doxing, is essentially 
+specific semantics under the Game of Crypto or Gibberish.
+
+The superstitious notion of a curse, phenomena perceived to 
+be without empirical reasoning and additionally power ascribed
+to a foreign/alien/deitified force, could very well be the 
+result of recipes heavily reliant on doxing. Suppose these 
+patterns perceived to be malicious by some, those that hold 
+the patterns to be curses, to fall under games akin to those
+already mentioned in this section. 
+
+## A Simple Template For Expectations of Cost 
