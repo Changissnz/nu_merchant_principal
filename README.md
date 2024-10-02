@@ -1743,7 +1743,7 @@ flow, that one of the remaining nodes is the source.
 
 Next, here is one possibility for agent $D$'s 
 distinguisher function, $F_{-}$, and its attribute 
-hypothesis $C^{(q)}(A_0),V^{(q)}(A_1),A_2$.
+hypothesis $\{C^{(q)}(A_0),V^{(q)}(A_1),A_2\}$.
 
 $$\begin{equation}
 F_{-}(\overrightarrow{A}) = 
@@ -1757,8 +1757,11 @@ Using $F_{-}$, agent $D$ recognizes $R_0$ as the source,
 when much to its chagrin by facts, it is $S$. More 
 advanced cases of distinguisher functions 
 by a third-party involve the concept of learnability
-through trial-and-error, that is, improving of the 
+through trial-and-error, that is, improving the 
 accuracy in distinguishing a source from the reference
 based on modifying the running distinguisher function 
 (mutable, in this case) to fit for an output that 
-recognizes $S$ as the source. 
+recognizes $S$ as the source. Generalized description 
+for the Game of Reference Identification is concluded 
+with this example of a computational reference network 
+in diagram CRN1. 
