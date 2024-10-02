@@ -1872,7 +1872,8 @@ both the recipient or sender in doxing, is essentially
 specific semantics under the Game of Crypto or Gibberish.
 
 The superstitious notion of a curse, phenomena perceived to 
-be without empirical reasoning and additionally power ascribed
+be some nature that bears some effect, all this without 
+empirical reasoning and additionally power ascribed
 to a foreign/alien/deitified force, could very well be the 
 result of recipes heavily reliant on doxing. Suppose these 
 patterns perceived to be malicious by some, those that hold 
