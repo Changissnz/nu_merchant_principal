@@ -1868,7 +1868,7 @@ the certainty of its correctness or the consequences of
 its use, can lead to dismal answers given to those questions.
 Alas, the intentions and actualization of achieving some
 aims, via knowledge thought to be advantageous by one or 
-both the recipient or sender in doxing, is essentially 
+both the recipient and sender in doxing, are essentially 
 specific semantics under the Game of Crypto or Gibberish.
 
 The superstitious notion of a curse, phenomena perceived to 
