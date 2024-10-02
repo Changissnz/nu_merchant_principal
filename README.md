@@ -1731,4 +1731,14 @@ this table.
 by third-party agent $D$. $D$ must decide which is the source element
 after this termination. 
 
+An arbitrary feature that can be added to computational 
+reference networks for any third-party agent is cease
+information flow after a specific number of edges that 
+the agent has traveled. For instance, if threshold for 
+cessation is exactly 1 edge, then the third-party 
+agent has exactly two node options, based on information 
+flow, to choose as the source. But it could still 
+guess, with no knowledge acquired through the information 
+flow, that one of the remaining nodes is the source. 
+
 
