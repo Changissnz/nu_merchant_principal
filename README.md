@@ -1716,6 +1716,19 @@ that influence the behavioral variables of another
 function in such a way that that function outputs values 
 different from before the modification. 
 
+Activity on the computational reference network in 
+diagram CRN1 could go something like that found in 
+this table.
 
+| Timestamp | Node Location | Action | 
+| --------- | ------------- | ------ | 
+| 0 | $R_0$ | pass to $S$ |
+| 1 | $S$ | pass to $R_1$ |
+| 2 | $R_1$ | switch flow of edge $(S,R_1)$,take edge |
+| 3 | $S$ | cannot pass to $R_1$,terminate flow |
+
+**ACTLOG1:** Four transmissions of information $C$, the criteria used 
+by third-party agent $D$. $D$ must decide which is the source element
+after this termination. 
 
 
