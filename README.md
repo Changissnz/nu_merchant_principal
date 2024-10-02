@@ -1826,3 +1826,11 @@ a scale of resources that correlates by some proportion
 to the size of the haystack. 
 
 ## Curse By Pre-emptive Doxing 
+
+The newspeak involved in political warfare continues 
+its evolution to this day. The word "doxing", having made 
+its way into the English dictionary, means to distribute 
+information that was intended by certain interests to be 
+completely privatized, supposed to be known only by those
+interests that prohibit such distribution of said 
+information. 
