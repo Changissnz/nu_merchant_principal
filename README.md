@@ -1693,7 +1693,7 @@ F_{R_1}(\overrightarrow{A}) =
      \end{cases}
 \end{equation}$$
 
-Functions $F_{R_1},F_{R_0},F_{S}$ are simple in the sense that 
+Functions $F_{R_1},F_{R_0},F_{S}$ are simple, in the sense that 
 they merely make decisions of routing information that their 
 respective elements receive based on either an attribute-equality 
 operator, in $F_{S}$, and for the others, a "coin toss"-like 
@@ -1707,7 +1707,7 @@ flow has terminated.
 
 In more complex cases, node or edge functions can act as 
 modifiers onto the distinguisher function in use by the 
-third-party agent. This stipulation assumes that said 
+third-party agent. This stipulation assumes said 
 third-party agent does not have full control over its 
 criteria that it uses in search for the source. These 
 kinds of functions are something that can be termed 
