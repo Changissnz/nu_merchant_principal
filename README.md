@@ -1642,3 +1642,58 @@ is the source and $R_0,R_1$ are references.
 ![image info](./images/crn_one.PNG)
 
 **CRN1:** A computational reference network of elements in table ATTRT2.
+Note the function sets $F_{?}$,associated with nodes, and $G_{?}$ associated 
+with edges. 
+
+Every associated function of a network's piece takes
+as input the running criteria of a third-party agent. 
+The term "running" is a descriptor for a variable 
+that undergoes changes applied by one or more outside 
+factors in a duration of activity. 
+
+The functions in the network of diagram CRN1 could go
+as such. 
+
+| Function | Formula | Activation | 
+| ------- | ----------- | ---------- | 
+| $G_{S,R_1}$ | $\emptyset$ | pass to end |
+| $G_{R_1,S}$ | $\emptyset$ | pass to end |
+| $G_{S,R_0}$ | $\emptyset$ | pass to end |
+| $G_{R_0,S}$ | $\emptyset$ | pass to end |
+
+**FEDGEG:** Table for edge functions, their formula and activation; (5 x 3).  
+The null formulae for these functions denote any information 
+transmitting along them freely transmits to the corresponding 
+endpoints of the edges. 
+
+
+For each of the node functions, 
+
+$$\begin{equation}
+F_{S}(\overrightarrow{A}) = 
+     \begin{cases}
+      \text{transmit to $R_1$} & \text{if $\overrightarrow{A}$ equals S,} \\ 
+      \text{transmit to $R_0$} & \text{otherwise.} \\ 
+     \end{cases}
+\end{equation}$$
+
+$$\begin{equation}
+F_{R_0}(\overrightarrow{A}) = 
+     \begin{cases}
+      \text{transmit to $S$} & \text{if coin toss is heads,} \\ 
+      \text{terminate flow} & \text{otherwise.} \\ 
+     \end{cases}
+\end{equation}$$
+
+$$\begin{equation}
+F_{R_1}(\overrightarrow{A}) = 
+     \begin{cases}
+      \text{transmit to $S$} & \text{if coin toss is tails,} \\ 
+      \text{switch flow of edge $(S,R_1)$, and transmit on it} & \text{otherwise.} \\ 
+     \end{cases}
+\end{equation}$$
+
+
+
+
+
