@@ -1772,9 +1772,9 @@ of reverence not yet discussed can be put forth after
 elaboration on computational reference networks. 
 Reverence can be further described as a devotion by 
 one, a devotion that is more selfless for the revered 
-than not, and is also a psychological phenomenon 
+than not, and is also psychological phenomena 
 by one that holds the revered in higher esteem 
-and light than even themselves.
+and light than even themself.
 
 A computational reference network can, by way of 
 numerical spaces such as the real numbers (where 
