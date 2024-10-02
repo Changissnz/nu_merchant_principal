@@ -1837,8 +1837,8 @@ information.
 
 In the Game of Reference Identification, the act of 
 "doxing" could entail giving a third-party agent the 
-correct criteria for identifying the source, via the 
-source's precise attributes. In the Game of Breaking 
+correct criteria for identifying the source, via communicating 
+the source's precise attributes. In the Game of Breaking 
 Gridlock, the doxxer (they that act by doxing) provides
 supplementary material, containing knowledge advantageous
 to the recipient, to specific entities as partisan
