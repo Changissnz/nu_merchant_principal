@@ -1812,3 +1812,15 @@ the references, and functions $F_{?}$ are for functional utility.
 The green node represents the function that $S$ acts on 
 in information flow that is functional utility. Source $S$
 is, in synonymous terms, a <ins>reverence node</ins>. 
+
+The Game of Reference Identification is not that similar to a 
+needle-in-the-haystack problem. The task of identifying
+the source and finding the needle appear to be similar 
+in the sense that some unique object must be found. 
+But for the latter objective, the haystack problem typically 
+requires large scales of information to become difficult 
+enough for third parties to identify the needle. The third 
+parties in needle-in-the-haystack problems have to resort 
+to tactics such as brute force, and these tactics require 
+a scale of resources that correlates by some proportion 
+to the size of the haystack. 
