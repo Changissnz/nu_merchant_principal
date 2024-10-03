@@ -1929,7 +1929,7 @@ something that certainly can be interpreted differently
 using the information already possessed. Setting the 
 past as the conservative force (the "axis") for 
 relativistic understanding of present-time costs is
-not as grounded in certainy as those appreciative of 
+not as grounded in certainty as those appreciative of 
 the past may hope to be. 
 
 What is the future in terms of cost? With no regards 
