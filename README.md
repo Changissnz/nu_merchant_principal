@@ -1860,7 +1860,7 @@ discussing the topic of doxing. What if, in adaptive
 systems, the structure nicknamed the "haystack" grows 
 to be insurmountably large in the sense that the doxed 
 information poses no advantage whatsoever? Doxing 
-does not neessarily lead to a certainty in increasing 
+does not necessarily lead to a certainty in increasing 
 the probability of accomplishing some objective in 
 these games mentioned. Doxing can serve as an aggravating 
 force. The attempt to disseminate information, without knowing
@@ -1889,3 +1889,101 @@ opinionated acceptance without rediscovery, bound to the
 lack of light.
 
 ## A Simple Template For Expectations of Cost 
+
+The value of every cost (typically a number in the space of 
+real numbers), when presented to some audience, is expected 
+by one or both the presenter and the audience to be of an 
+authentic measure, according to metrological processes 
+recognized as objective. There is a difference between 
+the value of a cost and the value of a fact, typically 
+presenting themselves in material forms that are agreed
+upon by conventional and well-known methodologies to 
+zero down room for possible advocacy for conflicting 
+valuation. If material forms cannot be acquired on 
+certain facts, then there are alternatives such as 
+replication, retelling, and group consensus as proofs 
+by argument. Cost can be as scant to the solidity of 
+facts as speculation without any mechanism geared 
+towards correctness. Cost is a judgment of some body 
+of facts, and these bodies of facts can be collections 
+of bodies of opinions converted into numerical frequencies. 
+Costs can then be understood as condensation of 
+subjective interpretation of some body of facts 
+into singular values, in the image of fact. 
+
+Some inklings on expectations are first put forth. And 
+these inklings are used to describe a simple template 
+for expectations of cost. A foremost pillar to rely on
+for expectations is the past, given the condition that 
+there was proper accounting on pertinent events and 
+objects of said past and this proper accounting has 
+survived to the present time. With this condition 
+satisfied, the past is a conservative source to refer
+to. The conservative source, even in cases where there
+are falls and faults, serve as templates for understanding
+in manners such as present-time predictive and referential 
+tasks. A second opinion of the past could directly open 
+the possibility to entertain it as something to be 
+revised based on additional information received, or 
+something that certainly can be interpreted differently 
+using the information already possessed. Setting the 
+past as the conservative force (the "axis") for 
+relativistic understanding of present-time costs is
+not as grounded in certainy as those appreciative of 
+the past may hope to be. 
+
+What is the future in terms of cost? With no regards 
+for fictional depictions of utopia necessary, the 
+future is thought of by some to be an ideal to be 
+worked for through risk-averse practices. Or is the 
+future an open-ended question, filled with great 
+possibilities for advances through stochastic 
+experimentation? 
+
+In the paradigm of machine-learning, as sophisticated 
+as the most state-of-the-art algorithms the field 
+has produced, there is one of a few important subproblems. 
+The subproblem is <ins>supervised learning</ins>. 
+It is conducted by computational processes, 
+using data already annotated by descriptors agreed 
+upon by the supervisor to be correct, to "learn" 
+solutions for the data (tagged by descriptors) in 
+a possible space of solutions. Supervised learning 
+is a concept that can certainly accomodate expectations 
+of cost with the "actualities" of cost. To maintain 
+generality of discussion, needless for the nuances 
+of mathematics, the values of cost can be dichotomized 
+into paired values: (the expected, the actual). This 
+constitutes a constant calibrative process to maintain 
+the "factuality" of cost. Table EAST1 shows a modified 
+version of the cost to resources by Silent Trigger, 
+in the Game of Varying Coercion. The cooperative and the 
+actor behind Silent Trigger do not know the value of 
+costs associated with their two respective possibilities. 
+
+| ~~ | Effective Cooperative | Ineffective Cooperative |
+| --- | ---------- | ------ |
+| Bull's Eye | (-3,-4),(-12,-15) | (-1000,-2000),(-50,-30) |
+| Missed Mark | (-30,-29),(-100,-100) | (-1200,-800),(-1000,-300) |
+
+**EAST1:** The table ST1 of section Situational Engineering, each pair of 
+values doubled into (expected,actual) format; (2 x 2).
+
+One major goal of this template, already quite well-known 
+and taught in educational settings on applied mathematics, 
+is to reduce the disorientation from judgments, thought to 
+rest soundly on condensation of quantitative information, 
+that would lead to negatively consequential decisions on 
+a ghastly magnitude. 
+
+Learnability of any problem can pose a security issue to 
+the conservative source, mentioned earlier in this section. 
+If disorientation of a judgment, quantified as big differences
+in values between the expected and actual, does not lead to 
+adverse effects for those that depend on the judgment 
+in some relevant span of time, then the disorientation 
+could become a permanent substitute for the orientation 
+(also referred to in this section as the conservative 
+force, the "axis"). The security issue is the removal 
+of the conservative force that some if not many at the 
+"beginning" strongly upheld as the standard. 
