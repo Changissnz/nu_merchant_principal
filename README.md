@@ -1949,13 +1949,14 @@ using data already annotated using descriptors agreed
 upon by the supervisor to be correct, to "learn" 
 solutions for the data (tagged by descriptors) in 
 a possible space of solutions. Supervised learning 
-is a concept that can certainly accomodate expectations 
-of cost with the "actualities" of cost. To maintain 
-generality of discussion, needless for the nuances 
-of mathematics, the values of cost can be dichotomized 
-into paired values: (the expected, the actual). This 
-constitutes a constant calibrative process to maintain 
-the "factuality" of cost. Table EAST1 shows a modified 
+is a concept that can certainly accomodate the 
+divide between expectations of cost with the 
+"actualities" of cost. To maintain generality of 
+discussion, needless for the nuances of mathematics, 
+the values of cost can be dichotomized into paired 
+values: (the expected, the actual). This constitutes 
+a constant calibrative process to maintain the 
+"factuality" of cost. Table EAST1 shows a modified 
 version of the cost to resources by Silent Trigger, 
 in the Game of Varying Coercion. The cooperative and the 
 actor behind Silent Trigger do not know the value of 
