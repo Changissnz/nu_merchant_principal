@@ -1990,3 +1990,20 @@ of the conservative source that some if not many at the
 "beginning" strongly upheld as the standard. 
 
 ## The Effectiveness of Imagined Fallibilities 
+
+What is left to the imagination may stay in the 
+immediate and constrained realm of the imagining.
+The extremum, meaning the range for this thing 
+called imagination, is so wild and varied, and 
+typically discussed openly (but how honestly is 
+another question) only by drunkards and deceivers.
+Imagination is one of those things that require
+a source for the thinking behind it, and behind 
+said source, a dampening agent who may be called 
+a pessimist by those that do not share their 
+views. The pathologically optimistic do have 
+imaginations that mostly stay unrealized in 
+a structured society. But this section does not
+delve into the societal and neuroscientific 
+aspects of imagination.  
+
