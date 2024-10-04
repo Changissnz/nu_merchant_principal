@@ -1968,7 +1968,7 @@ costs associated with their two respective possibilities.
 | Missed Mark | (-30,-29),(-100,-100) | (-1200,-800),(-1000,-300) |
 
 **EAST1:** The table ST1 of section Situational Engineering, each pair of 
-values doubled into (expected,actual) format; (2 x 2).
+values dichotomized into (expected,actual) format; (2 x 2).
 
 One major goal of this template, already quite well-known 
 and taught in educational settings on applied mathematics, 
@@ -1988,3 +1988,5 @@ could become a permanent substitute for the orientation
 force, the "axis"). The security issue is the removal 
 of the conservative force that some if not many at the 
 "beginning" strongly upheld as the standard. 
+
+## The Effectiveness of Imagined Fallibilities 
