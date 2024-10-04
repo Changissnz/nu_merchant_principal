@@ -1993,7 +1993,7 @@ of the conservative source that some if not many at the
 
 What is left to the imagination may stay in the 
 immediate and constrained realm of the imagining.
-The extremum, meaning the range for this thing 
+The extrema, holding the range for this thing 
 called imagination, is so wild and varied, and 
 typically discussed openly (but how honestly is 
 another question) only by drunkards and deceivers.
