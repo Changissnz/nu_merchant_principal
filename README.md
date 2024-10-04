@@ -1927,7 +1927,7 @@ the possibility to entertain it as something to be
 revised based on additional information received, or 
 something that certainly can be interpreted differently 
 using the information already possessed. Setting the 
-past as the conservative force (the "axis") for 
+past as the conservative source (the "axis") for 
 relativistic understanding of present-time costs is
 not as grounded in certainty as those appreciative of 
 the past may hope to be. 
@@ -1985,8 +1985,8 @@ adverse effects for those that depend on the judgment
 in some relevant span of time, then the disorientation 
 could become a permanent substitute for the orientation 
 (also referred to in this section as the conservative 
-force, the "axis"). The security issue is the removal 
-of the conservative force that some if not many at the 
+source, the "axis"). The security issue is the removal 
+of the conservative source that some if not many at the 
 "beginning" strongly upheld as the standard. 
 
 ## The Effectiveness of Imagined Fallibilities 
