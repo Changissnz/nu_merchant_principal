@@ -2096,3 +2096,24 @@ entry against outsider agents listed as threats. Using
 imaginary value $I$, outsiders $d_0$ and $d_1$ were able
 to obscure their identities and bypassed the guardian 
 agents, thereby infiltrating the five-star network. 
+
+![image info](./images/imaginary_four.PNG)
+
+**IM4:** Adversarial agents $A_0,A_1,$ and $A_2$ are 
+in a connected subnetwork to charge their power by 
+function $f_t$. They use their combined energies to
+channel it outwards against agent $D$. However, the 
+imaginary value $I$ acts as an absorption buffer 
+against the impacts of the loaded fire $F_l(*)$
+from the $A_{*}$ agents. Targeted agent $D$ receives 
+half of the loaded fire through buffer $I$. It 
+redirects this neutralized value back to agent $A_2$,
+in order to provide the adversarial agents with 
+false positive feedback on their loaded fire. The
+half of the fire is directed from the imaginary 
+buffer to the reactive site $R$. When reactive 
+site $R$ acquires enough energy, it sends 
+concentrated energy to the black box function. 
+The black box function sends destroyer functions 
+to each of the agents $A_0,A_1,$ and $A_2$ to 
+neutralize them. 
