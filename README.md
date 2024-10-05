@@ -2049,3 +2049,10 @@ dissipates after the acting agent has acted in some
 way that results in the breaking of certain non-physical 
 laws, and the agent is left to answer to the prescribed 
 consequences of violating these non-physical laws. 
+
+![image info](./images/imaginary_one.PNG)
+**IM1:** Wanted objective in automata is activation of black box. 
+Only agent $B$ can activate blackbox through intermediary $C$.
+Imaginary value $I$ is used to bypass security measures, denoted 
+by edges striked through, by passing the mocked value of $B$ to
+$C$. 
