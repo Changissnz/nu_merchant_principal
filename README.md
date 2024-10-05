@@ -2081,4 +2081,8 @@ communication from imaginary value $I$.
 
 If $I$ relays to agent $C$ non-null communication it 
 received from $A_i$, agent $C$ proceeds to sending 
-$f_d$ to $A_i$. 
+$f_d$ to $A_i$. In the connection between agent $A_i$
+and imaginary value $I$, $A_i$'s continual rejection
+of communication from $I$ means that value $v(A)$ 
+sent to $C$ stays null, so that $C$ does not send 
+the destroyer function after $A_i$. 
