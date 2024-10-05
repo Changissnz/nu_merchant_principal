@@ -2066,7 +2066,7 @@ in a constant security loop. When $I$ sends a request to $A$ to
 send back an "imaginary" reflection of $B$ to it, $A$ complies.
 Then $I$ sends this "imaginary" value to the mocking agent $M$. 
 $M$ mocks the reflection of agent $B$, sends the mocking to $C$, 
-and $C$ activates the black box. The black box, in this automata,
+and $C$ activates the black box. The black box, in this automaton,
 could have only been activated by $B$'s authorization through 
 the intermediary $C$. Although $B$ cut connection to the 
 intermediary, with the goal of eliminating any chance of activating
