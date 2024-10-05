@@ -2104,8 +2104,8 @@ in a connected subnetwork to charge their power by
 function $f_t$. They use their combined energies to
 channel it outwards against agent $D$. However, the 
 imaginary value $I$ acts as an absorption buffer 
-against the impacts of the loaded fire $F_l(*)$
-from the $A_{*}$ agents. Targeted agent $D$ receives 
+against the impacts of the loaded fire $F_l(i)$
+from the $A_{i}$ agents. Targeted agent $D$ receives 
 half of the loaded fire through buffer $I$. It 
 redirects this neutralized value back to agent $A_2$,
 in order to provide the adversarial agents with 
