@@ -2071,3 +2071,14 @@ could have only been activated by $B$'s authorization through
 the intermediary $C$. Although $B$ cut connection to the 
 intermediary, with the goal of eliminating any chance of activating
 the black box, the black box was nevertheless activated. 
+
+![image info](./images/imaginary_two.PNG)
+
+**IM2:** Agent $C$ has the responsibility of sending the 
+destroyer function $f_d$ to agent $A_i$ if it accepts 
+communication from imaginary value $I$. 
+
+
+If $I$ relays to agent $C$ non-null communication it 
+received from $A_i$, agent $C$ proceeds to sending 
+$f_d$ to $A_i$. 
