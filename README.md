@@ -2022,7 +2022,10 @@ subfield of computer science, provides the lexicon
 and methodology to model processes by way of a 
 <ins>directed graph</ins>, similar to the 
 computational reference graph defined and elaborated 
-up on in the section To Be Revered by What. 
+up on in the section To Be Revered by What. The
+automata in this section are illustrations of 
+selected circumstances possibly borne from 
+the acceptance of imagined values. 
 
 One use of imagined values is as a priming 
 factor to activate an effect of an object or a 
