@@ -2051,8 +2051,23 @@ laws, and the agent is left to answer to the prescribed
 consequences of violating these non-physical laws. 
 
 ![image info](./images/imaginary_one.PNG)
+
 **IM1:** Wanted objective in automata is activation of black box. 
 Only agent $B$ can activate blackbox through intermediary $C$.
 Imaginary value $I$ is used to bypass security measures, denoted 
 by edges striked through, by passing the mocked value of $B$ to
 $C$. 
+
+Diagram IM1 starts off at imaginary value $I$. If $I$ were to 
+attempt to communicate with agent $B$, $B$ sends back a destroyer
+function that deletes $I$. Agents $A$ and $B$ are in a coupling 
+situation, such that each reflects their own value to the other
+in a constant security loop. When $I$ sends a request to $A$ to
+send back an "imaginary" reflection of $B$ to it, $A$ complies.
+Then $I$ sends this "imaginary" value to the mocking agent $M$. 
+$M$ mocks the reflection of agent $B$, sends the mocking to $C$, 
+and $C$ activates the black box. The black box, in this automata,
+could have only been activated by $B$'s authorization through 
+the intermediary $C$. Although $B$ cut connection to the 
+intermediary, with the goal of eliminating any chance of activating
+the black box, the black box was nevertheless activated. 
