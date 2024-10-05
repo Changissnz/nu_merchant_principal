@@ -2052,7 +2052,7 @@ consequences of violating these non-physical laws.
 
 ![image info](./images/imaginary_one.PNG)
 
-**IM1:** Wanted objective in automata is activation of black box. 
+**IM1:** Wanted objective in automaton is activation of black box. 
 Only agent $B$ can activate blackbox through intermediary $C$.
 Imaginary value $I$ is used to bypass security measures, denoted 
 by edges striked through, by passing the mocked value of $B$ to
@@ -2087,3 +2087,12 @@ and imaginary value $I$, $A_i$'s continual rejection
 of communication from $I$ means that value $v(A)$ 
 sent to $C$ stays null, so that $C$ does not send 
 the destroyer function after $A_i$. 
+
+![image info](./images/imaginary_three.PNG)
+
+**IM3:** Closed five-star network has two vulnerable 
+ports, with agents $b_0$ and $b_1$ in charge of guarding
+entry against outsider agents listed as threats. Using 
+imaginary value $I$, outsiders $d_0$ and $d_1$ were able
+to obscure their identities and bypassed the guardian 
+agents, thereby infiltrating the five-star network. 
