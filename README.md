@@ -2038,11 +2038,11 @@ the value through their group consensus, then takes
 some grouped sequence of actions based on the 
 validation. In another case of use, imagined values 
 provide "temporary immunity" to an acting agent 
-against non-physical laws, rules that can be broken 
-due to the physical potential but mostly remain 
-abided by due to some prescribed decorum such as 
-social propriety. The "temporary immunity" dissipates 
-after the acting agent has acted in some way that 
-results in the breaking of certain non-physical laws,
-and the agent is left to answer to the prescribed 
+in violating non-physical laws, rules that can be 
+broken due to the physical potential but mostly 
+remain abided by due to some prescribed decorum 
+such as social propriety. The "temporary immunity" 
+dissipates after the acting agent has acted in some 
+way that results in the breaking of certain non-physical 
+laws, and the agent is left to answer to the prescribed 
 consequences of violating these non-physical laws. 
