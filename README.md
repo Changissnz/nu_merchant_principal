@@ -2074,9 +2074,10 @@ the black box, the black box was nevertheless activated.
 
 ![image info](./images/imaginary_two.PNG)
 
-**IM2:** Agent $C$ has the responsibility of sending the 
-destroyer function $f_d$ to agent $A_i$ if it accepts 
-communication from imaginary value $I$. 
+**IM2:** Trap arrangement between Agent $C$ and imaginary 
+value $I$ against agent $A_i$. Agent $C$ has the responsibility 
+of sending the destroyer function $f_d$ to agent $A_i$ if 
+it accepts communication from imaginary value $I$. 
 
 
 If $I$ relays to agent $C$ non-null communication it 
