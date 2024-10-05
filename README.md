@@ -2110,7 +2110,7 @@ half of the loaded fire through buffer $I$. It
 redirects this neutralized value back to agent $A_2$,
 in order to provide the adversarial agents with 
 false positive feedback on their loaded fire. The
-half of the fire is directed from the imaginary 
+other half of the fire is directed from the imaginary 
 buffer to the reactive site $R$. When reactive 
 site $R$ acquires enough energy, it sends 
 concentrated energy to the black box function. 
