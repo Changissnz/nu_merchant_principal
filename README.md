@@ -2024,7 +2024,7 @@ and methodology to model processes by way of a
 computational reference graph defined and elaborated 
 up on in the section To Be Revered by What. 
 
-One use of imagined values is for use as a priming 
+One use of imagined values is as a priming 
 factor to activate an effect of an object or a 
 sequence of events. The activated effect or event/s
 is the actual that emerges from an imagined value. 
@@ -2033,7 +2033,7 @@ take the form of a speculation or conjecture, possibly
 difficult to numerically represent, that transmits 
 itself to agents capable of actions represented by 
 the output of quantitative forms. The agents, upon 
-their reception of the imagined value, validates 
+their reception of the imagined value, validate 
 the value through their group consensus, then takes 
 some grouped sequence of actions based on the 
 validation. In another case of use, imagined values 
