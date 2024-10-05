@@ -2013,7 +2013,7 @@ effect predictable by the nature of the <ins>automaton</ins>
 it is connected to, is not as open-ended as 
 unquantified half-formulated thoughts (the other 
 half is the what is not yet defined), multiple 
-interpretations, and rudimentary principles that  
+interpretations, and rudimentary principles that 
 result in conflicting or specialized designs. 
 Automaton can be materializations of automata 
 theoretics. And automata theoretics is the applied 
