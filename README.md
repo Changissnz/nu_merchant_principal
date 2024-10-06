@@ -2156,7 +2156,7 @@ dimensionality of the numerical structure. The
 reproductive function also does not have to take
 effect on the same index/indices as those of the
 conditional function activating it. The "imaginary 
-value" are the conditional functions. Activation 
+values" are the conditional functions. Activation 
 of the conditional function requires the pertaining 
 "real" value/s of the numerical structure to 
 satisfy its condition. Upon satisfaction, the 
