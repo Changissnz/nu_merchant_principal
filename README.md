@@ -2118,6 +2118,12 @@ The black box function sends destroyer functions
 to each of the agents $A_0,A_1,$ and $A_2$ to 
 neutralize them. 
 
+![image info](./images/imaginary_five.PNG)
+
+**IM5:** Imaginary value $I$ serves as a deludant to 
+agent $A$'s goal of achieving destination $T$. Agent 
+$A$ is deluded into reaching the failpoint $F$. 
+
 Another area of noteworthy interest in which 
 imaginary values produce effects is <ins>reproductive 
 numerical structures</ins>. Two classifications of 
