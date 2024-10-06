@@ -2163,3 +2163,135 @@ satisfy its condition. Upon satisfaction, the
 effect of the "imaginary value" is application of 
 the reproductive function.
 
+## Shifty and Shifting Alliances
+
+Connection as a continuity does not have a 
+particularly wide opening for opportunity in a 
+zero-sum world. The connection does or does
+not exist. There is no task of making connections, 
+competing for connections, and reaping of the 
+ruins after breaking connections. Any ideal 
+recognized in totally static connections would 
+remain that way. Any questioning or dissidence
+against the existence of these certain connections 
+alongside predictable assertion (typically 
+with an agressive tone) for alternative 
+connections that would split the two ends of 
+said connections into their own non-intersectional
+paths is viewed as fool's follies. A disregarding 
+and cold response would be in order. What defiance 
+can outmatch the truthfulness of something very much 
+like physical law? There is no will that has not been 
+grounded by hubris, and what ways stay contained by 
+the powers that be.  
+
+The consideration of fluidity in connective 
+systems, which does not have to be mechanical 
+or procedural, that are susceptible to fluid 
+tendencies do behave in at least somewhat 
+mechanical and procedural ways, even if the 
+outcomes of participants may fare quite poorly 
+with great variance against their wants and 
+forecasts. Standard definitions of the word 
+"alliance" will be explored, via network-like 
+illustrations, of the broad branches by which 
+fluid connections can express effect. Alliances 
+are bodies of agreements between at least two 
+entities. These agreements are evidenced and 
+rationalized as granting benefits (positive or 
+at least non-negative gains) in events that would 
+produce disastrous outcomes if the agreements 
+were not set in place to be executed for said 
+events. First, some written mention of subjective 
+but important questions is put forth. 
+
+What is the cost of making and breaking alliances?
+What premises, including non-physical properties, 
+do alliances rest on? Are the premises that alliances
+rest on mutable not only in minor exemplification 
+but also in stark differences of principle? When 
+do the potential effects of some alliances catalyzed 
+to fullness in outward projection, and what are the 
+default states and activities of these alliances? What 
+is the reliability of an alliance under the hierarchy 
+or overarching objective of an outside force? These 
+questions are difficult to comprehend in the sense 
+that potent (condensed) answers can be originated 
+for fullness in explanation. Competent attempts have 
+been made, and continue to be made. Instead of relying 
+on the broadness of philosophical abstraction, or 
+the efficiency of mathematical formulae, these 
+attempts take the form of fictional/fictionalized 
+works exploring character/organizational dynamics, 
+events and feelings that convolute social divides 
+established in the "beginning", unexpected gains 
+made by those less fortunate by birth but somehow 
+gained the "throne" and legitimacy through acting 
+off of their personal desires against hierarchical 
+imposition, and direct acknowledgment of the fragility 
+of the social order upon one person's violation of 
+their people's socioeconomic code. Recurring themes 
+such as the acceptance of unavoidable tragedies 
+(coming up past the horizon) just to live and pursue 
+the desires of the soul and mind for the moment, the 
+breaking of state or tribal bonds in the name of a 
+greater ends with promises outweighing what monstrous 
+means are necessary or even enjoyable to pursue, due 
+to some growing distaste for a crumbling society 
+led by those still stubborn enough to acknowledge 
+the decadence of conserving the original paradigm, 
+are also well-represented in works of foreign lands 
+that went through their own reformation processes. 
+As brilliant and illuminating as some of these works 
+are, there are underlying attitudes in the more 
+anarchist varieties that some laws (predominantly 
+social/legal laws) are to be scoffed at, no need for 
+any serious one to acknowledge them or their regulators 
+in charge of them, and what acknowledgment is given 
+to these laws is relegated to contrarian hooligans 
+and anti-establishment charlatans, a fitting and unserious 
+resistance. These works tend to also draw their 
+primary source of narration in the temporal perspective: 
+an attitude of "there is really no past or present, 
+but things just are so let things be, let us be...".
+Lastly, sensuality and emotionalism taint the clarity
+of understanding the principles (a lack of principle 
+is a principle in these works) that drive characters 
+and events to narrative climax and conclusions. 
+
+To state that shifty and shifting alliances can be 
+easily re-enacted through computational modeling 
+will be expectedly challenged. Computational modeling 
+does strip away a lot of convolution that is both 
+"enjoyable" for readers of works, concerning shifty 
+and shifting alliances, and horrendous for those that 
+have experienced real-life events predominated by these 
+types of alliances. Computational modeling does provide
+bases easily comprehendable, although there is the 
+incompleteness found in specification and illumination, 
+and just as importantly, the egregious faults that can 
+come with mishandling by misconstruction in the usage 
+of these bases.
+
+These two diagrams show two graph units that can be 
+used to represent one entity. 
+
+![image info](./images/ssa_one.PNG)
+
+**SA1:** Uniform graph unit, depicting an entity.
+
+
+![image info](./images/ssa_two.PNG)
+
+**SA2:** Hierarchical graph unit, depicting an entity.
+
+The first diagram is a single node, a visualization of 
+the wholeness of an entity under uniformity (attributes 
+and values evenly dispersed). The second diagram consists 
+of three nodes, with the blue node being the lead and 
+the other two as sub-ordinate equals. These units for 
+representing entities operate by "smart" network
+functionalities, exhibited by autonomous actions taken 
+after appropriate objectives and corresponding training 
+have taken place with the aims of reliably choosing 
+maximally-gainful decisions.
