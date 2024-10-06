@@ -2216,12 +2216,12 @@ default states and activities of these alliances? What
 is the reliability of an alliance under the hierarchy 
 or overarching objective of an outside force? These 
 questions are difficult to comprehend in the sense 
-that potent (condensed) answers can be originated 
-for fullness in explanation. Competent attempts have 
-been made, and continue to be made. Instead of relying 
-on the broadness of philosophical abstraction, or 
-the efficiency of mathematical formulae, these 
-attempts take the form of fictional/fictionalized 
+that potent (condensed) answers can be fallaciously 
+originated for fullness in explanation. Competent 
+attempts have been made, and continue to be made. 
+Instead of relying on the broadness of philosophical 
+abstraction, or the efficiency of mathematical formulae, 
+these attempts take the form of fictional/fictionalized 
 works exploring character/organizational dynamics, 
 events and feelings that convolute social divides 
 established in the "beginning", unexpected gains 
@@ -2268,10 +2268,10 @@ and shifting alliances, and horrendous for those that
 have experienced real-life events predominated by these 
 types of alliances. Computational modeling does provide
 bases easily comprehendable, although there is the 
-incompleteness found in specification and illumination, 
-and just as importantly, the egregious faults that can 
-come with mishandling by misconstruction in the usage 
-of these bases.
+lack of "completeness" (closure) that is found in 
+specification and illumination, and just as importantly, 
+the egregious faults that can come with mishandling by 
+misconstruction through the usage of these bases.
 
 These two diagrams show two graph units that can be 
 used to represent one entity. 
