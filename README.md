@@ -2012,17 +2012,17 @@ that lends influence into an actual for an
 effect predictable by the nature of the <ins>automaton</ins>
 it is connected to, is not as open-ended as 
 unquantified half-formulated thoughts (the other 
-half is the what is not yet defined), multiple 
+half is what is not yet defined), multiple 
 interpretations, and rudimentary principles that 
 result in conflicting or specialized designs. 
-Automaton can be materializations of automata 
+Automata can be materializations of automata 
 theoretics. And automata theoretics is the applied 
 practice of automata theory. Automata theory, a 
 subfield of computer science, provides the lexicon 
 and methodology to model processes by way of a 
 <ins>directed graph</ins>, similar to the 
 computational reference graph defined and elaborated 
-up on in the section To Be Revered by What. The
+upon in the section To Be Revered by What. The
 automata in this section are illustrations of 
 selected circumstances possibly borne from 
 the acceptance of imagined values. 
@@ -2043,10 +2043,10 @@ validation. In another case of use, imagined values
 provide "temporary immunity" to an acting agent 
 in violating non-physical laws, rules that can be 
 broken due to the physical potential but mostly 
-remain abided by due to some prescribed decorum 
+remain abided by for some prescribed decorum 
 such as social propriety. The "temporary immunity" 
 dissipates after the acting agent has acted in some 
-way that results in the breaking of certain non-physical 
+way resulting in the breaking of certain non-physical 
 laws, and the agent is left to answer to the prescribed 
 consequences of violating these non-physical laws. 
 
