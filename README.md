@@ -2117,3 +2117,43 @@ concentrated energy to the black box function.
 The black box function sends destroyer functions 
 to each of the agents $A_0,A_1,$ and $A_2$ to 
 neutralize them. 
+
+Another area of noteworthy interest in which 
+imaginary values produce effects is <ins>reproductive 
+numerical structures</ins>. Two classifications of 
+structures capable of "reproduction" are vectors, 
+sequences of numbers, and matrices, sequences of 
+numbers structured into a dimensional format greater 
+than single dimension. The utility of imaginary 
+values could behave differently from the standard 
+imaginary number "i". As a reminder, the imaginary 
+number "i" follows this multiplicative pattern:  
+$[i,-1,-i,1].$  
+
+In this section's definition of reproductive 
+numerical structures, every index of the structure
+is associated with a process function. Each process 
+function has two components:   
+1. a conditional function
+2. a reproductive function that is applied to some 
+   arbitrary indices of the numerical structure if 
+   the conditional function is satisfied. 
+
+This definition is rather scant and allows for 
+practices open-ended in effects. The conditional 
+function, for example, could involve more values 
+outside of the number at the arbitrary index 
+of focus. The reproductive function could add 
+more numbers to the numerical structure, and 
+in turn, modifies the size and possibly 
+dimensionality of the numerical structure. The
+reproductive function also does not have to take
+effect on the same index/indices as those of the
+conditional function activating it. The "imaginary 
+value" are the conditional functions. Activation 
+of the conditional function requires the pertaining 
+"real" value/s of the numerical structure to 
+satisfy its condition. Upon satisfaction, the 
+effect of the "imaginary value" is application of 
+the reproductive function.
+
