@@ -2293,5 +2293,5 @@ the other two as sub-ordinate equals. These units for
 representing entities operate by "smart" network
 functionalities, exhibited by autonomous actions taken 
 after appropriate objectives and corresponding training 
-have taken place with the aims of reliably choosing 
-maximally-gainful decisions.
+have taken place with the aims of reliably deciding on  
+maximally-gainful choices.
