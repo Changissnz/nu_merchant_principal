@@ -2295,3 +2295,53 @@ functionalities, exhibited by autonomous actions taken
 after appropriate objectives and corresponding training 
 have taken place with the aims of reliably deciding on  
 maximally-gainful choices.
+
+Suppose there is a central factor $C$ of interest in an 
+alliance of entities. Each entity is hierarchically 
+organized as such in diagram SA2. For two entities 
+$E_0,E_1$, an alliance takes the form of either a 
+shared node between $E_0$ and $E_1$, or an edge 
+connecting one node of $E_0$ to $E_1$. When the 
+central factor $C$ makes a connection to one of 
+$E_0$ or $E_1$ via an edge, there are a few 
+possibilities that can occur. Hierarchical graph 
+units are predominantly used by concepts and 
+calculations, concerning alliances, in the 
+remaining of this section. There is preference 
+for this variant of unit, used in this discussion, 
+since it allows for more sophistication through its 
+three-ness of an entity, and calculations involving
+three-node entities would also apply to one-node 
+entities. Additional sophistication from three-node 
+entities enacts effect from the structure's hierarchy 
+(lead,sub-ordinates) and greater default connectivity 
+(three-node VS. one-node) which, in turn, could lead 
+to a scale of decisions multiple of those in 
+one-node structures. There can, of course, be 
+one-node entities with features (functions, 
+programmatic rules) that enact hierarchical 
+relations outside of the three-node model, but 
+there is diversification in this option that 
+oversteps the wanted base brevity in depicting 
+alliances as changing networks. Innumerable 
+network designs, for use in modeling automata 
+of the variety that is connected systems 
+(synonymously, alliances), exist out of thin 
+air. In order to contain the discussion in this 
+section, there is no further mention of alternative 
+models for graphical units, used as building 
+blocks in complex connectivity. 
+
+Entities, by the hierarchical graph unit, can be 
+structured as a "mesh", the connectivity signifying 
+an "alliance" between entities. 
+
+![image info](./images/ssa_three.PNG)
+
+**MESH1:** A mesh structure connecting 8 entities together. 
+These 8 entities are "allied" with each other. The graph 
+is entirely connected; there are no two nodes without a 
+sequence of edges between them. Note the ambiguity in entities 
+with more than one blue (lead) node. In these entities, there 
+are "toss-up" procedures to yield the "lead" node. These procedures 
+can produce different nodes for leads at different instances in time. 
