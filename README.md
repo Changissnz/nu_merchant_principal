@@ -2500,12 +2500,12 @@ alliance, consisting of connected entities. Focus is shifted
 from the perspective/s of the "alliance" to that of the 
 "alliance" factor. There is a game in play here. It is called 
 the Game of Sliding Alliances, to be elaborated on after 
-some discussion on pertinent concepts. The "alliance" factor 
+some mention on pertinent variables. The "alliance" factor 
 does not have to stay connected to one single node during 
 a duration. There are a few big tenets in the decision for 
 one to accept the inviting connection from another. These 
 tenets do rest in the realm of pragmatism; as an aside, the 
-heart and soul really knows no bound in expression from 
+heart and soul really know no bound in expression from 
 a statistical observation. The tenets are 
 - initial,median,potential gains as measurements of the 
   prospective connection's functionality, 
@@ -2514,3 +2514,36 @@ a statistical observation. The tenets are
 - risk assessment of the prospective connection, based on their 
   - historical records,
   - reception from peers. 
+
+In the Game of Sliding Alliances, the objective of the 
+"alliance" factor is to establish connection with each 
+constituent of an alliance. The "one" mentioned in relation 
+to the tenets previously listed is the current constituent 
+of connection to the "alliance" factor. And the "alliance" 
+factor can only be connected to one constituent, a node in 
+the representational schema of graphs, at any single 
+instance. Furthermore, for each constituent, the "alliance" 
+factor is to accomplish some objective such as recreational 
+experience (to set the start for long-lasting relations), 
+gather information on the constituent (relations), and 
+conduct exchanges (material/immaterial goods). Potential 
+problems emerge for the "alliance" factor when they 
+break connection to one constituent that goes against 
+the constituent's expectations or interests, usually 
+communicated to the "alliance" factor in some form,
+with the goal of transparency for their defined commitment 
+to the connection. A sub-challenge for the "alliance" 
+factor would be for them to justify their decisions,
+that which may violate terms set by each of the 
+constituents they proceed to connect to in this 
+game. These justifications could rest on areas such 
+as the "alliance" factor's default state of lacklusterness,
+a state understandable from a mainstream-rational 
+perspective to be impossibly conducive to fulfilling 
+set terms of agreement, as well as deficits in prior 
+constituent connections. 
+
+Quantitation is best implemented and continually revised 
+for this Game of Sliding Alliances, after pertinent 
+variables and their arbitrary orders of derivatives 
+are accurately laid out. 
