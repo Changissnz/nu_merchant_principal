@@ -2532,16 +2532,23 @@ break connection to one constituent that goes against
 the constituent's expectations or interests, usually 
 communicated to the "alliance" factor in some form,
 with the goal of transparency for their defined commitment 
-to the connection. A sub-challenge for the "alliance" 
-factor would be for them to justify their decisions,
-that which may violate terms set by each of the 
-constituents they proceed to connect to in this 
-game. These justifications could rest on areas such 
-as the "alliance" factor's default state of lacklusterness,
-a state understandable from a mainstream-rational 
-perspective to be impossibly conducive to fulfilling 
-set terms of agreement, as well as deficits in prior 
-constituent connections. 
+to the connection. Equivalently, the same problems may 
+arise when the "alliance" factor establishes a connection 
+to a different constituent that results in a previous 
+constituent's judgment of being disadvantaged in some 
+form. A sub-challenge for the "alliance" factor would 
+be for them to justify their decisions, that which may 
+violate terms set by each of the constituents they 
+proceed to connect to in this game. These justifications 
+could rest on areas such as the "alliance" factor's 
+default state of lacklusterness, a state understandable 
+from a mainstream-rational perspective to be impossibly 
+conducive to fulfilling set terms of agreement, as well 
+as deficits in prior constituent connections. And if 
+these justifications appear plausible to a constituent, 
+this constituent feeling violated of the terms it set 
+with the "alliance" factor, then the constituent may 
+fold (yield way) to the decision/s. 
 
 Quantitation is best implemented and continually revised 
 for this Game of Sliding Alliances, after pertinent 
