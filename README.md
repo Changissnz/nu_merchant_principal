@@ -2457,16 +2457,49 @@ connects to it.
 
 ![image info](./images/ssa_seven.PNG)
 
-**ALLT:** Mapping for the behaviorial effects of nodes in alliance 
-MESH1. These are the pre-programmed (premeditated, planned, declared,
-et cetera) rules that every constituent of the alliance agreed upon
-if "alliance" factor $F$ were to establish a connection with one 
-of them. Positive signs denote "promotion" of the node, meaning that
+**ALLT:** Mapping for the behaviorial effects of nodes, in alliance 
+MESH1, from connecting to "alliance" factor F. These are the 
+pre-programmed (premeditated, planned, declared,et cetera) rules 
+that every constituent of the alliance agreed upon if "alliance" 
+factor $F$ were to establish a connection with one of them. 
+Positive signs denote "promotion" of the node, meaning that
 the node receives a higher standing in some metric. And negative signs
 denote "demotion". 
 
 There are less than ten nodes in this situation, and even with 
-these simple rules, for there are no hard numbers or formula 
+these simple rules, for there are no hard numbers or formulae 
 telling how to proceed with "promotion" and "demotion", these 
 calculations are not so simple as solving standard algebraic 
-systems of equations. 
+systems of equations. In this conceptualization, the base 
+assumption is that if there was no "alliance" factor to begin 
+with, then the constituents of an alliance would go about 
+their procedures as put forth beforehand in their agreements
+constituting the alliance. The "alliance" factor serves as 
+a body of sorts for the causality behind why and how an 
+alliance can transform itself over time. There is no mention 
+of what specific real-life nouns and verbs would act as an
+"alliance" factor. The subjectivity could really go on for 
+a while from there.
+
+A prime aspect to consider for constituents of alliances, 
+in spans of existence where an "alliance" factor plays 
+an existing role, is the dichotomy of expected VS actual. 
+The expected would be the body of agreements put forth by 
+the constituents as a collective, for the alliance. And 
+the actual is how those constituents act on their 
+pre-programmed courses of actions. A little cliche mention 
+on the application of free will in these constituents' 
+actualization: for an entity, does their taking a 
+different course of action from that prescribed in 
+the formation of the alliance demonstrate it to be 
+"more free than not"?
+
+So far, this section has focused primarily on the effects of 
+some arbitrary force called an "alliance" factor onto an 
+alliance, consisting of connected entities. Focus is shifted 
+from the perspective/s of the "alliance" to that of the 
+"alliance" factor. There is a game in play here. It is called 
+the Game of Sliding Alliances, to be elaborated on after 
+some discussion on pertinent concepts. The "alliance" factor 
+does not have to stay connected to one single node during 
+a duration. 
