@@ -2296,18 +2296,9 @@ after appropriate objectives and corresponding training
 have taken place with the aims of reliably deciding on  
 maximally-gainful choices.
 
-Suppose there is a central factor $C$ of interest in an 
-alliance of entities. Each entity is hierarchically 
-organized as such in diagram SA2. For two entities 
-$E_0,E_1$, an alliance takes the form of either a 
-shared node between $E_0$ and $E_1$, or an edge 
-connecting one node of $E_0$ to $E_1$. When the 
-central factor $C$ makes a connection to one of 
-$E_0$ or $E_1$ via an edge, there are a few 
-possibilities that can occur. Hierarchical graph 
-units are predominantly used by concepts and 
-calculations, concerning alliances, in the 
-remaining of this section. There is preference 
+Hierarchical graph units are predominantly used 
+in conceptualization and calculations, concerning alliances, 
+in the remaining of this section. There is preference 
 for this variant of unit, used in this discussion, 
 since it allows for more sophistication through its 
 three-ness of an entity, and calculations involving
@@ -2321,20 +2312,27 @@ one-node structures. There can, of course, be
 one-node entities with features (functions, 
 programmatic rules) that enact hierarchical 
 relations outside of the three-node model, but 
-there is diversification in this option that 
-oversteps the wanted base brevity in depicting 
-alliances as changing networks. Innumerable 
-network designs, for use in modeling automata 
-of the variety that is connected systems 
-(synonymously, alliances), exist out of thin 
-air. In order to contain the discussion in this 
-section, there is no further mention of alternative 
-models for graphical units, used as building 
-blocks in complex connectivity. 
+the vast diversification in this option oversteps 
+the wanted base brevity in depicting alliances 
+as changing networks. Innumerable network designs, 
+for use in modeling automata of the variety that 
+is connected systems (synonymously in this section, 
+alliances), exist out of thin air. In order to contain 
+the discussion in this section, there is no further 
+mention of alternative models for graphical units, 
+used as building blocks in complex connectivity. 
 
 Entities, by the hierarchical graph unit, can be 
 structured as a "mesh", the connectivity signifying 
-an "alliance" between entities. 
+an "alliance" between entities. To clarify for this 
+section's design, though, an "alliance" does not 
+have to necessarily have to exist as a mesh. For 
+there to be an alliance between two entities, at 
+least one of two conditions have to be satisfied:
+- there is an edge connecting one node of one entity
+  to another node of the other entity,
+- there is a node shared by the two entities. 
+
 
 ![image info](./images/ssa_three.PNG)
 
@@ -2345,3 +2343,17 @@ sequence of edges between them. Note the ambiguity in entities
 with more than one blue (lead) node. In these entities, there 
 are "toss-up" procedures to yield the "lead" node. These procedures 
 can produce different nodes for leads at different instances in time. 
+
+Suppose there is a central factor $C$ of interest in an 
+alliance of entities; $C$ is also deemed an "alliance" 
+factor. Each entity is hierarchically organized as 
+such in diagram SA2. When the central factor $C$ 
+makes a connection to one of $E_0$ or $E_1$ via an 
+edge, there are a few possibilities that can occur.
+The category of open knowledge is quite relevant in 
+interactions between entities. If there is open (instead 
+of closed) knowledge between entities, then each entity 
+knows every other entity's constituent nodes, and 
+additionally knows what new connections, in the form 
+of edges to nodes external to the entity, are 
+established. 
