@@ -2356,4 +2356,65 @@ of closed) knowledge between entities, then each entity
 knows every other entity's constituent nodes, and 
 additionally knows what new connections, in the form 
 of edges to nodes external to the entity, are 
-established. 
+established. Without open knowledge, a new connection 
+to a network, which may be disconnected, is known
+only to entities with an affected node. 
+
+![image info](./images/ssa_four.PNG)
+
+**MESH2:** The same mesh network from diagram MESH1, with 
+an "alliance" factor $F$ connected to node $B$. 
+
+The entities $\{B,a_0,b_0\}$, $\{B,a_0,a_1\}$, 
+and $\{B,C,a_1\}$ are affected. Consider the case of 
+closed knowledge, with respect to new connections, 
+with these three entities. The other five do not know.
+The lead node for the first two entities is $B$, but for 
+the last, there are the candidates $B$ and $C$ as the 
+lead. A safe assumption can be made that for any entity 
+with a node size greater than one, a new connection to 
+the entity will trigger calculations between the other 
+nodes of said entity without the new connection. These 
+calculations result in some broad categories of possibilities
+with regards to node decisions. 
+
+One category is change of rank. A new connection to a 
+node of an entity can increase or decrease its rank with 
+respect to the entity's remaining nodes. A lead node could
+become a subordinate equal to another, and vice-versa. 
+Another category is change of alliance. Recall this section's
+formal definition of an alliance, with regards to graphs. 
+A new connection from an "alliance" factor could severe 
+existing alliances between entities. If there is a node 
+shared between two entities, the entities may engage in a
+toss-up to determine sole ownership of the shared node. 
+The defeated entity, now consisting of only two nodes, 
+is a broken one that no longer fits the three-node 
+definition of a hierarchical unit. But if there is only 
+an edge shared between two entities, then only the edge 
+is shattered, separating them two into their own "domains". 
+A new connection to an "alliance" factor could also form 
+an "alliance" between two entities previously not allied. 
+The naming of these two categories of change is somewhat
+of misnomer. A change in rank within an entity could, in 
+real-world applications, cause irreconciliable differences 
+between the constituents of the entity that would impend 
+on the entity's maintenance of unity. 
+
+Another important aspect to consider is the design, 
+intentional or not, of the "ripple" effect from the 
+new connection to the "alliance" factor. With open 
+knowledge, all involved entities are aware of the 
+"alliance" factor's activity. The "alliance" factor 
+produces changes onto the other entities not directly
+connected to it, and these changes fall under the 
+categories mentioned in the previous paragraph, change
+of rank and change of alliance. Probability curves 
+alongside pre-programmed rules and algebraic equations 
+are standard mathematical tools in use to predict and 
+replicate this kind of "ripple" effect onto networks. 
+In diagram MESH2, entities $\{A,a_0,a_1\}$ and $\{A,D,a_1\}$
+could attempt a negative change of alliance from some 
+subset of the three involved entities connected to $F$, 
+the "alliance" factor, due to what they judge as changes 
+disadvantageous to their positioning to those entities. 
