@@ -2560,4 +2560,5 @@ fall out of the bounds of rudimentary quantitation.
 
 This section relies on the conceptualization of automata
 as Conway's Game of Life, invented by British mathematician 
-John Horton Conway. 
+John Horton Conway, to aid with describing possible 
+deltas in "alliances", as depicted by graphs. 
