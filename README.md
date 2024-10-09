@@ -2438,6 +2438,14 @@ a connection to an "alliance" factor.
 ![image info](./images/ssa_five.PNG)
 
 **MESH3:** A result from the changes produced from a new 
-connection to "alliance" factor $F$. Node $B$ is denoted to 
-a clear sub-ordinate, with node $b_0$ assuming the lead. 
-Dash lines signify previous edges now shattered. 
+connection to "alliance" factor $F$; see reference MESH2. 
+Node $B$ is demoted to a clear sub-ordinate, with node 
+$b_0$ assuming the lead. Dash lines signify previous edges 
+now shattered. 
+
+![image info](./images/ssa_six.PNG)
+
+**MESH4:** "Alliance" factor $F$ connected to node $B$ results
+in a new alliance with entity $\{B,b_0,b_1\}$, denoted by the dashed 
+line. The green node $a_1$ is to assume the lead of the entity 
+$\{A,a_0,a_1\}$ due to the entity's new alliance.
