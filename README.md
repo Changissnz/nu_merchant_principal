@@ -2420,17 +2420,24 @@ the "alliance" factor, due to what they judge as changes
 disadvantageous to their positioning to those entities. 
 
 Open and closed knowledge are labels with quite complicated 
-solutions, usually specialized and cross-referenced in 
-real-world practices. There is, however, a concise principle 
-on how entities may operate in open versus closed knowledge 
-environments. In open knowledge environments, the entities 
-would know what new connections to "alliance" factors occur. 
-In closed knowledge environments, each entity would have 
+solutions for perfect-information objectives, usually specialized 
+and cross-referenced in real-world practices. There is, however, 
+a concise principle on how entities may operate in open versus 
+closed knowledge environments. In open knowledge environments, 
+the entities would know what new connections to "alliance" factors 
+occur. In closed knowledge environments, each entity would have 
 to deduce if there are new connections to other entities 
 based on its independent observation of the other entities' 
 operational changes. To elaborate, does the other entity 
 output higher or lower quality values? Does the other 
-entity "behave differently" to its peers? If these two 
-questions produce YES as answers, then there is a non-zero 
-chance that the other entity may have established a connection
-to an "alliance" factor.  
+entity "behave differently" to its peers? If either one of
+these two questions produce YES as answers, then there is 
+a non-zero chance that the other entity may have established 
+a connection to an "alliance" factor.  
+
+![image info](./images/ssa_five.PNG)
+
+**MESH3:** A result from the changes produced from a new 
+connection to "alliance" factor $F$. Node $B$ is denoted to 
+a clear sub-ordinate, with node $b_0$ assuming the lead. 
+Dash lines signify previous edges now shattered. 
