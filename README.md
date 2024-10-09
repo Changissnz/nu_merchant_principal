@@ -2557,3 +2557,7 @@ are accurately laid out. Vast subjectivity in real-life
 practices, including but not limited to stylistic 
 preferences and stochastic decision-making principles 
 fall out of the bounds of rudimentary quantitation. 
+
+This section relies on the conceptualization of automata
+as Conway's Game of Life, invented by British mathematician 
+John Horton Conway. 
