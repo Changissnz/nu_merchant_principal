@@ -2502,4 +2502,15 @@ from the perspective/s of the "alliance" to that of the
 the Game of Sliding Alliances, to be elaborated on after 
 some discussion on pertinent concepts. The "alliance" factor 
 does not have to stay connected to one single node during 
-a duration. 
+a duration. There are a few big tenets in the decision for 
+one to accept the inviting connection from another. These 
+tenets do rest in the realm of pragmatism; as an aside, the 
+heart and soul really knows no bound in expression from 
+a statistical observation. The tenets are 
+- initial,median,potential gains as measurements of the 
+  prospective connection's functionality, 
+- initial,median,potential losses from establishing and 
+  maintaining the connection, 
+- risk assessment of the prospective connection, based on their 
+  - historical records,
+  - reception from peers. 
