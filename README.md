@@ -2550,13 +2550,13 @@ this constituent feeling violated of the terms it set
 with the "alliance" factor, then the constituent may 
 fold (yield way) to the decision/s. 
 
-Quantitation is best implemented and continually revised 
+Quantification is best implemented and continually revised 
 for this Game of Sliding Alliances, after pertinent 
 variables and their arbitrary orders of derivatives 
 are accurately laid out. Vast subjectivity in real-life 
 practices, including but not limited to stylistic 
 preferences and stochastic decision-making principles 
-fall out of the bounds of rudimentary quantitation. 
+fall out of the bounds of rudimentary quantification. 
 
 This section relies on the conceptualization of automata
 as Conway's Game of Life, invented by British mathematician 
