@@ -2440,8 +2440,8 @@ a connection to an "alliance" factor.
 **MESH3:** A result from the changes produced from a new 
 connection to "alliance" factor $F$; see reference MESH2. 
 Node $B$ is demoted to a clear sub-ordinate, with node 
-$b_0$ assuming the lead. Dash lines signify previous edges 
-now shattered. 
+$b_0$ assuming the lead. Dash lines signify previous 
+connections now shattered. 
 
 ![image info](./images/ssa_six.PNG)
 
@@ -2449,3 +2449,24 @@ now shattered.
 in a new alliance with entity $\{B,b_0,b_1\}$, denoted by the dashed 
 line. The green node $a_1$ is to assume the lead of the entity 
 $\{A,a_0,a_1\}$ due to the entity's new alliance.
+
+Some rules for "alliances" (for a jolly time, till kingdom 
+come) are in order. This table below maps the action that a 
+node takes alongside actions that other nodes take if $F$ 
+connects to it. 
+
+![image info](./images/ssa_seven.PNG)
+
+**ALLT:** Mapping for the behaviorial effects of nodes in alliance 
+MESH1. These are the pre-programmed (premeditated, planned, declared,
+et cetera) rules that every constituent of the alliance agreed upon
+if "alliance" factor $F$ were to establish a connection with one 
+of them. Positive signs denote "promotion" of the node, meaning that
+the node receives a higher standing in some metric. And negative signs
+denote "demotion". 
+
+There are less than ten nodes in this situation, and even with 
+these simple rules, for there are no hard numbers or formula 
+telling how to proceed with "promotion" and "demotion", these 
+calculations are not so simple as solving standard algebraic 
+systems of equations. 
