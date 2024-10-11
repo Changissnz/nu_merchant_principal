@@ -2695,3 +2695,19 @@ legacy, promotion of alien competition, and invitation
 for hypocrisy, these nu ideals can pave the way for 
 destabilization if not wholly adopted. 
 
+Simple mechanisms for preserving the uniqueness of 
+practices and products borne from sophistication processes 
+include the well-known (maybe under different phrasing)
+"hole for the sophisticated". This "hole for the sophisticated"
+is a prime objective of strategies to contain the uniqueness
+of the sophisticated from public knowledge that can be 
+used to replicate the sophisticated. And the replication 
+would definitely be a force of competition through 
+ironically supplanting the sophisticated, in a cyclical 
+turn-based adaptation pattern. The sophisticated are to 
+remain in this hole due to greater society's poor knowledge
+of the sophistication process and as importantly, the 
+utility of the sophisticated. In contexts of scarcity, 
+mass desires to utilize the sophisticated may backfire 
+on the mass as a collective as each have to outcompete
+their fellow contenders on the path to utilization. 
