@@ -2590,8 +2590,8 @@ black box $J$). The self-loop from $F$ to itself is a meditative
 function, allowing it to continually revise and review its strategy
 and exhibited tactics with new information/resources. 
 The strategy of $F$ (not displayed in diagram) is to establish 
-meaningful connections with the lead nodes of the two entities 
-that result in positive outcomes for them two. Then, by the 
+meaningful connections with the lead nodes of the two entities,
+resulting in positive outcomes for them two. Then, by the 
 desired well-meaning history of the two lead nodes with respect
 to $F$, the other nodes will be more receptive and condoning 
 to $F$'s activity. 
