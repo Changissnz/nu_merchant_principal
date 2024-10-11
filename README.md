@@ -2721,14 +2721,38 @@ could be described as "weaknesses" from sophistication
 are exclusivity, higher rates of failure through a 
 combination of less guidance and greater amounts of 
 experimentation, and naturally less verification of 
-methodology by peers fewer in numbers. And sophistication, 
+methodology by peers fewer in numbers. And the sophisticated, 
 when recognized, stands out in society in ways that garner
 reactions such as nuisances (maybe even threats) in 
 some way, shape, or form to their privacy. Important 
-questions to ask is, how risky is the sophistication 
+questions to ask are: how risky is the sophistication 
 process, and how fragile is the sophisticated from this
 process? The valuation, as numbers or descriptors supposed 
 to be "objective", relies on calculations of the 
 juxtaposition between the fragility (weaknesses) of 
 the sophisticated and its effectiveness as a magnitude 
-onto metrics that concern some objective/s. 
+onto metrics that concern some objective/s. The 
+beginning of this section mentions the "sophisticated 
+and competent" as centers where envy is aimed at. 
+The meaning of the word "competent", from a defense 
+perspective, is the resilience against outside forces 
+that do not approve of the sophistication/sophisticated 
+in question. Can those that are undergoing sophistication 
+stand up to the tried-and-true, those that may have 
+nothing better to do than to challenge by interrupting 
+their "transformations" or subverting their livelihood? 
+If the answer is YES, then surely, the sophisticated 
+and competent have something new to offer out of their
+reliability and unique strengths brought forward against
+those of the tried-and-true side. 
+
+To adopt sophistication processes and proliferate the 
+sophisticated is a trade-off decision problem, these 
+problems being very frequent in economic decisions. 
+In some cases, sophistication processes yield no 
+improvements that can be objectively measured. They 
+are simply trends, different lines of thinking and 
+practicing and producing, that may turn out to be 
+cause for contempt from others that view themselves 
+as the origin and the sophisticated as the diversified 
+"children" challengers. 
