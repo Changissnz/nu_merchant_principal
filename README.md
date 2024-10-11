@@ -2589,6 +2589,12 @@ constituents of the "alliance" (all nodes except for $F$ and
 black box $J$). The self-loop from $F$ to itself is a meditative
 function, allowing it to continually revise and review its strategy
 and exhibited tactics with new information/resources. 
+The strategy of $F$ (not displayed in diagram) is to establish 
+meaningful connections with the lead nodes of the two entities 
+that result in positive outcomes for them two. Then, by the 
+desired well-meaning history of the two lead nodes with respect
+to $F$, the other nodes will be more receptive and condoning 
+to $F$'s activity. 
 
 This section relies on the conceptualization of automata
 as Conway's Game of Life, invented by British mathematician 
