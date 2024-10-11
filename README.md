@@ -2790,4 +2790,7 @@ sophistication process.
 ownership over the proliferation stage of the sophistication 
 process. The conservative process maintains its original 
 components, and only intends to possess the product of 
-the sophisticaton process. 
+the sophistication process. 
+
+## The Sophisticated As Behavior After Appearance 
+
