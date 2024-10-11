@@ -2588,7 +2588,7 @@ and $f_a^{(2)}$ are functions used to establish connections to
 constituents of the "alliance" (all nodes except for $F$ and 
 black box $J$). The self-loop from $F$ to itself is a meditative
 function, allowing it to continually revise and review its strategy
-and exhibited tactics with new information/resources. 
+and exhibited tactics by using new information/resources. 
 The strategy of $F$ (not displayed in diagram) is to establish 
 meaningful connections with the lead nodes of the two entities,
 resulting in positive outcomes for them two. Then, by the 
@@ -2755,4 +2755,36 @@ are simply trends, different lines of thinking and
 practicing and producing, that may turn out to be 
 cause for contempt from others that view themselves 
 as the origin and the sophisticated as the diversified 
-"children" challengers. 
+"children" challengers. Other times, they are preferences 
+in lines of decision-making. These preferences may prove 
+to be superior to their more frequent counterparts. 
+And their more frequent counterparts may be used 
+more oftentime due to their lower risk of failure 
+in executing some task. Some ending diagrams show 
+how sophistication may fare alongside long-standing 
+and conservative approaches.
+
+![image info](./images/ds_four.PNG)
+
+**DS1:** Two processes, a sophistication process denoted by $s_i$ 
+nodes in a sequence, and a conservative (original) counterpart 
+process denote by the $c_i$ nodes. 
+
+![image info](./images/ds_one.PNG)
+
+**DS2:** The conservative process attempts to disrupt the 
+sophistication process by maliciously targeting node $s_2$. 
+
+![image info](./images/ds_two.PNG)
+
+**DS3:** The conservative process discards its original 
+nodes $c_2$,$c_3$, and "adopts" partial steps from the 
+sophistication process. 
+
+![image info](./images/ds_three.PNG)
+
+**DS4:** The conservative process attempts to take 
+ownership over the proliferation stage of the sophistication 
+process. The conservative process maintains its original 
+components, and only intends to spread the product of 
+the sophisticaton process. 
