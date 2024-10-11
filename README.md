@@ -87,7 +87,7 @@ quantitative finance, are derived from the cultural
 mores and collective ambition, and also the mainstream 
 economic concept of the correlation between scarcity 
 and the magnitude of "cost", but the "faith" in these 
-numbers do not rest on a uniform consensus of agreement. 
+numbers does not rest on a uniform consensus of agreement. 
 For instance, a sentimental person would probably prefer 
 to sell something else other than the memorabilia 
 that they've acquired through their years. There is 
