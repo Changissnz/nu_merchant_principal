@@ -2678,6 +2678,7 @@ Popular questions include:
 - "What are my long-term gains and losses by accepting this 
   sophisticated product into my daily life, in relation to 
   my peers that may or may not accept this product?" 
+  
 Sophistication, as a concept synonymous with diversification 
 and the decomposition of present-day mores and values, spurs 
 changes in the form of "ripple"-like effects on activities 
