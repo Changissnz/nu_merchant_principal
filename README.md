@@ -84,7 +84,9 @@ sum games, the fat cow does not have to be a wolf then!
 
 The mechanics of "costs", including but not limited to 
 quantitative finance, are derived from the cultural 
-mores and collective ambition, but the "faith" in these 
+mores and collective ambition, and also the mainstream 
+economic concept of the correlation between scarcity 
+and the magnitude of "cost", but the "faith" in these 
 numbers do not rest on a uniform consensus of agreement. 
 For instance, a sentimental person would probably prefer 
 to sell something else other than the memorabilia 
