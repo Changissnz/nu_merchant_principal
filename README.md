@@ -2632,19 +2632,21 @@ head of a vassal army.
 Sophistication is a process, and the products yielded from 
 this process are not necessarily in line with the descriptor
 "elaborate". The word "elaborate", from a perspective, holds 
-the meaning of something that is too broad and diverse for 
-condensation that would preserve the identity of that something. 
-For example, a person that conducts elaborate activity to 
-woo another person of their romantic wants may, in actuality, 
-not be very well-versed (sophisticated) in acts of wooing and 
-seduction. The sophisticated are recognized as this label 
-relative to their peers, peers that may fluctuate in identity 
-in the course of different contexts. A person, recognized as 
-sophisticated because they hold some unique ability to engineer 
-proteins or to replicate DNA for cloning, may appear so to many 
-people with other unique skills and talents, but amongst this 
-person's peers such as their educators and workplace colleagues, 
-they are quite unremarkable. 
+the meaning of something too broad and diverse for condensation 
+that would preserve the identity of that something. For example, 
+a person that conducts elaborate activity to woo another person 
+of their romantic wants may, in actuality, not be very well-versed 
+(the experienced as the sophisticated) in acts of wooing and seduction. 
+The sophisticated are recognized as this label relative to their 
+peers, peers that may fluctuate in identity over the course of different 
+contexts. A person, recognized as sophisticated because they hold 
+some unique ability to engineer proteins or to replicate DNA for 
+cloning, may appear so to many people with other unique skills and 
+talents, but amongst this person's peers such as their educators 
+and workplace colleagues, they are quite unremarkable. In this 
+case, it is the practice and products that this particular person 
+engages in that is what is "actually sophisticated" from some 
+people's perspectives, not the actor that is the person. 
 
 The term "sophisticated" is somewhat intertwined, by mainstream 
 interpretation, to be elitist or to be in possession as a trait 
@@ -2652,7 +2654,8 @@ among elites. Replication, ever since human beings have learned
 to industrialize, plague the uniqueness that many aspirants hold 
 as a second objective during their stages of sophistication. 
 Scarcity, as a simple economic concept, becomes a critical factor 
-in valuation of sophisticated practices or products. These 
+in valuation of sophisticated practices or products, even if 
+public market pricing is not to occur from the start. These 
 practices and products no longer produce the same kind of aura 
 through distributive processes, such as democratization (no 
 additional comment on this term), that produce replicants of 
