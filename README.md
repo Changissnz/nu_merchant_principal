@@ -2785,5 +2785,5 @@ sophistication process.
 **DS4:** The conservative process attempts to take 
 ownership over the proliferation stage of the sophistication 
 process. The conservative process maintains its original 
-components, and only intends to spread the product of 
+components, and only intends to possess the product of 
 the sophisticaton process. 
