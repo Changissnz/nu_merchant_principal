@@ -2600,3 +2600,31 @@ This section relies on the conceptualization of automata
 as Conway's Game of Life, invented by British mathematician 
 John Horton Conway, to aid with describing possible 
 deltas in "alliances", as depicted by graphs. 
+
+## Denying Sophistication 
+
+An almost universal envy is aimed towards those that have 
+become sophisticated (many would say this trait is nurtured 
+rather than inherited) and competent. These sophisticated 
+and competent are complex to understand, their methodologies 
+difficult for their friends and foes alike to understand, 
+and their places in society probably unattainable by others 
+through merit, since their existence supercedes any rank 
+declared in the formal hierarchy. Irreplaceable, brilliant, 
+understanding, ambitious, admirable, honorable, a step below 
+godliness these sophisticated and competent are. Some of 
+their "friends" and "foes" whisper, amongst themselves, 
+how dangerous these competent and sophisticated folks are. 
+The ones with more animalistic views nickname them "snakes", 
+"eagles", amongst other high-ranking predatory creatures. 
+Their bloodthirsty competitors think of them as a constant 
+threat to their own well-being, even if they have never posed 
+any harm to them. But as to their prestige and ranking in the 
+eyes of societies' members that these bloodthirsty competitors 
+lust praise from, said competitors probably feel they have 
+big problems to solve. And these big problems revolve around 
+these competent and sophisticated folks. The word "anti-elitism" 
+is inaccurate to describe these competitors; there is no 
+mention or explicit rule forbidding a bloodthirsty competitor 
+from being, for example, an aristocrat or feudal head of 
+a vassal army. 
