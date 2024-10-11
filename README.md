@@ -2718,10 +2718,17 @@ The defense perspective of sophistication now shifts to
 defending these processes under this label, and the 
 practices/products from them. Some consequences that 
 could be described as "weaknesses" from sophistication 
-are exclusivity, exclusivity, higher rates of failure
-through a combination of less guidance and greater 
-amounts of experimentation, and naturally less verification 
-of methodology by peers fewer in numbers. And sophistication, 
-when recognized, stand outs in society that may pose 
-nuisances (maybe even threats) in some way, shape, or 
-form to their privacy. 
+are exclusivity, higher rates of failure through a 
+combination of less guidance and greater amounts of 
+experimentation, and naturally less verification of 
+methodology by peers fewer in numbers. And sophistication, 
+when recognized, stands out in society in ways that garner
+reactions such as nuisances (maybe even threats) in 
+some way, shape, or form to their privacy. Important 
+questions to ask is, how risky is the sophistication 
+process, and how fragile is the sophisticated from this
+process? The valuation, as numbers or descriptors supposed 
+to be "objective", relies on calculations of the 
+juxtaposition between the fragility (weaknesses) of 
+the sophisticated and its effectiveness as a magnitude 
+onto metrics that concern some objective/s. 
