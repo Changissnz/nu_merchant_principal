@@ -2619,12 +2619,29 @@ The ones with more animalistic views nickname them "snakes",
 "eagles", amongst other high-ranking predatory creatures. 
 Their bloodthirsty competitors think of them as a constant 
 threat to their own well-being, even if they have never posed 
-any harm to them. But as to their prestige and ranking in the 
-eyes of societies' members that these bloodthirsty competitors 
-lust praise from, said competitors probably feel they have 
-big problems to solve. And these big problems revolve around 
-these competent and sophisticated folks. The word "anti-elitism" 
-is inaccurate to describe these competitors; there is no 
-mention or explicit rule forbidding a bloodthirsty competitor 
-from being, for example, an aristocrat or feudal head of 
-a vassal army. 
+any physical harm to them. But as to their prestige and ranking 
+in the eyes of societies' members that these bloodthirsty 
+competitors lust praise from, said competitors probably feel 
+they have big problems to solve. And these big problems revolve 
+around these competent and sophisticated folks. The word 
+"anti-elitism" is inaccurate to describe these competitors; 
+there is no mention or explicit rule forbidding a bloodthirsty 
+competitor from being, for example, an aristocrat or feudal 
+head of a vassal army. 
+
+Sophistication is a process, and the products yielded from 
+this process are not necessarily in line with the descriptor
+"elaborate". The word "elaborate", from a perspective, holds 
+the meaning of something that is too broad and diverse for 
+condensation that would preserve the identity of that something. 
+For example, a person that conducts elaborate activity to 
+woo another person of their romantic wants may, in actuality, 
+not be very well-versed in acts of wooing and seduction. The 
+sophisticated are recognized as this label relative to 
+their peers, peers that may fluctuate in identity in the course 
+of different contexts. A person, recognized as sophisticated 
+because they hold some unique ability to engineer proteins 
+or to replicate DNA for cloning, may appear so to many people 
+with other unique skills and talents, but amongst this person's
+peers such as their educators and workplace colleagues, they 
+are quite unremarkable. 
