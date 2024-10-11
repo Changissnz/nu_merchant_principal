@@ -2755,13 +2755,12 @@ are simply trends, different lines of thinking and
 practicing and producing, that may turn out to be 
 cause for contempt from others that view themselves 
 as the origin and the sophisticated as the diversified 
-"children" challengers. Other times, they are preferences 
-in lines of decision-making. These preferences may prove 
-to be superior to their more frequent counterparts. 
-And their more frequent counterparts may be used 
-more oftentime due to their lower risk of failure 
-in executing some task. Some ending diagrams show 
-how sophistication may fare alongside long-standing 
+"children" challengers. These preferences for the 
+sophisticated may prove to be superior to their more 
+frequent counterparts. And their more frequent counterparts 
+may be used more oftentimes due to their lower risk 
+of failure in executing some task. Some ending diagrams 
+show how sophistication may fare alongside long-standing 
 and conservative approaches.
 
 ![image info](./images/ds_four.PNG)
