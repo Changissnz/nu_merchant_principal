@@ -2610,12 +2610,13 @@ and competent are complex to understand, their methodologies
 difficult for their friends and foes alike to understand, 
 and their places in society probably unattainable by others 
 through merit, since their existences supercede any rank 
-declared in the formal hierarchy. Irreplaceable, brilliant, 
-understanding, ambitious, admirable, honorable, a step below 
-godliness these sophisticated and competent are. Some of 
-their "friends" and "foes" whisper, amongst themselves, 
-how dangerous these competent and sophisticated folks are. 
-The ones with more animalistic views nickname them "snakes", 
+declared in the formal hierarchy, static or mutable in its 
+placements. Irreplaceable, brilliant, understanding, 
+ambitious, admirable, honorable, a step below godliness 
+these sophisticated and competent are. Some of their 
+"friends" and "foes" whisper, amongst themselves, 
+about how dangerous these competent and sophisticated folks 
+are. The ones with more animalistic views nickname them "snakes", 
 "eagles", amongst other high-ranking predatory creatures. 
 Their bloodthirsty competitors think of them as a constant 
 threat to their own well-being, even if they have never posed 
@@ -2649,11 +2650,11 @@ engages in that is what is "actually sophisticated" from some
 people's recognition, not the actor that is the person. 
 
 The term "sophisticated" is somewhat intertwined, by mainstream 
-interpretation, with elitism or to be in possession as a trait 
-amongst elites. Replication, ever since human beings have learned 
-to industrialize, plagues the uniqueness that many aspirants hold 
-as a second objective during their stages of sophistication. 
-Scarcity, as a simple economic concept, becomes a critical factor 
+interpretation, with elitism or a trait possessed by elites. 
+Replication, ever since human beings have learned to industrialize, 
+plagues the uniqueness that many aspirants hold as a second 
+objective during their stages of sophistication. Scarcity, 
+as a simple economic concept, becomes a critical factor 
 in valuation of sophisticated practices or products, even if 
 public market pricing is not to occur from the start. These 
 practices and products no longer produce the same kind of aura 
@@ -2663,10 +2664,9 @@ of that which was originally labeled "sophisticated".
 
 Sophistication does raise alarms from a defense perspective. 
 This mentioned defense is not for those practices and products 
-borne from sophistication. Rather, this defense takes an 
-antithetical stance towards sophistication, with great 
-condemnation of its possible fruits that is the sophisticated.
-Popular questions include:
+borne from sophistication. Rather, this defense is an antithetical 
+stance towards sophistication, with great condemnation of its 
+possible fruits that is the sophisticated. Popular questions include:
 - "What is the need for this sophisticated product? How would I, 
   from this background X with skillset Y, make use of this 
   sophisticated product?"
@@ -2691,7 +2691,7 @@ of all the changes attributed to this source. Security would
 have to anticipate how "ideals" such as these are somewhat 
 direct causes of the bending and supplanting of existing 
 rules/attitudes belonging to greater society. From a 
-conservation perspective, with related concepts such as 
+conservation perspective, with related concepts being 
 legacy, promotion of alien competition, and invitation 
 for hypocrisy, these nu ideals can pave the way for 
 destabilization if not wholly "adopted". 
@@ -2701,7 +2701,7 @@ practices and products borne from sophistication processes
 include the well-known (maybe under different phrasing)
 "hole for the sophisticated". This "hole for the sophisticated"
 is a prime objective of strategies to contain the uniqueness
-of the sophisticated from public knowledge that can then be 
+of the sophisticated from public knowledge, which would then be 
 used to replicate the sophisticated. And the replication 
 would definitely be a force of competition through 
 ironically supplanting the sophisticated, in a cyclical 
