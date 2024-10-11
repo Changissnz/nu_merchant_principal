@@ -74,7 +74,7 @@ disagree with the concept of competition, or at least
 self-improvement, as zero-sum. These contrarian views 
 harness the game theory specification of "non-zero sum 
 games". The rationale is that some aspects, which can be
-quantified, rests on a sort of cooperation, a mutual 
+quantified, rest on a sort of cooperation, a mutual 
 assurance, a compromise. There is much opinion and 
 exemplification on non-zero sum games. These so-called 
 "games" do exist in reality, but were only formalized 
@@ -2466,6 +2466,16 @@ Positive signs denote "promotion" of the node, meaning that
 the node receives a higher standing in some metric. And negative signs
 denote "demotion". 
 
+Table ALLT shows the pre-programmed rules, in the form of 
+planned actions taken by nodes, in the advent of "alliance" 
+factor $F$ connecting to some node in the alliance. If knowledge 
+is open, then each constituent knows $F$'s connection with 
+certainty. Otherwise, as stated previously with closed knowledge,
+each node except for the one that $F$ connects to has to deduce 
+the connection, deduction being a probabilistic process with 
+a minimal chance of accuracy with constituents that have 
+well-guarded informational defense.
+
 There are less than ten nodes in this situation, and even with 
 these simple rules, for there are no hard numbers or formulae 
 telling how to proceed with "promotion" and "demotion", these 
@@ -2555,8 +2565,28 @@ for this Game of Sliding Alliances, after pertinent
 variables and their arbitrary orders of derivatives 
 are accurately laid out. Vast subjectivity in real-life 
 practices, including but not limited to stylistic 
-preferences and stochastic decision-making principles 
+preferences and stochastic decision-making principles, 
 fall out of the bounds of rudimentary quantification. 
+
+Below is the Game of Sliding Alliances on six constituents
+with two entities. 
+
+![image info](./images/ssa_eight.PNG)
+
+**GSA:** A Game of Sliding Alliances. The "alliance" factor 
+has already established connection and conducted activity 
+with the first constituent of its interest, node $B$. The 
+black box is the justification that $F$ will use, as a 
+resource, for its justification functions $f_j^{B}$ (justification 
+to node $B$ for shattering connection), $f_j^{J}$ (information/resources 
+to build up the justification in a situational way), and 
+$f_j^{F}$ (transfer of material to $F$ for it to execute functions 
+that rely on $J$, $f_j^{B}$ and $f_a^{(2)}$. Functions $f_a^{(1)}$
+and $f_a^{(2)}$ are functions used to establish connections to 
+constituents of the "alliance" (all nodes except for $F$ and 
+black box $J$). The self-loop from $F$ to itself is a meditative
+function, allowing it to continually revise and review its strategy
+and exhibited tactics with new information/resources. 
 
 This section relies on the conceptualization of automata
 as Conway's Game of Life, invented by British mathematician 
