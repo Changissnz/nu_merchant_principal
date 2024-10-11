@@ -2609,7 +2609,7 @@ rather than inherited) and competent. These sophisticated
 and competent are complex to understand, their methodologies 
 difficult for their friends and foes alike to understand, 
 and their places in society probably unattainable by others 
-through merit, since their existence supercedes any rank 
+through merit, since their existences supercede any rank 
 declared in the formal hierarchy. Irreplaceable, brilliant, 
 understanding, ambitious, admirable, honorable, a step below 
 godliness these sophisticated and competent are. Some of 
@@ -2636,12 +2636,24 @@ the meaning of something that is too broad and diverse for
 condensation that would preserve the identity of that something. 
 For example, a person that conducts elaborate activity to 
 woo another person of their romantic wants may, in actuality, 
-not be very well-versed in acts of wooing and seduction. The 
-sophisticated are recognized as this label relative to 
-their peers, peers that may fluctuate in identity in the course 
-of different contexts. A person, recognized as sophisticated 
-because they hold some unique ability to engineer proteins 
-or to replicate DNA for cloning, may appear so to many people 
-with other unique skills and talents, but amongst this person's
-peers such as their educators and workplace colleagues, they 
-are quite unremarkable. 
+not be very well-versed (sophisticated) in acts of wooing and 
+seduction. The sophisticated are recognized as this label 
+relative to their peers, peers that may fluctuate in identity 
+in the course of different contexts. A person, recognized as 
+sophisticated because they hold some unique ability to engineer 
+proteins or to replicate DNA for cloning, may appear so to many 
+people with other unique skills and talents, but amongst this 
+person's peers such as their educators and workplace colleagues, 
+they are quite unremarkable. 
+
+The term "sophisticated" is somewhat intertwined, by mainstream 
+interpretation, to be elitist or to be in possession as a trait 
+among elites. Replication, ever since human beings have learned 
+to industrialize, plague the uniqueness that many aspirants hold 
+as a second objective during their stages of sophistication. 
+Scarcity, as a simple economic concept, becomes a critical factor 
+in valuation of sophisticated practices or products. These 
+practices and products no longer produce the same kind of aura 
+through distributive processes, such as democratization (no 
+additional comment on this term), that produce replicants of 
+that which was originally labeled "sophisticated". 
