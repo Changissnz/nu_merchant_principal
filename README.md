@@ -2678,7 +2678,7 @@ Popular questions include:
 - "What are my long-term gains and losses by accepting this 
   sophisticated product into my daily life, in relation to 
   my peers that may or may not accept this product?" 
-  
+
 Sophistication, as a concept synonymous with diversification 
 and the decomposition of present-day mores and values, spurs 
 changes in the form of "ripple"-like effects on activities 
@@ -2694,21 +2694,34 @@ rules/attitudes belonging to greater society. From a
 conservation perspective, with related concepts such as 
 legacy, promotion of alien competition, and invitation 
 for hypocrisy, these nu ideals can pave the way for 
-destabilization if not wholly adopted. 
+destabilization if not wholly "adopted". 
 
 Simple mechanisms for preserving the uniqueness of 
 practices and products borne from sophistication processes 
 include the well-known (maybe under different phrasing)
 "hole for the sophisticated". This "hole for the sophisticated"
 is a prime objective of strategies to contain the uniqueness
-of the sophisticated from public knowledge that can be 
+of the sophisticated from public knowledge that can then be 
 used to replicate the sophisticated. And the replication 
 would definitely be a force of competition through 
 ironically supplanting the sophisticated, in a cyclical 
 turn-based adaptation pattern. The sophisticated are to 
-remain in this hole due to greater society's poor knowledge
-of the sophistication process and as importantly, the 
-utility of the sophisticated. In contexts of scarcity, 
-mass desires to utilize the sophisticated may backfire 
-on the mass as a collective as each have to outcompete
-their fellow contenders on the path to utilization. 
+remain in this hole due to rationalizations such as 
+greater society's poor knowledge of the sophistication 
+process and as importantly, the utility of the sophisticated. 
+In contexts of scarcity, mass desires to utilize the 
+sophisticated may backfire on the mass, as a collective, 
+as each have to outcompete their fellow contenders on the 
+path to its utilization. 
+
+The defense perspective of sophistication now shifts to 
+defending these processes under this label, and the 
+practices/products from them. Some consequences that 
+could be described as "weaknesses" from sophistication 
+are exclusivity, exclusivity, higher rates of failure
+through a combination of less guidance and greater 
+amounts of experimentation, and naturally less verification 
+of methodology by peers fewer in numbers. And sophistication, 
+when recognized, stand outs in society that may pose 
+nuisances (maybe even threats) in some way, shape, or 
+form to their privacy. 
