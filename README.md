@@ -2684,7 +2684,11 @@ and the decomposition of present-day mores and values, helps
 to spur changes in the form of "ripple"-like effects on 
 activities and constructs spanning from the closely related 
 (at the start of the ripple) to relations far removed by initial 
-estimators. The source that is the sophisticated, through 
+estimators. Hyper-specialization that is very frequently 
+a trait of sophistication (although some that appear as sophisticated
+may have a forgivably shallow understanding out of lack of 
+effort) bears its effects in a radiating fashion. 
+The source that is the sophisticated, through 
 this distributive process of "ripple"-like effects, 
 is then held, in some regards, as the "ideal", the "origin"
 of all the changes attributed to this source. Security would
