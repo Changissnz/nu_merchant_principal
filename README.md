@@ -2777,7 +2777,7 @@ sophistication process by maliciously targeting node $s_2$.
 ![image info](./images/ds_two.PNG)
 
 **DS3:** The conservative process discards its original 
-nodes $c_2$,$c_3$, and "adopts" partial steps from the 
+nodes $c_2,c_3$, and "adopts" partial steps from the 
 sophistication process. 
 
 ![image info](./images/ds_three.PNG)
