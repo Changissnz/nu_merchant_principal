@@ -2809,7 +2809,7 @@ mental artifacts, from a real-world human perspective,
 include cultural, ethnic, psychological, and institutional 
 (nation, league, club, field) biases. The object may 
 not be sophisticated according to its measurements 
-on metrics firmly established on a basis recognized 
+on metrics, firmly established on a basis recognized 
 as objective in ways more inarguably than not. But 
 the observer could still perceive this object 
 as sophisticated due to their underlying cognitive 
@@ -2866,7 +2866,7 @@ others towards them. And when some objective, including
 a lack of objective, is accomplished, they exposed 
 qualities that run contrary to the observers' rubric 
 of sophistication. This rubric typically draws 
-associations between traits,poses, and actions with 
+associations from traits,poses, and actions to 
 highly-valued ideals. These associations are supposed 
 to be, by the observer's notion of integrity of judgment, 
 "accurate" in determining the truthfulness of some 
