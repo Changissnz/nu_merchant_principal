@@ -2794,3 +2794,46 @@ the sophistication process.
 
 ## The Sophisticated As Behavior After Appearance 
 
+With regards to inanimate objects that possess no 
+autonomy to change appearance or expression to some 
+third-party observer, the observer's judgment of the 
+object as being sophisticated or not does not change 
+due to the null actions of the object. The observer 
+may change their judgment, presented in opinionated 
+forms for this relativistic term called sophisticated,
+on this object due to relinquishing their own mental 
+artifacts, and possibly incorporating "ideals" from 
+outside of their centrality, that have prevented them 
+from appreciating the object for "what it is". These 
+mental artifacts, from a real-world human perspective, 
+include cultural, ethnic, psychological, and institutional 
+(nation, league, club, field) biases. The object may 
+not be sophisticated according to its measurements 
+on metrics firmly established on a basis that is 
+recognized as objective in ways more inarguably than 
+not. But the observer could still perceive this object 
+as sophisticated due to their underlying cognitive 
+mechanisms in judging what is greater than the 
+"base", the "average", the "ordinary". A similar 
+possibility exists in the vice-versa case. The 
+object may be sophisticated according to some metrics, 
+but the observer does not see it as such by their  
+their judgement that rests on their own personal 
+measurements along these established metrics. A 
+subjectivity "issue". If the subjectivity is to be 
+called out as an issue by opposition, those that 
+maintain a united vantage point on the object that
+is or is not sophisticated, then the notion of the
+"sophisticated" falls out of empirical standardization 
+by simple logical consistency. In some cases, those 
+with differing views on the categorization of 
+sophisticated on inanimate objects may be excluded 
+from these objects' official judgment proceedings, 
+in order to both deter escalation of conflict by 
+preserving subjectivity and give the object a 
+secure basis of "grace and dignity". The problem 
+of labeling, as a computational task, becomes very 
+complex in terms of transparency and agreement when 
+applied onto "preferential ideals", including the 
+sophisticated. 
+
