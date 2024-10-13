@@ -2940,8 +2940,8 @@ a fancy term for inflating low values or ignoring
 those low values that are used in the judgment 
 procedure. 
 
-![image info](./images/tsba_three.PNG)
-![image info](./images/tsba_four.PNG)
+![image info](./images/tsba_three.png)
+![image info](./images/tsba_four.png)
 
 **TSBA3:** Two probability distributions belonging to 
 two agents A and B. The probability values (on y-axis) 
