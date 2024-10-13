@@ -2923,3 +2923,19 @@ The attributes depicted by the orange nodes do not
 add any functional strength or aesthetic draw to the 
 object. And the rating of the object decreases with 
 the inclusion of these additional attributes.
+
+There are two broad cases of judging if an object 
+is some particular label. Refer back to diagram TSBA1. 
+Suppose the object in diagram TSBA1 is labeled by most 
+operating agents of analytic function $F_A$ with rubric 
+$R$ as sophisticated. But there outliers that do not 
+arrive at the same labeling. One category of these 
+outliers use the tactic of <ins>hyper-critical</ins> 
+evaluation. These outliers rest their single judgment 
+on low scores, scores that could be intentionally 
+devalued by them, of certain attribute pathways 
+in the function's application of the rubric. The 
+other category is <ins>standard-markdown</ins>, 
+a fancy term for inflating low values or ignoring 
+those low values that are used in the judgment 
+procedure. 
