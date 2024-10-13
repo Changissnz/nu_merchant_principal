@@ -2908,3 +2908,18 @@ particular object, there is a "mismatch" that reduces
 the overall score. The single judgment derived from 
 function $F_A$ by rubric $R$, in this case, is that 
 the object is not sophisticated. 
+
+![image info](./images/tsba_two.PNG)
+
+**TSBA2:** A similar object to the one in diagram TSBA1. 
+There is a different rubric $R$ used, and two additional 
+attributes exist (orange nodes). In this example, if the 
+object does not have the orange nodes, it is classified 
+by $F_A$ with rubric $R$ as sophisticated. But if the 
+orange nodes are also included, then $F_A$ not only 
+classifies it as not sophisticated, it also labels 
+it as "elaborate" due to the extraneous features. 
+The attributes depicted by the orange nodes do not 
+add any functional strength or aesthetic draw to the 
+object. And the rating of the object decreases with 
+the inclusion of these additional attributes.
