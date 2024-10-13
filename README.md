@@ -2895,13 +2895,13 @@ object, consisting of the structure defined by green
 nodes and its edges, is sophisticated. Function $F_A$ 
 takes as its input a rubric $R$. One of the pathways 
 it takes to analyze the nodes $[s_0,s_1,s_3]$ is 
-$R(s_0),R({s_1,s_0},R({s_3,s_1,s_0}))$. Note how 
+$R(s_0),R({s_1,s_0}),R({s_3,s_1,s_0})$. Note how 
 the analytic function "builds" up its parameters 
 at every new node it touches in this pathway. The 
 rubric $R$ consists of rules to check the quality 
 of every attribute $s_i$ alongside other attributes 
 $s_j$ for quality, in and of themselves, and together 
-for "systemic quality". For example, attributes $s_0$,
+for "systemic integrity". For example, attributes $s_0$,
 $s_1$, and $s_2$ each pass quality tests. But for 
 some reason, when they co-exist together in this 
 particular object, there is a "mismatch" that reduces 
