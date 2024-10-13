@@ -2939,3 +2939,20 @@ other category is <ins>standard-markdown</ins>,
 a fancy term for inflating low values or ignoring 
 those low values that are used in the judgment 
 procedure. 
+
+![image info](./images/tsba_three.PNG)
+![image info](./images/tsba_four.PNG)
+
+**TSBA3:** Two probability distributions belonging to 
+two agents A and B. The probability values (on y-axis) 
+of the two distributions are scores for the "easiness" 
+of executing a decision (denoted by a number on the 
+x-axis). These possible decisions pertain to an arbitrary 
+choice shared between the two agents. Examples of choices 
+include executing the next strike in a physical combat,
+the use of specific words in a language's vocabulary, 
+and financial options for investment. In the first 
+distribution, agent A has the highest easiness in achieving
+the move enumerated as $0.1$. In the second distribution, 
+agent B has the highest easiness in achieving move $5$. 
+
