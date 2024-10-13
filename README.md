@@ -2873,3 +2873,38 @@ to be, by the observer's notion of integrity of judgment,
 label (the sophisticated in this case) in the process 
 of transformative appearances, that which constitutes 
 the behavior that can be objectively recorded. 
+
+Before even considering some noun as sophisticated or 
+not in their totality, as in their transformative 
+appearances that constitute their behavior, consider 
+the rubric to judge if an inanimate object is 
+sophisticated or not as a non-linear connective 
+process. The term "non-linear connective" is to 
+describe judgments that do not entirely observe any 
+single attribute as this or that label. Rather, the 
+constituents of the object in question must somehow 
+"match" together in arbitrarily-defined sets to form 
+images consistent with some label. A term used to 
+describe this way of judgmental processing is 
+<ins>gestault</ins>. 
+
+![image info](./images/tsba_one.PNG)
+
+**TSBA1:** The analytic function used to judge if the 
+object, consisting of the structure defined by green 
+nodes and its edges, is sophisticated. Function $F_A$ 
+takes as its input a rubric $R$. One of the pathways 
+it takes to analyze the nodes $[s_0,s_1,s_3]$ is 
+$R(s_0),R({s_1,s_0},R({s_3,s_1,s_0}))$. Note how 
+the analytic function "builds" up its parameters 
+at every new node it touches in this pathway. The 
+rubric $R$ consists of rules to check the quality 
+of every attribute $s_i$ alongside other attributes 
+$s_j$ for quality, in and of themselves, and together 
+for "systemic quality". For example, attributes $s_0$,
+$s_1$, and $s_2$ each pass quality tests. But for 
+some reason, when they co-exist together in this 
+particular object, there is a "mismatch" that reduces 
+the overall score. The single judgment derived from 
+function $F_A$ by rubric $R$, in this case, is that 
+the object is not sophisticated. 
