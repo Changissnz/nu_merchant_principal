@@ -2836,3 +2836,40 @@ complex in terms of transparency and agreement when
 applied onto "preferential ideals", including the 
 sophisticated. 
 
+Procedures to detect qualities with capabilities to 
+appear and act in nuanced ways remain imperfect in a 
+general context. One of these qualities is the effects 
+of sophistication. These procedures may rely on a 
+plausible sequence of detecting actions reliable 
+enough (plausible through passing accuracy thresholds) 
+so that changing of the sequence's components, in the 
+advent of differing forms of sophistication, is not 
+required. But each of the sequence's components may 
+have to "calibrate" their characteristics to accomodate 
+the differing form. Stark contrasts between procedures 
+to measure any quality, including the sophisticated, 
+may corrode the perception of some of these procedures' 
+"accuracy". From a statistical perspective relying on 
+frequency count, similar scores between contrasting 
+procedures produce a stronger argument for these 
+procedures' judgment outcomes. And differing scores 
+encourage questioning on grounds of unwanted variability. 
+
+Some that recognize an other as sophisticated at the 
+start, for initial appearances do matter in the context 
+of a span encompassing the "beginning", the "beginning" 
+possibly playing an outsized influence in overall 
+judgment, may arrive at their cognition's own future 
+conclusion that this other is "really not" sophisticated. 
+There was a deceptive veneer used by them to draw 
+others towards them. And when some objective, including 
+a lack of objective, is accomplished, they exposed 
+qualities that run contrary to the observers' rubric 
+of sophistication. This rubric typically draws 
+associations between traits,poses, and actions with 
+highly-valued ideals. These associations are supposed 
+to be, by the observer's notion of integrity of judgment, 
+"accurate" in determining the truthfulness of some 
+label (the sophisticated in this case) in the process 
+of transformative appearances, that which constitutes 
+the behavior that can be objectively recorded. 
