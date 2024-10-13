@@ -2946,13 +2946,47 @@ procedure.
 **TSBA3:** Two probability distributions belonging to 
 two agents A and B. The probability values (on y-axis) 
 of the two distributions are scores for the "easiness" 
-of executing a decision (denoted by a number on the 
+of executing a decision (enumerated as a number on the 
 x-axis). These possible decisions pertain to an arbitrary 
 choice shared between the two agents. Examples of choices 
 include executing the next strike in a physical combat,
 the use of specific words in a language's vocabulary, 
 and financial options for investment. In the first 
-distribution, agent A has the highest easiness in achieving
+distribution, Agent A has the highest easiness in achieving
 the move enumerated as $0.1$. In the second distribution, 
-agent B has the highest easiness in achieving move $5$. 
+Agent B has the highest easiness in achieving move $5$. 
+
+In distributions TSBA3, an observer cannot determine 
+the "superiority" (higher quality, greater yield, etc.)
+of any of the moves, enumerated on the x-axis, simply 
+by their associated easiness in execution (y-axis) by 
+the respective agents. Suppose, however, that the 
+best move for Agent A to take, relative to agent B, 
+is move $5$. But it has such a low probability of 
+achieving it. And the best move for agent B to take 
+is also move $5$. Agent B has a high probability of 
+executing this move. Agent B and Agent A execute the
+moves $5$ and $0.1$, respectively, and Agent B comes 
+out as the one that has won more than lost to Agent A. 
+Ponder on the underlying causes for why Agent A could 
+not execute its wanted move $5$ of its ideal choice. 
+Could the answer be as simple as claiming that Agent 
+A lacked the sophistication required of its composition
+to be capable of executing move $5$? From a 
+results-oriented perspective, Agent A has lost to Agent B. 
+But perhaps the notion of Agent A's lack of "sophistication" 
+as a sole determining factor in its loss is a stretch 
+in empirical logic. Agent A and Agent B both have 
+difficulty in achieving move $10$. Maybe the easiness 
+of achieving move $10$ is what is actually the most 
+accurate determinant in measuring how sophisticated 
+an agent is. If move $10$ is truly a determinant in 
+measuring sophistication, then both agents A and B 
+are not sophisticated. Measuring an agent's level of 
+sophistication by their performance on a gains-based 
+criteria, such as in a structured competition, is not 
+necessarily without fault; a strength, which may include 
+fault in reasoning, is that doing so is relatively easy 
+to accomplish by empirical observation. 
+
 
