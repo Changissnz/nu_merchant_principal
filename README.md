@@ -3074,8 +3074,10 @@ essential nature of those labeled "sophisticated" and
 the others "elaborate". The "elaborate" tend to lack an 
 origin, as perceived by third-party inspectors. The 
 "elaborate" does not need to rely on any novel techniques 
-to exist in their forms. One feature of the "elaborate", 
-already mentioned, is that they would lose their identity 
+to exist in their forms, but do require a greater-than-average 
+number of layerings to present themselves in outward 
+appearance. One feature of the "elaborate", already 
+mentioned, is that they would lose their identity 
 if they are to undergo condensation. The possibly greater 
 effectiveness of the "sophisticated" in comparison to 
 the "elaborate" is that the authentically "sophisticated" 
