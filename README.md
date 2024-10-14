@@ -3003,9 +3003,9 @@ tend to be put into conditions that garner low proliferation
 rates, such as through the "hole for the sophisticated", 
 mentioned in the previous section Denying Sophistication. 
 
-| ~~ | Work For Move 5 | Maintain |
+| ~~ | Maintain | Work For Move 5 |
 | --- | -------------- | -------- |
-| Agent A | (40,-400) | (20,-20)|
+| Agent A | (20,-20) | (40,-400) |
 
 **SOPHIMP1:** In this cost table, Agent A from distribution 
 TSBA3 has the choice to maintain its composition, so that 
