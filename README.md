@@ -2930,7 +2930,7 @@ Suppose the object in diagram TSBA1 is labeled by most
 operating agents of analytic function $F_A$ with rubric 
 $R$ as sophisticated. But there outliers that do not 
 arrive at the same labeling. One category of these 
-outliers use the tactic of <ins>hyper-critical</ins> 
+outliers uses the tactic of <ins>hyper-critical</ins> 
 evaluation. These outliers rest their single judgment 
 on low scores, scores that could be intentionally 
 devalued by them, of certain attribute pathways 
@@ -2990,4 +2990,51 @@ fault in reasoning and practices stemming from it, is
 that doing so is relatively easy to accomplish by 
 empirical observation. 
 
+The sophisticated are typically put into a light of 
+stylistic ideal, at least in the beginning after their 
+births. Due to the scarcity of what is recognized as 
+"sophisticated", there are naturally less opportunities 
+to demonstrate the effectiveness of the sophisticated 
+over the ordinary, given the condition that the ordinary 
+remains as the mainstream ideal in both thought and 
+practice. And even if the sophisticated proves superior, 
+along select metrics, to the ordinary, the sophisticated 
+tend to be put into conditions that garner low proliferation 
+rates, such as through the "hole for the sophisticated", 
+mentioned in the previous section Denying Sophistication. 
 
+| ~~ | Work For Move 5 | Maintain |
+| --- | -------------- | -------- |
+| Agent A | (40,-400) | (20,-20)|
+
+**SOPHIMP1:** In this cost table, Agent A from distribution 
+TSBA3 has the choice to maintain its composition, so that 
+the probability values from TSBA3 graph one does not change. 
+Or it can work for move 5 in ways that increase its level 
+of easiness in executing the move. The pair-value of each
+cost is: 
+(cost of effort in decision, consequences of pursuing decision). 
+Agent A may not be able to afford to work for move 5. 
+
+| ~~ | Execute Move 5 | Work For Move 10 |
+| --- | -------------- | -------- |
+| Agent B | (20,200) | (40,-400)|
+
+**SOPHIMP2:** In this cost table, Agent A from distribution 
+TSBA3 has the choice to continue executing move 5 against 
+its competitor Agent B. Or it could stray way from actively 
+focusing on playing against Agent B by working for move 10. 
+The pair-value of each cost is equivalently defined to SOPHIMP2. 
+
+In the two tables SOPHIMP1 and SOPHIMP2, both agents have 
+a much greater likelihood of pursuing the first move (first column)
+in their tables. The markedly greater consequences of each of 
+them pursuing the second move is a major factor in their 
+choosing to conserve their compositions. The two agents A 
+and B may fall into a <ins>pragmatism trap</ins>. The 
+trap allows them to steer away from negative consequences, 
+projected by them to occur in the advent of their attempts 
+to undergo sophistication for moves difficult to execute, 
+through pressuring them into conservative cycles of action. 
+These conservative cycles of action rest on resources and 
+capabilities already conveniently available to them. 
