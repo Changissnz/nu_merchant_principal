@@ -2810,7 +2810,7 @@ include cultural, ethnic, psychological, and institutional
 (nation, league, club, field) biases. The object may 
 not be sophisticated according to its measurements 
 on metrics, firmly established on a basis recognized 
-as objective in ways more inarguably than not. But 
+as objective in ways more inarguable than not. But 
 the observer could still perceive this object 
 as sophisticated due to their underlying cognitive 
 mechanisms in judging what is greater than the 
@@ -3053,17 +3053,18 @@ around the usage of the term. The mentioned intertwined
 terms can be interpreted as related to the usage of 
 the label "sophisticated", but without their explicit use 
 alongside this label, there can only be implication that 
-the correspondent terms are positively connected on some 
+the correspondent terms are positively connected by 
 some belief system, one with a probabilistic rate of 
 accuracy. If brevity is the secondary aims of explaining 
-this term, "sophisticated", then its agreeable definitions 
+this term "sophisticated", then its agreeable definitions 
 make greater mention of the relation with ideals rather 
-than functionality. The notion of utility plays a real
-role of application in an ordered world, the order preserved 
-and propagated through effective utility. So there is 
-this rationale for delving into the term "sophisticated", 
-due to what is labeled as this term to potentially yield 
-high contributions for advancement. 
+than with functionality. The notion of utility does play 
+a real role of application in an ordered world, the order 
+preserved and propagated through effective utility. So 
+there is this rationale for delving into the term 
+"sophisticated", due to what is labeled as this term 
+to potentially yield high contributions for practical 
+advancement. 
 
 As mentioned in this section and the last, there is at 
 least some overlap in usage of the term "sophisticated" 
@@ -3077,7 +3078,22 @@ to exist in their forms. One feature of the "elaborate",
 already mentioned, is that they would lose their identity 
 if they are to undergo condensation. The possibly greater 
 effectiveness of the "sophisticated" in comparison to 
-the "elaborate" is that the "sophisticated" can rest 
-on principles simple and reliable, while the "elaborate" 
-are so due to the lack of obligation in their resting 
-on an origin that is principle. 
+the "elaborate" is that the authentically "sophisticated" 
+do rest on principles simple and reliable, while the 
+"elaborate" are so due to the lack of obligation in their 
+resting on an origin that is principle. 
+
+When products born from sophistication do fail, it is 
+due to the faults bred by the elaborate additions, 
+additions that "hijack" control of the principles simple 
+and reliable bred through the sophistication process. 
+It can be argued that the sophisticated do need to be 
+competent, that the notion of competency should 
+automatically fall under those categorized as 
+"sophisticated". And competency does require a high 
+success rate in the control of principles simple and 
+reliable, lest those principles be hijacked and 
+re-engineered for purposes including subversion of 
+the sophisticated, as well as repurposing the 
+sophisticated against ideals and nouns that it was 
+intended to be aligned with, from its conception. 
