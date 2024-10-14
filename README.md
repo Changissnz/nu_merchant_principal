@@ -3000,8 +3000,9 @@ remains as the mainstream ideal in both thought and
 practice. And even if the sophisticated proves superior, 
 along select metrics, to the ordinary, the sophisticated 
 tend to be put into conditions that garner low proliferation 
-rates, such as through the "hole for the sophisticated", 
-mentioned in the previous section Denying Sophistication. 
+rates, such as through the "hole for the sophisticated" 
+that is mentioned in the previous section Denying 
+Sophistication. 
 
 | ~~ | Maintain | Work For Move 5 |
 | --- | -------------- | -------- |
