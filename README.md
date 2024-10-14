@@ -3073,7 +3073,7 @@ two terms, whether fine or bold, do make mention of the
 essential nature of those labeled "sophisticated" and 
 the others "elaborate". The "elaborate" tend to lack an 
 origin, as perceived by third-party inspectors. The 
-"elaborate" does not need to rely on any novel techniques 
+"elaborate" do not need to rely on any novel techniques 
 to exist in their forms, but do require a greater-than-average 
 number of layerings to present themselves in outward 
 appearance. One feature of the "elaborate", already 
