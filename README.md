@@ -3099,3 +3099,14 @@ re-engineered for purposes including subversion of
 the sophisticated, as well as repurposing the 
 sophisticated against ideals and other nouns that 
 it was intended to be aligned with, from its conception. 
+
+Entertain the notion of the sophisticated as inherently 
+competent. The mechanisms of the sophisticated cannot 
+be so simply abstracted by a singular framework. 
+There is a need to use rudimentary structures such 
+as networks and frequency tables to explore the 
+competence of the sophisticated. The usual standpoints 
+of adversary and ally in relation to the sophisticated 
+are represented in this exploration. 
+
+
