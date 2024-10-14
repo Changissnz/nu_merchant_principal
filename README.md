@@ -2986,7 +2986,8 @@ are not sophisticated. Measuring an agent's level of
 sophistication by their performance on a gains-based 
 criteria, such as in a structured competition, is not 
 necessarily without fault; a strength, which may include 
-fault in reasoning, is that doing so is relatively easy 
-to accomplish by empirical observation. 
+fault in reasoning and practices stemming from it, is 
+that doing so is relatively easy to accomplish by 
+empirical observation. 
 
 
