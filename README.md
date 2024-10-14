@@ -2959,19 +2959,19 @@ Agent B has the highest easiness in achieving move $5$.
 In distributions TSBA3, an observer cannot determine 
 the "superiority" (higher quality, greater yield, etc.)
 of any of the moves, enumerated on the x-axis, simply 
-by their associated easiness in execution (y-axis) by 
-the respective agents. Suppose, however, that the 
-best move for Agent A to take, relative to agent B, 
-is move $5$. But it has such a low probability of 
-achieving it. And the best move for agent B to take 
-is also move $5$. Agent B has a high probability of 
-executing this move. Agent B and Agent A execute the
-moves $5$ and $0.1$, respectively, and Agent B comes 
-out as the one that has won more than lost to Agent A. 
-Ponder on the underlying causes for why Agent A could 
-not execute its wanted move $5$ of its ideal choice. 
-Could the answer be as simple as claiming that Agent 
-A lacked the sophistication required of its composition
+by their associated agents' easiness of execution (y-axis). 
+Suppose, however, that the best move for Agent A to 
+take, relative to agent B, is move $5$. But it has 
+such a low probability of achieving it. And the best 
+move for agent B to take is also move $5$. Agent B 
+has a high probability of executing this move. Agent 
+B and Agent A execute the moves $5$ and $0.1$, 
+respectively, and Agent B comes out as the one that 
+has won more than lost to Agent A. Ponder on the 
+underlying causes for why Agent A could not execute 
+its wanted move $5$ of its ideal choice. Could the 
+answer be as simple as claiming that Agent A lacked 
+the sophistication required of its composition
 to be capable of executing move $5$? From a 
 results-oriented perspective, Agent A has lost to Agent B. 
 But perhaps the notion of Agent A's lack of "sophistication" 
