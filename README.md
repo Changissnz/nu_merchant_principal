@@ -3034,9 +3034,50 @@ them pursuing the second move is a major factor in their
 choosing to conserve their compositions. The two agents A 
 and B may fall into a <ins>pragmatism trap</ins>. The 
 trap allows them to steer away from negative consequences, 
-projected by them to occur in the advent of their attempts 
-to undergo sophistication for moves difficult by their 
-execution, through pressuring them into conservative cycles 
-of action. These conservative cycles of action rest on 
+projected by each of them to occur in the advent of their 
+attempts to undergo sophistication for moves difficult by 
+their execution, through pressuring them into conservative 
+cycles of action. These conservative cycles of action rest on 
 resources and capabilities already conveniently available 
 to them. 
+
+The section Denying Sophistication posits that there exists 
+high envy aimed against the "sophisticated and competent". 
+With only exactly one of these qualities fulfilled, there 
+is not much of that same high envy received, so goes the 
+posit. Intertwining the term "sophisticated" with those 
+alluding to high-potential functionality, such as 
+"competent", "effective", "powerful", "aggressive", 
+and "prestigious" adds additionally explicit meaning 
+around the usage of the term. The mentioned intertwined 
+terms can be interpreted as related to the usage of 
+the label "sophisticated", but without their explicit use 
+alongside this label, there can only be implication that 
+the correspondent terms are positively connected on some 
+some belief system, one with a probabilistic rate of 
+accuracy. If brevity is the secondary aims of explaining 
+this term, "sophisticated", then its agreeable definitions 
+make greater mention of the relation with ideals rather 
+than functionality. The notion of utility plays a real
+role of application in an ordered world, the order preserved 
+and propagated through effective utility. So there is 
+this rationale for delving into the term "sophisticated", 
+due to what is labeled as this term to potentially yield 
+high contributions for advancement. 
+
+As mentioned in this section and the last, there is at 
+least some overlap in usage of the term "sophisticated" 
+with "elaborate". Whatever lines differentiating these 
+two terms, whether fine or bold, do make mention of the 
+essential nature of those labeled "sophisticated" and 
+the others "elaborate". The "elaborate" tend to lack an 
+origin, as perceived by third-party inspectors. The 
+"elaborate" does not need to rely on any novel techniques 
+to exist in their forms. One feature of the "elaborate", 
+already mentioned, is that they would lose their identity 
+if they are to undergo condensation. The possibly greater 
+effectiveness of the "sophisticated" in comparison to 
+the "elaborate" is that the "sophisticated" can rest 
+on principles simple and reliable, while the "elaborate" 
+are so due to the lack of obligation in their resting 
+on an origin that is principle. 
