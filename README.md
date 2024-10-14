@@ -3022,7 +3022,7 @@ Agent A may not be able to afford to work for move 5.
 
 **SOPHIMP2:** In this cost table, Agent A from distribution 
 TSBA3 has the choice to continue executing move 5 against 
-its competitor Agent B. Or it could stray way from actively 
+its competitor Agent B. Or it could stray away from actively 
 focusing on playing against Agent B by working for move 10. 
 The pair-value of each cost is equivalently defined to SOPHIMP2. 
 
