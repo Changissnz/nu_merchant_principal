@@ -3095,5 +3095,5 @@ success rate in the control of principles simple and
 reliable, lest those principles be hijacked and 
 re-engineered for purposes including subversion of 
 the sophisticated, as well as repurposing the 
-sophisticated against ideals and nouns that it was 
-intended to be aligned with, from its conception. 
+sophisticated against ideals and other nouns that 
+it was intended to be aligned with, from its conception. 
