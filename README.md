@@ -3246,4 +3246,18 @@ of Agent A to pass by to disturb its balance. The
 sophisticated S also "evolves" its structural composition 
 and operational mechanisms in tandem, so that Agent A's 
 improvements would be at least matched by its "evolution" 
-if not outright overpowered by them. 
+if not outright overpowered by them. Also note that in 
+this elaboration of adversarial Agent A against the 
+sophisticated S, Agent A does not "discover" the 
+structural composition of S in one span of activity. 
+Instead, it probably has to continually "rediscover" 
+what S is, through trial-and-error procedures. An 
+important note, on the endurance of S against 
+the onslaught of Agent A's offense, is that S could 
+be "destroyed" in a way that Agent A would not 
+perceive S, by some of its updated appearances, to 
+be sophisticated by its standard. Yet, if the 
+requirement of competence to endure is set in place, 
+then the only way for Agent A to demonstrate that 
+S is not sophisticated is by its "defeating" of S. 
+
