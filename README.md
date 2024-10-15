@@ -3161,9 +3161,9 @@ the novel elements perceived during a sort of
 magnification, in other words, redirectional and 
 intensified focus. 
 
-![image info](./images/disc_one.png)
-![image info](./images/disc_two.png)
-![image info](./images/disc_three.png)
+![image info](./images/disc_one.PNG)
+![image info](./images/disc_two.PNG)
+![image info](./images/disc_three.PNG)
 
 **DISC1:** Stages of a "discovery" process onto 
 sophisticated object $S$ (first image). In the 
