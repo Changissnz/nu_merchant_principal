@@ -3255,7 +3255,7 @@ what S is, through trial-and-error procedures. An
 important note, on the endurance of S against 
 the onslaught of Agent A's offense, is that S could 
 be "destroyed" in a way that Agent A would not 
-perceive S, by some of its updated appearances, to 
+judge S, by some of its updated appearances, to 
 be sophisticated by its standard. Yet, if the 
 requirement of competence to endure is set in place, 
 then the only way for Agent A to demonstrate that 
