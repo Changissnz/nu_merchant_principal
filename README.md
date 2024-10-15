@@ -3334,7 +3334,7 @@ elaborate, out of its timely necessity and
 convenience, to precisely choose this variant 
 instead of the other four roughly equivalent? 
 In this example, there are two differentiating 
-functions, diff$_1$ and diff$_2$. These differentiating 
+functions, $diff_1$ and $diff_2$. These differentiating 
 functions are to determine the qualities differing 
 between any two of the five variant functions in 
 diagram INCON. The differentiating functions, similar 
@@ -3346,23 +3346,23 @@ is non-commutative.
 ![image info](./images/tsba_tab3.PNG)
 
 **TSBAT2:** The first table lists the outcomes from 
-application of diff$_1$. The second table lists 
+application of $diff_1$. The second table lists 
 the accuracy and hardness (greater is harder) of 
-using diff$_1$ for each pair. 
+using $diff_1$ for each pair. 
 
 ![image info](./images/tsba_tab4.PNG)
 
 ![image info](./images/tsba_tab5.PNG)
 
-**TSBAT2:** The first table lists the outcomes from 
-application of diff$_2$. The second table lists 
+**TSBAT3:** The first table lists the outcomes from 
+application of $diff_2$. The second table lists 
 the accuracy and hardness (greater is harder) of 
-using diff$_2$ for each pair. 
+using $diff_2$ for each pair. 
 
 The resources available to the elaborate determine 
 what function they choose as the differentiator 
 for some wanted variant function $F^{(?)}$. For 
-the case of $F^{(1)}$, the use of diff$_1$ 
+the case of $F^{(1)}$, the use of $diff_1$ 
 requires less resources but it is less accurate, 
 prone to outputting the wrong non-equivalent 
 variant of $F^{(1)}$. Possible chain-reactions 
