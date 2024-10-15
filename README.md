@@ -3090,7 +3090,7 @@ due to the faults bred by the elaborate additions,
 additions that "hijack" control of the principles simple 
 and reliable bred through the sophistication process. 
 It can be argued that the sophisticated do need to be 
-competent, that the notion of competency should 
+competent, that the requirement of competency should 
 automatically fall under those categorized as 
 "sophisticated". And competency does require a high 
 success rate in the control of principles simple and 
@@ -3105,8 +3105,73 @@ competent. The mechanisms of the sophisticated cannot
 be so simply abstracted by a singular framework. 
 There is a need to use rudimentary structures such 
 as networks and frequency tables to explore the 
-competence of the sophisticated. The usual standpoints 
-of adversary and ally in relation to the sophisticated 
-are represented in this exploration. 
+competence of the sophisticated, however. It has 
+already been stated that the sophisticated possess 
+properties of uniqueness, and these rudimentary structures 
+cannot possibly include all the specificities of this 
+uniqueness. But they can model the sophisticated's mechanisms 
+and constituents as functions relative to one another. 
+From the usual standpoints of adversary and ally in 
+relation to the sophisticated, these structures could be 
+sufficient enough, from a systematic perspective, towards 
+understanding the operational and constitutional workings 
+of the sophisticated. 
+
+Assume the sophisticated to be a benign force, in the 
+default case. They have no motive to initiate aggression 
+against others, these others being sophisticated or not, 
+in the form of exploitation and/or supplantation. This 
+assumption may, of course, not be in line with real-life 
+practices. No need for exemplification, but by the 
+abstractions, DS1-DS4, provided in the previous section 
+(Denying Sophistication), the sophisticated may believe 
+it suitable to initiate confrontation with what it 
+believes are threats to its lone existence and/or 
+proliferation. This assumption is necessary, in this 
+section, for the sake of brevity. If, for example, 
+the sophisticated views another that sees the sophisticated 
+as an adversary or ally opposite, then additional 
+modeling rules need to be put in place; negative 
+multiplication/addition rules serve as a good starting 
+principle for these additional rules, but this added 
+complexity requires extraneous explanation that the 
+reader can independently construct. An important 
+aspect to consider, in cases of the sophisticated that 
+are not benign (in line with the other's alignment) 
+from the start, are the underlying factors of this 
+predisposition's causality, potentially much more 
+complicated in calculation than the boolean rules 
+of negative multiplication/addition. Recall the 
+"hole for the sophisticated". This "hole" can be 
+used as a mechanism for the initially belligerent 
+sophisticated. The sophisticated would employ this 
+"hole" for elaborate defenses against those they  
+judged as adversaries, regardless of these others' 
+views of them. 
+
+The focus on the question of the sophisticated 
+now shifts from singular appearance, perhaps due 
+to its inanimate nature, to transformative 
+appearances that constitute the behavior of the 
+object in question. From either an adversarial 
+or ally standpoint, the first step towards approaching 
+the benign sophisticated is to "discover" its 
+constituents. This "discovery" process resembles 
+the novel elements perceived during a sort of 
+magnification, in other words, redirectional and 
+intensified focus. 
+
+![image info](./images/disc_one.png)
+![image info](./images/disc_two.png)
+![image info](./images/disc_three.png)
+
+**DISC1:** Stages of a "discovery" process onto 
+sophisticated object $S$ (first image). In the 
+second image, the process yields the finding that 
+$S$ is made up of two disjoint components $S_0$ 
+and $S_1$. In the last stage displayed, these 
+two components yield a four-node graph and 
+three-node graph. 
+
 
 
