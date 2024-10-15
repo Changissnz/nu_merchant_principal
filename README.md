@@ -37,7 +37,7 @@ is materially less in value than dirt. The brilliant person
 wants to get somewhere, with rejection thrown in their face 
 as well as insults and knives in their back, their so-called 
 "defensive posturing" against exploitation is most definitely 
-born from a source, or at least an effect, of malice. 
+borne from a source, or at least an effect, of malice. 
 
 Do you really think that fat cow that is your neighbor really 
 gives a care for your interests and well-being? Laissez-faire 
@@ -3085,7 +3085,7 @@ do rest on principles simple and reliable, while the
 "elaborate" are so due to the lack of obligation in their 
 resting on an origin that is principle. 
 
-When products born from sophistication do fail, it is 
+When products borne from sophistication do fail, it is 
 due to the faults bred by the elaborate additions, 
 additions that "hijack" control directly or through 
 enablement of the principles simple and reliable bred 
@@ -3272,15 +3272,15 @@ to the sophisticated, whatever that may entail.
 
 The sophisticated are extremely difficult to 
 replicate, as already posited. This does imply 
-that they cannot be easily systematically dissected 
-for total third-party comprehension. Attempting 
+that they cannot be systematically dissected with 
+ease for total third-party comprehension. Attempting 
 to do so could led to the destruction of the 
-sophistication, such destruction leaving little 
+sophisticated, such destruction leaving little 
 traces for comprehending the existence of previous. 
 Circular reasoning by third-party agents, 
 especially adversaries, is reasoning by the same 
 incorrect methodologies in iterative fashion to 
-no avail, is a frequent possibility. And this 
+no avail, is a frequent occurrence. And this 
 circular reasoning is due to the limited scope 
 of comprehension available to the agent, in 
 which full comprehension of the sophisticated 
@@ -3303,18 +3303,80 @@ features. The sophisticated do defy the faulty
 rationales that imitators, with half-knowledges 
 of their ideal to imitate, fall prey to in their 
 quest to imitate the sophisticated. The claim 
-that the sophisticated have control over their  
+that the sophisticated have control over their 
 origin (the core, the source, etc.) produces 
-an expectation that the sophisticated a greater 
-likelihood of autonomy, stemming from its own 
-design, in comparison to the elaborate but 
-unsophisticated.  
+an expectation that the sophisticated have a 
+greater likelihood of autonomy, stemming from 
+its own design, in comparison to the elaborate 
+but unsophisticated.  
 
 One last note on the distinction between the 
 "elaborate" and the "sophisticated", without 
 the ambiguity of overlap in gray-zone cases, 
 is that the "elaborate", if weak, are weak by 
-the symbolic inconsistencies associated with 
-them. These symbolic inconsistencies play 
+the <ins>symbolic inconsistency</ins> associated 
+with them. These symbolic inconsistencies play 
 a notable role in outsizing misinterpretation 
 in execution (behavior). 
+
+![image info](./images/tsba_five.PNG)
+
+**INCON:** A function $F$ with five different 
+variants, of a roughly equivalent identity. 
+The five variants are constituents of the 
+elaborated and operated by it, depicted as 
+node $S_0$.  
+
+Suppose the wanted function is $F^{(1)}$, for 
+application towards some problem faced by 
+the elaborate. What are the chances for the 
+elaborate, out of its timely necessity and 
+convenience, to precisely choose this variant 
+instead of the other four roughly equivalent? 
+In this example, there are two differentiating 
+functions, diff$_1$ and diff$_2$. These differentiating 
+functions are to determine the qualities differing 
+between any two of the five variant functions in 
+diagram INCON. The differentiating functions, similar 
+to the standard arithmetic difference function, 
+is non-commutative. 
+
+![image info](./images/tsba_tab2.PNG)
+
+![image info](./images/tsba_tab3.PNG)
+
+**TSBAT2:** The first table lists the outcomes from 
+application of diff$_1$. The second table lists 
+the accuracy and hardness (greater is harder) of 
+using diff$_1$ for each pair. 
+
+![image info](./images/tsba_tab4.PNG)
+
+![image info](./images/tsba_tab5.PNG)
+
+**TSBAT2:** The first table lists the outcomes from 
+application of diff$_2$. The second table lists 
+the accuracy and hardness (greater is harder) of 
+using diff$_2$ for each pair. 
+
+The resources available to the elaborate determine 
+what function they choose as the differentiator 
+for some wanted variant function $F^{(?)}$. For 
+the case of $F^{(1)}$, the use of diff$_1$ 
+requires less resources but it is less accurate, 
+prone to outputting the wrong non-equivalent 
+variant of $F^{(1)}$. Possible chain-reactions 
+from incorrect utility of variants by the 
+elaborate include the maximizing of chances 
+for harm incurred onto the elaborate. Sources 
+of the harm include external forces, as well as 
+internal forces such as magnetic-like tension 
+between the different similars that are the 
+function variants. 
+
+One last interesting point to put forward 
+is that the sophisticated are not necessarily 
+also revered, and do become vilified/villainized 
+in specific contexts. There are arguments for the 
+validity in this point from the aspects discussed 
+in this section and the previous (Denying Sophistication). 
