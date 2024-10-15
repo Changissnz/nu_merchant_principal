@@ -3380,3 +3380,5 @@ also revered, and do become vilified/villainized
 in specific contexts. There are arguments for the 
 validity in this point from the aspects discussed 
 in this section and the previous (Denying Sophistication). 
+
+## Shifty and Shifting Alliances Pt. II
