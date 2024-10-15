@@ -3278,7 +3278,7 @@ to do so could led to the destruction of the
 sophisticated, such destruction leaving little 
 traces for comprehending the existence of previous. 
 Circular reasoning by third-party agents, 
-especially adversaries, is reasoning by the same 
+especially adversaries, reasoning by the same 
 incorrect methodologies in iterative fashion to 
 no avail, is a frequent occurrence. And this 
 circular reasoning is due to the limited scope 
@@ -3305,7 +3305,7 @@ of their ideal to imitate, fall prey to in their
 quest to imitate the sophisticated. The claim 
 that the sophisticated have control over their 
 origin (the core, the source, etc.) produces 
-an expectation that the sophisticated have a 
+an expectation: the sophisticated have a 
 greater likelihood of autonomy, stemming from 
 its own design, in comparison to the elaborate 
 but unsophisticated.  
