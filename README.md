@@ -3087,18 +3087,19 @@ resting on an origin that is principle.
 
 When products born from sophistication do fail, it is 
 due to the faults bred by the elaborate additions, 
-additions that "hijack" control of the principles simple 
-and reliable bred through the sophistication process. 
-It can be argued that the sophisticated do need to be 
-competent, that the requirement of competency should 
-automatically fall under those categorized as 
-"sophisticated". And competency does require a high 
-success rate in the control of principles simple and 
-reliable, lest those principles be hijacked and 
-re-engineered for purposes including subversion of 
-the sophisticated, as well as repurposing the 
-sophisticated against ideals and other nouns that 
-it was intended to be aligned with, from its conception. 
+additions that "hijack" control directly or through 
+enablement of the principles simple and reliable bred 
+through the sophistication process. It can be argued 
+that the sophisticated do need to be competent, that 
+the requirement of competency should automatically 
+fall under those categorized as "sophisticated". And 
+competency does require a high success rate in the 
+control of principles simple and reliable, lest those 
+principles be hijacked and re-engineered for purposes 
+including subversion of the sophisticated, as well 
+as repurposing the sophisticated against ideals 
+and other nouns that it was intended to be aligned 
+with, from its conception. 
 
 Entertain the notion of the sophisticated as inherently 
 competent. The mechanisms of the sophisticated cannot 
@@ -3134,9 +3135,9 @@ as an adversary or ally opposite, then additional
 modeling rules need to be put in place; negative 
 multiplication/addition rules serve as a good starting 
 principle for these additional rules, but this added 
-complexity requires extraneous explanation that the 
-reader can independently construct. An important 
-aspect to consider, in cases of the sophisticated that 
+complexity requires extraneous explanation which the 
+reader can independently construct. Important 
+aspects to consider, in cases of the sophisticated that 
 are not benign (in line with the other's alignment) 
 from the start, are the underlying factors of this 
 predisposition's causality, potentially much more 
@@ -3155,11 +3156,11 @@ to its inanimate nature, to transformative
 appearances that constitute the behavior of the 
 object in question. From either an adversarial 
 or ally standpoint, the first step towards approaching 
-the benign sophisticated is to "discover" its 
+the benign sophisticated is to "discover" their  
 constituents. This "discovery" process resembles 
 the novel elements perceived during a sort of 
 magnification, in other words, redirectional and 
-intensified focus. 
+intensifying focus. 
 
 ![image info](./images/disc_one.PNG)
 ![image info](./images/disc_two.PNG)
@@ -3172,6 +3173,25 @@ $S$ is made up of two disjoint components $S_0$
 and $S_1$. In the last stage displayed, these 
 two components yield a four-node graph and 
 three-node graph. 
+
+Observe the sophisticated object $S$ from diagram 
+DISC1. Agent A, adversary to $S$, with $S$ being 
+aware of this alignment, discovers that $S$ is, 
+by structural composition, something like the 
+third image of diagram DISC1. Agent A proceeds 
+to attack $S$ using the data displayed in the 
+table below.  
+
+![image info](./images/tsba_tab1.PNG)
+
+**TSBAT1:** Information for adversarial Agent A 
+to conduct attacks against the purportedly 
+sophisticated $S$. The information does not have 
+a guarantee of accuracy, for one. Another important 
+detail about the information is that the information 
+about the effects of each of Agent A's moves against 
+the nodesets is incomplete. 
+
 
 
 
