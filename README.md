@@ -3192,6 +3192,58 @@ detail about the information is that the information
 about the effects of each of Agent A's moves against 
 the nodesets is incomplete. 
 
+Certain ways exist for the sophisticated $S$ to 
+exhibit to the attacking Agent A that they are, in 
+fact, sophisticated, that they are, in fact, 
+sophisticated in not only appearance in such manners 
+that they rapidly deteriorate under the pressure 
+of choice-attacks by Agent A. These ways are 
+counteracting mechanisms, listed in generality 
+below: 
+1. The information on the effects by action of 
+  Agent A on S is inaccurate. 
+  - The values are simply wrong. 
+  - Expected effects from Agent A's attacks may not 
+    bear long-lasting relevance. For example, Agent 
+    A would have to choose moves that result in the 
+    constituent becoming exactly a null existence, 
+    instead of a "negative" existence. A "negative" 
+    existence of a constituent could, in turn, lead 
+    to respawning of the constituent back into its 
+    "positive" form, or to generate new constituents 
+    previously non-existing in the realm of Agent A's 
+    knowledge. These outcomes do reason to be arbitrary, 
+    but that would be because they rest on the 
+    arbitrarily-defined protocol of S not known to 
+    Agent A through to that specific point in time (the 
+    instance after attacking). 
+2. There exists additional effects stemming from 
+   each possible move by Agent A. These additional 
+   effects present themselves as <ins>hidden layers</ins> 
+   of information not readily available, by analytical 
+   and intrusive capabilities belonging to Agent A. 
+   Hidden layers could yield additional effects from 
+   the execution of a move by Agent A: 
+  - Opposite changes that can be nullifying or 
+    polarizing to the effect expected by Agent A, 
+    based on the information it has. 
+  - Sub-constituents are yielded from the constituents 
+    (nodes) affected by Agent A's executed move, 
+    modifying Agent A's knowledge of S's structural 
+    composition. 
+  - Affected nodes of Agent A's executed move modify 
+    S' surface of vulnerability to attack. Possible 
+    routes for S to modify include applying changes 
+    onto each of the constituent's strengths and 
+    weaknesses, and changing connectivity.   
 
-
-
+Agent A could undergo improvements to its knowledge 
+base of the sophisticated in tandem with that of its 
+moveset through the iteration of trial-and-error 
+procedures onto the sophisticated S. But the sophisticated 
+S, in a competent form, would not allow this progress 
+of Agent A to pass by to disturb its balance. The 
+sophisticated S also "evolves" its structural composition 
+and operational mechanisms in tandem, so that Agent A's 
+improvements would be at least matched by its "evolution" 
+if not outright overpowered by them. 
