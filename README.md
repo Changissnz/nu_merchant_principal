@@ -2928,7 +2928,7 @@ There are two broad cases of judging if an object
 is some particular label. Refer back to diagram TSBA1. 
 Suppose the object in diagram TSBA1 is labeled by most 
 operating agents of analytic function $F_A$ with rubric 
-$R$ as sophisticated. But there outliers that do not 
+$R$ as sophisticated. But there are outliers that do not 
 arrive at the same labeling. One category of these 
 outliers uses the tactic of <ins>hyper-critical</ins> 
 evaluation. These outliers rest their single judgment 
@@ -2996,7 +2996,7 @@ births. Due to the scarcity of what is recognized as
 "sophisticated", there are naturally less opportunities 
 to demonstrate the effectiveness of the sophisticated 
 over the ordinary, given the condition that the ordinary 
-remains as the mainstream ideal in both thought and 
+remains as the mainstream preference in both thought and 
 practice. And even if the sophisticated proves superior 
 along select metrics to the ordinary, the sophisticated 
 tend to be put into conditions that garner low proliferation 
@@ -3062,8 +3062,8 @@ than with functionality. The notion of utility does play
 a real role of application in an ordered world, the order 
 preserved and propagated through effective utility. So 
 there is this rationale for delving into the term 
-"sophisticated", due to what is labeled as this term 
-to potentially yield high contributions for practical 
+"sophisticated", due to what is labeled as such to 
+potentially yield high contributions for practical 
 advancement. 
 
 As mentioned in this section and the last, there is at 
@@ -3126,8 +3126,8 @@ assumption may, of course, not be in line with real-life
 practices. No need for exemplification, but by the 
 abstractions, DS1-DS4, provided in the previous section 
 (Denying Sophistication), the sophisticated may believe 
-it suitable to initiate confrontation with what it 
-believes are threats to its lone existence and/or 
+it suitable to initiate confrontation with what they 
+believe are threats to their lone existence and/or 
 proliferation. This assumption is necessary, in this 
 section, for the sake of brevity. If, for example, 
 the sophisticated views another that sees the sophisticated 
@@ -3146,7 +3146,7 @@ of negative multiplication/addition. Recall the
 "hole for the sophisticated". This "hole" can be 
 used as a mechanism for the initially belligerent 
 sophisticated. The sophisticated would employ this 
-"hole" for elaborate defenses against those they  
+"hole" for elaborate defenses against those they 
 judged as adversaries, regardless of these others' 
 views of them. 
 
@@ -3155,8 +3155,8 @@ now shifts from singular appearance, perhaps due
 to its inanimate nature, to transformative 
 appearances that constitute the behavior of the 
 object in question. From either an adversarial 
-or ally standpoint, the first step towards approaching 
-the benign sophisticated is to "discover" their  
+or allied standpoint, the first step towards approaching 
+the benign sophisticated is to "discover" their 
 constituents. This "discovery" process resembles 
 the novel elements perceived during a sort of 
 magnification, in other words, redirectional and 
@@ -3245,8 +3245,8 @@ S, in a competent form, would not allow this progress
 of Agent A to pass by to disturb its balance. The 
 sophisticated S also "evolves" its structural composition 
 and operational mechanisms in tandem, so that Agent A's 
-improvements would be at least matched by its "evolution" 
-if not outright overpowered by them. Also note that in 
+improvements would be at least matched by their "evolution" 
+if not outright overpowered. Also note that in 
 this elaboration of adversarial Agent A against the 
 sophisticated S, Agent A does not "discover" the 
 structural composition of S in one span of activity. 
