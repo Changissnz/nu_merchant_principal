@@ -3398,3 +3398,31 @@ validity in this point from the aspects discussed
 in this section and the previous (Denying Sophistication). 
 
 ## Shifty and Shifting Alliances Pt. II <a name="p14"></a>
+
+The topic of alliances is expansive. Causality and 
+procedures pertaining to this topic have clearly not 
+been touched in all, let alone in full, in the section 
+Shifty and Shifting Alliances. Going so far as to 
+attempt to explain the core causalities and procedures 
+of alliances is also not sufficient in explaining the 
+large leaps between the principle (causality and 
+procedure) with application in the typical context 
+of the real-world. Alliances are a striving of many 
+due to their promise of satisfying utilitarian needs, 
+goals that could not be achieved otherwise without 
+the necessity of a form of pragmatism, this form of 
+pragmatism reliant on connectivity, that is, selective 
+ignorance alongside choice initiatives for reliability 
+in alignment. The discussion on alliances can very 
+quickly shift to real-world applications, especially 
+on the matters of diplomacy (localized, globalized, et 
+cetera) and socio-economic constructs. Areas of focus 
+for these applications, including but not limited to  
+interpretability, capability, and compliability then 
+fall under the prefix of "multi", a prefix with a 
+default assumption of yielding probabilistic results 
+stemming from universally agreed-upon "rules". This 
+section is a continuation of the first part, and there 
+is not a standout attempt to explore real-world 
+representation by historical mentioning/rationale of 
+specifics. 
