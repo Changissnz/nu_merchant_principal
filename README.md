@@ -6,6 +6,22 @@
 ### In mercantilism, that "father figure" you have that told you "it is not about the money, it is about the principle" might just rape you dead and take all of your belongings...
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Table of contents
+1. [Autonomy and Games](#p1)
+2. [Situational Engineering](#p2)
+3. [Security's Price of Choice-Communication](#p3)
+4. [Maintenance as Half-Measures of the Potential](#p4)
+5. [Wasting the Drive in Gridlock](#p5)
+6. [How Obtuse Judgments Can Count](#p6)
+7. [To Be Revered by What](#p7)
+8. [Curse by Pre-emptive Doxing](#p8)
+9. [A Simple Template For Expectations of Cost](#p9)
+10. [The Effectiveness of Imagined Fallibilities](#p10)
+11. [Shifty and Shifting Alliances](#p11)
+12. [Denying Sophistication](#p12)
+13. [The Sophisticated As Behavior After Appearance](#p13)
+14. [Shifty and Shifting Alliances Pt. II](#p14)
+
 Business comes and goes, much more frequently than governments. 
 So how can commerce thrive without the dread of disillusionment
 that stems from the lackluster payoff in zero-sum dynamics? 
@@ -212,7 +228,7 @@ over the delegators, who would rather play and follow
 along than to emphasize their own ideal choices 
 in the "game". 
 
-## Autonomy and Games
+## Autonomy and Games <a name="p1"></a>
 
 Autonomy is a multi-faceted question in arrangements 
 that are games. Why would an agent participate in some 
@@ -332,7 +348,7 @@ are filtration processes, recognition mechanisms, flow
 control, network administration, and ultimately, capabilities 
 past the knowledge that is perfect information.
 
-## Situational Engineering
+## Situational Engineering <a name="p2"></a>
 
 The academic field of game theory has mass-proliferated
 some important findings in the context of decision-making.
@@ -504,7 +520,7 @@ they are to attempt to appear as doves in particular contexts.
 Playing as the dove helps avoid direct confrontation with 
 obstacles to their objective of becoming Agent A.
 
-## Security's Price of Choice-Communication
+## Security's Price of Choice-Communication <a name="p3"></a>
 
 There is a lot to be said,written, or however else 
 communicated on the "power of language", specifically its 
@@ -816,7 +832,7 @@ only after the actualization of events during timespans
 displeasing for the impatient or those that cannot afford 
 the time. 
 
-## Maintenance as Half-Measures of the Potential
+## Maintenance as Half-Measures of the Potential <a name="p4"></a>
 
 Maintenance is associated with aspiring towards the
 "constant", the "equilibrium", and confusingly, some 
@@ -986,7 +1002,7 @@ power it has is finite and non-static. An
 opportune time for Agent A to cut some part of 
 Agent T may not come again.
 
-## Wasting the Drive in Gridlock 
+## Wasting the Drive in Gridlock <a name="p5"></a>
 
 Gridlock describes a condition with particular
 traits in a group of entities (two or more), 
@@ -1175,7 +1191,7 @@ conditions of the group's members? As for the possible
 future, abstraction by the Game of Breaking Gridlock 
 opens the doors to the undefined. 
 
-## How Obtuse Judgments Can Count
+## How Obtuse Judgments Can Count <a name="p6"></a>
 
 What does the word "judgment" mean when there are
 no consequences from the occurrence of it in the 
@@ -1373,7 +1389,7 @@ Here is a musing on what superiorities of two
 classifications in thought processes, with no definitive 
 answer for that would require specific examples. 
 
-## To Be Revered by What
+## To Be Revered by What <a name="p7"></a>
 
 The word "reverence" carries attitudes and beliefs
 of genuine respect for a noun, typically a sentient
@@ -1827,7 +1843,7 @@ to tactics such as brute force, and these tactics require
 a scale of resources that correlates by some proportion 
 to the size of the haystack. 
 
-## Curse by Pre-emptive Doxing 
+## Curse by Pre-emptive Doxing <a name="p8"></a>
 
 The newspeak involved in political warfare continues 
 its evolution to this day. The word "doxing", having made 
@@ -1890,7 +1906,7 @@ events curses falls under the conclusion that is an
 opinionated acceptance without rediscovery, bound to the 
 lack of light.
 
-## A Simple Template For Expectations of Cost 
+## A Simple Template For Expectations of Cost <a name="p9"></a>
 
 The value of every cost (typically a number in the space of 
 real numbers), when presented to some audience, is expected 
@@ -1991,7 +2007,7 @@ source, the "axis"). The security issue is the removal
 of the conservative source that some if not many at the 
 "beginning" strongly upheld as the standard. 
 
-## The Effectiveness of Imagined Fallibilities 
+## The Effectiveness of Imagined Fallibilities <a name="p10"></a>
 
 What is left to the imagination may stay in the 
 immediate and constrained realm of the imagining.
@@ -2165,7 +2181,7 @@ satisfy its condition. Upon satisfaction, the
 effect of the "imaginary value" is application of 
 the reproductive function.
 
-## Shifty and Shifting Alliances
+## Shifty and Shifting Alliances <a name="p11"></a>
 
 Connection as a continuity does not have a 
 particularly wide opening for opportunity in a 
@@ -2601,7 +2617,7 @@ as Conway's Game of Life, invented by British mathematician
 John Horton Conway, to aid with describing possible 
 deltas in "alliances", as depicted by graphs. 
 
-## Denying Sophistication 
+## Denying Sophistication <a name="p12"></a>
 
 An almost universal envy is aimed towards those that have 
 become sophisticated (many would say this trait is nurtured 
@@ -2792,7 +2808,7 @@ process. The conservative process maintains its original
 components, and only intends to possess the product of 
 the sophistication process. 
 
-## The Sophisticated As Behavior After Appearance 
+## The Sophisticated As Behavior After Appearance <a name="p13"></a>
 
 With regards to inanimate objects that possess no 
 autonomy to change appearance or expression to some 
@@ -3381,4 +3397,4 @@ in specific contexts. There are arguments for the
 validity in this point from the aspects discussed 
 in this section and the previous (Denying Sophistication). 
 
-## Shifty and Shifting Alliances Pt. II
+## Shifty and Shifting Alliances Pt. II <a name="p14"></a>
