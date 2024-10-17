@@ -3501,7 +3501,7 @@ $5$. There are three units the "alliance" factor
 $F$ is connected to. How should $F$ work for 
 these three units, $\{S_0,S_3,S_4\}$, given these 
 5 tasks at its disposal? To first answer this 
-specific question, the table below provides 
+specific question, the tables below provides 
 preliminary but vital information on the specifics 
 of these starting numbers. 
 
@@ -3516,3 +3516,15 @@ factor $F$.
 **DEM1:** Table detailing the demand of each task's 
 value per connected unit of the alliance to "alliance" 
 factor $F$.  
+
+As this example is turning out, the "alliance" factor 
+does not have enough value in its tasks to serve all 
+demands of the three "alliance" units it is connected 
+to. There is the basic guideline in this connective 
+arrangement that the supply should meet the demand, 
+the supply being the (task,value) pairs belonging to 
+the "alliance" factor and the demand the (task,value) 
+pairs belonging to each of the connected "alliance" 
+units. How can this problem of serving all interests 
+be resolved without having to modify some of these 
+numbers? The answer is that the problem cannot be. 
