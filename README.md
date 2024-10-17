@@ -3480,6 +3480,21 @@ connecting to an "alliance" factor, single connections
 sufficed in showing possible structural and hierarchical 
 effects. 
 
+One benefit of exploring alliances, capable of 
+anti-conserving internal activity, with the scant 
+starting framework of networks, called graphs in 
+the lexicon of mathematics, is that their beginning 
+shallowness can be extended into more and more 
+nuances, implemented in a layered (stacked) 
+priority-based structure. The layering can generate 
+exponentially more outcomes, these greater number 
+and variety of outcomes to satisfy realistic 
+probability distributions. The layering can also 
+be fitted and calibrated to satisfy narrow spaces 
+of possibilities. Countless mathematical proofs have 
+been written to demonstrate that the structure that 
+is a graph has these capabilities stated. 
+
 Suppose an "alliance" rests on an connection of expectations 
 with an "alliance" factor. And this expected connection 
 is actually many edges (connections) between constituents 
