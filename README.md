@@ -3472,15 +3472,15 @@ hierarchical relations between the constituents. A
 lead node could be demoted to a sub-ordinate; a 
 sub-ordinate could take the role of the lead. These 
 two observances are fundamental enough to comprehend, 
-but do serve as possible courses of activity in alliances 
-of a non-static organization. The section only considered 
-single connections to an "alliance" factor. Without 
-rigidly-defined rules for effects of an "alliance" 
+but do serve as possibly complex courses of activity in 
+alliances of a non-static organization. The section only 
+considered single connections to an "alliance" factor. 
+Without rigidly-defined rules for effects of an "alliance" 
 connecting to an "alliance" factor, single connections 
 sufficed in showing possible structural and hierarchical 
 effects. 
 
-Suppose an "alliance" rests on an expected connection 
+Suppose an "alliance" rests on an connection of expectations 
 with an "alliance" factor. And this expected connection 
 is actually many edges (connections) between constituents 
 (plural) of the "alliance" with the "alliance" factor. 
@@ -3528,3 +3528,30 @@ pairs belonging to each of the connected "alliance"
 units. How can this problem of serving all interests 
 be resolved without having to modify some of these 
 numbers? The answer is that the problem cannot be. 
+This example is vital to demonstrating why the 
+notion of an "alliance" factor simply cannot serve 
+as a completely reliable source of demand to any  
+arbitrary network, such as this alliance. They, 
+the alliance, must find ways to resolve this conflict 
+of interest, for lack of a better phrase. There are 
+some options outside of, say, the "alliance" factor 
+inflating its tasks' values to fit the numbers in 
+table DEM1. Value inflation may not work, after all, 
+if the connected units accurately verify, by their 
+own metrological inspection, the supply they have 
+received.
+
+Each of the connected units can attempt to "pacify" 
+the expected demands of some other connected unit/s. 
+This does read to be a sort of multi-feedback loop 
+where one asks (demands?) another to accept a lower 
+quantity of what the other claims to need. If 
+fairness for the connected units, in this context, 
+is to accept the maximum threshold value of each of 
+the demanded tasks belong to "alliance" factor $F$, 
+and also for each of the units to reduce their 
+demand in "some proportional way" to shave off the 
+excess of their original cumulative demands, the 
+issue would be resolved for this simple case of 
+clean, singular values pertaining to the demand 
+in question.  
