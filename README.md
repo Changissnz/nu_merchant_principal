@@ -3545,15 +3545,24 @@ Each of the connected units can attempt to "pacify"
 the expected demands of some other connected unit/s. 
 This does read to be a sort of multi-feedback loop 
 where one asks (demands?) another to accept a lower 
-quantity of what the other claims to need. If 
-fairness for the connected units, in this context, 
+quantity of what the other claims to need. "Pacification" 
+involves such schemes of a unit's partial or full 
+prohibition of another's demanded value, forms of 
+declaring the other to cease and desist, and/or 
+persuasion of another, designed to appear as "friendly 
+redirection", to strive for other alternatives. 
+"Friendly redirection" of a unit with an unsatisfied 
+demand could mean for that unit to be open to or 
+seek new "alliance" factors that could at least 
+fully compensate the deficits of their initial demands. 
+If fairness for the connected units, in this context, 
 is to accept the maximum threshold value of each of 
 the demanded tasks belong to "alliance" factor $F$, 
 and also for each of the units to reduce their 
 demand in "some proportional way" to shave off the 
 excess of their original cumulative demands, the 
 issue would be resolved for this simple case of 
-clean, singular values pertaining to the supply  
+clean, singular values pertaining to the supply 
 in question.
 
 Despite each of the units of the alliance in 
@@ -3567,4 +3576,13 @@ tasks of $F$, followed by $S_3$, then $S_4$. But
 without further information on each of these units, 
 there can be no safe assumption on how they would 
 rank each other as rewardees of the supply from $F$. 
-
+An arrangement of ranking, between the candidate units 
+for their wanted values, is required to resolve the 
+question posed in the previous paragraph. The ranking 
+would constitute a form of hierarchy that qualitatively 
+transforms the units of the alliance, similar to the 
+qualities of the hierarchical unit, even though the 
+units are of a non-hierarchical category, not granted 
+the natural predisposition of constituents in an 
+arrangement by assignment as in the three-node 
+hierarchical unit. 
