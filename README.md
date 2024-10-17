@@ -6,7 +6,7 @@
 ### In mercantilism, that "father figure" you have that told you "it is not about the money, it is about the principle" might just rape you dead and take all of your belongings...
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Table of contents
+# Table of Contents
 1. [Autonomy and Games](#p1)
 2. [Situational Engineering](#p2)
 3. [Security's Price of Choice-Communication](#p3)
@@ -2311,7 +2311,7 @@ the other two as sub-ordinate equals. These units for
 representing entities operate by "smart" network
 functionalities, exhibited by autonomous actions taken 
 after appropriate objectives and corresponding training 
-have taken place with the aims of reliably deciding on  
+have taken place with the aims of reliably deciding on 
 maximally-gainful choices.
 
 Hierarchical graph units are predominantly used 
@@ -3439,3 +3439,48 @@ section is a continuation of the first part, and there
 is not a standout attempt to explore real-world 
 representation by historical mentioning/rationale of 
 specifics. 
+
+In Shifty and Shifting Alliances, two graphical units 
+were put forth (diagrams SA1 and SA2), but only one of 
+them, the hierarchical unit of SA2, was used to illustrate 
+"alliances" affected by outside forces, deemed "alliance" 
+factors. Each alliance is depicted as a cumulative product 
+of hierarchical units. The mesh structure of diagram MESH1 
+has the feature of shared nodes between the hierarchical 
+units and, as previously mentioned, there requires "toss-up" 
+procedures to determine lead nodes in the structure, the 
+alliance. Past the open-ended specificities of these "toss-up" 
+procedures, one prime observance was on the connectivity of 
+the structure after one of its constituents connected to 
+the "alliance" factor. Certain connections, arbitrary from 
+an unknowledgeable observer's point of view, shattered due 
+to the involvement of the connected "alliance" factor. The 
+specific reason why such events occurred is left to the 
+reader's speculation, for connectivity between autonomous 
+agents (assumed to be) is based on rules recognized as 
+arbitrarily-defined. The principle, however, without 
+detailing the reason for this principle, is that the 
+"alliance" factor can alter the internal workings of 
+an "alliance" after the "alliance" establishes contact 
+with it. The illustration gives the impression to the 
+reader that the "alliance" factor is similar to kinetic 
+factors that result in changes onto surfaces they impact, 
+so there is possibly that metaphorical misconception 
+in interpreting it. Another prime observance was on how 
+connecting to an "alliance" factor could change the 
+hierarchical relations between the constituents. A 
+lead node could be demoted to a sub-ordinate; a 
+sub-ordinate could take the role of the lead. These 
+two observances are fundamental enough to comprehend, 
+but do serve as possible courses of activity in alliances 
+of a non-static organization. The section only considered 
+single connections to an "alliance" factor. Without 
+rigidly-defined rules for effects of an "alliance" 
+connecting to an "alliance" factor, single connections 
+sufficed to show possible structural and hierarchical 
+effects. 
+
+Suppose an "alliance" rests on an expected connection 
+with an "alliance" factor. And this expected connection 
+is actually many edges (connections) between constituents 
+(plural) of the "alliance" with the "alliance" factor. 
