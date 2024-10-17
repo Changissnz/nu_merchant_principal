@@ -3407,17 +3407,29 @@ attempt to explain the core causalities and procedures
 of alliances is also not sufficient in explaining the 
 large leaps between the principle (causality and 
 procedure) and application in the typical context 
-of the real-world. Alliances are a striving of many 
-due to their promise of satisfying utilitarian needs, 
-goals that could not be achieved otherwise without 
-the necessity of a form of pragmatism, this form of 
-pragmatism reliant on connectivity, that is, selective 
-ignorance alongside choice initiatives for reliability 
-in alignment. The discussion on alliances can very 
-quickly shift to real-world applications, especially 
-on the matters of diplomacy (localized, globalized, et 
-cetera) and socio-economic constructs. Areas of focus 
-for these applications, including but not limited to 
+of the real-world. This is a little disheartening to 
+write. If causality's core can be explained, alongside 
+with that of procedures, then application should 
+naturally have reasoning already known by this 
+knowledge of causality, and the application would 
+follow the frameworks set by the procedures. 
+Application of principles, with regards to alliances, 
+by sentient beings that may operate on non-deterministic, 
+such as anti-deterministic, pseudo-stochastic, bases 
+cannot be expected to understanding any explanation 
+of the core of causality, or to follow procedures 
+for the correct contexts by some prescribed extents. 
+Alliances are a striving of many due to their promise 
+of satisfying utilitarian needs, goals that could not 
+be achieved otherwise without the necessity of a form 
+of pragmatism, this form of pragmatism reliant on 
+connectivity, that is, selective ignorance alongside 
+choice initiatives for reliability in alignment. The 
+discussion on alliances can very quickly shift to 
+real-world applications, especially on the matters of 
+diplomacy (localized, globalized, et cetera) and 
+socio-economic constructs. Areas of focus for these 
+applications, including but not limited to 
 interpretability, capability, and compliability then 
 fall under the prefix of "multi", a prefix with a 
 default assumption of yielding probabilistic results 
