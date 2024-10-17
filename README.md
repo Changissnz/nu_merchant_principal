@@ -19,7 +19,7 @@
 10. [The Effectiveness of Imagined Fallibilities](#p10)
 11. [Shifty and Shifting Alliances](#p11)
 12. [Denying Sophistication](#p12)
-13. [The Sophisticated As Behavior After Appearance](#p13)
+13. [The Sophisticated as Behavior After Appearance](#p13)
 14. [Shifty and Shifting Alliances Pt. II](#p14)
 
 Business comes and goes, much more frequently than governments. 
@@ -2808,7 +2808,7 @@ process. The conservative process maintains its original
 components, and only intends to possess the product of 
 the sophistication process. 
 
-## The Sophisticated As Behavior After Appearance <a name="p13"></a>
+## The Sophisticated as Behavior After Appearance <a name="p13"></a>
 
 With regards to inanimate objects that possess no 
 autonomy to change appearance or expression to some 
@@ -3409,18 +3409,19 @@ large leaps between the principle (causality and
 procedure) and application in the typical context 
 of the real-world. This is a little disheartening to 
 write. If causality's core can be explained, alongside 
-with that of procedures, then application should 
+with full detailing of procedures, then application should 
 naturally have reasoning already known by this 
 knowledge of causality, and the application would 
 follow the frameworks set by the procedures. 
 Application of principles, with regards to alliances, 
 by sentient beings that may operate on non-deterministic, 
 such as anti-deterministic, pseudo-stochastic, bases 
-cannot be expected to understanding any explanation 
+cannot be expected to understand any explanation 
 of the core of causality, or to follow procedures 
-for the correct contexts by some prescribed extents. 
-Alliances are a striving of many due to their promise 
-of satisfying utilitarian needs, goals that could not 
+for the correct contexts that is in accordance with 
+prescribed extents (if they even exist). Alliances 
+are a striving of many due to their promise of 
+satisfying utilitarian needs, goals that could not 
 be achieved otherwise without the necessity of a form 
 of pragmatism, this form of pragmatism reliant on 
 connectivity, that is, selective ignorance alongside 
