@@ -3593,11 +3593,11 @@ there can be no safe assumption on how they would
 rank each other as rewardees of the supply from $F$. 
 An arrangement of ranking, between the candidate units 
 for their wanted values, is required to resolve the 
-question posed in the previous paragraph. The ranking 
+question posed two paragraphs back. The ranking 
 would constitute a form of hierarchy that qualitatively 
 transforms the units of the alliance, similar to the 
 qualities of the hierarchical unit, even though the 
 units are of a non-hierarchical category, not granted 
 the natural predisposition of constituents in an 
-arrangement by assignment as in the three-node 
+arrangement by assignment, as in the three-node 
 hierarchical unit. 
