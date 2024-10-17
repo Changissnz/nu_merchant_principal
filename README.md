@@ -3518,19 +3518,19 @@ value per connected unit of the alliance to "alliance"
 factor $F$.  
 
 As this example is turning out, the "alliance" factor 
-does not have enough value in its tasks to serve all 
-demands of the three "alliance" units it is connected 
-to. There is the basic guideline in this connective 
-arrangement that the supply should meet the demand, 
-the supply being the (task,value) pairs belonging to 
-the "alliance" factor and the demand the (task,value) 
-pairs belonging to each of the connected "alliance" 
-units. How can this problem of serving all interests 
-be resolved without having to modify some of these 
-numbers? The answer is that the problem cannot be. 
-This example is vital to demonstrating why the 
+does not have enough value in any of its tasks, save 
+for $T_4$, to serve all demands of the three "alliance" 
+units it is connected to. There is the basic guideline 
+in this connective arrangement that the supply should 
+meet the demand, the supply being the (task,value) pairs 
+belonging to the "alliance" factor and the demand the 
+(task,value) pairs belonging to each of the connected 
+"alliance" units. How can this problem of serving all 
+interests be resolved without having to modify some 
+of these numbers? The answer is that the problem cannot 
+be. This example is vital to demonstrating why the 
 notion of an "alliance" factor simply cannot serve 
-as a completely reliable source of demand to any  
+as a completely reliable source of demand to any 
 arbitrary network, such as this alliance. They, 
 the alliance, must find ways to resolve this conflict 
 of interest, for lack of a better phrase. There are 
@@ -3553,5 +3553,18 @@ and also for each of the units to reduce their
 demand in "some proportional way" to shave off the 
 excess of their original cumulative demands, the 
 issue would be resolved for this simple case of 
-clean, singular values pertaining to the demand 
-in question.  
+clean, singular values pertaining to the supply  
+in question.
+
+Despite each of the units of the alliance in 
+diagram MCAF1 being one of a non-hierarchical 
+type, the magnitude of their demands per task (see 
+table DEM1) do play a role in their rankings, 
+ordinal values signifying their prioritization 
+as candidates in the demand line, amongst themselves. 
+The unit $S_0$ has the greatest demand across all 
+tasks of $F$, followed by $S_3$, then $S_4$. But 
+without further information on each of these units, 
+there can be no safe assumption on how they would 
+rank each other as rewardees of the supply from $F$. 
+
