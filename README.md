@@ -3477,10 +3477,42 @@ of a non-static organization. The section only considered
 single connections to an "alliance" factor. Without 
 rigidly-defined rules for effects of an "alliance" 
 connecting to an "alliance" factor, single connections 
-sufficed to show possible structural and hierarchical 
+sufficed in showing possible structural and hierarchical 
 effects. 
 
 Suppose an "alliance" rests on an expected connection 
 with an "alliance" factor. And this expected connection 
 is actually many edges (connections) between constituents 
 (plural) of the "alliance" with the "alliance" factor. 
+This next example does not use the hierarchical unit of 
+diagram SA2 due to the complication presented by their 
+greater number of nodes to SA1. 
+
+![image info](./images/ssa2_one.PNG)
+
+**MCAF1:** Multi-connected "alliance" factor $F$ to the 
+"alliance", the network of red nodes, each node a 
+non-hierarchical unit.  
+
+The "alliance" factor $F$, in multi-connected 
+cases, is capable of some non-negative number $n$ 
+of tasks. In diagram MCAF1, let this number be 
+$5$. There are three units the "alliance" factor 
+$F$ is connected to. How should $F$ work for 
+these three units, $\{S_0,S_3,S_4\}$, given these 
+5 tasks at its disposal? To first answer this 
+specific question, the table below provides 
+preliminary but vital information on the specifics 
+of these starting numbers. 
+
+![image info](./images/ssa2_tab1.PNG)
+
+**TASK1:** Table detailing the expendable amount of 
+value per each of the five tasks capable by "alliance" 
+factor $F$. 
+
+![image info](./images/ssa2_tab2.PNG)
+
+**DEM1:** Table detailing the demand of each task's 
+value per connected unit of the alliance to "alliance" 
+factor $F$.  
