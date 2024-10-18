@@ -3680,6 +3680,41 @@ rule. The rules of $S_0$ and $S_3$ onto $S_4$ are
 relativistic threshold, and the remaining rules are 
 hard thresholds.
 
+A probable problem with prohibition rules as a 
+square table, with no essential guidelines for their 
+conditions, is that there can exist contradicting rules 
+between the pertaining units of the "alliance". There 
+is then the necessity of a "toss-up" procedure that 
+determines what settlement is borne from these 
+prohibition rules sitting on top of internal contradiction. 
+For a set of $k$ connected units to an "alliance" 
+factor $F$, there is a task $T_{?}$ of interest and 
+a unit $u$ that is faced with contradictions on the 
+prohibition rules placed on its demand of $T_{?}$. 
+The $k-1$ other units assert these rules onto $u$, 
+And for the possible range of values for $v$ that 
+$u$ can choose from, every one of these values 
+violate every prohibition rule set by the remaining 
+$k-1$ units. Already, there is a problem that is this 
+unsatisfiable decision problem. A "toss-up" procedure 
+should resolve this contradiction of rule internal 
+to the "alliance". Perhaps this "toss-up" procedure 
+produces little to no negative change onto the alliance's 
+unity. Here is another example. Using the same variable 
+notation, there results two subsets $U_v$ and $U_s$ 
+of the $k-1$ units. Unit $u$, with its demand value 
+$v$ of $T_{?}$, violate the rules of subset $U_v$, 
+and satisfy the rules of subset $U_s$. Once again, 
+a sort of "toss-up" procedure is called for to resolve 
+the violations of the rules wanted satisfaction by 
+$U_v$. This is different from the first example, in 
+which every unit besides from $u$ had its prohibition 
+rule violated. In this example, there is a dichotomy 
+between those rule-satisfied and those not. What 
+difference for the outcome, that is, of unit $u$ 
+adjusting its demand value $v$ for task $T_?$, 
+does this difference in rule-satisfaction make? 
+
 A weighted solution that encompasses all three of these 
 pathways, meaning a procedure that assigns scales of 
 influence with typical significations to proportion, 
