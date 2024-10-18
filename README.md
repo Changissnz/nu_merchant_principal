@@ -3716,7 +3716,8 @@ adjusting its demand value $v$ for task $T_?$,
 does this difference in rule-satisfaction make? 
 
 A weighted solution that encompasses all three of these 
-pathways, meaning a procedure that assigns scales of 
+pathways (prohibition, friendly redirection, proportion-based 
+adjustments), meaning a procedure that assigns scales of 
 influence with typical significations to proportion, 
 is a viable option. Weighting schemes generate a 
 greater if not equal number of solutions, due to their 
