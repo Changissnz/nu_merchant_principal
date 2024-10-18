@@ -3746,7 +3746,7 @@ set of changes by $q(u_i)$, taken to mean the qualities
 and quantities of the unit $u_i$ outside of prohibition 
 rules but still subject to change due to the adjustments 
 in the prohibition rules, is also applied onto the units. 
-Expression $G^{config_{A}} _{T_{?}}$ is a corrective mechanism, 
+Expression $G^{?}_{?}$ is a corrective mechanism, 
 left open-ended on the question of what $\Delta$ is with 
 regards to prohibition rules and qualities/quantities 
 belonging to each member of the alliance. Some terms 
