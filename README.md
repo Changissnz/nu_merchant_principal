@@ -3720,9 +3720,9 @@ Think. Ponder on this, please. What kind of alliance
 would form only to issue rules contradictory to 
 each other? Or... what kind of alliance could not 
 resolve rules they themselves put forth? And ... 
-how much do jeopardy do alliances fall prey to 
+how much jeopardy do alliances fall prey to 
 in their quest to establish uniformly accepted 
-rules in failure? In success? 
+rules for failure? For success? 
 
 A weighted solution that encompasses all three of these 
 pathways (prohibition, friendly redirection, proportion-based 
