@@ -3031,7 +3031,7 @@ Or it can work for move 5 in ways that increase its level
 of easiness in executing the move. The pair-value of each
 cost is: 
 (cost of effort in decision, consequences of pursuing decision). 
-Agent A may not be able to afford to work for move 5. 
+Agent A may not be able to afford to work for move 5; 1 x 2. 
 
 | ~~ | Execute Move 5 | Work For Move 10 |
 | --- | -------------- | -------- |
@@ -3041,7 +3041,8 @@ Agent A may not be able to afford to work for move 5.
 TSBA3 has the choice to continue executing move 5 against 
 its competitor Agent B. Or it could stray away from actively 
 focusing on playing against Agent B by working for move 10. 
-The pair-value of each cost is equivalently defined to SOPHIMP2. 
+The pair-value of each cost is equivalently defined to SOPHIMP2; 
+1 x 2. 
 
 In the two tables SOPHIMP1 and SOPHIMP2, both agents have 
 a much greater likelihood of pursuing the first move (first column)
@@ -3206,7 +3207,7 @@ sophisticated $S$. The information does not have
 a guarantee of accuracy, for one. Another important 
 detail about the information is that the information 
 about the effects of each of Agent A's moves against 
-the nodesets is incomplete. 
+the nodesets is incomplete; 6 x 3. 
 
 Certain ways exist for the sophisticated $S$ to 
 exhibit to the attacking Agent A that they are, in 
@@ -3364,7 +3365,7 @@ is non-commutative.
 **TSBAT2:** The first table lists the outcomes from 
 application of $diff_1$. The second table lists 
 the accuracy and hardness (greater is harder) of 
-using $diff_1$ for each pair. 
+using $diff_1$ for each pair; 5 x 5. 
 
 ![image info](./images/tsba_tab4.PNG)
 
@@ -3373,7 +3374,7 @@ using $diff_1$ for each pair.
 **TSBAT3:** The first table lists the outcomes from 
 application of $diff_2$. The second table lists 
 the accuracy and hardness (greater is harder) of 
-using $diff_2$ for each pair. 
+using $diff_2$ for each pair; 5 x 5. 
 
 The resources available to the elaborate determine 
 what function they choose as the differentiator 
@@ -3524,13 +3525,13 @@ of these starting numbers.
 
 **TASK1:** Table detailing the expendable amount of 
 value per each of the five tasks capable by "alliance" 
-factor $F$. 
+factor $F$; 5 x 2.  
 
 ![image info](./images/ssa2_tab2.PNG)
 
 **DEM1:** Table detailing the demand of each task's 
 value per connected unit of the alliance to "alliance" 
-factor $F$.  
+factor $F$; 3 x 5. 
 
 As this example is turning out, the "alliance" factor 
 does not have enough value in any of its tasks, save 
@@ -3617,6 +3618,64 @@ some stipulation/s set by other unit/s. These reactive
 chains could be designed at some point in their relevant 
 existences (before or during the need to execute) to 
 self-modify during realtime (on the go) execution. 
+
+Prohibition rules are first put into a light of generality 
+in this next table. The category of "prohibition" for 
+these rules is to mean them to be restrictions declared 
+by units of some "alliance" onto an "alliance" factor. 
+It is a funny term if oxymorons are to be thought of 
+as funny, but the phrasing does serve a purpose in 
+this section, and more importantly, in applications 
+outside of this text. Oxymorons serve as confusing terms, 
+this confusion caused by the understanding of opposite-ness 
+between two "halves" of the terms that when combined, 
+result in a lack of directed clarity. Rest assured, 
+prohibition rules as a concept in this section are 
+to be described with aims for full comprehension. 
+
+A prohibition rule is a condition by one 
+constituent to another constituent of an "alliance", 
+to be adhered to in regards to the allocating of resources 
+(values of tasks) that originally belongs to the outsider 
+"alliance" factor. Each condition pertains to exactly 
+one task of the "alliance" factor. Rules do come in various forms. 
+Some rules are circular, others bear strictness by 
+practice beyond their phrasing, and yet still, others 
+have hierarchical exceptions attached to their enforcement. 
+Constructs discussed in this section, operating on the 
+sparse definition of a prohibition rule previously 
+stated, place the requirement that each "alliance" unit 
+must abide by the prohibition rules of others placed 
+on them. But the requirement could be broken to result 
+in outcomes not ordinary to the conservation of the 
+"alliance". 
+
+When hard numbers are the subject of decisions in 
+prohibition rules, a type of condition called a 
+<ins>threshold condition</ins> is used. A threshold 
+condition is essentially one or more numerical ranges 
+that pertaining numbers must fall in, in order for 
+the satisfaction of that condition. Two classifications 
+for prohibition rule conditions exist for thresholds, 
+hard and relativistic. Hard thresholds are constant 
+in nature, due to their attachment with non-changing 
+quantities. On the other hand, relativistic thresholds 
+are each associated with values that are compared 
+with the input values in question. Here are a few  
+samples of threshold conditions. 
+- Input $x$ must fall in the range $[0,100)$; hard threshold. 
+- Input $x$ must be at most half in value to $y$; relativistic threshold. 
+- Input $x$ must be at most 3 more in value to $y$; relativistic threshold. 
+
+![image info](./images/ssa2_tab3.PNG)
+
+**PROHIB1:** Table detailing the prohibition rules declared 
+by each of the connected units to "alliance" factor $F$ 
+(see diagram MCAF1). The row-wise (first column) units 
+show the source of the rule and column-wise (first row) 
+units show the subject of the rule. The rules of $S_0$ 
+and $S_3$ onto $S_4$ are relativistic threshold, and 
+the remaining rules are hard thresholds. 
 
 A weighted solution that encompasses all three of these 
 pathways, meaning a procedure that assigns scales of 
