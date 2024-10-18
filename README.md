@@ -3753,8 +3753,8 @@ alliance. Some terms of categorical nature can be
 used to speculate on what $\Delta$ is. Changing 
 behavior and expectations (prohibition rules, in this 
 context) between members of a group, such as an alliance, 
-are <ins>comparative corrective processes</ins>, maybe
-<ins>forced learning processes</ins> in cases where 
+are <ins>comparative-corrective processes</ins>, maybe
+<ins>forced-learning processes</ins> in cases where 
 there is a disproportionate amount of dissatisfaction 
 from one or more of the units involved, so much that 
 there are hidden desires if not explicit calls for 
@@ -3763,6 +3763,28 @@ was used very synonymously with the word "alliance".
 The interchangeability between these terms is to 
 express how "alliances" with great fluxes in their 
 unity could safely be called "groups" instead. 
+
+![image info](./images/ssa2_two.PNG)
+
+**MCAF2:** A multi-connected "alliance" factor $F$ 
+that is insufficient in supplying the wanted values 
+of its capable tasks to an alliance. Two of the 
+connected units to $F$ decide to seek out a new 
+"alliance" factor $F_2$ to fill the deficit. The 
+question of the connections between the alliance 
+and $F$ is put up for question. This is a case of 
+<ins>friendly redirection</ins> of the alliance 
+from $F$ to another "alliance" factor that could 
+possibly replace $F$ as the supplier. 
+
+The changes in connectivity of the alliance is 
+not illustrated in this image, although edges 
+(connections) between the alliance units could 
+be shattered. A kind of hierarchical dynamic 
+between the units $S_0$, $S_3$, and $S_4$ in 
+pursuit after their demands also seems to present 
+itself as a suspected cause of the friendly redirection 
+to the new "alliance" factor $F_2$. 
 
 A weighted solution that encompasses all three of these 
 pathways (prohibition, friendly redirection, proportion-based 
