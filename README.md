@@ -3730,7 +3730,9 @@ for the solution that no longer works. Here is an
 expression that works as a template for finding 
 this re-solution. 
 
-$G^{config_A}_{T_{?}}(F,u,U_v,U_s) \rightarrow \Delta(u_i.rules_p),\Delta(q(u_i)); u_i \texttt{ a unit of the alliance}.$
+$G^{config_{A}}_{T_{?}}(F,u,U_v,U_s) \rightarrow 
+\Delta(u_{i}.rules_{p}),\Delta(q(u_i));$  
+$u_i$ a unit of the alliance.
 
 In this expression, the function $G^{config_A}$ is 
 based on the configuration of the alliance $A$ at some 
