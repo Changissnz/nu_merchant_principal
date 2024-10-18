@@ -3730,7 +3730,7 @@ for the solution that no longer works. Here is an
 expression that works as a template for finding 
 this re-solution. 
 
-$G^{config_{A}}_{T_{?}}(F,u,U_v,U_s)$
+![image info](./images/ssa2_formula.PNG)
 
 In this expression, the function $G^{config_A}$ is 
 based on the configuration of the alliance $A$ at some 
