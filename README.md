@@ -3724,6 +3724,46 @@ how much jeopardy do alliances fall prey to
 in their quest to establish uniformly accepted 
 rules for failure? For success? 
 
+There are fluxes in the "balance". The "balance" 
+needs to be set to something better, a re-solution 
+for the solution that no longer works. Here is an 
+expression that works as a template for finding 
+this re-solution. 
+
+$G^{config_A}_{T_{?}}(F,u,U_v,U_s) \rightarrow \Delta(u_i.rules_p),\Delta(q(u_i)); u_i \texttt{ a unit of the alliance}.$
+
+In this expression, the function $G^{config_A}$ is 
+based on the configuration of the alliance $A$, and a 
+specific task $T_{?}$. It takes as input the "alliance" 
+factor $F$, a unit $u$ belonging to $A$, the set of 
+units $U_v$ with prohibition rules violated by the 
+expected demand of $u$, and the set of units $U_s$ 
+with prohibition rules satisfied by $u$. The function 
+outputs specific changes for each unit's prohibition 
+rule on task $T_{?}. These changes are applied onto 
+each of the units. Another set of changes by $q(*)$, 
+taken to mean the qualities and quantities of the unit 
+$*$ outside of prohibition rules but still subject to change 
+due to the adjustments in the prohibition rules, is 
+also applied onto the units. Expression $G^{config_A}_{T_{?}}$ 
+is a corrective mechanism, left open-ended on the question 
+of what $\Delta$ is with regards to prohibition rules 
+and qualities/quantities belonging to each member of the 
+alliance. Some terms of categorical nature can be 
+used to speculate on what $\Delta$ is. Changing 
+behavior and expectations (prohibition rules, in this 
+context) between members of a group, such as an alliance, 
+are <ins>comparative corrective processes</ins>, maybe
+<ins>forced learning processes</ins> in cases where 
+there is a disproportionate amount of dissatisfaction 
+from one or more of the units involved, so much that 
+there are hidden desires if not explicit calls for 
+separation from the group. Notice how the term "group" 
+was used very synonymously with the word "alliance". 
+The interchangeability between these terms is to 
+express how "alliances" with great fluxes in their 
+unity could safely be called "groups" instead. 
+
 A weighted solution that encompasses all three of these 
 pathways (prohibition, friendly redirection, proportion-based 
 adjustments), meaning a procedure that assigns scales of 
