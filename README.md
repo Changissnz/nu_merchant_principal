@@ -3496,7 +3496,7 @@ of possibilities. Countless mathematical proofs have
 been written to demonstrate that the structure that 
 is a graph has these capabilities stated. 
 
-Suppose an "alliance" rests on an connection of expectations 
+Suppose an "alliance" rests on a connection of expectations 
 with an "alliance" factor. And this expected connection 
 is actually many edges (connections) between constituents 
 (plural) of the "alliance" with the "alliance" factor. 
@@ -3517,7 +3517,7 @@ $5$. There are three units the "alliance" factor
 $F$ is connected to. How should $F$ work for 
 these three units, $\{S_0,S_3,S_4\}$, given these 
 5 tasks at its disposal? To first answer this 
-specific question, the tables below provides 
+specific question, the tables below provide 
 preliminary but vital information on the specifics 
 of these starting numbers. 
 
@@ -3620,18 +3620,18 @@ existences (before or during the need to execute) to
 self-modify during realtime (on the go) execution. 
 
 Prohibition rules are first put into a light of generality 
-in this next table. The category of "prohibition" for 
-these rules is to mean them to be restrictions declared 
-by units of some "alliance" onto an "alliance" factor. 
-It is a funny term if oxymorons are to be thought of 
-as funny, but the phrasing does serve a purpose in 
-this section, and more importantly, in applications 
-outside of this text. Oxymorons serve as confusing terms, 
-this confusion caused by the understanding of opposite-ness 
-between two "halves" of the terms that when combined, 
-result in a lack of directed clarity. Rest assured, 
-prohibition rules as a concept in this section are 
-to be described with aims for full comprehension. 
+in this next table (PROHIB1). The category of "prohibition" 
+for these rules is to mean them to be restrictions of 
+flow (products, communications, et cetera) declared by 
+one unit onto another. It is a funny term if oxymorons 
+are to be thought of as funny, but the phrasing does 
+serve a purpose in this section, and more importantly, 
+in applications outside of this text. Oxymorons serve as 
+confusing terms, this confusion caused by the understanding 
+of opposite-ness between two "halves" of the terms that 
+when combined, result in a lack of directed clarity. 
+Rest assured, prohibition rules as a concept in this 
+section are to be described with aims for full comprehension. 
 
 A prohibition rule is a condition by one 
 constituent to another constituent of an "alliance", 
@@ -3733,36 +3733,37 @@ this re-solution.
 $G^{config_A}_{T_{?}}(F,u,U_v,U_s) \rightarrow \Delta(u_i.rules_p),\Delta(q(u_i)); u_i \texttt{ a unit of the alliance}.$
 
 In this expression, the function $G^{config_A}$ is 
-based on the configuration of the alliance $A$, and a 
-specific task $T_{?}$. It takes as input the "alliance" 
-factor $F$, a unit $u$ belonging to $A$, the set of 
-units $U_v$ with prohibition rules violated by the 
-expected demand of $u$, and the set of units $U_s$ 
-with prohibition rules satisfied by $u$. The function 
-outputs specific changes for each unit's prohibition 
-rule on task $T_{?}$. These changes are applied onto 
-each of the units. Another set of changes by $q(*)$, 
-taken to mean the qualities and quantities of the unit 
-$*$ outside of prohibition rules but still subject to change 
-due to the adjustments in the prohibition rules, is 
-also applied onto the units. Expression $G^{config_A}_{T_{?}}$ 
-is a corrective mechanism, left open-ended on the question 
-of what $\Delta$ is with regards to prohibition rules 
-and qualities/quantities belonging to each member of the 
-alliance. Some terms of categorical nature can be 
-used to speculate on what $\Delta$ is. Changing 
-behavior and expectations (prohibition rules, in this 
-context) between members of a group, such as an alliance, 
-are <ins>comparative-corrective processes</ins>, maybe
-<ins>forced-learning processes</ins> in cases where 
-there is a disproportionate amount of dissatisfaction 
-from one or more of the units involved, so much that 
-there are hidden desires if not explicit calls for 
-separation from the group. Notice how the term "group" 
-was used very synonymously with the word "alliance". 
-The interchangeability between these terms is to 
-express how "alliances" with great fluxes in their 
-unity could safely be called "groups" instead. 
+based on the configuration of the alliance $A$ at some 
+point in its existence, and a specific task $T_{?}$. 
+It takes as input the "alliance" factor $F$, a unit 
+$u$ belonging to $A$, the set of units $U_v$ with 
+prohibition rules violated by the expected demand of 
+$u$, and the set of units $U_s$ with prohibition rules 
+satisfied by $u$. The function outputs specific changes 
+for each unit's prohibition rule on task $T_{?}$. These 
+changes are applied onto each of the units. Another 
+set of changes by $q(*)$, taken to mean the qualities 
+and quantities of the unit $*$ outside of prohibition 
+rules but still subject to change due to the adjustments 
+in the prohibition rules, is also applied onto the units. 
+Expression $G^{config_A}_{T_{?}}$ is a corrective mechanism, 
+left open-ended on the question of what $\Delta$ is with 
+regards to prohibition rules and qualities/quantities 
+belonging to each member of the alliance. Some terms 
+of categorical nature can be used to speculate on what 
+$\Delta$ is. Changing behavior and expectations 
+(prohibition rules, in this context) between members 
+of a group, such as an alliance, are <ins>comparative-corrective 
+processes</ins>, maybe <ins>forced-learning processes</ins> 
+in cases where there is a disproportionate amount of 
+dissatisfaction from one or more of the units involved, 
+so much that there are hidden desires if not explicit 
+calls for separation from the group. Notice how the 
+term "group" was used very synonymously with the 
+word "alliance". The interchangeability between these 
+terms is to express how "alliances" with great 
+fluxes in their unity could safely be called "groups" 
+instead. 
 
 ![image info](./images/ssa2_two.PNG)
 
@@ -3778,13 +3779,57 @@ from $F$ to another "alliance" factor that could
 possibly replace $F$ as the supplier. 
 
 The changes in connectivity between units of 
-the alliance is not illustrated in this image, 
+the alliance are not illustrated in this image, 
 although edges (connections) between the alliance 
 units could be shattered. A kind of hierarchical dynamic 
 between the units $S_0$, $S_3$, and $S_4$ in 
 pursuit after their demands also seems to present 
 itself as a suspected cause of the friendly redirection 
 to the new "alliance" factor $F_2$. 
+
+Weakly-connected alliances do not reason to be conducive 
+to activity that requires the opposite of "weak 
+connections". At least that much can be stated on 
+the labeling of a connection as "strong" or "weak". 
+The cliched reasoning is that it is not always the 
+label, but the utility and outcomes envisioned by 
+the user/s of the labeling that determines the power 
+by achievement of some mark. In this section's showing 
+of a multi-connected "alliance" factor, metrics of 
+weakly-connected alliances can be gathered from a 
+few of their operational attributes. Alliances with 
+high degrees of measurable contradiction in their 
+prohibition rules, amongst themselves, are weakly-connected 
+due the necessity for "toss-up" procedures as 
+resolution intended to reduce the contradiction. 
+These "toss-up" procedures could result in shattering 
+of connections in the alliance, as well as changing 
+relations of hierarchical nature between the units. 
+Instability by lack of <ins>state conservation</ins>, 
+in the form of changing alliance configurations, can be 
+considered connectivity that is weakly-connected. Friendly 
+redirection of demand from alliance units to more and more 
+"alliance" factors also contain indicators of the 
+strength of connection shared between the alliance's 
+units. Many other points on connectivity strength can 
+be conjectured, with the lack of certainty by lack of 
+given underlying details, on how the lack of state 
+conservation is a variable impactful by its broadness 
+and depth into the workings of the constituents of an 
+alliance. There is the perspective that if change can 
+be adjusted to a constant level for "constant change", 
+the "constant change" satisfies the definition of 
+state conservation, but that is a matter 
+that does not fall completely under the umbrella of 
+this section. The semantics of conservation in supply-demand 
+flows, authoritative chains of decision-making (hierarchical 
+practices in great acceptance), and ideal references for 
+correctness, when observed from their beginnings to 
+outcomes "believed to be caused by them", do not exactly 
+fit universal guidelines of state conservation; 
+some would additionally argue that establishing universal 
+guidelines for state conservation is antithetical to 
+the longevity of their practitioners. 
 
 A weighted solution that encompasses all three of these 
 pathways (prohibition, friendly redirection, proportion-based 
