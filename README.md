@@ -3809,7 +3809,7 @@ Instability by lack of <ins>state conservation</ins>,
 in the form of changing alliance configurations, can be 
 considered connectivity that is weakly-connected. Friendly 
 redirection of demand from alliance units to more and more 
-"alliance" factors also contain indicators of the 
+"alliance" factors also contains indicators of the 
 strength of connection shared between the alliance's 
 units. Many other points on connectivity strength can 
 be conjectured, with the lack of certainty by lack of 
