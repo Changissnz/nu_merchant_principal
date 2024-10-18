@@ -3661,7 +3661,7 @@ hard and relativistic. Hard thresholds are constant
 in nature, due to their attachment with non-changing 
 quantities. On the other hand, relativistic thresholds 
 are each associated with values that are compared 
-with the input values in question. Here are a few  
+with the input values in question. Here are a few 
 samples of threshold conditions. 
 - Input $x$ must fall in the range $[0,100)$; hard threshold. 
 - Input $x$ must be at most half in value to $y$; relativistic threshold. 
@@ -3677,7 +3677,7 @@ demand values of connected units for $T_3$. The row-wise
 (first column) units show the source of the rule and 
 column-wise (first row) units show the subject of the 
 rule. The rules of $S_0$ and $S_3$ onto $S_4$ are 
-relativistic threshold, and the remaining rules are 
+relativistic thresholds, and the remaining rules are 
 hard thresholds.
 
 A probable problem with prohibition rules as a 
@@ -3703,8 +3703,8 @@ produces little to no negative change onto the alliance's
 unity. Here is another example. Using the same variable 
 notation, there result two subsets $U_v$ and $U_s$ 
 of the $k-1$ units. Unit $u$, with its demand value 
-$v$ of $T_{?}$, violate the rules of subset $U_v$, 
-and satisfy the rules of subset $U_s$. Once again, 
+$v$ of $T_{?}$, violates the rules of subset $U_v$, 
+and satisfies the rules of subset $U_s$. Once again, 
 a sort of "toss-up" procedure is called for to resolve 
 the violations of the rules wanted satisfaction by 
 $U_v$. This is different from the first example, in 
@@ -3740,7 +3740,7 @@ units $U_v$ with prohibition rules violated by the
 expected demand of $u$, and the set of units $U_s$ 
 with prohibition rules satisfied by $u$. The function 
 outputs specific changes for each unit's prohibition 
-rule on task $T_{?}. These changes are applied onto 
+rule on task $T_{?}$. These changes are applied onto 
 each of the units. Another set of changes by $q(*)$, 
 taken to mean the qualities and quantities of the unit 
 $*$ outside of prohibition rules but still subject to change 
@@ -3777,10 +3777,10 @@ and $F$ is put up for question. This is a case of
 from $F$ to another "alliance" factor that could 
 possibly replace $F$ as the supplier. 
 
-The changes in connectivity of the alliance is 
-not illustrated in this image, although edges 
-(connections) between the alliance units could 
-be shattered. A kind of hierarchical dynamic 
+The changes in connectivity between units of 
+the alliance is not illustrated in this image, 
+although edges (connections) between the alliance 
+units could be shattered. A kind of hierarchical dynamic 
 between the units $S_0$, $S_3$, and $S_4$ in 
 pursuit after their demands also seems to present 
 itself as a suspected cause of the friendly redirection 
