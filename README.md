@@ -3671,11 +3671,14 @@ samples of threshold conditions.
 
 **PROHIB1:** Table detailing the prohibition rules declared 
 by each of the connected units to "alliance" factor $F$ 
-(see diagram MCAF1). The row-wise (first column) units 
-show the source of the rule and column-wise (first row) 
-units show the subject of the rule. The rules of $S_0$ 
-and $S_3$ onto $S_4$ are relativistic threshold, and 
-the remaining rules are hard thresholds. 
+(see diagram MCAF1), with respect to $F$'s task $T_3$. 
+Refer to the table DEM1 for the specific starting 
+demand values of connected units for $T_3$. The row-wise 
+(first column) units show the source of the rule and 
+column-wise (first row) units show the subject of the 
+rule. The rules of $S_0$ and $S_3$ onto $S_4$ are 
+relativistic threshold, and the remaining rules are 
+hard thresholds.
 
 A weighted solution that encompasses all three of these 
 pathways, meaning a procedure that assigns scales of 
