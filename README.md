@@ -3701,7 +3701,7 @@ should resolve this contradiction of rule internal
 to the "alliance". Perhaps this "toss-up" procedure 
 produces little to no negative change onto the alliance's 
 unity. Here is another example. Using the same variable 
-notation, there results two subsets $U_v$ and $U_s$ 
+notation, there result two subsets $U_v$ and $U_s$ 
 of the $k-1$ units. Unit $u$, with its demand value 
 $v$ of $T_{?}$, violate the rules of subset $U_v$, 
 and satisfy the rules of subset $U_s$. Once again, 
@@ -3714,6 +3714,15 @@ between those rule-satisfied and those not. What
 difference for the outcome, that is, of unit $u$ 
 adjusting its demand value $v$ for task $T_?$, 
 does this difference in rule-satisfaction make? 
+
+What are some questions that should be asked here? 
+Think. Ponder on this, please. What kind of alliance 
+would form only to issue rules contradictory to 
+each other? Or... what kind of alliance could not 
+resolve rules they themselves put forth? And ... 
+how much do jeopardy do alliances fall prey to 
+in their quest to establish uniformly accepted 
+rules in failure? In success? 
 
 A weighted solution that encompasses all three of these 
 pathways (prohibition, friendly redirection, proportion-based 
