@@ -21,6 +21,7 @@
 12. [Denying Sophistication](#p12)
 13. [The Sophisticated as Behavior After Appearance](#p13)
 14. [Shifty and Shifting Alliances Pt. II](#p14)
+15. [The Great-Wind's Restriction](#p15)
 
 Business comes and goes, much more frequently than governments. 
 So how can commerce thrive without the dread of disillusionment
@@ -3849,5 +3850,9 @@ and derivatives, then the weighting scheme can not
 be ensured to be a solution on stable grounds. This 
 does read to be tasks for quantitative computationists. 
 
-## The Great-Wind's Restriction 
+## The Great-Wind's Restriction <a name="p15"></a>
 
+A vector for the medium. What can come out of this 
+vector, of wind harmless, is it, that is borne from what 
+benign medium, empty and still if not for what children, 
+its vectors of directed heir? 
