@@ -3793,7 +3793,7 @@ connections". At least that much can be stated on
 the labeling of a connection as "strong" or "weak". 
 The cliched reasoning is that it is not always the 
 label, but the utility and outcomes envisioned by 
-the user/s of the labeling that determines the power 
+the user/s of the labeling that determine the power 
 by achievement of some mark. In this section's showing 
 of a multi-connected "alliance" factor, metrics of 
 weakly-connected alliances can be gathered from a 
@@ -3848,3 +3848,6 @@ reviewed for their relevance in qualities of relations
 and derivatives, then the weighting scheme can not 
 be ensured to be a solution on stable grounds. This 
 does read to be tasks for quantitative computationists. 
+
+## The Great-Wind's Restriction 
+
