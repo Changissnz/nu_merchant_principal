@@ -3886,15 +3886,16 @@ would be nature because it goes against its autonomy.
 As clarity in alignment, though, the Great-Wind is 
 nature. A transcendental perspective of nature is that 
 nature is what remains of what forces outside of the 
-control of the central autonomous forces. In this case, 
-it would be the autonomous agents in the midst of the 
-Great-Wind's Restriction. What these autonomous forces 
-can control by their natural predisposition is not nature. 
-In these statements made, there is implication of the 
-nature VS nurture argument, another favorite by dichotomists 
-seeking to differentiate between those leaning towards 
-one end or the other of this argument and also those 
-down the center lane. 
+control of the central autonomous forces that have a 
+non-zero probability of modifying the extent of its 
+control. In this case, it would be the autonomous agents 
+in the midst of the Great-Wind's Restriction. What 
+these autonomous forces can control by their natural 
+predisposition is not nature. In these statements made, 
+there is implication of the nature VS nurture argument, 
+another favorite by dichotomists seeking to differentiate 
+between those leaning towards one end or the other of 
+this argument and also those down the center lane. 
 
 The Great-Wind's Restriction is a reactionary force of 
 antagonism waged by the Great-Wind against agents with 
