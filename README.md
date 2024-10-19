@@ -3876,7 +3876,7 @@ the will of the Great-Wind grants it benign treatment
 from the Great-Wind. The Great-Wind's Restriction is 
 not harmless to these agents since it seeks to negatively 
 affect the agents' autonomy, through force of derailment 
-and resistance, possibly as well as their existence. A 
+and resistance, and possibly as well as their existence. A 
 lot of documents,media, and other truthful illustrations 
 of nature have been produced. But for this session, 
 assume nature to mean the forces outside of the control 
