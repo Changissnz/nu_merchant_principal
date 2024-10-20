@@ -3964,7 +3964,7 @@ nullifying the influence of the smart-boa's constriction.
 The onion-based force emits at each of the autonomous 
 agents. This force consists of a sequence of onion-like 
 pulses, each with self-modifying properties. Each of 
-the pulses has a labyrinthian formation to it, designed 
+the pulses have a labyrinthian formation to it, designed 
 to maximize the plight of confusing counteraction against 
 the target agent. 
 
