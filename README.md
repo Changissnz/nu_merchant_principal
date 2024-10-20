@@ -4029,5 +4029,5 @@ force into the realm of usage for the Great-Wind.
 The inversion value cannot result in greater values 
 than the input, the agent's move's force. The 
 Great-Wind could immediately apply the force from 
-this value back into the base, thereby increasing 
-its overall force.
+this value back into the base, to decrease the loss 
+while increasing the gain by a wanted scale.
