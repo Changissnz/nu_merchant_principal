@@ -3959,3 +3959,15 @@ They would expectedly shift their focus on their objectives,
 established before the starting instance of encounter 
 with the Great-Wind, to escaping from or nullifying 
 the influence of the smart-boa's constriction. 
+
+The onion-based force emits at each of the autonomous 
+agents. This force consists of a sequence of onion-like 
+pulses, each with self-modifying properties. Each of 
+the pulses has a labyrinthian formation to it, designed 
+to maximize the plight of confusion onto the target 
+agent. 
+
+![image info](./images/gwr_three.PNG)
+
+**GWR3:** An onion-based force approaching an undrawn 
+target from the left. 
