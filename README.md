@@ -3969,5 +3969,5 @@ agent.
 
 ![image info](./images/gwr_three.PNG)
 
-**GWR3:** An onion-based force approaching an undrawn 
+**GWR3:** An onion-based pulse approaching an undrawn 
 target from the left. 
