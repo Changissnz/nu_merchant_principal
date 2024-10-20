@@ -3915,3 +3915,22 @@ the Great-Wind, one of them has to go.
 **GWR1:** Depiction of five autonomous agents. The 
 agents are in a confined space advantageous to their 
 guarding against outsider threats. 
+
+![image info](./images/gwr_two.PNG)
+
+**GWR2:** The same five autonomous agents from diagram 
+GWR1. The green arrows emitting from each agent represent 
+the agent's objectives or assets, and should not be interpeted 
+as only wanted navigational directions of travel. For example, 
+a green arrow could represent an energy-recycling mechanism, 
+auxiliary tools for communication, or next calculated steps 
+in an arbitrary procedure. The blue connections shared between 
+the agent show coordination/cooperation/corrobation of sorts.
+
+Observe the diagrams GWR1 and GWR2, and their corresponding 
+descriptions. The Great-Wind has decided to strongly dislike 
+this group of autonomous agents. It initiates an attack in 
+cycled stages against them. The stages are such: 
+- the smart-boa's constriction, 
+- the shadow's expansion, 
+- the observerless strike. 
