@@ -4008,13 +4008,26 @@ them.
 ![image info](./images/gwr_tab1.PNG)
 
 **GWRT1:** Table showing the counter-actions the 
-Great-Wind $W$ can take for each of the moves of Agent 
-$A$. The indices $(i,j)$ with $0$ values indicate the 
-$i$'th move of $W$ cannot counter-act the $j$'th move 
-of $A$. For the other values, they are non-null and 
+Great-Wind $W$ can take, during the stage of the smart-boa 
+constriction, for each of the moves of Agent $A$. The 
+indices $(i,j)$ with $0$ values indicate the $i$'th 
+move of $W$ cannot counter-act the $j$'th move of $A$. 
+For the other values, they are non-null and 
 arbitrarily-defined. 
 
 ![image info](./images/gwr_tab2.PNG)
 
 **GWRT2:** Corresponding table for the above (GWRT1). 
 Each non-zero element is a triplet of $(inversion,reversion,base)$. 
+
+In table GWRT2, the base value is the default gain and 
+loss from the smart-boa constriction's move. The reversion 
+is the negation of the agent's corresponding move, the 
+action to the constriction's counteraction. And the 
+inversion is the "flipping" of the agent's move's 
+force into the realm of usage for the Great-Wind. 
+The inversion value cannot result in greater values 
+than the input, the agent's move's force. The 
+Great-Wind could immediately apply the force from 
+this value back into the base, thereby increasing 
+its overall force.
