@@ -3908,4 +3908,10 @@ a boa constrictor. It is an intangible lack of emptiness
 with its restriction. And it raises its demands every 
 time its expectations, of demands imposed onto those 
 of its dislking, are satisfied. For the disliking and 
-the Great-Wind, one of them has to go. 
+the Great-Wind, one of them has to go.
+
+![image info](./images/gwr_one.PNG)
+
+**GWR1:** Depiction of five autonomous agents. The 
+agents are in a confined space advantageous to their 
+guarding against outsider threats. 
