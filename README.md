@@ -3862,7 +3862,7 @@ of that category. The magnitude truly of no matter,
 except for those of the condition to be impacted by it. 
 A rationale on why this container, the medium, for possibilities 
 not fully mentioned in sufficient definition is essentially 
-harmless. But the proof of its harmlessless, from source 
+harmless. But the proof of its harmlessness, from source 
 that is input to its outputs by a particular basis able 
 to transform into other bases, potentially yielding other 
 outputs, is not found in this paragraph. 
@@ -3920,7 +3920,7 @@ guarding against outsider threats.
 
 **GWR2:** The same five autonomous agents from diagram 
 GWR1. The green arrows emitting from each agent represent 
-the agent's objectives or assets, and should not be interpeted 
+the agent's capabilities or assets, and should not be interpeted 
 as only wanted navigational directions of travel. For example, 
 a green arrow could represent an energy-recycling mechanism, 
 auxiliary tools for communication, or next calculated steps 
@@ -3934,3 +3934,28 @@ cycled stages against them. The stages are such:
 - the smart-boa's constriction, 
 - the shadow's expansion, 
 - the observerless strike. 
+
+Although the last stage is the most impressive by the 
+physically destructive impact to the agents, potentially 
+past the point of their termination, the stage does come 
+last. 
+
+The smart-boa's constriction consists of actions by the 
+Great-Wind in its mimicking of the boa's predatory 
+patterns and scaling up power according to its rightful 
+resources after this mimicry. There are two primary 
+labels for moves used in this stage: 
+- <ins>onion-based force</ins>,  
+- <ins>reactive-chain improvements</ins>. 
+In this stage, the objective of the Great-Wind is to 
+incapacitate the capabilities of each of the agents, 
+to restrict utility of their assets if not outright 
+seize them. The Great-Wind intends to ensure that 
+there is no longer viable probability in the agents 
+each satisfying their objectives. During this process, 
+the agents may find themselves to experience technical 
+difficulties in meeting the marks for their objectives. 
+They would expectedly shift their focus on their objectives, 
+established before the starting instance of encounter 
+with the Great-Wind, to escaping from or nullifying 
+the influence of the smart-boa's constriction. 
