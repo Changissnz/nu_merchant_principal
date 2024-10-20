@@ -3956,17 +3956,17 @@ there is no longer viable probability in the agents
 each satisfying their objectives. During this process, 
 the agents may find themselves to experience technical 
 difficulties in meeting the marks for their objectives. 
-They would expectedly shift their focus on their objectives, 
-established before the starting instance of encounter 
-with the Great-Wind, to escaping from or nullifying 
-the influence of the smart-boa's constriction. 
+They would expectedly shift their focus from their 
+objectives, established before the starting instance 
+of encounter with the Great-Wind, to escaping from or 
+nullifying the influence of the smart-boa's constriction. 
 
 The onion-based force emits at each of the autonomous 
 agents. This force consists of a sequence of onion-like 
 pulses, each with self-modifying properties. Each of 
 the pulses has a labyrinthian formation to it, designed 
-to maximize the plight of confusion onto the target 
-agent. 
+to maximize the plight of counteracting confusion onto 
+the target agent. 
 
 ![image info](./images/gwr_three.PNG)
 
