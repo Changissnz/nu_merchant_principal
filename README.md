@@ -3990,14 +3990,15 @@ possibly be undone, solved in other words, in the
 manner of one that escapes a labyrinth. The pulse 
 is not designed to be entirely destructive against 
 its target. The agent against the pulse could be 
-torn up past the threshold to be labeled destroyed. 
-This first stage of the attack, called the smart-boa's 
-constriction, is given the name because the Great-Wind 
-has placed the stage as one to induce weakness into 
-the agents of its disliking. The Great-Wind does this 
-because it conjectured that the agents would not be 
-fallen if it were to skip this stage, and move onto 
-the second and third stages. 
+torn up past the threshold to be labeled destroyed, 
+but that would be due to the Great-Wind's overestimation
+of them. This first stage of the attack, called the 
+smart-boa's constriction, is given the name because 
+the Great-Wind has placed the stage as one to induce 
+weakness into the agents of its disliking. The Great-Wind 
+does this because it conjectured that the agents would 
+not be fallen if it were to skip this stage, in favor of 
+moving onto the second and third stages. 
 
 So the onion-based pulse may fail in its objectives, 
 to negate the agent's assets and capabilities from 
