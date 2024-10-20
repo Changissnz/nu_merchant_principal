@@ -3907,7 +3907,7 @@ is made clear enough. The Great-Wind is not exactly like
 a boa constrictor. It is an intangible lack of emptiness 
 with its restriction. And it raises its demands every 
 time its expectations, of demands imposed onto those 
-of its dislking, are satisfied. For the disliking and 
+of its disliking, are satisfied. For the disliking and 
 the Great-Wind, one of them has to go.
 
 ![image info](./images/gwr_one.PNG)
@@ -3920,7 +3920,7 @@ guarding against outsider threats.
 
 **GWR2:** The same five autonomous agents from diagram 
 GWR1. The green arrows emitting from each agent represent 
-the agent's capabilities or assets, and should not be interpeted 
+the agent's capabilities or assets, and should not be interpreted 
 as only wanted navigational directions of travel. For example, 
 a green arrow could represent an energy-recycling mechanism, 
 auxiliary tools for communication, or next calculated steps 
@@ -3972,3 +3972,15 @@ agent.
 
 **GWR3:** An onion-based pulse approaching an undrawn 
 target from the left. 
+
+The multiple layers of a typical onion-based pulse 
+are intended to detach the intended target of its 
+assets by the vicious gaps between every layer of 
+the pulse. The Great-Wind would expect, with a 
+non-zero probability, that the assets would come 
+out of the onion-based pulse from the other direction 
+that the pulse emits at. The Great-Wind also expects 
+this onion-based pulse to lock the target into 
+awkward and expensive positions in such ways that 
+they would not be able to execute their capabilities 
+at their will. 
