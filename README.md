@@ -4000,7 +4000,21 @@ fallen if it were to skip this stage, and move onto
 the second and third stages. 
 
 So the onion-based pulse may fail in its objectives, 
-to negate the agent's assets and capabilities. Below 
-are decision tables showing how an agent would attempt 
-to "solve" an onion-based pulse impacting it. 
+to negate the agent's assets and capabilities from 
+themself. Below are decision tables showing how an agent 
+would attempt to "solve" an onion-based pulse impacting 
+them.
 
+![image info](./images/gwr_tab1.PNG)
+
+**GWRT1:** Table showing the counter-actions the 
+Great-Wind $W$ can take for each of the moves of Agent 
+$A$. The indices $(i,j)$ with $0$ values indicate the 
+$i$'th move of $W$ cannot counter-act the $j$'th move 
+of $A$. For the other values, they are non-null and 
+arbitrarily-defined. 
+
+![image info](./images/gwr_tab2.PNG)
+
+**GWRT2:** Corresponding table for the above (GWRT1). 
+Each non-zero element is a triplet of $(inversion,reversion,base)$. 
