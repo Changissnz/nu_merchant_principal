@@ -3872,7 +3872,7 @@ that is waged against at least one or more autonomous
 agents. The agents are autonomous because they do not 
 have to act according to the will of the Great-Wind. 
 Alternatively, an agent that acts in accordance with 
-the will of the Great-Wind grants it benign treatment 
+the will of the Great-Wind grants them benign treatment 
 from the Great-Wind. The Great-Wind's Restriction is 
 not harmless to these agents since it seeks to negatively 
 affect the agents' autonomy, through force of derailment 
@@ -3965,7 +3965,7 @@ The onion-based force emits at each of the autonomous
 agents. This force consists of a sequence of onion-like 
 pulses, each with self-modifying properties. Each of 
 the pulses has a labyrinthian formation to it, designed 
-to maximize the plight of counteracting confusion onto 
+to maximize the plight of confusing counteraction against 
 the target agent. 
 
 ![image info](./images/gwr_three.PNG)
@@ -3974,7 +3974,7 @@ the target agent.
 target from the left. 
 
 The multiple layers of a typical onion-based pulse 
-are intended to detach the intended target of its 
+are intended to detach the intended target of their  
 assets by the vicious gaps between every layer of 
 the pulse. The Great-Wind would expect, with a 
 non-zero probability, that the assets would come 
@@ -3984,3 +3984,4 @@ this onion-based pulse to lock the target into
 awkward and expensive positions in such ways that 
 they would not be able to execute their capabilities 
 at their will. 
+
