@@ -3901,6 +3901,11 @@ The Great-Wind's Restriction is a reactionary force of
 antagonism waged by the Great-Wind against agents with 
 autonomous capabilities, of its disliking. Regardless 
 of superstitious beliefs and issues of interpretability 
-regarding this section's description of the Great-Wind, 
+regarding this section's description of the Great-Wind 
 thus far, at least the point in the previous sentence 
-is made clear enough. 
+is made clear enough. The Great-Wind is not exactly like 
+a boa constrictor. It is an intangible lack of emptiness 
+with its restriction. And it raises its demands every 
+time its expectations, of demands imposed onto those 
+of its dislking, are satisfied. For the disliking and 
+the Great-Wind, one of them has to go. 
