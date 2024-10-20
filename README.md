@@ -3947,6 +3947,7 @@ resources after this mimicry. There are two primary
 labels for moves used in this stage: 
 - <ins>onion-based force</ins>,  
 - <ins>reactive-chain improvements</ins>. 
+  
 In this stage, the objective of the Great-Wind is to 
 incapacitate the capabilities of each of the agents, 
 to restrict utility of their assets if not outright 
