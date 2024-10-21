@@ -4214,8 +4214,9 @@ after unsuccessfully fending off the smart-boa's constriction.
 
 The next stage in the Great-Wind's restriction, the shadow's 
 expansion, is action to reach levels acceptable enough for 
-some important metrics. These metrics are <ins>effectual 
-imprecision rate</ins> and <ins>exit reduction</ins>, 
-terms that have been applied in real-world settings before, 
-usually with very high disregard for totally positive 
-outcomes for those involved, the engagers and engagees. 
+some important metrics. These metrics are <ins>adversary 
+detection rate</ins>,<ins>effectual imprecision rate</ins>, 
+<ins>exit reduction</ins>, terms that have been applied in 
+real-world settings before, usually with very high disregard 
+for totally positive outcomes for those involved, the engagers 
+and engagees. 
