@@ -4109,3 +4109,23 @@ the complexity in solutions that is the moveset available
 to the autonomous agent, the dimensionality of values could 
 be very high in number for one or both of the (offense,defense) 
 values.
+
+Some important underpinnings about the terms on the onion-based 
+pulse's decision, that is "inversion","reversion", and "base", 
+and for the autonomous agent, "offense" and "defense", are 
+clarified next. The values concerning the terms of the 
+onion-based pulse are already finalized in the table. There 
+is a zero probability that any value for any triplet 
+$(i,r,b)$ is incorrect. Each of the three values of the triplet 
+is a value of scale by the economic decision of choosing its 
+magnitude of potential in the range $[0.,1.]$. For some moves 
+concerning a particular move $m_k$ by the autonomous Agent A, 
+there is not much potential for inversion and reversion. The 
+base value is catered according to the offense and defense of 
+$m_k$. The values of the potential inversion and reversion 
+are directly connected to the offense and defense, in some 
+permutational and obscure way, of the agent. The agent's 
+(offense,defense) values are hypothetical values, with slim 
+possibilities that the values have factored in the effects 
+of inversion,reversion, and the base of the pulse's pertaining 
+move.
