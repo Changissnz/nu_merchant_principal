@@ -4269,3 +4269,10 @@ demonstrate the growth of this metric.
 of effectual imprecision. Every green node would be a 
 correct solution because it leads to the original solution, 
 the blue node. 
+
+![image info](./images/gwr_ten.PNG)
+
+**GWR10:** The enclosure in the first diagram has less 
+openings than after enduring the effects of the shadow's 
+expansion, denoted by the dashed lines in the second 
+diagram. 
