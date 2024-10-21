@@ -4009,12 +4009,12 @@ them.
 ![image info](./images/gwr_tab1.PNG)
 
 **GWRT1:** Table showing the counter-actions the 
-Great-Wind $W$ can take, during the stage of the smart-boa 
-constriction, for each of the moves of Agent $A$. The 
-indices $(i,j)$ with $0$ values indicate the $i$'th 
-move of $W$ cannot counter-act the $j$'th move of $A$. 
-For the other values, they are non-null and 
-arbitrarily-defined. 
+Great-Wind's onion-based pulse $W$ can take, during the 
+stage of the smart-boa constriction, for each of the 
+moves of Agent $A$. The indices $(i,j)$ with $0$ values 
+indicate the $i$'th move of $W$ cannot counter-act the 
+$j$'th move of $A$. For the other values, they are 
+non-null and arbitrarily-defined. 
 
 ![image info](./images/gwr_tab2.PNG)
 
@@ -4053,9 +4053,9 @@ out, would know all available moves of any autonomous
 agent it decides to antagonize. The Great-Wind also knows 
 exactly what move the autonomous agent would take for 
 the next timestamp. In game theoretics, these two 
-abilities of the Great-Wind are perfect information, 
+abilities of the Great-Wind are <ins>perfect information</ins>, 
 on and surrounding the autonomous agent's possible 
-moves, and real-time acting information on the 
+moves, and <ins>real-time acting information</ins> on the 
 actual move that said agent attempts. A formula 
 equipped with the feature of varying the output, given 
 the same input, is used by the Great-Wind for an 
@@ -4071,6 +4071,41 @@ $b_{jk} \texttt{ with the reversion } r_{jk}.$
 For the anticipated move $a_k$ of Agent A, the Great-Wind 
 prefers a move $w_j$, out of a possible arbitrary $m$ moves, 
 that yields the greatest gains to it. This move preference 
-is depending on what real gains and losses of the Great-Wind 
-that the Agent $A$ can output, after the effects of reversion 
-and the decision of transferring force from the inversion. 
+is dependent on what real gains and losses of the onion-based 
+force that the Agent $A$ can output, after the effects of 
+reversion and the decision of transferring force from the 
+inversion. 
+
+Most autonomous agents would not have the same luxury 
+of knowledge, perfect information and real-time acting 
+information, as the Great-Wind. Each agent calculates their 
+moves using tables similar to that of the Great-Wind. These 
+next two tables show information on moves that Agent A, 
+from tables GWRT1 and GWRT2, would take. 
+
+![image info](./images/gwr_tab3.PNG)
+
+**GWRT3:** Table showing the actions Agent A 
+can take, during the stage of the smart-boa constriction, 
+given each move by the Great-Wind's onion-based pulse known 
+to the agent. In this specific example, Agent A has perfect 
+information of the onion-based pulse's moveset. It does not 
+know what move the pulse will take. This table's non-zero 
+elements comprise the complement to the table in GWRT1.
+
+![image info](./images/gwr_tab4.PNG)
+
+**GWRT4:** Corresponding table to table GWRT3. Each 
+non-zero element is an $(offense,defense)$ value, denoting 
+the effectual offense and defense of an Agent A against 
+one of the Great-Wind's onion-based pulses. The term 
+"offense" is to mean the force directed towards the 
+onion-based pulse's move, one or more of its composition's 
+mutable layers. And "defense" is the resistance, of blockage 
+and absorption, against the same move. 
+
+Table GWRT4 is lacking in specific detail. Depending on 
+the complexity in solutions that is the moveset available 
+to the autonomous agent, the dimensionality of values could 
+be very high in value for one or both of the (offense,defense) 
+values.
