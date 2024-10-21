@@ -4046,7 +4046,7 @@ in some sense, to the corresponding move of the agent.
 
 $\Phi: F \rightarrow (I,R,B);$  
 $f_{jk} \texttt{ or } 0 \rightarrow (i_{jk},r_{jk},b_{jk}) \texttt{ or } 0;$  
-$\texttt{j'th move of $W$, k'th move of $A$}.$  
+$\texttt{j'th move of W, k'th move of A}.$  
  
 The Great-Wind, being as great as its name spells 
 out, would know all available moves of any autonomous 
