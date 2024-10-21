@@ -4140,4 +4140,30 @@ are relatively easy to detect in move tables (see tables
 GWRT1,GWRT3). Any 0-column (all elements are zero) in pulse-perspective 
 tables point to the agent's move for that column being completely 
 uncounterable. By the agent-perspective tables, any zeroless-column 
-is for a move uncounterable by the pulse.
+is for a move uncounterable by the pulse. 
+
+![image info](./images/gwr_four.PNG)
+
+**GWR4:** Image showing layers of a portion belonging to an 
+onion-based pulse. The portion is numbered in descending 
+order, where the closest layer to the agent is denoted by 
+the greatest number. 
+
+The agent that has to deal with an onion-based pulse 
+attempts to go past the portion that hits them. In diagram 
+GWR4, the only possible destinations for escape from the 
+specific portion (there could be more) would be above or 
+below the portion, that is, outside of the portion's scope. 
+Trickily, travelling past the 0-layer may expose the agent 
+to another portion of the pulse, or a separate onion-based 
+pulse, thereby continuing the risk of seizure of its 
+assets and damage to its capabilities. They may discover, 
+through their experience, that they cannot make cumulative 
+improvements because the gains from their efforts cannot be 
+retained. They may oscillate between layers near and far. 
+This oscillation of sufferance is one example of the 
+reactive-chain feature in use at this stage of the 
+smart-boa's constriction. Factors such as inversion 
+turns their energy against them. Reversion obstructs them.
+And there is also the base force of the pulse's move. 
+To no avail for them, so goes the Great-Wind.
