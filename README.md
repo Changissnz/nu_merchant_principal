@@ -3997,14 +3997,14 @@ smart-boa's constriction, is given the name because
 the Great-Wind has placed the stage as one to induce 
 weakness into the agents of its disliking. The Great-Wind 
 does this because it conjectured that the agents would 
-not be fallen if it were to skip this stage, in favor of 
-moving onto the second and third stages. 
+not be fallen if it were to skip this stage and rush 
+into the second and third stages. 
 
 So the onion-based pulse may fail in its objectives, 
 to negate the agent's assets and capabilities from 
-themself. Below are decision tables showing how an agent 
-would attempt to "solve" an onion-based pulse impacting 
-them.
+themself. Below are decision tables showing the choices 
+belonging to an agent encountering an onion-based pulse 
+that is impacting them.
 
 ![image info](./images/gwr_tab1.PNG)
 
@@ -4027,8 +4027,8 @@ is the negation of the agent's corresponding move, the
 action to the constriction's counteraction. And the 
 inversion is the "flipping" of the agent's move's 
 force into the realm of usage for the Great-Wind. 
-The inversion value be greater in absolute value 
-than the input, the agent's move's force. The 
+The inversion value cannot be greater in absolute 
+value than the input, the agent's move's force. The 
 Great-Wind could immediately apply the force from 
 this value back into the base, to decrease the loss 
 while increasing the gain by a wanted scale. Or it 
@@ -4066,7 +4066,7 @@ information the Great-Wind uses in this formula.
 $D(w_j,a_k) = S(C(b_{jk},i_{jk}),r_{jk});$  
 $C \texttt{ a function transferring the inverted value to base } b_{jk},$  
 $S \texttt{ an addition-like function comparing the modified base value of }$  
-$b_{jk} \texttt{ with the reversion } r_{jk}.$
+$\texttt{     } b_{jk} \texttt{ with the reversion } r_{jk}.$
 
 For the anticipated move $a_k$ of Agent A, the Great-Wind 
 prefers a move $w_j$, out of a possible arbitrary $m$ moves, 
@@ -4163,8 +4163,8 @@ improvements because the gains from their efforts cannot be
 retained. They may oscillate between layers near and far. 
 This oscillation of sufferance is one example of the 
 reactive-chain feature in use at this stage, the 
-smart-boa's constriction. Factors such as inversion 
-turns their energy against them. Reversion obstructs them.
+smart-boa's constriction. Factors include inversion,  
+turning their energy against them. Reversion obstructs them.
 And there is also the base force of the pulse's move. 
 To no avail for them, so goes the Great-Wind. 
 
@@ -4180,7 +4180,7 @@ for the Great-Wind becomes an allocation problem. It must
 calculate the energy allocated to each onion-based pulse 
 it emits. Additionally, this quantity of energy is not 
 merely a singular value, but one that includes the reactivity 
-of the pulse. Pulses can modify their formation based on 
+of the pulse. Pulses can modify their formation by use of  
 its energy that it cannot increase on its own, without 
 the addition of inverted force from the targeted autonomous 
 agent. The amount of force each pulse gathers from its 
@@ -4195,8 +4195,8 @@ does relay information on the reaction-chain of events,
 the actions taken by the pulse and the agent during the 
 duration of activity, back to the Great-Wind. This relaying 
 of information is the fundamental aspect of the reactive-chain 
-improvements. The pulse may die out, due to having no energy 
-left, due to causes that involve the superior performance of 
+improvements. The pulse may die out, with no energy left, 
+due to causes that involve the superior performance of 
 the agent against its moves by its design. On the other end 
 of possibilities, the agent may lose their assets and have 
 their capabilities restricted by the pulse, and the cause 
