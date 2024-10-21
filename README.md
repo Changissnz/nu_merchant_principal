@@ -4126,6 +4126,11 @@ $m_k$. The values of the potential inversion and reversion
 are directly connected to the offense and defense, in some 
 permutational and obscure way, of the agent. The agent's 
 (offense,defense) values are hypothetical values, with slim 
-possibilities that the values have factored in the effects 
+possibilities of the values having factored in the effects 
 of inversion,reversion, and the base of the pulse's pertaining 
-move.
+move. The relation between the values of the pulse and those 
+of the agent are coupled, in other words. For non-zero 
+inversion or reversion, these values deduct the (offense,defense)
+values of the agent in some way. The base value of the pulse 
+is applied directly against the agent's defense and themself 
+(assets and capabilities). 
