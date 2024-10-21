@@ -4166,4 +4166,25 @@ reactive-chain feature in use at this stage of the
 smart-boa's constriction. Factors such as inversion 
 turns their energy against them. Reversion obstructs them.
 And there is also the base force of the pulse's move. 
-To no avail for them, so goes the Great-Wind.
+To no avail for them, so goes the Great-Wind. 
+
+Energy is a pertinent issue for both the Great-Wind 
+and any agents of its disliking. Energy is a private 
+variable between these two, the Great-Wind and the agents. 
+The agent/s, if more than one, may choose to share 
+details on their energy with each other. Meanwhile, the 
+Great-Wind does not know what energy, the amount of exertion 
+any agent can exert, and the agents do not know to what 
+extent of effort the Great-Wind has at its disposal. Energy 
+for the Great-Wind becomes an allocation problem. It must 
+calculate the energy allocated to each onion-based pulse 
+it emits. Additionally, this quantity of energy is not 
+merely a singular value, but one that includes the reactivity 
+of the pulse. Pulses can modify their formation based on 
+its energy that it cannot increase on its own, without 
+the addition of inverted force from the targeted autonomous 
+agent. The amount of force each pulse gathers from its 
+traversal against an agent, that is inversion in accumulation, 
+serves to be recycled back at the specific location the 
+agent was at, in a different portion of the pulse, or 
+directed outward into the Great-Wind's store of energy.
