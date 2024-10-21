@@ -4240,4 +4240,13 @@ The diagram GWR6 is one example of an adversarial detection
 system operating in the enclosure specified by the dashed 
 lines. They are in charge of maintaining and delivering 
 timely knowledge of threats detected to the five autonomous 
-agents from diagram GWR1. 
+agents from diagram GWR1. The adversary detection rate 
+falls during unreversing progress made by the shadow's 
+expansion. 
+
+![image info](./images/gwr_six.PNG)
+
+**GWR7:** The networked-detection system from diagram GWR6 
+after it has been affected by the shadow's expansion. Green 
+nodes depict nullified elements. There are exactly two 
+communicative lines remaining.
