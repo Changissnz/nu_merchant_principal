@@ -4134,3 +4134,10 @@ inversion or reversion, these values deduct the (offense,defense)
 values of the agent in some way. The base value of the pulse 
 is applied directly against the agent's defense and themself 
 (assets and capabilities). 
+
+Cases of agent moves uncounterable by the onion-based pulse 
+are relatively easy to detect in move tables (see tables 
+GWRT1,GWRT3). Any 0-column (all elements are zero) in pulse-perspective 
+tables point to the agent's move for that column being completely 
+uncounterable. By the agent-perspective tables, any zeroless-column 
+is for a move uncounterable by the pulse.
