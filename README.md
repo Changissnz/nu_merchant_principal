@@ -4285,3 +4285,6 @@ any occasion with honest observers remaining to tell the
 tale. There have been many that have attempted to replicate 
 and perfect the Great-Wind's Restriction. Some found 
 themselves to encounter mortal failures. 
+
+## The Idiom and the Idiot <a name="p16"></a>
+
