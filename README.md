@@ -4022,13 +4022,57 @@ arbitrarily-defined.
 Each non-zero element is a triplet of $(inversion,reversion,base)$. 
 
 In table GWRT2, the base value is the default gain and 
-loss from the smart-boa constriction's move. The reversion 
+loss from the smart-boa's constriction's move. The reversion 
 is the negation of the agent's corresponding move, the 
 action to the constriction's counteraction. And the 
 inversion is the "flipping" of the agent's move's 
 force into the realm of usage for the Great-Wind. 
-The inversion value cannot result in greater values 
+The inversion value be greater in absolute value 
 than the input, the agent's move's force. The 
 Great-Wind could immediately apply the force from 
 this value back into the base, to decrease the loss 
-while increasing the gain by a wanted scale.
+while increasing the gain by a wanted scale. Or it 
+could store the value back into its cache of resources. 
+Table GWRT2 is based on the assumption that the triplet 
+element is sufficient as variables in determining a 
+best move, where there could be more than one best, 
+for each move available to an agent $A$ of its 
+disliking. Table GWRT1 is the preceding information 
+used by the Great-Wind in determining table GWRT2, 
+by some function $\Phi$. Each element in table GWRT1 
+is first defined in the sense of a boolean on the 
+question of the move as an effectual counteraction, 
+in some sense, to the corresponding move of the agent.  
+
+$$\Phi: F \rightarrow (I,R,B); \\
+  f_{jk} \texttt{ or } 0 \rightarrow (i_{jk},r_{jk},b_{jk}) \texttt{ or } 0; \\
+\texttt{j'th move of $W$, k'th move of $A$}. 
+$$ 
+
+The Great-Wind, being as great as its name spells 
+out, would know all available moves of any autonomous 
+agent it decides to antagonize. The Great-Wind also knows 
+exactly what move the autonomous agent would take for 
+the next timestamp. In game theoretics, these two 
+abilities of the Great-Wind are perfect information, 
+on and surrounding the autonomous agent's possible 
+moves, and real-time acting information on the 
+actual move that said agent attempts. A formula 
+equipped with the feature of varying the output, given 
+the same input, is used by the Great-Wind for an 
+anticipated move $a_k$ by Agent $A$. The variance can be 
+explained, partially, by the underlying contextual 
+information the Great-Wind uses in this formula. 
+
+$$D(w_j,a_k) = S(C(b_{jk},i_{jk}),r_{jk}); \\
+C \texttt{ a function transferring the inverted value to base } b_{jk}, \\
+S \texttt{ an addition-like function comparing the modified base value of } \\
+b_{jk} \texttt{ with the reversion } r_{jk}. \\ 
+$$
+
+For the anticipated move $a_k$ of Agent A, the Great-Wind 
+prefers a move $w_j$, out of a possible arbitrary $m$ moves, 
+that yields the greatest gains to it. This move preference 
+is depending on what real gains and losses of the Great-Wind 
+that the Agent $A$ can output, after the effects of reversion 
+and the decision of transferring force from the inversion. 
