@@ -4044,11 +4044,10 @@ is first defined in the sense of a boolean on the
 question of the move as an effectual counteraction, 
 in some sense, to the corresponding move of the agent.  
 
-$$\Phi: F \rightarrow (I,R,B); \\
-  f_{jk} \texttt{ or } 0 \rightarrow (i_{jk},r_{jk},b_{jk}) \texttt{ or } 0; \\
-\texttt{j'th move of $W$, k'th move of $A$}. 
-$$ 
-
+$\Phi: F \rightarrow (I,R,B);$  
+$f_{jk} \texttt{ or } 0 \rightarrow (i_{jk},r_{jk},b_{jk}) \texttt{ or } 0;$  
+$\texttt{j'th move of $W$, k'th move of $A$}.$  
+ 
 The Great-Wind, being as great as its name spells 
 out, would know all available moves of any autonomous 
 agent it decides to antagonize. The Great-Wind also knows 
@@ -4064,11 +4063,10 @@ anticipated move $a_k$ by Agent $A$. The variance can be
 explained, partially, by the underlying contextual 
 information the Great-Wind uses in this formula. 
 
-$$D(w_j,a_k) = S(C(b_{jk},i_{jk}),r_{jk}); \\
-C \texttt{ a function transferring the inverted value to base } b_{jk}, \\
-S \texttt{ an addition-like function comparing the modified base value of } \\
-b_{jk} \texttt{ with the reversion } r_{jk}. \\ 
-$$
+$D(w_j,a_k) = S(C(b_{jk},i_{jk}),r_{jk});$  
+$C \texttt{ a function transferring the inverted value to base } b_{jk},$  
+$S \texttt{ an addition-like function comparing the modified base value of }$  
+$b_{jk} \texttt{ with the reversion } r_{jk}.$
 
 For the anticipated move $a_k$ of Agent A, the Great-Wind 
 prefers a move $w_j$, out of a possible arbitrary $m$ moves, 
