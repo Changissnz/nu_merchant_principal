@@ -4107,5 +4107,5 @@ and absorption, against the same move.
 Table GWRT4 is lacking in specific detail. Depending on 
 the complexity in solutions that is the moveset available 
 to the autonomous agent, the dimensionality of values could 
-be very high in value for one or both of the (offense,defense) 
+be very high in number for one or both of the (offense,defense) 
 values.
