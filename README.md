@@ -4180,7 +4180,7 @@ for the Great-Wind becomes an allocation problem. It must
 calculate the energy allocated to each onion-based pulse 
 it emits. Additionally, this quantity of energy is not 
 merely a singular value, but one that includes the reactivity 
-of the pulse. Pulses can modify their formation by use of  
+of the pulse. Pulses can modify their formation by use of 
 its energy that it cannot increase on its own, without 
 the addition of inverted force from the targeted autonomous 
 agent. The amount of force each pulse gathers from its 
@@ -4218,4 +4218,26 @@ some important metrics. These metrics are <ins>adversary
 detection rate</ins>,<ins>effectual imprecision rate</ins>, 
 and <ins>exit reduction</ins>, terms that have been applied 
 in real-world settings before, usually with very high disregard 
-for totally positive outcomes of those engaged.
+for totally positive outcomes of those engaged. Pertinent 
+calculations cater to the specific application. No specific 
+instances of these applications need mention, but the 
+prevailing practice of these calculations is to elevate the 
+power of chaos. There are no formulae prescribed in large 
+for chaos, especially for those that are to be subjected to 
+it. 
+
+![image info](./images/gwr_six.PNG)
+
+**GWR6:** A networked-detection system for the autonomous 
+agents in the example from diagram GWR2. Each element of 
+the system is a beacon that receives accurate information 
+on what adversarial threats exist in its proximity of 
+finite specifics. 
+
+Adversarial detection systems operate by two objectives: 
+accurate detection and timely communication of the detection. 
+The diagram GWR6 is one example of an adversarial detection 
+system operating in the enclosure specified by the dashed 
+lines. They are in charge of maintaining and delivering 
+timely knowledge of threats detected to the five autonomous 
+agents from diagram GWR1. 
