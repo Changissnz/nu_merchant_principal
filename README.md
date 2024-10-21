@@ -4139,7 +4139,7 @@ Cases of agent moves uncounterable by the onion-based pulse
 are relatively easy to detect in move tables (see tables 
 GWRT1,GWRT3). Any 0-column (all elements are zero) in pulse-perspective 
 tables point to the agent's move for that column being completely 
-uncounterable. By the agent-perspective tables, any zeroless-column 
+uncounterable. By the agent-perspective tables, any zeroless-row 
 is for a move uncounterable by the pulse. 
 
 ![image info](./images/gwr_four.PNG)
@@ -4173,7 +4173,7 @@ and any agents of its disliking. Energy is a private
 variable between these two, the Great-Wind and the agents. 
 The agent/s, if more than one, may choose to share 
 details on their energy with each other. Meanwhile, the 
-Great-Wind does not know what energy, the maximum amount  
+Great-Wind does not know what energy, the maximum amount 
 of exertion per agent, and the agents do not know to what 
 extent of effort the Great-Wind has at its disposal. Energy 
 for the Great-Wind becomes an allocation problem. It must 
@@ -4192,7 +4192,7 @@ directed outward into the Great-Wind's store of energy.
 To make matters worse for any autonomous agent that 
 has to solve an oncoming onion-based pulse, the pulse 
 does relay information on the reaction-chain of events, 
-the moves taken by the pulse and the agent during the 
+the actions taken by the pulse and the agent during the 
 duration of activity, back to the Great-Wind. This relaying 
 of information is the fundamental aspect of the reactive-chain 
 improvements. The pulse may die out, due to having no energy 
