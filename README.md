@@ -4205,4 +4205,9 @@ of energy. If the agent manages to solve the pulse, the
 smart-boa's constriction takes the information, gathered 
 from the activity in the pulse, to improve on its design 
 of the next onion-based pulse it emits to the agent that 
-remains.
+remains. 
+
+![image info](./images/gwr_five.PNG)
+
+**GWR5:** The five autonomous agents, from diagram GWR2, 
+after unsuccessfully fending off the smart-boa's constriction.
