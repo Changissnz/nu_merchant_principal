@@ -4193,14 +4193,16 @@ To make matters worse for any autonomous agent that
 has to solve an oncoming onion-based pulse, the pulse 
 does relay information on the reaction-chain of events, 
 the moves taken by the pulse and the agent during the 
-duration of activity, back to the Great-Wind. The pulse 
-may die out, due to having no energy left, due to causes 
-that involve the superior performance of the agent against 
-its moves by its design. On the other end of possibilities, 
-the agent may lose their assets and have their capabilities 
-restricted by the pulse, and the cause of this does not 
-necessarily have to do with their bankruptcy of energy.
-If the agent manages to solve the pulse, the Great-Wind 
-takes the information, gathered from the activity in the 
-pulse, to improve on its design of the next onion-based 
-pulse it emits to the agent that remains.
+duration of activity, back to the Great-Wind. This relaying 
+of information is the fundamental aspect of the reactive-chain 
+improvements. The pulse may die out, due to having no energy 
+left, due to causes that involve the superior performance of 
+the agent against its moves by its design. On the other end 
+of possibilities, the agent may lose their assets and have 
+their capabilities restricted by the pulse, and the cause 
+of this does not necessarily have to do with their bankruptcy 
+of energy. If the agent manages to solve the pulse, the 
+smart-boa's constriction takes the information, gathered 
+from the activity in the pulse, to improve on its design 
+of the next onion-based pulse it emits to the agent that 
+remains.
