@@ -4249,4 +4249,23 @@ expansion.
 **GWR7:** The networked-detection system from diagram GWR6 
 after it has been affected by the shadow's expansion. Green 
 nodes depict nullified elements. There are exactly two 
-communicative lines remaining.
+communicative lines remaining. 
+
+The effectual imprecision rate increases during unreversing 
+progress of the shadow's expansion. The term "effectual 
+imprecision" refers to the correctness of a proposed solution 
+given the actual solution, such that there are more proposed 
+solutions that are correct with the increase of effectual 
+imprecision rate. Two illustrations, of an abstract description, 
+demonstrate the growth of this metric. 
+
+![image info](./images/gwr_eight.PNG)
+
+**GWR8:** Red circle is the growth of effectual imprecision.
+
+![image info](./images/gwr_nine.PNG)
+
+**GWR9:** Green nodes are viable solutions after the growth 
+of effectual imprecision. Every green node would be a 
+correct solution because it leads to the original solution, 
+the blue node. 
