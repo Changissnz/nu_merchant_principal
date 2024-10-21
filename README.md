@@ -4010,7 +4010,7 @@ them.
 
 **GWRT1:** Table showing the counter-actions the 
 Great-Wind's onion-based pulse $W$ can take, during the 
-stage of the smart-boa constriction, for each of the 
+stage of the smart-boa's constriction, for each of the 
 moves of Agent $A$. The indices $(i,j)$ with $0$ values 
 indicate the $i$'th move of $W$ cannot counter-act the 
 $j$'th move of $A$. For the other values, they are 
@@ -4086,7 +4086,7 @@ from tables GWRT1 and GWRT2, would take.
 ![image info](./images/gwr_tab3.PNG)
 
 **GWRT3:** Table showing the actions Agent A 
-can take, during the stage of the smart-boa constriction, 
+can take, during the stage of the smart-boa's constriction, 
 given each move by the Great-Wind's onion-based pulse known 
 to the agent. In this specific example, Agent A has perfect 
 information of the onion-based pulse's moveset. It does not 
@@ -4162,7 +4162,7 @@ through their experience, that they cannot make cumulative
 improvements because the gains from their efforts cannot be 
 retained. They may oscillate between layers near and far. 
 This oscillation of sufferance is one example of the 
-reactive-chain feature in use at this stage of the 
+reactive-chain feature in use at this stage, the 
 smart-boa's constriction. Factors such as inversion 
 turns their energy against them. Reversion obstructs them.
 And there is also the base force of the pulse's move. 
