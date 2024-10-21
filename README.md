@@ -4244,7 +4244,7 @@ agents from diagram GWR1. The adversary detection rate
 falls during unreversing progress made by the shadow's 
 expansion. 
 
-![image info](./images/gwr_six.PNG)
+![image info](./images/gwr_seven.PNG)
 
 **GWR7:** The networked-detection system from diagram GWR6 
 after it has been affected by the shadow's expansion. Green 
