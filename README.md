@@ -4387,4 +4387,33 @@ explanation.
 ![image info](./images/iati_one.PNG)
 
 **IATI1:** A body of information, with every variable 
-having an inverted version of it. 
+having an inverted version of itself. 
+
+Diagram IATI1 is a geometric visualization of a body 
+of information structured in the manner of a triangle. 
+The two bottom ends are those for the polar extremities 
+in views regarding a topic. The other end, at the top, 
+represents a central perspective. Every $n_i^{(?)}$ 
+is a variable in the topic. Triangles are rather 
+simplistic in the sense that there are only three 
+sides, of vertices or edges. This diagram does work 
+as a preliminary representation of a topic due to 
+be comprehended in some sense. The objective is for 
+those comprehending the topic, in a full and confident 
+sense, to "neutralize" the variables by an ideal split 
+onto the topic. The split produces at least two pieces, 
+such that comparing the pieces with each other cancels 
+out the variables to 1, as in one solution. The result 
+is worked for the objective of no doubt by way of 
+questionable variables; all variables are questionable 
+in this paradigm. Undoubtedly, diagram IATI1 is one of 
+many candidate models representing information due to 
+be rationalized in some way. There is the conventional 
+wisdom that the model is as good as the specific problem 
+it faces.
+
+![image info](./images/iati_two.PNG)
+
+**IATI2:** A split onto the same body of information 
+from diagram IATI1. The split neutralizes all variables, 
+by the comparison of the two resulting halves.
