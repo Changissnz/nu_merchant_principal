@@ -4462,9 +4462,9 @@ the idiom's attachment to its application. The idiom, as
 a label for a statement, is not confined to the roles of 
 positive or negative application. The idiom does not have 
 to be an encouragement for some wanted future. Instead, 
-it can be the future's discouragement, to steer the 
-reception to an alternative future after the hopeful 
-chain of their decisions. The idiom, past the events, 
+it can be a planned future's discouragement, to steer 
+the reception to an alternative future after the hopeful 
+change of their decisions. The idiom, past the events, 
 does not have to be an insight of wisdom that can help 
 for a brighter future. Instead, the idiom may just as 
 well be a statement on the darkness, the tragedy of 
