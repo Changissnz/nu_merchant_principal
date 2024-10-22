@@ -4366,6 +4366,6 @@ thought is an idiom. If it is not an idiom, but it
 proves to be correct from the judgment of those that 
 have been transmitted the thought from others before 
 passing through some pertaining events that was the 
-future, then there is belief by the participants 
-transferred to the credibility of the thought, a 
-possibly eventual idiom. 
+future, then there is the confidence of belief by the 
+participants transferred to the credibility of the 
+thought, a possibly eventual idiom. 
