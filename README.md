@@ -4327,4 +4327,9 @@ context is details. The idiom is applied to the context
 to filter out the covers of misconception, streamline 
 the details into shorter tidbits made more understandable, 
 with the purpose of using this re-versioned context as 
-the actual groundwork for furtherance in action.
+the actual groundwork for furtherance in action. Nothing 
+could possibly go wrong by the metric of <ins>accepting 
+judgment</ins> belonging those involved in the context 
+that is ascribed the idiom, for their positive clarification 
+recognized by their judgment. 
+
