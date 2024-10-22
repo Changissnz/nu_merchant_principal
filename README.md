@@ -4354,3 +4354,18 @@ reinforces the idiom as the source for frequent
 reference, with the actual truthfulness by accurate 
 correlation on an accepted axis of understanding 
 left up for question in the specifics of the context. 
+The thought, expressed in terms of advice, on events 
+in a future near or far given what is available by 
+judgment through perception and beyond thus far, 
+is a premonition of sorts. The thought is expressed 
+with certain kinds of undertones intended to signify 
+premonitory wisdom and visions of the future granted 
+from the energy of the past. If the thought is already 
+well established in terms of use and adherence, the 
+thought is an idiom. If it is not an idiom, but it 
+proves to be correct from the judgment of those that 
+have been transmitted the thought from others before 
+passing through some pertaining events that was the 
+future, then there is belief by the participants 
+transferred to the credibility of the thought, a 
+possibly eventual idiom. 
