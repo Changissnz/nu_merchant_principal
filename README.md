@@ -4409,7 +4409,7 @@ questionable variables; all variables are questionable
 in this paradigm. Undoubtedly, diagram IATI1 is one of 
 many candidate models representing information due to 
 be rationalized in some way. There is the conventional 
-wisdom that the model is as good as the specific problem 
+wisdom that any model is as good as the specific problem 
 it faces.
 
 ![image info](./images/iati_two.PNG)
