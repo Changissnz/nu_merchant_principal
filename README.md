@@ -4470,3 +4470,34 @@ for a brighter future. Instead, the idiom may just as
 well be a statement on the darkness, the tragedy of 
 how events played out without the guidance of the 
 same idiom if considered before all the happenings. 
+The expressor of the idiom does not have to be a 
+steadfast practitioner of the idiom. The expressor 
+may express the idiom after the overcoming of their 
+doubts, through their experience, on the idiom's 
+truthfulness. The steadfast practitioner employs 
+the idiom in the manner of their own construct 
+regarding justice, and as such, do not find the 
+task of contradicting the idiom through their 
+expression of open acknowledgment on the idiom's 
+shortcomings. And there are also those that 
+enjoy expressing idioms half-heartedly, perhaps 
+posing as fully-forward in physical appearance 
+to maintain credibility by others' beliefs, due 
+to their shortcomings in understanding or a desire 
+to not reveal some topic in full. Some users of 
+the idiom may hold the objective to be as great 
+as the tool as the idiom, when they are, in fact, 
+those in control of the intangible tool that must 
+cross their mind before the tool's outward expression. 
+From a pure utilitarian perspective, that which 
+emphasizes the effectiveness in usage above all 
+else, the user can be only as great as a combinatorial 
+fusing of the greatness of the tool and the tool's 
+use. In the curious case of idioms, the psychological 
+effects of language, when considered as transmissive 
+elements that can then fuel autonomous decisions for 
+futures not dared to be taken without that fuel, 
+is certainly an objective for some in their ongoing 
+duties to maintain their image by the continuation 
+of power lent to them from the idiom, the tool, that 
+they use.
