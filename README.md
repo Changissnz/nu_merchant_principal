@@ -4336,5 +4336,5 @@ positive clarification recognized by their judgment.
 The effects of the idiom present themselves in two aspects 
 of importance, in the temporal sense relative to the 
 occurrence of an event or sequence of events, and as 
-a tool by the "originators" and the "adopters" that 
+a tool by the "originators" and the "adopters" who  
 incorporated it after. 
