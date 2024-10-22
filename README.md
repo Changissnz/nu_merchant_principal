@@ -4309,3 +4309,22 @@ that eventually, some time after the statement was made,
 there is the recognition that it is an idiom, a statement 
 with an almost omnipotent chemistry of truth,wisdom, and 
 strength through reputational survival. 
+
+The subject in this section is tied to the section How 
+Obtuse Judgments Can Count. Why would a communicative 
+entity use an idiom in an arbitrary context? Is it ... 
+because the idiom has positively contextual relevance 
+to that context? Whyever else would the idiom be used? 
+Because the idiom is an idiom due to acceptance and 
+proliferation cumulatively established over quite some 
+time, the usage of the idiom radiates relevance onto 
+the context in such a degree that, by its own distinctive 
+reputation, transcends the importance of the context 
+for the connection, yes? Sure, the idiom and the context 
+do not have to perfectly fit, for the connection. For 
+one thing, the idiom is a principle generality and the 
+context is details. The idiom is applied to the context 
+to filter out the covers of misconception, streamline 
+the details into shorter tidbits made more understandable, 
+with the purpose of using this re-versioned context as 
+the actual groundwork for furtherance in action.
