@@ -4336,7 +4336,7 @@ positive clarification recognized by their judgment.
 The effects of the idiom present themselves in two aspects 
 of importance, in the temporal sense relative to the 
 occurrence of an event or sequence of events, and as 
-a tool by the "originators" and the "adopters" who  
+a tool by the "originators" and the "adopters" who 
 incorporated it after. 
 
 There are questions concerning the "birth" of an idiom, 
@@ -4445,13 +4445,28 @@ to the psycholinguistic underpinnings of natural languages
 in spoken or written forms, place unspoken demands on 
 what relevance the topic is in relation to the inarguable 
 greatness of the idiom, by its statistical frequency grown 
-through legacy. The idiom could be used as a statement of 
-the deterministic way in which some events transpired, for 
-instance. To elaborate on this, there is the sentiment 
-that things may have seemed different, but because some of 
-those things have relations with some of the aspects of the 
-idiom, then the outcome of the idiom and of those things, 
-with details maybe out of line with any of the idiom, are 
-one and the same. As a result, the idiom persists, as 
-strong as its accumulated acceptance continues to allow it. 
-
+through legacy. The idiom could be used as a commentary 
+statement on the deterministic way in which some events 
+transpired, for instance. To elaborate on this, there is 
+the sentiment that things may have seemed different, but 
+because some of those things have relations with some of 
+the aspects of the idiom, then the outcome of the idiom 
+and of those things, with details maybe out of line with 
+any of the idiom, are one and the same. As a result, the 
+idiom persists, as strong as its accumulated acceptance 
+continues to allow it. The expressor of the idiom lends 
+themself the image of the legacy's truthfulness behind 
+the idiom. This aspect called the truthfulness of legacy 
+is a boost in the believability, that is confidence, of 
+the idiom's attachment to its application. The idiom, as 
+a label for a statement, is not confined to the roles of 
+positive or negative application. The idiom does not have 
+to be an encouragement for some wanted future. Instead, 
+it can be the future's discouragement, to steer the 
+reception to an alternative future after the hopeful 
+chain of their decisions. The idiom, past the events, 
+does not have to be an insight of wisdom that can help 
+for a brighter future. Instead, the idiom may just as 
+well be a statement on the darkness, the tragedy of 
+how events played out without the guidance of the 
+same idiom if considered before all the happenings. 
