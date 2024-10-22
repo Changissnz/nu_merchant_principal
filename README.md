@@ -4378,6 +4378,11 @@ ushered afterwards is used as clarification on what
 mistakes in thought or action occurred. There is the 
 "if the idiom was taken as the wisdom before the 
 action, the mistake would not have occurred." 
+Additionally, the idiom does not have to focus on 
+clarifying mistakes in thought or action, to clarify; 
+rather it can well serve as a rationale for the 
+inevitable, in place of the incomprehensibly scientific 
+explanation. 
 
 ![image info](./images/iati_one.PNG)
 
