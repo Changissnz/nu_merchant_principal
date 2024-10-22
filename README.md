@@ -22,6 +22,7 @@
 13. [The Sophisticated as Behavior After Appearance](#p13)
 14. [Shifty and Shifting Alliances Pt. II](#p14)
 15. [The Great-Wind's Restriction](#p15)
+16. [The Idiom and the Idiot](#p16)
 
 Business comes and goes, much more frequently than governments. 
 So how can commerce thrive without the dread of disillusionment
@@ -4278,7 +4279,7 @@ expansion, denoted by the dashed lines in the second
 diagram. 
 
 After the achievement of the shadow's expansion, finally, 
-the observerless strikecome . The Great-Wind does not 
+the observerless strike comes. The Great-Wind does not 
 cycle through the stages of the smart-boa's constriction, 
 the shadow's expansion, and the observerless strike on 
 any occasion with honest observers remaining to tell the 
