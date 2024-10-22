@@ -4431,5 +4431,10 @@ IATI3. One way is the rather classic weight-assignment
 approach. Simply assign the weight $w=1.0$ to variables 
 $n_6^{(1)}$ and $n_6^{(-1)}$. The product is $1.0 * w=1.0$.
 Assign the weight $0.0$ to all the other variables, so that 
-$0.0 * n_i^{(?)}$ outputs $0.0$. 
+$0.0 * n_i^{(?)}$ outputs $0.0$. If the best split for 
+a topic under the application of an idiom cannot be done, 
+the idiom could much still be applied. The errors in the 
+reasoning, if reasoning could really be made objective 
+in these contexts, would be brushed aside as an 
+<ins>unrecognized misapplication</ins> of the idiom. 
 
