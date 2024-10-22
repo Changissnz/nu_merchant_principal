@@ -4417,3 +4417,9 @@ it faces.
 **IATI2:** A split onto the same body of information 
 from diagram IATI1. The split neutralizes all variables, 
 by the comparison of the two resulting halves.
+
+![image info](./images/iati_three.PNG)
+
+**IATI3:** An erroneous split onto the body of information 
+from diagram IATI1. The split only neutralizes variable 
+$n_6$.
