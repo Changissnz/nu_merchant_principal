@@ -4301,11 +4301,11 @@ themselves to encounter mortal failures.
 ## The Idiom and the Idiot <a name="p16"></a>
 
 Idioms are very well-known statements, crafted by those 
-that have gone through experience that yields some 
-insight of interest worthy enough to garner a following 
-of sorts. The following preserve the statement that 
-survives the trials of time enough so that eventually, 
-some time after the statement was made, there is the 
-recognition that it is an idiom, a statement with an 
-almost omnipotent chemistry of truth,wisdom, and strength 
-through reputational survival. 
+that have gone through some experience, usually indescribable 
+in full, that yields some insight of interest worthy enough 
+to garner a following of sorts. The following preserves the 
+statement that survives the trials of time well enough so 
+that eventually, some time after the statement was made, 
+there is the recognition that it is an idiom, a statement 
+with an almost omnipotent chemistry of truth,wisdom, and 
+strength through reputational survival. 
