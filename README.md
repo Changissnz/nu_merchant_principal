@@ -4421,5 +4421,5 @@ by the comparison of the two resulting halves.
 ![image info](./images/iati_three.PNG)
 
 **IATI3:** An erroneous split onto the body of information 
-from diagram IATI1. The split only neutralizes variable 
+from diagram IATI1. The split neutralizes only variable 
 $n_6$.
