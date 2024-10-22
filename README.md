@@ -4271,10 +4271,20 @@ of effectual imprecision. Every green node would be a
 correct solution because it leads to the original solution, 
 the blue node. 
 
+Exits can be abstracted into geometric understanding. 
+In transmission design, for every enclosure, there should 
+be an exit, the exit perhaps the same as the opening if 
+there is only one opening. Even for verbal arguments, 
+nonphysical by definition, there is the exit of refraining 
+from more argument by one or more parties. The Great-Wind 
+aims for exit reduction, the minimizing of number of 
+openings for autonomous agents exiting out of the 
+situation with the Great-Wind. 
+
 ![image info](./images/gwr_ten.PNG)
 
 **GWR10:** The enclosure in the first diagram has less 
-openings than after enduring the effects of the shadow's 
+openings after enduring the effects of the shadow's 
 expansion, denoted by the dashed lines in the second 
 diagram. 
 
