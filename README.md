@@ -4438,3 +4438,6 @@ reasoning, if reasoning could really be made objective
 in these contexts, would be brushed aside as an 
 <ins>unrecognized misapplication</ins> of the idiom. 
 
+Diagrams IATI2 and IATI3 show the same body of information, 
+but are under non-identical idioms.
+
