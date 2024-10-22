@@ -4329,7 +4329,12 @@ the details into shorter tidbits made more understandable,
 with the purpose of using this re-versioned context as 
 the actual groundwork for furtherance in action. Nothing 
 could possibly appear wrong by the metric of high 
-<ins>accepting judgment</ins> belonging those involved 
+<ins>accepting judgment</ins> belonging to those involved 
 in the context that is ascribed the idiom, for their 
 positive clarification recognized by their judgment. 
 
+The effects of the idiom present themselves in two aspects 
+of importance, in the temporal sense relative to the 
+occurrence of an event or sequence of events, and as 
+a tool by the "originators" and the "adopters" that 
+incorporated it after. 
