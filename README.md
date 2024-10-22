@@ -4338,3 +4338,12 @@ of importance, in the temporal sense relative to the
 occurrence of an event or sequence of events, and as 
 a tool by the "originators" and the "adopters" who  
 incorporated it after. 
+
+There are questions concerning the "birth" of an idiom, 
+this "birth" not singular as in one point of time, but 
+many through the transmission of many minds, usually 
+from many tongues, perhaps many books in societies that 
+have industrialized non-auditory communication. If the 
+idiom is a material object, though only in a bizarre world, 
+it very well could pose as one of the material wonders 
+of the world. 
