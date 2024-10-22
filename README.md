@@ -4371,9 +4371,13 @@ participants transferred to the credibility of the
 thought, a possibly eventual idiom. 
 
 The idiom is ushered to uphold confidence in an 
-applicable future at elevatable levels of motivation. 
-The idiom ushered afterwards is used as clarification 
-on what mistakes in thought or action occurred. 
+applicable future at elevatable levels of motivation, 
+regarding some action planned to be taken and with 
+rationale that rests on it, the idiom. The idiom 
+ushered afterwards is used as clarification on what 
+mistakes in thought or action occurred. There is the 
+"if the idiom was taken as the wisdom before the 
+action, the mistake would not have occurred." 
 
 ![image info](./images/iati_one.PNG)
 
