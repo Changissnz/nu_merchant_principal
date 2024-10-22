@@ -4396,21 +4396,22 @@ in views regarding a topic. The other end, at the top,
 represents a central perspective. Every $n_i^{(?)}$ 
 is a variable in the topic. Triangles are rather 
 simplistic in the sense that there are only three 
-sides, of vertices or edges. This diagram does work 
+sides, of vertices or edges. The triangle is the idiom. 
+The objective is for those comprehending the topic, in a full 
+and confident sense, to "neutralize" the variables (the 
+topic) by an ideal split onto the topic. The split produces 
+at least two pieces, such that comparing the pieces 
+with each other cancels out the variables to 1, as in 
+one solution. The result is worked for the objective 
+of no doubt by way of questionable variables; all 
+variables are questionable in this paradigm. Undoubtedly, 
+diagram IATI1 is one of many candidate models representing 
+information due to be rationalized in some way. There 
+is the conventional wisdom that any model is as good as 
+the specific problem it faces. The model does work 
 as a preliminary representation of a topic due to 
-be comprehended in some sense. The objective is for 
-those comprehending the topic, in a full and confident 
-sense, to "neutralize" the variables by an ideal split 
-onto the topic. The split produces at least two pieces, 
-such that comparing the pieces with each other cancels 
-out the variables to 1, as in one solution. The result 
-is worked for the objective of no doubt by way of 
-questionable variables; all variables are questionable 
-in this paradigm. Undoubtedly, diagram IATI1 is one of 
-many candidate models representing information due to 
-be rationalized in some way. There is the conventional 
-wisdom that any model is as good as the specific problem 
-it faces.
+be comprehended in some sense that is under the 
+application of an idiom, the triangle. 
 
 ![image info](./images/iati_two.PNG)
 
@@ -4422,4 +4423,13 @@ by the comparison of the two resulting halves.
 
 **IATI3:** An erroneous split onto the body of information 
 from diagram IATI1. The split neutralizes only variable 
-$n_6$.
+$n_6$. 
+
+There are some ways to validate performing a split 
+that results in remaining variables, such as in diagram 
+IATI3. One way is the rather classic weight-assignment 
+approach. Simply assign the weight $w=1.0$ to variables 
+$n_6^{(1)}$ and $n_6^{(-1)}$. The product is $1.0 * w=1.0$.
+Assign the weight $0.0$ to all the other variables, so that 
+$0.0 * n_i^{(?)}$ outputs $0.0$. 
+
