@@ -4066,7 +4066,7 @@ information the Great-Wind uses in this formula.
 
 $D(w_j,a_k) = S(C(b_{jk},i_{jk}),r_{jk});$  
 $C \texttt{ a function transferring the inverted value }$ 
-$\quad {to base } b_{jk},$  
+$\quad \texttt{to base } b_{jk},$  
 $S \texttt{ an addition-like function comparing the modified base value of }$  
 $\quad b_{jk} \texttt{ with the reversion } r_{jk}.$
 
