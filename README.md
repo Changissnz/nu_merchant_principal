@@ -4501,4 +4501,59 @@ futures not dared to be taken without that fuel,
 is certainly an objective for some in their ongoing 
 duties to maintain their image by the continuation 
 of power lent to them from the idiom, the tool, that 
-they use.
+they use. 
+
+Continuing on the discussion of the idiom in the 
+temporal sense, maybe the outcome is the only "thing" 
+that matters to the participants of the idiom. There 
+is the primary expressor/s of the idiom, and then 
+the followers of that idiom given to them by the 
+expressor/s. There is the sentiment, to go against 
+the "ultimate meaning" of the idiom would not bode 
+well for the participants, despite what given 
+information and corresponding conclusions can be made. 
+There is no proof of what is yet to come. Rely on 
+the strength of the idiom that already exists, due 
+to its merit survived and grown through legacy over 
+time, or fall back on nothing as guidance, instead 
+having to resort to chaotic, risk-taking, and formless 
+efforts to succeed at the objective.
+
+![image info](./images/iati_four.PNG)
+
+**IATI4:** Triangle represents the hierarchy of a 
+set of participants, denoted by variables $y_{?}^{(1)}$. 
+The participants are to move forward with attempting 
+to accomplish the objective, as the orange node. Each 
+participant's default (independent behavior) is to 
+travel completely straight up (at a 90 degree angle 
+to themself as the reference). However, after the 
+hierarchy of participants regrouped to formulate a 
+plan to proceed with accomplishing the objective, 
+each of them bends their thoughts and actions, 
+represented by the angular arcs of their upward 
+travel. Their travel merges at a single destination 
+point, before the combined force proceeds straight 
+upward in the attempt to accomplish the objective 
+(orange node). 
+
+Diagram IATI4 shows a different model, regarding 
+idioms, than that of diagrams IATI2 and IATI3. The 
+model is an objective-based model that uses the 
+triangle as a hierarchy of participants. The model's 
+triangle in diagrams IATI2 and IATI3 serve as 
+containers of information, the information to be 
+rationalized by splitting said container. The diverse 
+number of models available to serve different aspects 
+of the same problem, or the same problem itself, is  
+a testament to the plasticity of model-based decision-making. 
+If one model does not suit the wanted objective, another 
+model would be used if there are no restrictions on what 
+models are used, only the expectation that some outcome is 
+successfully reached. Usage of idioms in cases such as in 
+diagram IATI4 are to manipulate confidence towards efforts 
+previously unconsidered. As such, models such as these 
+are questionable by their strength's reliance on 
+manipulation of will and whim, instead of providing 
+fact-based information to autonomous and independent 
+decision-makers. 
