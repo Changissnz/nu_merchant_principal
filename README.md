@@ -4690,13 +4690,24 @@ abstain or are excluded. With idioms, suppose an "idiot"
 is one that does not participate in the thinking behind 
 the expression of an idiom, not the one with a motive 
 for an action or acknowledgment. Instead, the "idiot" 
-would stay silent and obey the expressor of the idiom. 
+would stay silent and obey the expressor of the idiom.  
 The "idiot" would be the one that accepts the consequences 
-stemming from the faulty use of an idiom. But the 
-translation between words and actions do muddle the 
-recognition, beforehand and afterwards, on what idiocy 
-truly is. The one that is ascribed as an "idiot" because 
-they are not the expressor, the ideal, the representative 
-of the idiom could actually have put or be putting their 
-efforts elsewhere for effects far greater in gains or 
-losses than words as powerful in legacy as the idiom. 
+stemming from the faulty use of an idiom. Also, the "idiot" 
+would nonchalantly accept the riches and spoils from the 
+wins made by activity under the guidance of an idiom. 
+Perhaps the "idiot" alongside the idiom is one that does 
+not recognize the essence of the idiom in applied contexts. 
+There is a mismatch when the "idiot" is coupled with the 
+idiom. Something is expected to go terribly wrong. The 
+"idiot" could involuntarily commit error. The term 
+"idiot" does carry a consequentialist aura on the "idiot" 
+as the sufferer due to their apathetic behavior and 
+attitudes towards fundamental activity, which relies 
+on principles such as idioms to thrive. But the translation 
+between words and actions do muddle the recognition, 
+beforehand and afterwards, on what idiocy truly is. The 
+one that is ascribed as an "idiot" because they are not 
+the expressor, the ideal, the representative of the idiom 
+could actually have put or be putting their efforts 
+elsewhere for effects far greater in gains or losses 
+than words as powerful in legacy as the idiom. 
