@@ -4640,4 +4640,25 @@ of the domain. For the members to take offense to the
 idiom's utterance, even by a newcomer, would be to 
 disregard the unifying influence of the idiom as a top 
 priority, and instead to focus on the newcomer as a 
-suspected antagonist. 
+suspected antagonist. Meanwhile, the newcomer takes 
+care not to partake in behavior or other appearances 
+that may lead to some that are not the elites, the 
+authorities that uphold the idiom as the ideal that 
+governs one of their institutions or their society 
+overall, to suspect the newcomer of harboring malice 
+of some sorts. The newcomer uses tools such as idioms 
+in their attempt to participate in the shared sense of 
+belonging in the domain.
+
+Extending out of the scope of the idiom as an 
+introductory tactic by the newcomer into a domain, the 
+idiom acts as a bonding mechanism between two or more 
+people. The idiom becomes the first and foremost shared 
+commonality between them. From the acknowledgment of 
+the idiom from the two or more ends, interaction builds 
+on this trust to become more personalized and also 
+privatized. There may come times when relations between 
+two or more entities are tested by adverse events. And 
+during these times, the entities may very well fall back 
+on their shared commonality from the start, the idiom 
+that gave their relation the chance to flourish.
