@@ -4688,15 +4688,15 @@ a differentiator between those who strongly or actively
 seek to participate in some process and those that 
 abstain or are excluded. With idioms, suppose an "idiot" 
 is one that does not participate in the thinking behind 
-the expression of an idiom, with a motive for an action 
-or acknowledgment. Instead, the "idiot" would stay 
-silent and obey the expressor of the idiom. The "idiot" 
-would be the one that accepts the consequences stemming 
-from the faulty use of an idiom. But the translation 
-between words and actions do muddle the recognition, 
-beforehand and afterwards, on what idiocy truly is. 
-The one that is ascribed as an "idiot" because they are 
-not the expressor, the ideal, the representative of 
-the idiom could actually have put or be putting their 
+the expression of an idiom, not the one with a motive 
+for an action or acknowledgment. Instead, the "idiot" 
+would stay silent and obey the expressor of the idiom. 
+The "idiot" would be the one that accepts the consequences 
+stemming from the faulty use of an idiom. But the 
+translation between words and actions do muddle the 
+recognition, beforehand and afterwards, on what idiocy 
+truly is. The one that is ascribed as an "idiot" because 
+they are not the expressor, the ideal, the representative 
+of the idiom could actually have put or be putting their 
 efforts elsewhere for effects far greater in gains or 
-losses than words. 
+losses than words as powerful in legacy as the idiom. 
