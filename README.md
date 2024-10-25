@@ -4581,7 +4581,11 @@ idiom as the launching point of action (refer back to diagram
 IATI4) could certainly still be justified. High-priority members 
 of a hierarchy, including the expressor, would attempt to 
 persuade those underneath, befuddled by the platitudes in 
-details of variance amongst their references and themselves 
-and themselves, that what actions that have taken place under 
-the idiom and for the objective is reasonable, and thus righteous, 
-even with whatever losses occurred.  
+details of variance amongst their references and themselves, 
+that what actions that have taken place under the idiom and 
+for the objective is reasonable, and thus righteous, even 
+with whatever losses occurred. A step further in pacifying 
+what remains of the unity of disbelief surrounding the idiom 
+would be to declare that those disbelievers failed to uphold 
+the idiom, and this is evident due to the results obtained. 
+
