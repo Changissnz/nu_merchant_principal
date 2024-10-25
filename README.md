@@ -4557,3 +4557,31 @@ are questionable by their strength's reliance on
 manipulation of will and whim, instead of providing 
 fact-based information to autonomous and independent 
 decision-makers. 
+
+Definitive explanations of why the confidence in something, 
+such as the idiom, is a modifiable belief (intrinsic 
+possession) by either the expressor or the participants 
+falls on variables outside of the scope of specific clarity. 
+The relation between perception and judgment has been talked 
+about in the section How Obtuse Judgments Can Count, but 
+there are certainly questions remaining on the infinitesimally 
+material components involved. There are a few areas in the 
+high-level context, such as the outcome of the actions taken 
+by participants under the idiom, and the participant's volition, 
+under variable circumstances, to "break free" from acting under 
+the idiom. Some relations are in need to be stated. For the 
+outcome of an accomplished objective, there is a validation 
+of the peak: the idiom stays true to its reputation as a truth, 
+the expressor is righteous for utilizing it, and the remaining 
+participants fare well in some shape and form for obedience 
+to the idiom that is passed down to them from the expressor. 
+Perhaps even in failed outcomes or outcomes labeled victorious 
+but with grievous casualties of sorts, the decision to use the 
+idiom as the launching point of action (refer back to diagram 
+IATI4) could certainly still be justified. High-priority members 
+of a hierarchy, including the expressor, would attempt to 
+persuade those underneath, befuddled by the platitudes in 
+details of variance amongst their references and themselves 
+and themselves, that what actions that have taken place under 
+the idiom and for the objective is reasonable, and thus righteous, 
+even with whatever losses occurred.  
