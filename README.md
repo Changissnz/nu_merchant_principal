@@ -4701,8 +4701,10 @@ There is a mismatch when the "idiot" is coupled with the
 idiom. Something is expected to go terribly wrong. The 
 "idiot" could involuntarily commit error. The term 
 "idiot" does carry a consequentialist aura on the "idiot" 
-as the sufferer due to their apathetic behavior and 
-attitudes towards fundamental activity, which relies 
+as the sufferer that may spread their suffering to others 
+that would not be thrilled to experience losses not of 
+their own doing, due to the "idiot"'s apathetic behavior and 
+attitudes towards fundamental activity, that which relies 
 on principles such as idioms to thrive. But the translation 
 between words and actions do muddle the recognition, 
 beforehand and afterwards, on what idiocy truly is. The 
