@@ -4559,7 +4559,7 @@ fact-based information to autonomous and independent
 decision-makers. 
 
 Definitive explanations of why the confidence in something, 
-such as the idiom, is a modifiable belief (intrinsic 
+such as the idiom, is a modifiable trait in belief (intrinsic 
 possession) by either the expressor or the participants 
 falls on variables outside of the scope of specific clarity. 
 The relation between perception and judgment has been talked 
@@ -4589,3 +4589,48 @@ what remains of the unity of disbelief surrounding the idiom
 would be to declare that those disbelievers failed to uphold 
 the idiom, and this is evident due to the results obtained. 
 
+The "originators" and the "adopters" of the idiom are 
+defined not as absolutes. The relation between those 
+that are the "originators", first to know and use the 
+idiom, and the "adopters" that were transmitted the 
+knowledge of the idiom from them is one of ordering. 
+The originators are labeled this in relation to those. 
+Practically every entity is an adopter, in some degree, 
+to the idiom that has one or a few "originators" at its 
+birth. The idiom grows by retention of users, as already 
+noted. Then the idiom reaches a point of equilibrium 
+in the number of adopters. Historically, the idiom is 
+of a regional existence. The idiom is used in the manner 
+of a cultural identifier. Those of a certain region may 
+have knowledge of a particular idiom in their early years of 
+existence, so think that idiom to be natural as a mental 
+construct for rationalizing about their experience, 
+such as their social interactions and perception of 
+surroundings. 
+
+After the idiom has reached an equilibrium in scale 
+of adoption, there may be newcomers that proceed to 
+using the idiom after they themselves adopt it. The 
+idiom, in its domain, is first learned by the newcomer 
+in the newcomer's quest to learn more and "fit in" with 
+the domain. The newcomer adopts the idiom, then uses 
+the idiom in the manner of an entry point, from one 
+stranger to another bound by the medium of trust or 
+similarity that is the idiom. 
+
+![image info](./images/iati_five.PNG)
+
+**IATI5:** Domain of the idiom is the square enclosure 
+marked by $D$. Agent $A$, the newcomer, has a few options 
+for gaining acceptance into enclosure $D$. The newcomer 
+can use the idiom $I$, as their introduction, with at 
+most fifty-percent of failure. Or the newcomer can use 
+other mechanisms (the black dots), with unknown 
+probabilities of failure, instead. 
+
+The newcomer that adopts the idiom is motivated by 
+the fact that using it would serve as a shared commonality 
+with members of the idiom's domain. The idiom is frequently 
+thought of as a middle ground for gaining entry, since it 
+is above the nicety-basics of communicative interaction, 
+yet below the jeopardizing risk of private matters. 
