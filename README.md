@@ -4522,7 +4522,7 @@ efforts to succeed at the objective.
 ![image info](./images/iati_four.PNG)
 
 **IATI4:** Triangle represents the hierarchy of a 
-set of participants, denoted by variables $y_{?}^{(1)}$. 
+set of participants, denoted by variables $y_{?}^{(?)}$. 
 The participants are to move forward with attempting 
 to accomplish the objective, as the orange node. Each 
 participant's default (independent behavior) is to 
