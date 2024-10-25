@@ -4690,7 +4690,7 @@ abstain or are excluded. With idioms, suppose an "idiot"
 is one that does not participate in the thinking behind 
 the expression of an idiom, not the one with a motive 
 for an action or acknowledgment. Instead, the "idiot" 
-would stay silent and obey the expressor of the idiom.  
+would stay silent and obey the expressor of the idiom. 
 The "idiot" would be the one that accepts the consequences 
 stemming from the faulty use of an idiom. Also, the "idiot" 
 would nonchalantly accept the riches and spoils from the 
