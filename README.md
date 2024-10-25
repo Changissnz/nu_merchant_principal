@@ -4713,3 +4713,6 @@ the expressor, the ideal, the representative of the idiom
 could actually have put or be putting their efforts 
 elsewhere for effects far greater in gains or losses 
 than words as powerful in legacy as the idiom. 
+
+## Half-Efforts, Full Takes
+
