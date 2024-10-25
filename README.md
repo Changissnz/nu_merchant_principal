@@ -4669,9 +4669,10 @@ that gave their relation the chance to flourish.
 $A_1$ (blue), over the course of six timestamps. At 
 the first timestamp, the agents bond by idiom $I$. Then 
 for timestamps 2-4, each of the agents conduct separate 
-activities, denote by nodes identically colored as the 
-agents. The activities still share positive connectivity. 
-Then at timestamp 5, there is a problem that occurs, 
-impeding on the progress made by the two agents. The 
-efforts are re-routed back to the starting point of 
-unification, at the idiom.
+activities, denote by nodes identically colored 
+as the agents, in harmony. The activities still share 
+positive connectivity, by the dashed green lines. Then 
+at timestamp 5, there is a problem that occurs, impeding 
+on the progress made by the two agents. The efforts are 
+re-routed back to the starting point of unification, 
+at the idiom.
