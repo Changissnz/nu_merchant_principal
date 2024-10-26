@@ -23,6 +23,7 @@
 14. [Shifty and Shifting Alliances Pt. II](#p14)
 15. [The Great-Wind's Restriction](#p15)
 16. [The Idiom and the Idiot](#p16)
+17. [Half-Efforts, Full Takes](#p17)
 
 Business comes and goes, much more frequently than governments. 
 So how can commerce thrive without the dread of disillusionment
@@ -4714,5 +4715,5 @@ could actually have put or be putting their efforts
 elsewhere for effects far greater in gains or losses 
 than words as powerful in legacy as the idiom. 
 
-## Half-Efforts, Full Takes
+## Half-Efforts, Full Takes <a name="p17"></a>
 
