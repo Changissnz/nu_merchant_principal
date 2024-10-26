@@ -951,8 +951,8 @@ $B_{x_1} \subset B_{x_2} \subset \dots \subset B_{x_n}$,
 select the biggest branch $B_{x_j}$ that is judged by Agent B
 to need cutting, and cut it. This approach guarantees 
 the fewest number of cuts required. But there is one 
-issue not yet mentioned, and that is the regenerative
-potential of Agent T after these cuts are made. Suppose
+issue not yet mentioned, and that is the <ins>regenerative
+potential</ins> of Agent T after these cuts are made. Suppose
 for each branch $B_x$ that fits the activation range
 to be cut, the cut by Agent A applied to its specific 
 geometry results in an end so dead that no regenerative 
