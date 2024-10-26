@@ -4727,7 +4727,7 @@ to the input's totality, but open to changes in form
 and expression. The openness to changes in form and 
 expression allows for dashing of the expectations 
 for the output. This section observes some aspects 
-in the way efforts are manifested by forces including 
+in the way efforts are manifested by forces such as  
 the acting agent of those efforts and others outside 
 of the direct efforts in action taken. 
 
