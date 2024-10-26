@@ -4717,3 +4717,17 @@ than words as powerful in legacy as the idiom.
 
 ## Half-Efforts, Full Takes <a name="p17"></a>
 
+A common line of reasoning persists in many activities 
+demarcated by start and end points. This line is the 
+input-output expectation, reinforced if not derived by 
+scientific laws surrounding the zero-sum condition of 
+energy: what efforts and materials go into an "outlet" 
+must come out of the "outlet" in ways that are equal 
+to the input's totality, but open to changes in form 
+and expression. The openness to changes in form and 
+expression allows for dashing of the expectations 
+for the output. This section observes some aspects 
+in the way efforts are manifested by forces including 
+the acting agent of those efforts and others outside 
+of the direct efforts in action taken. 
+
