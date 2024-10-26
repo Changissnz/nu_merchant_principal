@@ -988,7 +988,7 @@ the question of preferring source elimination
 over source control. 
 
 These three threshold-activation functions suffer 
-from the probable problem of piecewise contradiction
+from the probable problem of <ins>piecewise contradiction</ins>
 between their outputs. For Agent B to judge, based on 
 its function $F_{L,U}$ to not cut a particular 
 leaf or fruit $f$, but for its function $F_{branch}$
