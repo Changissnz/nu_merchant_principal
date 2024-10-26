@@ -4731,3 +4731,10 @@ in the way efforts are manifested by forces such as
 the acting agent of those efforts and others outside 
 of the direct efforts in action taken. 
 
+In this first context, there are an arbitrary number 
+of tasks $T$ to be completed, by an $x$ number of 
+workers. An even partitioning of work between the $x$ 
+workers, for these tasks' completion, is established 
+at the beginning. The problem is <ins>operational 
+efficiency</ins>. 
+
