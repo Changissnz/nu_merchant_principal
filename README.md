@@ -4941,3 +4941,20 @@ burdens on the support system that is responsible for
 upholding said terms for said goals. There has been much 
 scholarly research into and practice of collective bargaining 
 in work settings, especially those of material goods production. 
+Depending on the ideological style of the socio-economic 
+administration above the workers in authoritative command 
+flow, collective bargaining is one of the foremost methods 
+in negotiation, due to the emphasis on reaching and then 
+maintaining a flat line with respect to the variables of 
+worker livelihood. Those workers that find some of their 
+demands in work to remain unmet or entirely discouraged 
+by the outcome of collective bargaining have degrees of 
+freedom in their proceeding actions that strongly correlate 
+to the expectations and potential force of their socio-economic 
+administration. A review of the ideological and political 
+favorings that socio-economic administrations have attempted, 
+historically up to this day, falls outside of this work's 
+genericization that is to not reach into the depths of 
+hyper-detailed happenings and arrangements comprised of 
+ethno-national,cultural, and regional tints.
+
