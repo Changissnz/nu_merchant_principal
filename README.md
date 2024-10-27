@@ -4768,7 +4768,7 @@ the variables, so that the cumulative output from the
 variables each attached to their associated weight 
 satisfies some condition. High likelihood of multiple 
 satisfying solutions for the "fitting" problem, of 
-arbitrary variable dimensions, come from 
+arbitrary variable dimensions, comes from 
 <ins>inter-variable compensation</ins>. 
 
 ![image info](./images/heft_one.PNG)
@@ -4892,3 +4892,31 @@ along with EQW0, a worker is judged to be a fitting
 worker if they are paid at most $q_2$ and output 
 efforts condensed into a singular value at least that 
 of $q$. 
+
+There are some concerns on the metric of cumulative 
+product from work, represented by the generic 
+function $f$. The concerns focus on the two extremes 
+of the workers, the over-workers and under-workers. 
+The over-workers exceed the expected mean, this 
+usually the work requirement, and the under-workers 
+the opposite. There is the issue with the 
+externally-sourced gain of payments, compared 
+between these two. Already, perceived indiscrepancies 
+could evolve into great sources of envy amongst 
+the working peers. Another issue has to do with the 
+experience, of physical/mental stress and improvements 
+in work ethic or knowledge base, between these two 
+categories of workers. There is also the issue that 
+is not directly related to the work itself, but how 
+the workers of excess performance fare outside of 
+their work environment, in comparison to the workers 
+that do not put in the equivalent amount of work and 
+may gear their efforts towards other activities 
+outside of work. The metric of cumulative product 
+from work is an <ins>equal-outcome expression</ins>. 
+The perception that one outcome in one work session 
+is equal to the outcome of another work session, 
+and thus equal by the workers for the workers, is 
+a perception that is ignorant of each of the workers' 
+performance, the underlying building blocks for the 
+whole.  
