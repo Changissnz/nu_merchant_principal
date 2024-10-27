@@ -4894,7 +4894,7 @@ efforts condensed into a singular value at least that
 of $q$. 
 
 There are some concerns on the metric of cumulative 
-product from work, represented by the generic 
+product from work, previously mentioned as the generic 
 function $f$. The concerns focus on the two extremes 
 of the workers, the over-workers and under-workers. 
 The over-workers exceed the expected mean, this 
@@ -4919,4 +4919,7 @@ is equal to the outcome of another work session,
 and thus equal by the workers for the workers, is 
 a perception that is ignorant of each of the workers' 
 performance, the underlying building blocks for the 
-whole.  
+whole. The criteria for judgment on performance, 
+as a collective VS individual, is a central 
+determinant on the amount of influence such perceptions 
+carry. 
