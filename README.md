@@ -4766,4 +4766,9 @@ problem involves finding an associated weight, to be
 used as an operand such as a multiplier, for each of 
 the variables, so that the cumulative output from the 
 variables each attached to their associated weight 
-satisfies some condition. 
+satisfies some condition. High likelihood of multiple 
+satisfying solutions for the "fitting" problem, of 
+arbitrary variable dimensions, come from 
+<ins>variable-to-variable compensation</ins>. 
+
+
