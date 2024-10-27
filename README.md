@@ -4991,8 +4991,8 @@ and $t_0$. Factors such as output-agnostic payment and
 certain conceptualizations of ideal proportionality 
 would strongly suggest that these workers become 
 specialized for their task that they excel at, in 
-the name of operational efficiency for methodological 
-improvements. By this suggestion, work-allocation 
+the name of operational efficiency for <ins>methodological 
+improvement</ins>. By this suggestion, work-allocation 
 decisions to specialize the workers by compartmentalizing 
 their activity and interaction into certain channels, 
 these channels non-existing in equal-work environments, 
