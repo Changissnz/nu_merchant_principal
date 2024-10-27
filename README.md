@@ -4780,4 +4780,42 @@ worker, $w_2$, was able to meet this mean requirement
 for all of the tasks. The fact remains, even with 
 these output discrepancies between the workers, that 
 all of the tasks were completed (each column sums to 
-$1.0$).  
+$1.0$). The mathematical equation to determine if the 
+workers conducted satisfying work in table HEFT1 
+is straightforward. 
+
+$$\begin{equation}
+f(t_i) = 
+     \begin{cases}
+      \text{pass} & \text{ if }\sum_{w_i \in W}t_{i}^{(w_i)}=1.0 \\ 
+      \text{fail} & \text{otherwise.} \\ 
+     \end{cases}
+\end{equation}$$
+
+If every task $t_i$ of the tasks $T$ is satisfied by 
+the cumulative work completed by the workers, so that 
+the completion is $1.0$ for all, then the workers 
+have performed satisfying work by the metric of function 
+$f$. As always with there always being a critic, there 
+is another function $g$. 
+
+$$\begin{equation}
+g(w_i) = 
+     \begin{cases}
+      \text{pass} & \text{ if } t_{i}^{(w_i)}\geq 1.0/|W| \forall t_{i} \in T \\ 
+      \text{fail} & \text{otherwise.} \\ 
+     \end{cases}
+\end{equation}$$
+
+Function $g$ determines that a worker $w_i$ passes if 
+their output per task is at least as great as the mean, 
+a value that is set to the even split of work between 
+all workers $W$. With a mere two examples for work-performance 
+functions, there is already the question of <ins>ideal 
+proportionality</ins>. Must every worker meet at least 
+the "minimum" threshold that is the expected mean work 
+for each task? Should not the completion of all the 
+tasks be a criteria of higher priority? 
+
+
+
