@@ -5007,3 +5007,19 @@ should, in implementation of the theoretics stemming
 from operational efficiency, result in the workers being 
 paid the same amount as without their specialization, 
 such as in environments of equal roles as equal statuses.
+
+A frequent underlying drive to specialize is the situation 
+of worker overflow, a problem that takes forms in reference 
+to the input and the output. In one form that is the constraint 
+of input sources, suppose there is a task $t_i$ to be completed, 
+and the task requires the worker to be at positions $\{p_1,\dots,p_m\}. 
+A spare number of workers greater than $m$ would not 
+positively affect the outcome. Instead, the workers 
+would have to conduct other activity on the sidelines 
+of the actual task to be completed. In the situation 
+of table HEFT1, there is no excess or deficit in the 
+completion of the demanded tasks. If a task is able to 
+be completed and for there to be excess output from 
+work on the task, usually by as material or acting outcomes 
+from the task, the practice of operational efficiency 
+entails removing the sources of that excess. 
