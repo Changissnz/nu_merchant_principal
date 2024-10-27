@@ -5022,4 +5022,24 @@ completion of the demanded tasks. If a task is able to
 be completed and for there to be excess output from 
 work on the task, usually by material or acting outcomes 
 from the task, the practice of operational efficiency 
-entails removing the sources of that excess. 
+entails removing the sources of that excess. A related 
+category of work to worker overflow is the 
+<ins>permutative work process</ins>. To exemplify, for 
+a task $t_i$ to be completed, the task could additionally 
+be split into smaller tasks called steps. A permutative 
+arrangement calls for these steps to be executed in an 
+appropriate ordering. The workers responsible for the 
+completion of this task may discover that their individual 
+strengths in steps of the tasks may collide with one 
+another's work, so partitioning schemes to minimize this 
+colliding work negation, a waste, may demand worker 
+specialization. Rubrics and regulations tend to be 
+established for specialization pathways. Despite the 
+rarity of the specialist, the specialist is not expected 
+to be of a genuinely unique sort. Trials and errors may 
+have needed to take place to "pave the way" for the 
+area of specialization to become recognized as the 
+objective. Organizations with objectives to specialize 
+do restructure their form and purposes to suit these 
+objectives, with questions on their successes remaining. 
+
