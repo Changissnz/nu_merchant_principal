@@ -4995,11 +4995,11 @@ the name of operational efficiency for <ins>methodological
 improvement</ins>. By this suggestion, work-allocation 
 decisions to specialize the workers by compartmentalizing 
 their activity and interaction into certain channels, 
-these channels non-existing in equal-work environments, 
-naturally places demands on the workers unique by their 
-specialization. The objective is for each of the workers, 
-with some natural inclination at a task, to progressively 
-improve their natural inclination. In turn, greater workers 
+non-existing in equal-work environments, naturally places 
+demands on the workers unique by their specialization. 
+The objective is for each of the workers, with some 
+natural inclination at a task, to progressively improve 
+their natural inclination. In turn, greater workers 
 for a greater whole should be the summary line from the 
 overall review of the workers, after their undergoing 
 specialization in tasks. These marked improvements also 
