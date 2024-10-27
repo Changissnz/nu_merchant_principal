@@ -4973,3 +4973,37 @@ way", or they may "know the way but not the form", and
 as a result of their satisfying one but not the other, 
 they cannot do the work that is specialized with respect 
 to their ordinariness. 
+
+Refer back to table HEFT1 on the worker output of three 
+demanded tasks. All of the workers are expected to be of 
+the same status, even though the word "status" was not 
+explicitly mentioned. This idea of the workers' equal 
+statuses to each other comes down to the mean expected 
+contribution they are to each output for each of the 
+demanded tasks. Contribution to each of the demanded 
+tasks, by all involved workers, also implies that 
+every worker is capable of accomplishing each of the 
+tasks. But the values in the table tell something 
+else from the variance in the values it displays. 
+Workers $w_2$, $w_3$, and $w_0$ are the "best" workers 
+by their greatest contributions for tasks $t_2$, $t_1$, 
+and $t_0$. Factors such as output-agnostic payment and 
+ideal proportionality would strongly suggest that these 
+workers become specialized for their task that they 
+excel at, in the name of operational efficiency.
+By this suggestion, work-allocation decisions 
+to specialize the workers by compartmentalizing their 
+activity and interaction into certain channels, these 
+channels non-existing in equal-work environments, 
+naturally places demands on the workers unique by 
+their specialization. The objective is for each of 
+the workers, with some natural inclination at a task, 
+to progressively improve their natural inclination. 
+In turn, greater workers for a greater whole should 
+be the summary line from the overall review of the 
+workers, after their undergoing specialization in tasks. 
+These marked improvements also should, in implementation 
+of the theoretics stemming from operational efficiency, 
+result in the workers being paid the same amount as 
+without their specialization, such as in environments 
+of equal roles as equal statuses.
