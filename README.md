@@ -4958,3 +4958,18 @@ genericization that is to not reach into the depths of
 hyper-detailed happenings and arrangements comprised of 
 ethno-national,cultural, and regional tints.
 
+This section now turns to the label of workers as being 
+specialized. Work, as a general term for efforts expended 
+to accomplish some arbitrary objective, cannot be thought 
+of as a sequence of efforts to be taken by a physically 
+capable entity. This thought as an equation lacks that 
+very frequent term used to gauge the effectiveness of a 
+worker. That very frequent term is "experience". The 
+reasoning is, without the experience that is vital to 
+the successful execution of the work that is to be done 
+by any physically capable entity, that entity could not 
+accomplish the work. They may "know the form but not the 
+way", or they may "know the way but not the form", and 
+as a result of their satisfying one but not the other, 
+they cannot do the work that is specialized with respect 
+to their ordinariness. 
