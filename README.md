@@ -4869,7 +4869,7 @@ completion of each demanded task, is paid the exact
 same amount, given the condition that they all work 
 the same amount of time. Payments could also take 
 the form of a weighted rate that takes into consideration 
-each worker's individual contribution, such that a 
+each worker's individual contribution, such that 
 their greater magnitude in contribution results in 
 their being paid more. Again, these two approaches face 
 the same issue as the previously mentioned functions, 
@@ -4922,4 +4922,9 @@ performance, the underlying building blocks for the
 whole. The criteria for judgment on performance, 
 as a collective VS individual, is a central 
 determinant on the amount of influence such perceptions 
-carry. 
+carry. The metric of the individual average also 
+carries with it a certain kind of negativity in 
+reception. Averages are quintessentially antithetical 
+to specialization, another ideal highly-sought after. 
+Specialization comes later in this section's discussion. 
+
