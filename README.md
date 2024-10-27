@@ -5011,7 +5011,7 @@ such as in environments of equal roles as equal statuses.
 A frequent underlying drive to specialize is the situation 
 of worker overflow, a problem that takes forms in reference 
 to the input and the output. In one form that is the constraint 
-of input sources. Suppose there is a task $t_i$ to be completed, 
+of input sources, suppose there is a task $t_i$ to be completed, 
 and the task requires the worker to be at positions $\{p_1,\dots,p_m\}. 
 A spare number of workers greater than $m$ would not 
 positively affect the outcome. Instead, the workers 
