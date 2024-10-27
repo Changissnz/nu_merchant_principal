@@ -4769,7 +4769,7 @@ variables each attached to their associated weight
 satisfies some condition. High likelihood of multiple 
 satisfying solutions for the "fitting" problem, of 
 arbitrary variable dimensions, come from 
-<ins>variable-to-variable compensation</ins>. 
+<ins>inter-variable compensation</ins>. 
 
 ![image info](./images/heft_one.PNG)
 
@@ -4811,11 +4811,55 @@ Function $g$ determines that a worker $w_i$ passes if
 their output per task is at least as great as the mean, 
 a value that is set to the even split of work between 
 all workers $W$. With a mere two examples for work-performance 
-functions, there is already the question of <ins>ideal 
-proportionality</ins>. Must every worker meet at least 
-the "minimum" threshold that is the expected mean work 
-for each task? Should not the completion of all the 
-tasks be a criteria of higher priority? 
+functions, there is already the question of ideal 
+proportionality, the concept recently mentioned. Must 
+every worker meet at least the "minumum" threshold that 
+is the expected mean work for each task? Should not 
+the completion of all the tasks be a criteria of higher 
+priority? 
 
+A "fair balance" could be established to resolve this 
+issue of preferring one over the other. Establish a 
+value $q$ that serves as a singular value for minimum 
+performance requirement, and also an associated weight 
+$x_i$ for each of the $t_i$ tasks. A worker $w_i$ passes 
+their work requirement if this expression is satisfied, 
+for $n$ number of tasks.
+
+$$\begin{equation}
+x_0t_{i}^{(w_i)} + \dots + x_{n-1}t_{n-1}^{(w_i)} \geq q.
+\end{equation}$$
+
+**EQW0:** The weighted-work requirement inequality. 
+
+Another dimension regarding work in the practical sense 
+must be considered for a comprehensive overview. Payments. 
+Payments usually take the form of an established currency. 
+If payments are not in the order, then the work that each 
+worker contributes to the demanded tasks, not necessarily 
+the efforts that they expend, is what they are paid in 
+as a direct result of their efforts. The workers could 
+certainly barter their products, borne from the work, 
+for other products if currency is not allowed. The 
+exchange rate in these situations is arbitrarily-defined, 
+and barter has historically been used in place of a 
+lack of commonality, between two or more entities involved 
+in the process of exchange, in judgment criteria more 
+layered than direct material. 
+
+On the matter of payments, there are only a few broad 
+approaches that are possible. Payments do follow some 
+guideline that pertain to the concept of ideal 
+proportionality, and additionally along the lines of 
+the base scientific principle of input-output expectation. 
+Payments of currency are an <ins>externally-sourced gain</ins> 
+for the receivers. The source of the currency received 
+by each worker is not physically tied to the efforts 
+that they expend. The source of the currency may belong 
+to the organization that each worker is a part of, such 
+as from a financial officer. But the financial officer 
+is also somehow tied to the authorities of the currency 
+issued to them, the officer, for them to transmit to 
+their workers as payment for their work. 
 
 
