@@ -4823,7 +4823,7 @@ issue of preferring one over the other. Establish a
 value $q$ that serves as a singular value for minimum 
 performance requirement, and also an associated weight 
 $x_i$ for each of the $t_i$ tasks. A worker $w_i$ passes 
-their work requirement if this expression is satisfied, 
+their work requirement if this inequality is satisfied, 
 for $n$ number of tasks.
 
 $$\begin{equation}
@@ -4849,8 +4849,8 @@ layered than direct material.
 
 On the matter of payments, there are only a few broad 
 approaches that are possible. Payments do follow some 
-guideline that pertain to the concept of ideal 
-proportionality, and additionally along the lines of 
+guideline that pertains to the concept of ideal 
+proportionality, and additionally is along the lines of 
 the base scientific principle of input-output expectation. 
 Payments of currency are an <ins>externally-sourced gain</ins> 
 for the receivers. The source of the currency received 
@@ -4862,4 +4862,33 @@ is also somehow tied to the authorities of the currency
 issued to them, the officer, for them to transmit to 
 their workers as payment for their work. 
 
+Payments could take the form of a flat rate, that is, 
+according to the time spent working. Every worker, 
+regardless of their individual contributions to the 
+completion of each demanded task, is paid the exact 
+same amount, given the condition that they all work 
+the same amount of time. Payments could also take 
+the form of a weighted rate that takes into consideration 
+each worker's individual contribution, such that a 
+their greater magnitude in contribution results in 
+their being paid more. Again, these two approaches face 
+the same issue as the previously mentioned functions, 
+$f$ and $g$, as the preferred method of use. There 
+is the "fair balance" approach for this. 
 
+$$\begin{equation}
+c_0t_{i}^{(w_i)} + \dots + c_{n-1}t_{n-1}^{(w_i)} \leq q_2.
+\end{equation}$$
+
+**EQW1:** The weighted-payment requirement inequality. 
+
+Inequality EQW1 is a preliminary attempt to resolve 
+the question of payments. Each worker $w_i$ is paid 
+the amount that is the expression on the left-hand 
+side. To ensure fairness by reducing the possibility 
+of over-performing outliers, there is the maximum 
+threshold of $q_2$ set. Using the inequality EQW1 
+along with EQW0, a worker is judged to be a fitting 
+worker if they are paid at most $q_2$ and output 
+efforts condensed into a singular value at least that 
+of $q$. 
