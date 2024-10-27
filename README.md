@@ -4771,4 +4771,13 @@ satisfying solutions for the "fitting" problem, of
 arbitrary variable dimensions, come from 
 <ins>variable-to-variable compensation</ins>. 
 
+![image info](./images/heft_one.PNG)
 
+**HEFT1:** Three tasks are split between five 
+workers. The average amount of completion towards 
+each task is $1/5 = 0.2$. However, only one 
+worker, $w_2$, was able to meet this mean requirement 
+for all of the tasks. The fact remains, even with 
+these output discrepancies between the workers, that 
+all of the tasks were completed (each column sums to 
+$1.0$).  
