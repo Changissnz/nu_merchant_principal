@@ -4727,7 +4727,7 @@ to the input's totality, but open to changes in form
 and expression. The openness to changes in form and 
 expression allows for dashing of the expectations 
 for the output. This section observes some aspects 
-in the way efforts are manifested by forces such as  
+in the way efforts are manifested by forces such as 
 the acting agent of those efforts and others outside 
 of the direct efforts in action taken. 
 
@@ -4922,9 +4922,22 @@ performance, the underlying building blocks for the
 whole. The criteria for judgment on performance, 
 as a collective VS individual, is a central 
 determinant on the amount of influence such perceptions 
-carry. The metric of the individual average also 
-carries with it a certain kind of negativity in 
-reception. Averages are quintessentially antithetical 
-to specialization, another ideal highly-sought after. 
-Specialization comes later in this section's discussion. 
+carry. The metric of the individual average, in other 
+words, the individual meeting the average across all 
+relevant variables, also carries with it a certain kind 
+of negativity in reception. Averages are quintessentially 
+antithetical to specialization, another ideal highly-sought 
+after. Specialization comes later in this section's discussion. 
 
+<ins>Collective bargaining</ins>, by the workers, consists 
+of negotiating activities to guarantee minumum and/or maximum 
+thresholds on variables deemed important to worker livelihood. 
+Payment and insurance are two of the highest-ranking variables 
+on the long list. This form of negotiation is a universal 
+approach in social-based systems, albeit the goals and terms 
+of this negotiation do possess the risk of failure through 
+generalization of individual expectations and unaffordable 
+burdens on the support system that is responsible for 
+upholding said terms for said goals. There has been much 
+scholarly research into and practice of collective bargaining 
+in work settings, especially those of material goods production. 
