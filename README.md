@@ -5036,10 +5036,19 @@ colliding work negation, a waste, may demand worker
 specialization. Rubrics and regulations tend to be 
 established for specialization pathways. Despite the 
 rarity of the specialist, the specialist is not expected 
-to be of a genuinely unique sort. Trials and errors may 
-have needed to take place to "pave the way" for the 
-area of specialization to become recognized as the 
-objective. Organizations with objectives to specialize 
-do restructure their form and purposes to suit these 
-objectives, with questions on their successes remaining. 
+to be of a genuinely unique sort, by the metric of the 
+novelty of their work. Two traits that serve as better 
+distinguishers of a specialist than their work's novelty 
+are: 
+- rarity among their working peers,
+- initial aptitude to be placed on the specialization pathway, 
+  alongside the rigor in standards for their recognition 
+  as a specialist. 
+
+Trials and errors may have needed to take place to "pave 
+the way" for the area of specialization to become recognized 
+as the objective. Organizations with objectives to 
+specialize do restructure their form and purposes to 
+suit these objectives, with questions on their successes 
+remaining. 
 
