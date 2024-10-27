@@ -4731,10 +4731,39 @@ in the way efforts are manifested by forces such as
 the acting agent of those efforts and others outside 
 of the direct efforts in action taken. 
 
+One major area of focus is <ins>operational efficiency</ins>. 
+The objective behind this form of efficiency is to 
+reduce expenses in work and material, with regards to 
+defined activity, below a threshold to an expected 
+optimal level. From this central problem comes 
+other related problems, to be gradually mentioned. 
 In this first context, there are an arbitrary number 
 of tasks $T$ to be completed, by an $x$ number of 
 workers. An even partitioning of work between the $x$ 
 workers, for these tasks' completion, is established 
-at the beginning. The problem is <ins>operational 
-efficiency</ins>. 
-
+at the beginning. Each worker is to complete a portion 
+that is $\frac{1}{x}$ of every task belonging to $T$. 
+The two facets for efficiency measurement are time, 
+what each worker can accomplish given a set amount 
+of time, and space, what each worker requires (capital, 
+resources) to do their amount of work. Notions that 
+revolve around the concept of <ins>ideal proportionality</ins> 
+are used to judge the correctness of the details 
+that concern the workers. Judgments of ideal proportionality 
+grow in complexity by the dimensionality in variables. 
+For singular values such as integers, the integer is 
+divided by another number, typically an integer denoting 
+the number of candidates that the singular value is 
+to be split between. With the addition of more values 
+to be considered in terms of proportionality, there 
+becomes more candidates to consider, and usually 
+more solutions as well in comparison to the proportionality 
+of singular values. From an arithmetic approach on 
+numerical variables, a "fitting" problem is the 
+predominant route of structuring the problem in 
+order to obtain a satisfying solution. The "fitting" 
+problem involves finding an associated weight, to be 
+used as an operand such as a multiplier, for each of 
+the variables, so that the cumulative output from the 
+variables each attached to their associated weight 
+satisfies some condition. 
