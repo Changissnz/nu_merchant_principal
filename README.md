@@ -5167,7 +5167,7 @@ the same "rules and regulations".
 **HEFT2:** A worker-administrator graphical unit 
 that is comprised of four main entities: the workers 
 (W), the administration (A), an arbitrarily-defined 
-channel to currency (??), and a currency authority ($$). 
+channel to currency (red ??), and a currency authority ($$). 
 The worker works, by function $f_w$, for their 
 socio-economic administration. The socio-economic 
 administration pays the worker currency in exchange 
@@ -5177,7 +5177,7 @@ additional step of attempting to retrieve currency
 from a currency authority, by its function $f_c$. 
 The socio-economic administration also has the 
 possibility of connecting to another worker-administrator 
-graphical unit for work to be done ($f_w$), to be 
+graphical unit (gray ??) for work to be done ($f_w$), to be 
 provided currency ($f_c$), or to provide currency ($). 
 
 The <ins>worker-administrator graphical unit</ins>, of 
