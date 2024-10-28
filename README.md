@@ -5086,3 +5086,20 @@ outdated or out of touch with the context, and mismeasurements
 by the metric should be the expectation in improperly 
 regulated environments, these environments technically 
 contested by the volatile lack of basis. 
+
+In one form of a contested environment, there is a 
+task $t_i$ to be completed by the workers. Besides from 
+the condition that $t_i$ is completed, there is also 
+the demand for each of the workers to attempt to work 
+in excess of the completion of $t_i$. To work in excess, 
+to progressively improve the output of the task $t_i$'s 
+completion iteration over iteration, and for this work 
+to positively measure in comparison with other workers, 
+is the objective of each of the workers in this kind 
+of contested environment: <ins>boundless competitive 
+output</ins>. In another form of a contested environment, 
+there is a task $t_j$ to be completed by the workers. 
+There are <ins>unregulated guarantees</ins>. Possible 
+conditions established through collective bargaining by 
+the workers are ignored, mismanaged, or entirely violated 
+by either the workers or their socio-economic administration. 
