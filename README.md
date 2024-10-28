@@ -5144,7 +5144,7 @@ this exorbitant sum.
 
 Forms of contested environments such as the 
 mentioned boundless competitive output, unregulated 
-guarantees, and metric-less work can be used in  
+guarantees, and metric-less work can be used in 
 campaigns such as the <ins>output-delusion scheme</ins>. 
 In these environments, there is the openness in 
 interpretation by the workers and their socio-economic 
