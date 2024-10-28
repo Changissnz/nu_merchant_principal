@@ -5146,22 +5146,21 @@ Forms of contested environments such as the
 mentioned boundless competitive output, unregulated 
 guarantees, and metric-less work can be used in 
 campaigns such as the <ins>output-delusion scheme</ins>. 
-In these environments, there is the openness in 
-interpretation by the workers and their socio-economic 
-administration of the rules and regulations. To add 
-onto this subjectivity, the socio-economic 
-administration could execute stated rules and 
-regulations by a whimsical style. Worker performance, 
-measured by their output that is put into a 
-light of subjectivity, could furthermore be 
-skewed in reception. The worker that expends more 
-effort could be subject to greater scrutiny. The 
-worker that plays by the "rules and regulations", 
-of a whimsical enactment, could be socio-economically 
-rewarded at a greater scale than others that have 
-expended more effort for products of a potentially 
-greater value, but failed to play by the same 
-"rules and regulations". 
+What is half-efforts, full takes again? In these 
+environments, there is the openness in interpretation 
+by the workers and their socio-economic administration 
+of the rules and regulations. To add onto this subjectivity, 
+the socio-economic administration could execute stated 
+rules and regulations by a whimsical style. Worker 
+performance, measured by their output that is put into 
+a light of subjectivity, could furthermore be skewed 
+in reception. The worker that expends more effort could 
+be subject to greater scrutiny. The worker that plays 
+by the "rules and regulations", of a whimsical enactment, 
+could be socio-economically rewarded at a greater scale 
+than others that have expended more effort for products 
+of a potentially greater value, but failed to play by 
+the same "rules and regulations". 
 
 ![image info](./images/heft_two.PNG)
 
@@ -5184,10 +5183,49 @@ provided currency ($f_c$), or to provide currency ($).
 The <ins>worker-administrator graphical unit</ins>, of 
 diagram HEFT2, should be not interpreted as the 
 universal model for work arrangements that involve 
-currency. But it does provide enough capabilities to 
-account for factors of advanced or large networks. 
-Additionally, the abstract functions $f_w$ and $f_c$ 
-indicate the wide possible spectrum of currency payments 
-the socio-economic administration has at its control, 
-and what lack or excess of currency payments the worker 
-is subject to.
+currency; claiming that this graphical unit does serve 
+as the universal model for such activity would probably 
+be challenged in some way. But it does provide enough 
+capabilities to account for factors of advanced or large 
+networks. Additionally, the abstract functions $f_w$ and 
+$f_c$ indicate the wide possible spectrum of currency 
+payments the socio-economic administration has at its 
+control, and what lack or excess of currency payments the 
+worker is subject to. Half-efforts, taken by the administration, 
+and full takes, for the administration, should be relatively 
+easy to calculate using the worker-administrator graphical 
+unit as the model for operating economic and financial. 
+
+Worker-administrator dynamics provide a full template 
+for discussion on the category of the <ins>open-gain 
+environment</ins>. The worker in this environment is 
+not attached to the administrator, for an indeterminate 
+amount of time, in a feedback loop of completing tasks 
+demanded of them, in order to receive currency from the 
+administrator. In conservative worker-administrator 
+dynamics, the work environment is designed to ensure 
+the command-flow, from the administrator to the worker, 
+remains intact in hierarchical relation. Preventative 
+measures are put in place to prevent the command-flow 
+from caving in: the worker quits or is fired for 
+insubordination, or the worker assumes the role of 
+an administrator that usurps their current administrator. 
+Rationing of currency payments is a typical route to 
+ensure that the worker does not accumulate enough 
+power, per se, in the form of excess currency that they 
+could divert towards other outlets in competition against 
+the administration. In open-gain environments, the 
+worker could expect that their efforts expended would 
+yield them at least an equal output back to them. This 
+output, the product itself, currency, or an exchanged 
+product, would mean no losses of measurable value 
+back to them. The worker may even acquire a lot of 
+currency, many times that of their peers that put 
+in the same amount of work, due to currency constraints 
+placed on their peers while they have the liberty 
+of no maximal constraints with currency payments. 
+The category of open-gain environments is a term to 
+generalize the lack of conservative arrangements, 
+on the matter of product, product valuation, and 
+continual lack of change in relations between the 
+workers and the administrators. 
