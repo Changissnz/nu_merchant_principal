@@ -5103,3 +5103,39 @@ There are <ins>unregulated guarantees</ins>. Possible
 conditions established through collective bargaining by 
 the workers are ignored, mismanaged, or entirely violated 
 by either the workers or their socio-economic administration. 
+
+More forms of contested environments exist, these ones 
+rely on <ins>metric-less work</ins>. In metric-less work, 
+there are less objective measures available to the 
+socio-economic administration to gauge the effectiveness 
+of each worker. Activities such as research, policing 
+(questionably), and non-profiting social services are 
+examples that are difficult to gauge in quality, despite 
+there being obvious ways such as statistical frequency 
+counts. Two workers in a metric-less work environment 
+may expend as much energy as one another in fulfilling 
+a task. The manifestation of this task's completion 
+takes many forms as the acceptable output. One worker 
+produces a different product than the other, and is 
+greatly rewarded in currency payments, while the other 
+does not receive any currency payment whatsoever. In 
+another example of a metric-less work environment, one 
+worker is able to use the other worker's work as a 
+critical step towards outputting a product. The 
+worker is greatly rewarded in currency payments, and 
+the other goes bankrupt. The outputs from metric-less 
+work are products outside of the scope of their 
+immediate reference. What is worthless for their 
+time may, in fact, become priceless by its exorbitant 
+valuation at a future near or far. For example, a worker 
+expends their efforts for a product $p$. The product 
+$p$ is deemed worthless by their socio-economic 
+administration, so they are not paid whatsoever, 
+instead having to receive ridicule from their peers, 
+as well as export control measures and regulations 
+from their socio-economic administration. After the 
+worker passed away, the socio-economic administration 
+rediscovered that their product $p$ actually does 
+carry tangible value. The administration sells the 
+product $p$ to their competitor for an exorbitant 
+sum of currency payments. 
