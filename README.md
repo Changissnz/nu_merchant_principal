@@ -5138,4 +5138,6 @@ worker passed away, the socio-economic administration
 rediscovered that their product $p$ actually does 
 carry tangible value. The administration sells the 
 product $p$ to their competitor for an exorbitant 
-sum of currency payments. 
+sum of currency payments, and the members of the 
+administration are able to pay off their debt by 
+this exorbitant sum. 
