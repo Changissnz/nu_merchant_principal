@@ -5144,7 +5144,7 @@ this exorbitant sum.
 
 Forms of contested environments such as the 
 mentioned boundless competitive output, unregulated 
-guarantees, and metric-less work can be used as 
+guarantees, and metric-less work can be used in  
 campaigns such as the <ins>output-delusion scheme</ins>. 
 In these environments, there is the openness in 
 interpretation by the workers and their socio-economic 
@@ -5162,3 +5162,32 @@ rewarded at a greater scale than others that have
 expended more effort for products of a potentially 
 greater value, but failed to play by the same 
 "rules and regulations". 
+
+![image info](./images/heft_two.PNG)
+
+**HEFT2:** A worker-administrator graphical unit 
+that is comprised of four main entities: the workers 
+(W), the administration (A), an arbitrarily-defined 
+channel to currency (??), and a currency authority ($$). 
+The worker works, by function $f_w$, for their 
+socio-economic administration. The socio-economic 
+administration pays the worker currency in exchange 
+by one of two ways. It can pay the worker through 
+its own currency reserves, or it can take the 
+additional step of attempting to retrieve currency 
+from a currency authority, by its function $f_c$. 
+The socio-economic administration also has the 
+possibility of connecting to another worker-administrator 
+graphical unit for work to be done ($f_w$), to be 
+provided currency ($f_c$), or to provide currency ($). 
+
+The <ins>worker-administrator graphical unit</ins>, of 
+diagram HEFT2, should be not interpreted as the 
+universal model for work arrangements that involve 
+currency. But it does provide enough capabilities to 
+account for factors of advanced or large networks. 
+Additionally, the abstract functions $f_w$ and $f_c$ 
+indicate the wide possible spectrum of currency payments 
+the socio-economic administration has at its control, 
+and what lack or excess of currency payments the worker 
+is subject to.
