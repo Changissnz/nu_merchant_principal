@@ -5000,8 +5000,8 @@ tasks. But the values in the table tell something
 else from their variance between each other. Workers 
 $w_2$, $w_3$, and $w_0$ are the "best" workers by 
 their greatest contributions for tasks $t_2$, $t_1$, 
-and $t_0$. Factors such as output-agnostic payment and 
-certain conceptualizations of ideal proportionality 
+and $t_0$, respectively. Factors such as output-agnostic 
+payment and certain conceptualizations of ideal proportionality 
 would strongly suggest that these workers become 
 specialized for their task that they excel at, in 
 the name of operational efficiency for <ins>methodological 
