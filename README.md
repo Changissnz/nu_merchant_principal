@@ -4956,7 +4956,20 @@ favorings that socio-economic administrations have attempted,
 historically up to this day, falls outside of this work's 
 genericization that is to not reach into the depths of 
 hyper-detailed happenings and arrangements comprised of 
-ethno-national,cultural, and regional tints.
+ethno-national,cultural, and regional tints. 
+
+Collective bargaining observes some variables worthy 
+of mention: 
+- each worker's expectations (demands) of their assigned 
+  work,
+- qualities of each worker's output, including their 
+  energy expenditure (effort), contribution to the 
+  completion of the task/s, and maximum capabilities, 
+- negotiated terms of collective work expectations
+- qualities of each worker's output after implementation 
+  of collective negotiated terms,
+- effects of each worker's expectations (demands) that 
+  were unmet due to the collective bargaining process. 
 
 This section now turns to the label of workers as being 
 specialized. Work, as a general term for efforts expended 
@@ -5012,7 +5025,7 @@ A frequent underlying drive to specialize is the situation
 of worker overflow, a problem that takes forms in reference 
 to the input and the output. In one form that is the constraint 
 of input sources, suppose there is a task $t_i$ to be completed, 
-and the task requires the worker to be at positions $\{p_1,\dots,p_m\}. 
+and the task requires the worker to be at positions $\{p_1,\dots,p_m\}$. 
 A spare number of workers greater than $m$ would not 
 positively affect the outcome. Instead, the workers 
 would have to conduct other activity on the sidelines 
