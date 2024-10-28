@@ -5194,7 +5194,8 @@ control, and what lack or excess of currency payments the
 worker is subject to. Half-efforts, taken by the administration, 
 and full takes, for the administration, should be relatively 
 easy to calculate using the worker-administrator graphical 
-unit as the model for operating economic and financial. 
+unit as the model for operating on economic and financial 
+conditions. 
 
 Worker-administrator dynamics provide a full template 
 for discussion on the category of the <ins>open-gain 
