@@ -5289,5 +5289,5 @@ outcomes that have higher probabilities of the relation
 between the participants to be irreparable. The preferential 
 usage of these synonyms in the human sense is not this section's 
 prime crux, for diction is greatly influenced by factors 
-such as occupation, socio-economic views, and cultural 
-upbringings. 
+such as occupation, socio-economic views, cultural 
+upbringings, and in the spatiotemporal sense, the context. 
