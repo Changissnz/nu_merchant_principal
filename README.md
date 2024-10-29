@@ -5284,7 +5284,7 @@ of images comprised of the pertinent structures and
 behaviors. The term "fight" is a synonymous one to  
 "argument", but its use, as a descriptor for non-uniting 
 phenomena between autonomous entities, veers to those 
-events with more volatile and/or violent practices for  
+events with more volatile and/or violent practices for 
 outcomes that have higher probabilities of the relation 
 between the participants to be irreparable. The preferential 
 usage of these synonyms in the human sense is not this section's 
