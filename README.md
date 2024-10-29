@@ -5281,7 +5281,7 @@ variants of differing styles with magnetic properties
 in binding and repulsing, with the resultant from 
 these implementations non-constant by the observation 
 of images comprised of the pertinent structures and 
-behaviors. The term "fight" is a synonymous one to  
+behaviors. The term "fight" is a synonymous one to 
 "argument", but its use, as a descriptor for non-uniting 
 phenomena between autonomous entities, veers to those 
 events with more volatile and/or violent practices for 
