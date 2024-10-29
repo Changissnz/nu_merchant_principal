@@ -24,6 +24,7 @@
 15. [The Great-Wind's Restriction](#p15)
 16. [The Idiom and the Idiot](#p16)
 17. [Half-Efforts, Full Takes](#p17)
+18. [Arguments in Image-Projectable Contexts](#p18)
 
 Business comes and goes, much more frequently than governments. 
 So how can commerce thrive without the dread of disillusionment
@@ -5230,3 +5231,59 @@ generalize the lack of conservative arrangements,
 on the matter of product, product valuation, and 
 continual lack of change in relations between the 
 workers and the administrators. 
+
+## Arguments in Image-Projectable Contexts <a name="p18"></a>
+
+Much interest is taken in the field of argument 
+construction and execution, driven by demands in 
+defensive competency. Demands in this field are 
+somehow spurred through the spontaneity of the 
+experience and the experience's ensuing reflection, 
+and in many cases, compulsions to gain competency 
+in this field are not innate, rather passed down 
+in constructs keen on maintaining a vigilance 
+that operates on the belief of continual sources 
+of threats, uncontrollable and maybe unhelpable 
+in juxtaposition to the self capable of its own 
+improvement. The idea of the "self" and the "other" 
+as a dualistic combination that become connected 
+by great flux, asymmetry, or other mechanisms of 
+polarity and separation is not the main topic 
+in this discussion. The argument as the tool and 
+the context as the operating environment with 
+specific variables of qualities such as restriction, 
+constraint, and derivation is the specific sub-field 
+in defense that is detailed. The choice of using the 
+term "defense" instead of "offense" is due to 
+notions, to be explained, that emphasizes how 
+certain offenses occur without ignoring their 
+implicit weaknesses of their forward force (that is 
+usually how offense occurs), for that would allow 
+there to be conceptualizations expressed, justifiable 
+through their lack of opposing views as grounds for 
+oppositional debate, of the offense as being impeccable, 
+godlike in another word. 
+
+The term "argument" is a term predominantly used as a 
+label for verbal or written forms of opposition and/or 
+antagonism against one side, perhaps a null side, in favor 
+of another perspective with its own rationale with options 
+of promoting partiality through the engineering of 
+opinions and biases. Arguments have orientations according 
+to a polarity of sorts, since they fall in the spectrum 
+of promotion and contradiction. Predominant forms of 
+what are called arguments do not require there to be 
+a rubric for civility or peacekeeping, disappointly 
+for many that rely on verbal and written forms in 
+their existential interests, but universalism of 
+implementations of civility and peacekeeping encountered 
+variants of differing styles with magnetic properties 
+in binding and repulsing, with the resultant from 
+these implementations non-constant by the observation 
+of images comprised of the pertinent structures and 
+behaviors. The term "fight" is a synonymous one to  
+"argument", but its use, as a descriptor for non-uniting 
+phenomena between autonomous entities, veers to those 
+events with more volatile and/or violent practices for  
+outcomes that have higher probabilities of the relation 
+between the participants to be irreparable. 
