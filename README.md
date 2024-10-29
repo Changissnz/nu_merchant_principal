@@ -5255,7 +5255,7 @@ specific variables of qualities such as restriction,
 constraint, and derivation is the specific sub-field 
 in defense that is detailed. The choice of using the 
 term "defense" instead of "offense" is due to 
-notions, to be explained, that emphasiz how 
+notions, to be explained, that emphasize how 
 certain offenses occur without ignoring their 
 implicit weaknesses of their forward force (that is 
 usually how offense occurs), for that would allow 
