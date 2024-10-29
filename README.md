@@ -5267,7 +5267,7 @@ godlike in another word.
 The term "argument" is a term predominantly used as a 
 label for verbal or written forms of opposition and/or 
 antagonism against one side, perhaps a null side, in favor 
-of another perspective with its own rationale with options 
+of another perspective from its own rationale, with options 
 of promoting partiality through the engineering of 
 opinions and biases. Arguments have orientations according 
 to a polarity of sorts, since they fall in the spectrum 
