@@ -5353,11 +5353,19 @@ formulated their interpretations according to their own
 processes of standards and chosen calculations. Participant 
 $p_1$ claims that $b$ and $5$ cannot be grouped with $0$, 
 so $p_2$'s argument is baseless by $p_1$'s judgment. 
-In a similar vein, $p_2$ claims that $p_1$'s argument $M$ 
+In a similar vein, $p_2$ claims that $p_1$'s argument $N$ 
 lacks logical correctness because of a few errors. By $p_2$'s 
 judgment, constituent $2$ and $6$ should not ideally be 
-together. So that is already a deduction in $M$'s credibility 
+together. So that is already a deduction in $N$'s credibility 
 by its stylistic choice. Also, $p_2$ claims constituent $f$ 
 cannot be grouped with $c$, and that is an immediate grounds 
-for the incorrectness of argument $M$. 
+for the incorrectness of argument $N$. There are two areas 
+of projectability in this argument with three agents. In the 
+first area, the matter $M$ is projectable because it is 
+interpretable: each of the argument's participants projects 
+a separate image from an identical source. In the other area, 
+both of the interpretations, $N$ and $R$, are projectable. 
+Observer $O$ determines that one or the other is the better 
+solution, the categories of better and not projections from the 
+participants' interpretations. 
 
