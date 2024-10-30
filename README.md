@@ -5355,7 +5355,7 @@ $p_1$ claims that $b$ and $5$ cannot be grouped with $0$,
 so $p_2$'s argument is baseless by $p_1$'s judgment. 
 In a similar vein, $p_2$ claims that $p_1$'s argument $N$ 
 lacks logical correctness because of a few errors. By $p_2$'s 
-judgment, constituent $2$ and $6$ should not ideally be 
+judgment, constituent $2$ and $6$ should ideally not be 
 together. So that is already a deduction in $N$'s credibility 
 by its stylistic choice. Also, $p_2$ claims constituent $f$ 
 cannot be grouped with $c$, and that is an immediate grounds 
@@ -5369,3 +5369,32 @@ Observer $O$ determines that one or the other is the better
 solution, the categories of better and not projections from the 
 participants' interpretations. 
 
+*note:* This text uses the "argument" to describe a topic 
+that two or more participants argue on. Each of the participants 
+have an argument that perpetuates something in this argument. 
+Their arguments are sub-arguments of the argument they partake 
+in. 
+
+The interpretable argument can also take place without an 
+observer. In some of these situations, the participants of 
+their formulated arguments have the autonomy to agree or 
+disagree on the correctness of the solution, and to proceed 
+forward from that degree of compatibility. Other situations 
+place different conditions on the participants. A participant 
+may lose the equal hand in their argument against the other/s. 
+This participant's argument may then be placed in the domain 
+controlled by the other participant/s, due to this inequality. 
+The other participant/s, in turn, have the capability to 
+depict the argument of this participant as something else, 
+a non-identical retelling. Depending on the gravity of the 
+topic of argument, the participant that has their argument 
+lose the status of equal hand could find themselves at a 
+great disadvantage, based on the operable potential of 
+action from the argument that they participated in, amongst 
+the other participants. The other participants could adversely 
+depict this participant to non-participants (third-party 
+observers), and leverage negative reception back against 
+this participant. The non-participants could influence 
+factors unrelated to the argument but somehow impactful to 
+the existence of the participant that has lost the equal 
+hand. 
