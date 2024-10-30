@@ -5397,4 +5397,14 @@ observers), and leverage negative reception back against
 this participant. The non-participants could influence 
 factors unrelated to the argument but somehow impactful to 
 the existence of the participant that has lost the equal 
-hand. 
+hand. In this situation, there is a malicious triangulation 
+with the participant of argument's unequal status placed 
+as the "sink" for losses. 
+
+![image info](./images/aipc_two.PNG)
+
+**AIPC1:** Other participants $P_O$ are able able to assert 
+control over $P$ and its argument (black dot), by $F_{control}$ 
+for containment. $P_O$ depicts $P$ in an adversarial light 
+to observers $O$, who then penalize $P$ with function $F_{penalize}$. 
+
