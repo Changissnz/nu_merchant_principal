@@ -5319,3 +5319,45 @@ be <ins>interpretable argument</ins>, an argument that values
 the interpretation/s on a grander scale than the truthfulness 
 of whatever leanings and points in formulations the participants 
 may present. 
+
+In a first demonstration of the <ins>interpretable argument</ins>, 
+there are two participants $p_1$, $p_2$, and a third-party 
+observer $O$ in an argument on the matter $M$, 
+
+$$M=[0,1,2, \\ 
+a,b,c, \\ 
+4,5,6, \\ 
+d,e,f].$$
+
+Participant $p_1$ decides that $M$ is supposed to mean  
+$N = [[0,a,4,d],[1,b,5,e],[2,c,6,f]]$,  
+and $p_2$ decides that it is  
+$R = [[0,b,5],[1,a,4,f,6],[2,c,d,e]]$  
+for a posed issue $I$. Both the participants used the 
+same constituents in their arguments, and each of them 
+believes that they are the one with the correct argument 
+in the argument between them. Observer $O$ has the administrative 
+privilege of ending the argument by selecting one of $p_1$ 
+or $p_2$ with the better argument, by the stipulation of 
+consequences to be inflicted on the participant that continues 
+the argument after the declaration of the winner. This case 
+produces a stop to the argument between $p_1$ and $p_2$ because 
+$O$ had decided, before presiding over the argument, that 
+the argument cannot go longer for a finite amount of time 
+set by them. Without there being an observer $O$ with 
+control privileges of the argument, $p_1$ and $p_2$ would 
+continue to argue for their own interpretations of matter 
+$M$. Their arguments are combinative/permutative 
+reformattings of $M$, unique to one another. Each of them 
+formulated their interpretations according to their own 
+processes of standards and chosen calculations. Participant 
+$p_1$ claims that $b$ and $5$ cannot be grouped with $0$, 
+so $p_2$'s argument is baseless by $p_1$'s judgment. 
+In a similar vein, $p_2$ claims that $p_1$'s argument $M$ 
+lacks logical correctness because of a few errors. By $p_2$'s 
+judgment, constituent $2$ and $6$ should not ideally be 
+together. So that is already a deduction in $M$'s credibility 
+by its stylistic choice. Also, $p_2$ claims constituent $f$ 
+cannot be grouped with $c$, and that is an immediate grounds 
+for the incorrectness of argument $M$. 
+
