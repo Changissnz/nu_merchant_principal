@@ -5406,5 +5406,5 @@ as the "sink" for losses.
 **AIPC1:** Other participants $P_O$ are able able to assert 
 control over $P$ and its argument (black dot), by $F_{control}$ 
 for containment. $P_O$ depicts $P$ in an adversarial light 
-to observers $O$, who then penalize $P$ with function $F_{penalize}$. 
+to observers $OBS$, who then penalize $P$ with function $F_{penalize}$. 
 
