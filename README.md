@@ -5427,9 +5427,9 @@ of the truth's effects onto the self and that from the other.
 So there are 16 possibilities, $2^4$, for four boolean 
 categories. 
 
-The finitely-sized rubric is used as a methodology by one 
-of the agents concerning the argument. This finite rubric 
-is also a full boolean map; every constituent from the 
-argument as input produces a boolean. In arguments of free 
-form (not elaborated on), the rubric is not as simple in 
-style as this described rubric.  
+The finitely-sized rubric is used as a methodology of 
+judgment by one of the agents concerning the argument. 
+This finite rubric is also a full boolean map; every 
+constituent from the argument as input produces a boolean. 
+In arguments of free form (not elaborated on), the rubric 
+is not as simple in style as this one described. 
