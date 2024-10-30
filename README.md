@@ -5349,7 +5349,7 @@ control privileges of the argument, $p_1$ and $p_2$ would
 continue to argue for their own interpretations of matter 
 $M$. Their arguments are combinative/permutative 
 reformattings of $M$, unique to one another. Each of them 
-formulated their interpretations according to their own 
+formulated their interpretation according to their own 
 processes of standards and chosen calculations. Participant 
 $p_1$ claims that $b$ and $5$ cannot be grouped with $0$, 
 so $p_2$'s argument is baseless by $p_1$'s judgment. 
@@ -5408,3 +5408,20 @@ control over $P$ and its argument (black dot), by $F_{control}$
 for containment. $P_O$ depicts $P$ in an adversarial light 
 to observers $OBS$, who then penalize $P$ with function $F_{penalize}$. 
 
+A more qualitative exploration of the argument in its 
+context demands categories for usage of the argument's 
+constituents. Boolean labels for the truthfulness of each 
+argument serve as a barebones basic. There is the spectrum 
+of continuity that is used in cases of uncertainty between 
+polarities. The category of external mutability, according to 
+state and behaviorial conservation, adds another dimension 
+of complexity. Overall, the use of both of these categories 
+works in a manner similar to that of the complex number 
+system. To allow for explanation that is thorough in 
+coverage of the quality, boolean labels are preferred over 
+their infinitely-sized counterparts, the spectrum. A step 
+further from the labeling of the complex numerical system's 
+elements, two more categories are used, that is the boolean 
+of the truth's effects onto the self and that from the other. 
+So there are 16 possibilities, $2^4$, for four boolean 
+categories.
