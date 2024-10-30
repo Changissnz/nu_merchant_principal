@@ -5411,7 +5411,7 @@ to observers $OBS$, who then penalize $P$ with function $F_{penalize}$.
 A more qualitative exploration of the argument in its 
 context demands categories for usage of the argument's 
 constituents. Boolean labels for the truthfulness of each 
-argument serve as a barebones basic. There is the spectrum 
+constituent serve as a barebones basic. There is the spectrum 
 of continuity that is used in cases of uncertainty between 
 polarities. The category of external mutability, according to 
 state and behaviorial conservation, adds another dimension 
