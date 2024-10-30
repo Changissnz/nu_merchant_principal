@@ -5401,7 +5401,7 @@ hand. In this situation, there is a malicious triangulation
 with the participant of argument's unequal status placed 
 as the "sink" for losses. 
 
-![image info](./images/aipc_two.PNG)
+![image info](./images/aipc_one.PNG)
 
 **AIPC1:** Other participants $P_O$ are able able to assert 
 control over $P$ and its argument (black dot), by $F_{control}$ 
