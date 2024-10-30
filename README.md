@@ -5313,4 +5313,10 @@ against the power of the opposing participant's rejection,
 the solution for standing by the argument would turn into 
 solving for a energy resource and expenditure issue, instead 
 of the truthfulness of the argument in the local,global, and 
-agent-relational contexts. 
+agent-relational contexts. More than one descriptor certainly 
+exists to categorize this kind of argument. A fair one would 
+be <ins>interpretable argument</ins>, an argument that values 
+the interpretation/s of an argument on a grander scale than 
+the truthtfulness of the formulations of the arguments 
+belonging to the participants. 
+
