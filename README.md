@@ -5425,4 +5425,11 @@ further from the labeling of the complex numerical system's
 elements, two more categories are used, that is the boolean 
 of the truth's effects onto the self and that from the other. 
 So there are 16 possibilities, $2^4$, for four boolean 
-categories.
+categories. 
+
+The finitely-sized rubric is used as a methodology by one 
+of the agents concerning the argument. This finite rubric 
+is also a full boolean map; every constituent from the 
+argument as input produces a boolean. In arguments of free 
+form (not elaborated on), the rubric is not as simple in 
+style as this described rubric.  
