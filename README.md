@@ -5417,7 +5417,7 @@ polarities. The category of external mutability, according to
 state and behaviorial conservation, adds another dimension 
 of complexity. Overall, the use of both of these categories 
 works in a manner similar to that of the complex number 
-system. To allow for explanation that concentrates on the  
+system. To allow for explanation that concentrates on the 
 coverage of the quality over the potential messiness in 
 quantitative demonstration, boolean labels are preferred over 
 their infinitely-sized counterparts, the spectrum. A step 
@@ -5438,7 +5438,7 @@ rubric, but these issues are better isolated for understanding
 in comparison with the matters concerning free forms. A 
 recurring issue is the effectuality of the rubric, based 
 on an arbitrary issue. The issue could be a matter of pure 
-preference outside of the scope of nature-based systems,  
+preference outside of the scope of nature-based systems, 
 In natured-based systems, a rubric that is valid would have 
 to accomodate for these natural laws. Design and verification 
 of rubrics observe these natural laws that take precedence 
@@ -5459,7 +5459,7 @@ that autonomous agents are involved in at least one step
 concerning the use of the rubric. And they, the agents, 
 have or derive objectives out of their own understanding 
 of pressing needs to be satisfied. The rubric is also 
-thought as an auxiliary tool of filtration for a control 
+thought of as an auxiliary tool of filtration for a control 
 system to produce and maintain a controlled environment borne 
 from controlled outcomes. The aims of a rubric are wholly 
 considered in this next example's elaboration. 
@@ -5501,10 +5501,20 @@ decomposition, produces the labels that are the red and orange
 nodes. The relation between the rubric $R$ and pertaining natural 
 laws $N_{laws}^{(p)}$ are of question. Both $R$ and $N_{laws}^{(p)}$ 
 play roles of arbitrary degree to one another in producing the 
-function $F_{inf}$. The function $f_{inf}$ determines the 
+function $F_{inf}$. The function $F_{inf}$ determines the 
 influence of its producer on the constituent, based on the 
 constituent's truth value $v_t$ and the mutability of $v_t$, as 
-$v_{t}^{(m)}, to produce values on the two categories of effects 
-(red nodes). The clockwise demarcation from $F_{inf}$ symbolizes 
+$v_{t}^{(m)}$, to produce values on the two categories of effects 
+(red nodes). Clockwise demarcation from $F_{inf}$ symbolizes 
 the virtually absolutist connection it has on its products, the 
 effects. 
+
+The diagram below is an abstraction of the argument and the 
+participants. 
+
+![image info](./images/aipc_three.PNG)
+
+**AIPC3:** A topic $T$ with an issue $I$. The issue produces 
+an argument $A$ between $n$ participants. Each of the participants 
+poses their unique argument as the correct argument for the matter 
+that is the issue $I$.
