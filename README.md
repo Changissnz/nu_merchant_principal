@@ -5431,5 +5431,37 @@ The finitely-sized rubric is used as a methodology of
 judgment by one of the agents concerning the argument. 
 This finite rubric is also a full boolean map; every 
 constituent from the argument as input produces a boolean. 
-In arguments of free form (not elaborated on), the rubric 
-is not as simple in style as this one described. 
+In arguments of free form (not elaborated on), a thoroughly 
+comprehensive rubric is not as simple in definition as this 
+one described. There are troubling issues with any finitely-sized 
+rubric, but these issues are better isolated for understanding 
+in comparison with the matters concerning free forms. A 
+recurring issue is the effectuality of the rubric, based 
+on an arbitrary issue. The issue could be a matter of pure 
+preference outside of the scope of nature-based systems,  
+In natured-based systems, a rubric that is valid would have 
+to accomodate for these natural laws. Design and verification 
+of rubrics observe these natural laws that take precedence 
+over the accomodation of preferences by autonomous agents. 
+
+A rubric is always associated with an objective, an agenda 
+in other words. This is a prescribed tool distributed to 
+users for them to comprehend the qualities, perhaps by 
+the use of quantities, of a matter with qualities unknown 
+to them before they engage on analysis by the rubric. The 
+qualities that a rubric observes and the objective of the 
+rubric are not bound by traits contained entirely between 
+them two, due to the obvious condition that autonomous 
+agents are involved in at least one step concerning the 
+use of the rubric. And they, the agents, have or derive 
+objectives out of their own understanding of pressing 
+needs to be satisfied. The rubric can also be thought of 
+as a tool for a control system to produce and maintain a 
+controlled environment borne from controlled outcomes. 
+The aims of a rubric are wholly considered in this next 
+example's elaboration. 
+
+Using the four-category labeling system put forth, an 
+instance of an argument is used to display some qualitative 
+traits. 
+
