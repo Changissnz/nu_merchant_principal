@@ -5489,4 +5489,22 @@ engagement with forces not of the argument's possessor.
 The possessor's knowledge of this label also presumes them 
 to be aware of what constituents in their argument are not 
 guaranteed to conserve their form in their practical existence. 
+To clarify, however, the four labels of this kind of argument 
+defined do not require accurate knowledge of them by any 
+of the argument's participants, including the possessor. 
 
+![image info](./images/aipc_two.PNG)
+
+**AIPC2:** A diagram showing the four-category model of an 
+argument's constituent. The constituent $C$, when put through 
+decomposition, produces the labels that are the red and orange 
+nodes. The relation between the rubric $R$ and pertaining natural 
+laws $N_{laws}^{(p)}$ are of question. Both $R$ and $N_{laws}^{(p)}$ 
+play roles of arbitrary degree to one another in producing the 
+function $F_{inf}$. The function $f_{inf}$ determines the 
+influence of its producer on the constituent, based on the 
+constituent's truth value $v_t$ and the mutability of $v_t$, as 
+$v_{t}^{(m)}, to produce values on the two categories of effects 
+(red nodes). The clockwise demarcation from $F_{inf}$ symbolizes 
+the virtually absolutist connection it has on its products, the 
+effects. 
