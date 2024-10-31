@@ -5474,5 +5474,11 @@ argument or any rubric/s. Back to the mention of nature-based
 systems, assume for intents and purposes of their effects 
 on the rubric, natural laws are immutable by any 
 participant of any argument, although immutable traits 
-do not guarantee constancy of those traits' effects.
-
+do not guarantee constancy of those traits' effects. A 
+rubric has a number of specific natural laws, probably not 
+all of them , pertinent to it in its context of use. A user 
+of a rubric in use may be able to control all of the 
+natural laws pertaining to it. In these cases, the two 
+constituent labels on the argument's effects directly 
+correspond to the exclusive relations between the rubric's 
+users. 
