@@ -5421,8 +5421,8 @@ system. To allow for explanation that concentrates on the
 coverage of the quality over the potential messiness in 
 quantitative demonstration, boolean labels are preferred over 
 their infinitely-sized counterparts, the spectrum. A step 
-further from the labeling of the complex numerical system's 
-elements, two more categories are used, that is the boolean 
+further from the labeling akin to that of the complex numerical 
+system, two more categories are used, that is the boolean 
 of the truth's effects onto the self and that from the other. 
 So there are 16 possibilities, $2^4$, for four boolean 
 categories. 
@@ -5476,9 +5476,17 @@ on the rubric, natural laws are immutable by any
 participant of any argument, although immutable traits 
 do not guarantee constancy of those traits' effects. A 
 rubric has a number of specific natural laws, probably not 
-all of them , pertinent to it in its context of use. A user 
+all of them, pertinent to it in its context of use. A user 
 of a rubric in use may be able to control all of the 
 natural laws pertaining to it. In these cases, the two 
 constituent labels on the argument's effects directly 
 correspond to the exclusive relations between the rubric's 
-users. 
+users. The category of an argument's mutability is also 
+complicated, in its lone state. If the label for 
+mutability of an argument in its lone state is known, 
+knowledge of this is expected before the argument's 
+engagement with forces not of the argument's possessor. 
+The possessor's knowledge of this label also presumes them 
+to be aware of what constituents in their argument are not 
+guaranteed to conserve their form in their practical existence. 
+
