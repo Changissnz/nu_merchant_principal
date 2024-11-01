@@ -5556,7 +5556,7 @@ assertions and/or conclusions is questionable by analysis of
 these arguments' selves. Due to the elevation of doubt as an 
 effect, at least in the cognitive sense, of retractions and 
 reversals, these two techniques are seldom used in continuous 
-arguments of a straightforward force in its style of expression, 
+arguments of a straightforward force, in its style of expression, 
 with aims to provide more direct interpretation for a wanted reaction 
 of an arbitrary will. Overall,discontinuous arguments are more 
 extensive in generalization because their constituents do not 
