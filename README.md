@@ -5564,5 +5564,5 @@ depend on sequential paths of expression. Constituents of a
 reactive kind are connected as counterparts to the constituents 
 of other participants' discontinuous arguments. And so, the 
 understanding of their sources from which they are generated 
-from are dependent on the knowledge and understanding 
+from is dependent on the knowledge and understanding 
 of their counterparts. 
