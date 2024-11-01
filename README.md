@@ -5462,7 +5462,7 @@ of pressing needs to be satisfied. The rubric is also
 thought of as an auxiliary tool of filtration for a control 
 system to produce and maintain a controlled environment borne 
 from controlled outcomes. The aims of a rubric are wholly 
-considered in this next example's elaboration. 
+considered in this next diagram's elaboration. 
 
 Using the four-category labeling system put forth, an example 
 of an argument is initiated with two missing labels for its 
@@ -5566,3 +5566,14 @@ of other participants' discontinuous arguments. And so, the
 understanding of their sources from which they are generated 
 from is dependent on the knowledge and understanding 
 of their counterparts. 
+
+The rest of this section focuses on the continuous argument 
+as a body of meaning that an adversarial agent, either a 
+participant not the possessor of the argument or a third-party 
+observer, acts against to effect its change in these three 
+primary routes: 
+- depiction of the argument to an agent that is 
+  not its possessor,
+- execution of the argument in its expressing of its 
+  sequentially-ordered constituents, 
+- argument nullification.
