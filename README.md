@@ -5518,3 +5518,15 @@ participants.
 an argument $A$ between $n$ participants. Each of the participants 
 poses their unique argument as the correct argument for the matter 
 that is the issue $I$.
+
+![image info](./images/aipc_four.PNG)
+
+**AIPC4:** An argument as the rectangle holding five constituents. 
+These five constituents are expressed as a sequential flow, by the 
+red arrows. The dashed green lines from each constituent are part 
+of their "strong" implications, the underlying reasoning that each 
+constituent relies on as a basis for validation. The dashed blue 
+arrows emitting from the argument are "weak" implications, defined 
+in this use as the meanings from the constituents of the argument 
+that are deduced without an achievement of certainty. 
+
