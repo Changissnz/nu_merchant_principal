@@ -5719,4 +5719,24 @@ carry with them non-negligible measures of uncertainty on
 their accuracy. In a basic form of change that comes from 
 changing a mutable constituent in a dependent relation, the 
 truth value of the dependent constituent also changes, 
-reversed in boolean settings. 
+reversed in boolean settings. In another basic form, the 
+the dependent constituent is "negated", subtracted from the 
+argument's whole, by its dependency's change. Argument 
+nullification, the last of the primary routes of change, 
+could be accomplished by this negation process. 
+
+To summarize on the practices of an adversarial agent against 
+an argument, this being the forward force as mentioned in 
+the beginning of this section, the adversarial agent employs 
+tactics that fall under the umbrella of outcome engineering. 
+In argument nullification, the agent has the absolutist 
+objective of "negating" or "neutralizing" all constituents 
+of the argument so that the argument does not have any essence 
+of reason or value for continuing its existence. For effecting 
+change onto an executable argument, the constituents of the 
+argument that serve as the greatest source of dependency for 
+other constituents' dependencies are the ones with the greatest 
+attraction for an adversarial agent's attempts to modify it 
+by outcome engineering, especially if those constituents are 
+mutable. 
+
