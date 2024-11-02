@@ -5571,7 +5571,7 @@ On the category of constituent mutability by an external force,
 $v_t^{(m)}$, in the boolean space of sixteen possibilities for 
 the four-category model,  
 
-$$apply(v_t^{(m)} \equiv true) \Longrightarrow v_t \mathrel{*}=-1 \rightarrow \\ 
+$$apply(v_t^{(m)} \equiv true) \Longrightarrow (v_t \mathrel{*}=-1) \rightarrow \\ 
 \Delta_{?}^{F_{inf}}(e_s,e_o).$$  
 
 If a constituent is mutable, an external force that applies itself 
