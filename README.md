@@ -5618,21 +5618,22 @@ $F_{inf}$, $P_A$ hypothesizes what the effects of each constituent
 are, and these effect values are what $P_A$ bases its expectations 
 on in its outcome engineering. For an argument of $n$ constituents, 
 there are $q \leq 2^{2n}$ possible outcomes at most. From a numerical 
-perspective, the adversary $B$'s objective is the greatest positive 
+perspective, the adversary $P_A$'s objective is the greatest positive 
 gap in effect value between themself and the possessor of the 
 argument. In another perspective, each of the possible $q$ possible 
 outcomes induces another effect/s, and one or some of these additional 
-effects is what the adversary $B$ intends to engineer $A_B$ towards. 
+effects is what the adversary $B$ intends to engineer $A_b$ towards. 
 This second perspective is used in long-running situations such 
 that the immediate gains from the effects of the argument are not 
 the sole concern for the adversary; the field of game theory has 
 a special sub-field devoted to the study of infinitely-spanning 
 games. 
 
-The $q$ number of outcomes corresponds to the number of 
+The $q$ number of outcomes correspond to the number of 
 mutable constituents. The definition of the four-category 
 constituent model does not require there to be any changes 
 of effects from the switching of a mutable constituent's 
 truth value. If there are $k$ mutable constituents, 
 $0 \leq k \leq n$, then these constituents could produce  
-$2^{2k}$ unique effects, at most. 
+$2^{2k}$ unique effects, at most. The adversarial agent 
+$A_B$
