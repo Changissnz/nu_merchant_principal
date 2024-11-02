@@ -5636,4 +5636,8 @@ of effects from the switching of a mutable constituent's
 truth value. If there are $k$ mutable constituents, 
 $0 \leq k \leq n$, then these constituents could produce  
 $2^{2k}$ unique effects, at most. The adversarial agent 
-$A_B$
+$P_A$ attempts to apply change onto the mutable constituents 
+of argument $B$, by some sequence of actions to produce 
+a depiction to another agent. This depiction is to satisfy 
+one of the two objectives mentioned in the ending of the 
+previous paragraph. 
