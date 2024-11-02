@@ -5570,7 +5570,7 @@ $v_t^{(m)}$, in the boolean space of sixteen possibilities for
 the four-category model,  
 
 $$apply(v_t^{(m)} \equiv true) \Longrightarrow (v_t \mathrel{*}=-1) \rightarrow \\ 
-\Delta_{?}^{F_{inf}}(e_s,e_o).$$  
+\Delta_{?}^{F_{inf}}(e_s,e_o).$$ 
 
 If a constituent is mutable, an external force that applies itself 
 onto the constituent would output the opposite of the current truth 
@@ -5697,7 +5697,26 @@ an adversarial agent can depict an argument $B$ as the
 $B_1$, the expression of $B_1$ is executed in a manner akin 
 to "fluid state". 
 
-An adversarial agent $P_A$, in its attempt to adversely 
-affect the execution of an argument, has an objective 
-different from that in engineering outcome with respect to 
-a depiction.
+An adversarial agent $P_A$, in its attempt to affect the 
+execution of an argument for the possessor's loss in other 
+terms, has an objective that may not be methodologically 
+identical with that in engineering outcome with respect to 
+a depiction. A re-design of the $apply$ function, used in 
+depiction, is needed to accomodate this "fluid state". 
+Recall that this $apply$ function produces outcomes of 
+change onto the constituent's own labels $v_t$,$e_s$, 
+and $e_o$. 
+
+The possible dependencies shared between constituents of an 
+executing argument's "fluid state" mean that applying a change 
+onto a mutable constituent could inadvertently change the 
+truth values, and thus the effects, or exclusively the effects 
+of another constituent. These kinds of changes entertained 
+are found in complex cases of sequential bodies with dependent 
+constituents, for they require many more calculations that 
+more basic forms of change. And these additional calculations 
+carry with them non-negligible measures of uncertainty on 
+their accuracy. In a basic form of change that comes from 
+changing a mutable constituent in a dependent relation, the 
+truth value of the dependent constituent also changes, 
+reversed in boolean settings. 
