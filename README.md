@@ -5665,18 +5665,18 @@ constituents. The steps in such sequential processes
 cannot produce an achievement of some sorts, when based 
 only in terms of their independent strengths. Each step's 
 innate effectiveness in solving for a demand and the 
-degree of attempt are not the only factors. The execution's 
-steps are dependent on each other, and the outcome from the 
-execution is what is from the convergence of all of the 
-actions taken for these steps. By these properties of 
-an execution, an argument must be thought of as a "fluid 
-state" image. In the argument of a "fluid state", what is 
-expressed to an agent at one point in time is not explicit 
-in appearance to that same agent at another point in time, 
-but that what is previously expressed carries relevance in 
-forms that include base support,reference, and elimination 
-of unrelated implications to an expression at a later point 
-in time. 
+degree of attempt in it are not the only factors. The 
+execution's steps are dependent on each other, and the 
+outcome from the execution is what is from the convergence 
+of all of the actions taken for these steps. By these 
+properties of an execution, an argument must be thought 
+of as a "fluid state" image. In the argument of a "fluid 
+state", what is expressed to an agent at one point in time 
+is not explicit in appearance to that same agent at another 
+point in time, but that what is previously expressed carries 
+relevance in forms that include base support,reference, and 
+elimination of unrelated implications to an expression at 
+a later point in time. 
 
 ![image info](./images/aipc_tab1.PNG)
 
@@ -5696,3 +5696,8 @@ an adversarial agent can depict an argument $B$ as the
 "solid state" $B_1$ to an observer $O$. When $O$ receives 
 $B_1$, the expression of $B_1$ is executed in a manner akin 
 to "fluid state". 
+
+An adversarial agent $P_A$, in its attempt to adversely 
+affect the execution of an argument, has an objective 
+different from that in engineering outcome with respect to 
+a depiction.
