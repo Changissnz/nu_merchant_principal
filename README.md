@@ -5665,9 +5665,8 @@ constituents. The steps in such sequential processes
 cannot produce an achievement of some sorts, when based 
 only in terms of their independent strengths. Each step's 
 innate effectiveness in solving for a demand and the 
-degree of its successful action in reference to its 
-potential are not the only factors. The execution's steps 
-are dependent on each other, and the outcome from the 
+degree of attempt are not the only factors. The execution's 
+steps are dependent on each other, and the outcome from the 
 execution is what is from the convergence of all of the 
 actions taken for these steps. By these properties of 
 an execution, an argument must be thought of as a "fluid 
@@ -5688,6 +5687,8 @@ at every timestamp are dependent on previously expressed
 constituents, in order to be properly expressed. The 
 expression of the argument ends after five timestamps.
 
+The dependencies of each expressed constituent in table 
+AIPCDEP are exclusively <ins>backward dependencies</ins>. 
 Of course, depiction is depiction and execution is execution. 
 An argument is not necessarily put in the permanent role 
 of a "solid state" or a "fluid state" image. For instance, 
