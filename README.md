@@ -5629,7 +5629,7 @@ the sole concern for the adversary; the field of game theory has
 a special sub-field devoted to the study of infinitely-spanning 
 games. 
 
-The $q$ number of outcomes correspond to the number of 
+The $q$ number of outcomes are correlated to the number of 
 mutable constituents. The definition of the four-category 
 constituent model does not require there to be any changes 
 of effects from the switching of a mutable constituent's 
@@ -5640,4 +5640,16 @@ $P_A$ attempts to apply change onto the mutable constituents
 of argument $B$, by some sequence of actions to produce 
 a depiction to another agent. This depiction is to satisfy 
 one of the two objectives mentioned in the ending of the 
-previous paragraph. 
+previous paragraph. Whereas the argument $B$ is the image 
+intended to be emitted by its possessor $A_b$, $P_A$ 
+uses methodologies of outcome engineering to project $B$ 
+as something other to the destination point/s. 
+
+![image info](./images/aipc_five.PNG)
+
+**AIPC5:** Agent $P_A$ engages in an outcome engineering 
+campaign to produce a depiction of an argument $B$, possessed 
+by $A_b$. Agent $P_A$'s intention is for the projected image, 
+as $DEPICT(B)$, to be directed to another agent, the observer $O$, 
+in order for that agent to view and comprehend $DEPICT(B)$ as 
+what is actually $B$.
