@@ -5436,7 +5436,7 @@ rubric, but these issues are better isolated for understanding
 in comparison with the matters concerning free forms. A 
 recurring issue is the effectuality of the rubric, based 
 on an arbitrary issue. The issue could be a matter of pure 
-preference outside of the scope of nature-based systems, 
+preference outside of the scope of nature-based systems. 
 In natured-based systems, a rubric that is valid would have 
 to accomodate for these natural laws. Design and verification 
 of rubrics observe these natural laws that take precedence 
@@ -5596,7 +5596,7 @@ This particular ordering is for the possessor's desired gains
 of the effects with consideration for the gains of possibly negative 
 value distributed to the other, such that the possessor prioritizes 
 their comparative gains over the other to "win" by establishing a 
-non-zero positive gap in value between themself, based on the 
+positive gap in value between themself, based on the 
 constituent's effect on themself, and the other by the constituent's 
 effect on them. 
 
@@ -5704,7 +5704,7 @@ identical with that in engineering outcome with respect to
 a depiction. A re-design of the $apply$ function, used in 
 depiction, is needed to accomodate this "fluid state". 
 Recall that this $apply$ function produces outcomes of 
-change onto the constituent's own labels $v_t$,$e_s$, 
+change onto the constituent's own labels $v_t,e_s$, 
 and $e_o$. The possible dependencies shared between constituents 
 of an executing argument's "fluid state" mean that applying 
 a change onto a mutable constituent could inadvertently 
@@ -5712,7 +5712,7 @@ change the truth values, and thus the effects, or exclusively
 the effects of another constituent. These kinds of changes 
 entertained are found in complex cases of sequential bodies 
 with dependent constituents, for they require many more 
-calculations that more basic forms of change. And these 
+calculations than more basic forms of change. And these 
 additional calculations carry with them non-negligible 
 measures of uncertainty on their accuracy. In a basic form 
 of change that comes from changing a mutable constituent 
