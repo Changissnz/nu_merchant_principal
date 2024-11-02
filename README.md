@@ -5422,8 +5422,8 @@ coverage of the quality over the potential messiness in
 quantitative demonstration, boolean labels are preferred over 
 their infinitely-sized counterparts, the spectrum. A step 
 further from the labeling akin to that of the complex numerical 
-system, two more categories are used, that is the boolean 
-of the truth's effects onto the self and that from the other. 
+system, two more categories are used, the boolean of the 
+truth's effects onto the self and that from the other. 
 So there are 16 possibilities, $2^4$, for four boolean 
 categories. 
 
@@ -5567,11 +5567,21 @@ understanding of their sources from which they are generated
 from is dependent on the knowledge and understanding 
 of their counterparts. 
 
-The rest of this section focuses on the continuous argument 
-as a body of meaning that an adversarial agent, either a 
-participant not the possessor of the argument or a third-party 
-observer, acts against to effect its change in these three 
-primary routes: 
+On the category of constituent mutability by an external force, 
+$v_t^{(m)}$, in the boolean space of sixteen possibilities for 
+the four-category model,  
+
+$$apply(v_t^{(m)} \equiv true) \Longrightarrow v_t \mathrel{*}=-1 \rightarrow \\ 
+\Delta_{?}^{F_{inf}}(e_s,e_o).$$  
+
+If a constituent is mutable, an external force that applies itself 
+onto the constituent would output the opposite of the current truth 
+value $v_t$. The change of $v_t$ may result in changes onto the effects 
+of $C$, based on the influencer $F_{inf}$. The rest of this section 
+focuses on the continuous argument as a body of meaning that an 
+adversarial agent, either a participant not the possessor of the 
+argument or a third-party observer, acts against to effect its 
+change in these three primary routes: 
 - depiction of the argument to an agent that is 
   not its possessor,
 - execution of the argument in its expressing of its 
