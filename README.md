@@ -1656,7 +1656,7 @@ the Game of Reference Identification. Consider this criteria.
 | ------- | ---------- |
 | $E$ | $A_0,V^{(E)}(A_1),C^{(E)}(A_1),D^{(E)}(A_2)$ |
 | $R_0$ | $C^{(R_0)}(A_0),A_1,A_2,A_3,A_4,A_5$ |
-| $R_1$ | $C^{(1)}(A_3),A_5,A_6$ |
+| $R_1$ | $C^{(R_1)}(A_3),A_5,A_6$ |
 
 **ATTRT2:** Table of elements and their attributes, such that $E$ 
 is the source and $R_0,R_1$ are references.  
@@ -1684,12 +1684,10 @@ as such.
 | $G_{R_0,S}$ | $\emptyset$ | pass to end |
 
 **FEDGEG:** Table for edge functions, their formula and activation; (5 x 3).  
+
 The null formulae for these functions denote any information 
 transmitting along them freely transmits to the corresponding 
-endpoints of the edges. 
-
-
-For each of the node functions, 
+endpoints of the edges. For each of the node functions, 
 
 $$\begin{equation}
 F_{S}(\overrightarrow{A}) = 
@@ -5584,7 +5582,7 @@ argument or a third-party observer, acts against to effect its
 change in these three primary routes: 
 - depiction of the argument to an agent that is 
   not its possessor,
-- execution of the argument in its expressing of its 
+- execution of the argument in the expressing of its 
   sequentially-ordered constituents, 
 - argument nullification.
 
@@ -5598,7 +5596,7 @@ This particular ordering is for the possessor's desired gains
 of the effects with consideration for the gains of possibly negative 
 value distributed to the other, such that the possessor prioritizes 
 their comparative gains over the other to "win" by establishing a 
-non-zero positive gap in value between themself, based on the  
+non-zero positive gap in value between themself, based on the 
 constituent's effect on themself, and the other by the constituent's 
 effect on them. 
 
@@ -5634,7 +5632,7 @@ mutable constituents. The definition of the four-category
 constituent model does not require there to be any changes 
 of effects from the switching of a mutable constituent's 
 truth value. If there are $k$ mutable constituents, 
-$0 \leq k \leq n$, then these constituents could produce  
+$0 \leq k \leq n$, then these constituents could produce 
 $2^{2k}$ unique effects, at most. The adversarial agent 
 $P_A$ attempts to apply change onto the mutable constituents 
 of argument $B$, by some sequence of actions to produce 
@@ -5649,7 +5647,26 @@ as something other to the destination point/s.
 
 **AIPC5:** Agent $P_A$ engages in an outcome engineering 
 campaign to produce a depiction of an argument $B$, possessed 
-by $A_b$. Agent $P_A$'s intention is for the projected image, 
-as $DEPICT(B)$, to be directed to another agent, the observer $O$, 
-in order for that agent to view and comprehend $DEPICT(B)$ in the 
-place of the actual $B$.
+by $A_b$. Agent $P_A$'s intention is for the projected 
+image, as $DEPICT(B)$, to be directed to another agent, 
+the observer $O$, in order for that agent to view and 
+comprehend $DEPICT(B)$ in the place of the actual $B$. 
+
+An argument's execution requires additional attributes 
+that are not considered in the previous overview on the 
+argument's depiction. Depiction is conceptualized in this 
+section as a "solid state" image, projected by an agent 
+that uses an argument as the initial image. Execution 
+has properties that rely on temporal matters. Through 
+a temporal span, execution expresses different images 
+through this passage. In terms of an argument, these 
+different images are due to the shifting through of 
+constituents. The steps in such sequential processes 
+cannot produce an achievement of some sorts, when based 
+only in terms of their independent strengths. Each step's 
+innate effectiveness in solving for a demand and the 
+degree of its successful action in reference to its 
+potential are not the only factors. The execution's steps 
+are dependent on each other, and the outcome from the 
+execution is what is from the convergence of all of the 
+actions taken for these steps. 
