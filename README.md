@@ -5587,3 +5587,17 @@ change in these three primary routes:
 - execution of the argument in its expressing of its 
   sequentially-ordered constituents, 
 - argument nullification.
+
+The effects of the four-category boolean constituent, as 
+$(e_s,e_o)$, such that 1 denotes a positive effect and -1 
+a negative effect, are ranked as preference for the possessor 
+of the argument's constituents in this descending order:  
+$(1,-1),(1,1),(-1,-1),(-1,1).$  
+
+This particular ordering is for the possessor's desired gains 
+of the effects with consideration for the gains of possibly negative 
+value distributed to the other, such that the possessor prioritizes 
+their comparative gains over the other to "win" by establishing a 
+non-zero positive gap in value between themself, based on the  
+constituent's effect on themself, and the other by the constituent's 
+effect on them. 
