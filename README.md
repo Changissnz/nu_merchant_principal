@@ -5613,8 +5613,8 @@ mutability values are typically known through trial-and-error. $P_A$
 would first hypothesize what the influencer function $F_{inf}$ is 
 for each of argument $B$'s constituents. Using the hypothesis of 
 $F_{inf}$, $P_A$ hypothesizes what the effects of each constituent 
-are, and these effect values are what $P_A$ bases its expectations 
-on in its outcome engineering. For an argument of $n$ constituents, 
+are, and these effect values are what $P_A$ bases their expectations 
+on in their outcome engineering. For an argument of $n$ constituents, 
 there are $q \leq 2^{2n}$ possible outcomes at most. From a numerical 
 perspective, the adversary $P_A$'s objective is the greatest positive 
 gap in effect value between themself and the possessor of the 
@@ -5669,4 +5669,29 @@ degree of its successful action in reference to its
 potential are not the only factors. The execution's steps 
 are dependent on each other, and the outcome from the 
 execution is what is from the convergence of all of the 
-actions taken for these steps. 
+actions taken for these steps. By these properties of 
+an execution, an argument must be thought of as a "fluid 
+state" image. In the argument of a "fluid state", what is 
+expressed to an agent at one point in time is not explicit 
+in appearance to that same agent at another point in time, 
+but that what is previously expressed carries relevance in 
+forms that include base support,reference, and elimination 
+of unrelated implications to an expression at a later point 
+in time. 
+
+![image info](./images/aipc_tab1.PNG)
+
+**AIPCDEP:** An argument as eight constituents. At every 
+point in time, the expressed constituents are not those 
+expressed at a previous point in time. The constituents 
+at every timestamp are dependent on previously expressed 
+constituents, in order to be properly expressed. The 
+expression of the argument ends after five timestamps.
+
+Of course, depiction is depiction and execution is execution. 
+An argument is not necessarily put in the permanent role 
+of a "solid state" or a "fluid state" image. For instance, 
+an adversarial agent can depict an argument $B$ as the 
+"solid state" $B_1$ to an observer $O$. When $O$ receives 
+$B_1$, the expression of $B_1$ is executed in a manner akin 
+to "fluid state". 
