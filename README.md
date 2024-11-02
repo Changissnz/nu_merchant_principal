@@ -5601,3 +5601,29 @@ their comparative gains over the other to "win" by establishing a
 non-zero positive gap in value between themself, based on the  
 constituent's effect on themself, and the other by the constituent's 
 effect on them. 
+
+The adversarial agent $P_A$ engages in a campaign of outcome 
+engineering to influence the depiction of an adversary $B$'s 
+argument $A_b$. Recall that initially, $A_b$ is immutably expressed 
+by $B$. $B$ intends for this initial expression as the one form of 
+$A_b$ to be received by other participants and third-party observers. 
+In the outcome engineering campaign, $P_A$ focuses on the effects 
+of $A_b$'s constituents. $P_A$ does not have the natural certainty 
+of knowledge on these effects as they do with the truth values $v_t$ 
+and those values' mutabilities $v_t^{(m)}$. A note on the side, these 
+mutability values are typically known through trial-and-error. $P_A$ 
+would first hypothesize what the influencer function $F_{inf}$ is 
+for each of argument $B$'s constituents. Using the hypothesis of $F_{inf}$, 
+$P_A$ hypothesizes what the effects of each constituent are, and 
+these effect values are what $P_A$ bases its expectations on in 
+its outcome engineering. For an argument of $n$ constituents, there 
+are $2^{2n}$ possible outcomes at most. From a numerical perspective, 
+the adversary $B$'s objective is the greatest positive gap in effect 
+value between themself and the possessor of the argument. In another 
+perspective, each of the possible $2^{2n}$ possible outcomes induces 
+another effect/s, and one or some of these additional effects is what 
+the adversary $B$ intends to engineer $A_B$ towards. This second 
+perspective is used in long-running situations such that the immediate 
+gains from the effects of the argument are not the sole concern for 
+the adversary; the field of game theory has a special sub-field 
+devoted to the study of infinitely-spanning games. 
