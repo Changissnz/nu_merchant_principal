@@ -5651,5 +5651,5 @@ as something other to the destination point/s.
 campaign to produce a depiction of an argument $B$, possessed 
 by $A_b$. Agent $P_A$'s intention is for the projected image, 
 as $DEPICT(B)$, to be directed to another agent, the observer $O$, 
-in order for that agent to view and comprehend $DEPICT(B)$ as 
-what is actually $B$.
+in order for that agent to view and comprehend $DEPICT(B)$ in the 
+place of the actual $B$.
