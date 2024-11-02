@@ -5542,7 +5542,7 @@ communicative form, with one another. An exchange of one
 participant could be reactive to another one, and this same 
 exchange could also not be part of the focus for the participant's 
 crux of their argument. The discontinous argument starts off with 
-a statement, allows for ensuing exchanges of a potentially reactive 
+a statement, then allows for ensuing exchanges of a potentially reactive 
 form to the constituents of another participant's argument. The 
 starting statement and these exchanges make up the body of each 
 participant's discontinuous argument. A participant could also 
@@ -5705,25 +5705,24 @@ a depiction. A re-design of the $apply$ function, used in
 depiction, is needed to accomodate this "fluid state". 
 Recall that this $apply$ function produces outcomes of 
 change onto the constituent's own labels $v_t$,$e_s$, 
-and $e_o$. 
-
-The possible dependencies shared between constituents of an 
-executing argument's "fluid state" mean that applying a change 
-onto a mutable constituent could inadvertently change the 
-truth values, and thus the effects, or exclusively the effects 
-of another constituent. These kinds of changes entertained 
-are found in complex cases of sequential bodies with dependent 
-constituents, for they require many more calculations that 
-more basic forms of change. And these additional calculations 
-carry with them non-negligible measures of uncertainty on 
-their accuracy. In a basic form of change that comes from 
-changing a mutable constituent in a dependent relation, the 
-truth value of the dependent constituent also changes, 
-reversed in boolean settings. In another basic form, the 
-the dependent constituent is "negated", subtracted from the 
-argument's whole, by its dependency's change. Argument 
-nullification, the last of the primary routes of change, 
-could be accomplished by this negation process. 
+and $e_o$. The possible dependencies shared between constituents 
+of an executing argument's "fluid state" mean that applying 
+a change onto a mutable constituent could inadvertently 
+change the truth values, and thus the effects, or exclusively 
+the effects of another constituent. These kinds of changes 
+entertained are found in complex cases of sequential bodies 
+with dependent constituents, for they require many more 
+calculations that more basic forms of change. And these 
+additional calculations carry with them non-negligible 
+measures of uncertainty on their accuracy. In a basic form 
+of change that comes from changing a mutable constituent 
+in a dependent relation, the truth value of the dependent 
+constituent also changes, reversed in boolean settings. 
+In another basic form, the dependent constituent is "negated", 
+subtracted from the argument's whole, by its dependency's 
+change. Argument nullification, the last of the primary 
+routes of change, could be accomplished by this negation 
+process. 
 
 To summarize on the practices of an adversarial agent against 
 an argument, this being the forward force as mentioned in 
@@ -5736,7 +5735,6 @@ of reason or value for continuing its existence. For effecting
 change onto an executable argument, the constituents of the 
 argument that serve as the greatest source of dependency for 
 other constituents' dependencies are the ones with the greatest 
-attraction for an adversarial agent's attempts to modify it 
-by outcome engineering, especially if those constituents are 
-mutable. 
+attraction for an adversarial agent's attempts to modify by outcome 
+engineering, especially if those constituents are mutable. 
 
