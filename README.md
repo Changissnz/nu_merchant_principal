@@ -5744,7 +5744,14 @@ engineering, especially if those constituents are mutable.
 
 The title is from and for treachery, at least in part, is  it 
 not? Cold, schematic, manipulative due to the knowledge of 
-calculating and the choice-ability of calculation. A dark personality 
-trait, some of them say, out of their self-professed desires to 
-"spread the truth", to "bring order and equity" into the mix that 
-is at risk of becoming spoiled. 
+calculating and the choice-ability of calculation. A dark
+personality trait, some of them say, out of their self-professed 
+desires to "spread the truth", to "bring order and equity" into 
+the mix that is at risk of becoming spoiled. Privatized, 
+cryptographic, gravitating inwards towards the center to be 
+kept dark. These attributes do not appear conducive towards 
+an open-armed embrace devoid of naivety. The expressive and 
+outspoken decide it is their turn to chime in: "there must be a 
+better way; there has to be a more effective way to involve 
+more external sources of input, for a better world, one step, 
+one day, one improvement at a time." 
