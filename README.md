@@ -5742,4 +5742,9 @@ engineering, especially if those constituents are mutable.
 
 ## Proprietary Calculations <a name="p19"></a>
 
-
+The title is from and for treachery, at least in part, is  it 
+not? Cold, schematic, manipulative due to the knowledge of 
+calculating and the choice-ability of calculation. A dark personality 
+trait, some of them say, out of their self-professed desires to 
+"spread the truth", to "bring order and equity" into the mix that 
+is at risk of becoming spoiled. 
