@@ -5785,4 +5785,6 @@ condition that all there is to a chain-of-command and other
 structures that are less hierarchical, more uniform in 
 distribution of resources and capabilities with few outliers 
 in the properties of effectual actions, are the functions 
-and the calculations, one and the same.
+and the calculations, one and the same, without anything 
+else outside of the effectual confines of the calculation 
+infrastructure.
