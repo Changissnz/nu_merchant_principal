@@ -5757,15 +5757,32 @@ more external sources of input, for a better world, one step,
 one day, one improvement at a time." 
 
 Open frameworks. Open-source frameworks. That has been a 
-prevailing solution to maintain a transparency over matters 
-of pertinence. Open frameworks allow for every participant 
-to learn and understand the rules, the procedures, and all 
-the mechanisms used to produce auxiliary tools for use in 
-these frameworks. Manuals are provided for these frameworks. 
-Users of the frameworks study these manuals to understand 
-the intricacies of the frameworks. Before a user enters 
-into the realm of using the framework, they are expected to 
-have perfect information on the details of the framework. 
-There is an openness in these frameworks. By choosing to 
-be a member of the framework, users can expect to be more 
-aware of their co-user's utilities in calculations. 
+prevailing solution proposed to maintain a transparency over 
+matters of pertinence. Open frameworks allow for every 
+participant to learn and understand the rules, the procedures, 
+and all the mechanisms used to produce auxiliary tools for 
+use in these frameworks. Manuals are provided for these 
+frameworks. Users of the frameworks study these manuals 
+to understand the intricacies of the frameworks. Before a 
+user enters into the realm of using the framework, they are 
+expected to have perfect information on the details of the 
+framework. There is an openness in these frameworks. By 
+choosing to be a member of the framework, users can expect 
+to be more aware of their co-user's utilities in calculations. 
+
+If this much can be stated on open frameworks, what 
+guarantees would open frameworks bring to prospective 
+users? A few vantage points are to be looked at to for bases to  
+be formulated on what protections and opportunities open 
+frameworks offer if adopted, especially if these frameworks 
+enable proprietary calculations. This class of calculations 
+are given this name due to attributes on their procedural 
+generators and their outputs that are reserved for an 
+exclusive group of entities. Whatever values of worth and 
+ramifications from these calculations can only be assumed 
+to place a reserved class of entities over others, on the 
+condition that all there is to a chain-of-command and other 
+structures that are less hierarchical, more uniform in 
+distribution of resources and capabilities with few outliers 
+in the properties of effectual actions, are the functions 
+and the calculations, one and the same.
