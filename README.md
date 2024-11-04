@@ -25,6 +25,8 @@
 16. [The Idiom and the Idiot](#p16)
 17. [Half-Efforts, Full Takes](#p17)
 18. [Arguments in Image-Projectable Contexts](#p18)
+19. [Proprietary Calculations](#p19)
+
 
 Business comes and goes, much more frequently than governments. 
 So how can commerce thrive without the dread of disillusionment
@@ -5737,4 +5739,7 @@ argument that serve as the greatest source of dependency for
 other constituents' dependencies are the ones with the greatest 
 attraction for an adversarial agent's attempts to modify by outcome 
 engineering, especially if those constituents are mutable. 
+
+## Proprietary Calculations <a name="p19"></a>
+
 
