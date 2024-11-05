@@ -5776,8 +5776,8 @@ users? A few vantage points are to be looked at for bases
 to be formulated on what protections and opportunities open 
 frameworks offer if adopted, especially if these frameworks 
 enable proprietary calculations. This class of calculations 
-are given this name due to attributes on their procedural 
-generators and their outputs that are reserved for an 
+is given this name due to attributes on its procedural 
+generators and its outputs that are reserved for an 
 exclusive group of entities. Whatever values of worth and 
 ramifications from these calculations can only be assumed 
 to place a reserved class of entities over others, on the 
@@ -5789,3 +5789,6 @@ and the calculations, one and the same, without anything
 else outside of the effectual confines of the calculation 
 infrastructure. 
 
+
+
+Transferal of vulnerabilities: zero-sum effects 
