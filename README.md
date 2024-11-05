@@ -5817,6 +5817,6 @@ The open framework of arithmetic, with numbers of properties
 each suited to the demands of differing contexts, in an 
 environment that is resource-dependent, through inputs and 
 outputs producing effects outside of the use of the number, 
-does not suffice for a participant intent on spending for 
-their wanted numbers of input for outputs with effects that 
-they intend to "benefit" from.
+does not suffice in guarantees for a participant intent on 
+spending for their wanted numbers of input for outputs with 
+effects that they intend to "benefit" from.
