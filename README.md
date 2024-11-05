@@ -5772,8 +5772,8 @@ to be more aware of their co-user's utilities in calculations.
 
 If this much can be stated on open frameworks, what 
 guarantees would open frameworks bring to prospective 
-users? A few vantage points are to be looked at to for bases to  
-be formulated on what protections and opportunities open 
+users? A few vantage points are to be looked at for bases 
+to be formulated on what protections and opportunities open 
 frameworks offer if adopted, especially if these frameworks 
 enable proprietary calculations. This class of calculations 
 are given this name due to attributes on their procedural 
@@ -5787,4 +5787,5 @@ distribution of resources and capabilities with few outliers
 in the properties of effectual actions, are the functions 
 and the calculations, one and the same, without anything 
 else outside of the effectual confines of the calculation 
-infrastructure.
+infrastructure. 
+
