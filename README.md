@@ -5828,9 +5828,9 @@ checkpoints of start and finished. To define the use of the
 open framework as free when all participants are subject 
 to the same rules and each participant has equal access 
 to the input controllers does produce a misconception that 
-could only be unlearned through the errors of the trial. 
+can only be unlearned through the errors of the trial. 
 To add more technicality to the mix, if each participant 
-is subject to the same rules of the open framework but 
+is subject to the same rules of the open framework, but 
 some of them are additionally subject to differing mechanisms
 of capacities and qualities, then there is already the 
 question of how far free use really goes. So free use may 
@@ -5840,5 +5840,6 @@ of "free use" does not shed light on the guarantees. Perhaps
 that is the point of an "open framework" for "open-ended 
 effects". At least every participant would be able to 
 understand the rules right down to the specificities for 
-the system that is open and deserved to them. However else 
-can paradise be reached? 
+the system that is open and deserved to them. Every entity 
+could voluntarily participate in these open frameworks. 
+However else can paradise be reached? 
