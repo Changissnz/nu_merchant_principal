@@ -5820,4 +5820,12 @@ environment that is resource-dependent, through inputs and
 outputs producing effects outside of the use of the number, 
 does not suffice in guarantees for a participant intent on 
 spending for their wanted numbers of input for outputs with 
-effects that they intend to "benefit" from.
+effects that they intend to "benefit" from. The free use of 
+the open framework is not such from the start, the use of 
+the framework, to the finish, the effects that are desired. 
+This perspective does define "free use" to be from these 
+checkpoints of start and finished. To define the use of the 
+open framework as free when all participants are subject 
+to the same rules and each participant has equal access 
+to the input controllers does produce a misconception that 
+could only be unlearned through the errors of the trial. 
