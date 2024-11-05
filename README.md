@@ -5831,9 +5831,11 @@ to the input controllers does produce a misconception that
 can only be unlearned through the errors of the trial. 
 To add more technicality to the mix, if each participant 
 is subject to the same rules of the open framework, but 
-some of them are additionally subject to differing mechanisms
+some of them are additionally subject to differing mechanisms 
 of capacities and qualities, then there is already the 
-question of how far free use really goes. So free use may 
+question of how far free use really goes. Maybe it is not 
+the breadth and depths of the effects from free use that 
+needs to be kept at an equal level. So free use may 
 be defined as the arbitrary use of an open framework with 
 rules equally placed on its participants. But that phrase 
 of "free use" does not shed light on the guarantees. Perhaps 
