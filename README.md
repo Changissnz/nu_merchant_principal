@@ -5788,7 +5788,3 @@ in the properties of effectual actions, are the functions
 and the calculations, one and the same, without anything 
 else outside of the effectual confines of the calculation 
 infrastructure. 
-
-
-
-Transferal of vulnerabilities: zero-sum effects 
