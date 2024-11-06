@@ -5875,3 +5875,10 @@ therefore pose other rules and procedures as operation that
 form a new kind of private framework that relies on the 
 previous framework, now open, to be directed in use for 
 it. 
+
+The mentioned generalization of the open framework 
+transitioned from a closed one, as a decision from 
+collective interests of an evolutionary system, still 
+does not tell many details on the categories of 
+calculations that play important parts in calculating 
+systems. 
