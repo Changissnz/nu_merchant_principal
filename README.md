@@ -5855,8 +5855,23 @@ posed by temporal progression, private frameworks become more
 known by those outside of the origin. The rules and procedures 
 of the private framework are valued in some way by them, and 
 then there are calls of an exponential growth for these kinds 
-of frameworks to become more accessible. There are factors 
-behind these calls, such as over-competition, that is, 
-leveraging of power and advantage concentrated into efforts 
-for the objective of victory, with these victories entailing 
+of frameworks to become more accessible. Factors behind 
+these calls, such as over-competition, that is, leveraging 
+of power and advantage concentrated into efforts for the 
+objective of victory, with these victories entailing 
 severely lopsided gains and losses in zero-sum contexts. 
+Open frameworks are a result of progressively greater 
+demands. What was once a framework of rules and 
+procedures reserved for a few has yielded enough long-lasting 
+value for the framework to become an open instead of a 
+closed one. If the value from these private frameworks has 
+rised to above a point such that keeping the frameworks to 
+be closed is a task to preserve an obsolete way of operation, 
+then there is that as a reason for the framework to become 
+an open one. So open frameworks are a progressive 
+improvement indicative of demands different from that at 
+the origin of the frameworks. These different demands 
+therefore pose other rules and procedures as operation that 
+form a new kind of private framework that relies on the 
+previous framework, now open, to be directed in use for 
+it. 
