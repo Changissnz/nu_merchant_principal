@@ -5901,3 +5901,12 @@ counter-arguments to the open framework as an automatic
 and enabling conduit for fairness and equity. Determinism 
 is contentious, then, for the believers and non-believers. 
 
+Of foremost pertinence in open frameworks is their usage. 
+Suppose that initially, things really are fair and 
+accessible. Every participant that joins in the utilities 
+of the open framework are given evenly-distributed knowledge 
+on how the framework works. These participants are also 
+each granted the same external resources, in breadth and 
+depth, as one another. Then, the styles of possibly 
+differing appearance that produce possibly differing 
+outcomes is put under the inspection. 
