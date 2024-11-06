@@ -5881,4 +5881,23 @@ transitioned from a closed one, as a decision from
 collective interests of an evolutionary system, still 
 does not tell many details on the categories of 
 calculations that play important parts in calculating 
-systems. 
+systems. Is the open framework anything more than a 
+"staging grounds" for what is designated proprietary 
+in a self-improving process that reveals every last 
+stage it experienced as open frameworks and conceals 
+its current stage? The answer of a solid YES or NO 
+still does not fulfill the adequacy for a "fair 
+system", defined as inputs and outputs of qualities 
+agreed upon by all, not merely the voluntary participants.
+Open frameworks cannot be expected to produce universally 
+agreed-upon predeterministic courses of action. For this 
+posit, explanations in this section may be scant, but 
+the autonomous nature of sentience does not really 
+require any noteworthy explanation, always falling short 
+due to incompleteness, when exemplifications from the 
+image and the real course (of decisions taken or not, 
+depictions concocted to be believed or not) serve as 
+counter-arguments to the open framework as an automatic 
+and enabling conduit for fairness and equity. Determinism 
+is contentious, then, for the believers and non-believers. 
+
