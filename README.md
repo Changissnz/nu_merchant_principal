@@ -5975,5 +5975,10 @@ that may be outside the completely controlling grasp of
 the open framework or preferential usage of the open framework. 
 The open framework, as a layered computational model, must 
 be one with roles and procedures specially prescribed, 
-possibly modified throughout their course of use, with 
-certain levels of uniqueness to each layer. 
+possibly modified throughout the course of use, with 
+certain levels of uniqueness to each layer. It is 
+asymmetrical labor, in the form of hierarchies and 
+stratifications, that adopt the open framework for use. 
+The low-levels and high-levels of an open framework in 
+the form of a layered computational model are conflated 
+with this mentioned asymmetrical labor. 
