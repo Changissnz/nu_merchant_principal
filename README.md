@@ -5990,6 +5990,9 @@ in the failures of applied mathematics, although the failures
 do serve as a fuel for greater scientific rigor, and in 
 social arrangements with declared ideals unable to be attained. 
 These social arrangements, if have acquired enough prestige of 
-proliferation in retelling,do result in literary works 
-prominent in the categories of tragedy, superstition&lore, 
-as well as political intrigue.
+proliferation in retelling, do result in literary works 
+prominent in the categories of tragedy, superstition & lore, 
+as well as political intrigue. The precision curse is found 
+in two main areas, overlapping in some ways, of open 
+frameworks: the layered computational model and information 
+acquisition & utility. 
