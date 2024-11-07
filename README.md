@@ -6008,4 +6008,8 @@ of improvement, the user decides to accept the shortcomings
 as a permanence. After the user secures the lower levels 
 into an effect-conserving state, they then only need to focus 
 on operating the open framework at the highest high-level 
-that they can be positioned at. 
+that they can be positioned at. At this point in the user's 
+role with regards to the open framework, the user is expected 
+to produce amounts of error quite measurable to other participants 
+and the possible recipients. There are no ways around these 
+errors in accordance with the user's style. 
