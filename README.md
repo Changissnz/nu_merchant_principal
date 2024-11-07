@@ -5953,7 +5953,7 @@ also tends to be one of high plasticity, so that demands
 of morphological characteristic can be fulfilled. In a 
 unidirectional flow from the lowest level to the highest 
 level, the influence of effects from the model would be 
-from the lowest level. Despite the level of non-deterministic 
+from the lowest level. Despite whatever level of non-deterministic 
 output from the model that is an open framework, there would 
 be no output without the lowest level. This statement does 
 assume that there are necessitated co-dependencies shared 
@@ -5961,16 +5961,19 @@ between all layers of the model, in order for the model to
 output. In certain subtypes of models, the lowest levels 
 do not have the autonomy to be modified, by themselves or 
 through sources other than a few select prescribers (i.e. 
-the higher levels). For these cases, the magnitude of 
-influence higher levels carry over lower levels is multiple 
-times greater than one. The term "responsibility" is now 
-taken to mean the bearers of effects. The open framework 
-and the administration of effects related to it are not 
-rigid without the involvement of autonomous agents with 
-their own way of handling matters that may be outside the 
-completely controlling grasp of the open framework or 
-preferential usage of the open framework. The open framework, 
-as a layered computational model, must be one with roles 
-and procedures specially prescribed, possibly modified 
-throughout their course of use, with certain levels of 
-uniqueness to each layer. 
+the higher levels). The higher levels could additionally 
+attempt to make these lower levels fixed in their qualities, 
+or to plan for rapid replacement of lower levels at risk 
+of severence from the layered computational model. For 
+these cases, the magnitude of influence higher levels carry 
+over lower levels is multiple times greater than one. The 
+term "responsibility" is now taken to mean the bearers of 
+effects. The open framework and the administration of effects 
+related to it are not rigidly connected without the involvement 
+of autonomous agents, with their own way of handling matters 
+that may be outside the completely controlling grasp of 
+the open framework or preferential usage of the open framework. 
+The open framework, as a layered computational model, must 
+be one with roles and procedures specially prescribed, 
+possibly modified throughout their course of use, with 
+certain levels of uniqueness to each layer. 
