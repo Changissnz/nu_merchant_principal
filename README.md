@@ -6023,7 +6023,9 @@ But the user will discover that this requires an extremely
 expensive magnitude of introspection into the device that they 
 use, the device that is supposed to serve their aims, not their 
 lofty estimations that remain correct only in the realm of 
-imagination. In this example of a contraption for erroneous 
+imagination. And introspections of this nature need to be done 
+frequently for problems that improve against the successes of 
+the user. In this example of a contraption for erroneous 
 offspring, metaphorically speaking, there is also the related 
 concept of the <ins>pragmatism trap</ins> (section The 
 Sophisticated as Behavior After Appearance). 
