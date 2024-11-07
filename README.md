@@ -5872,7 +5872,7 @@ an open one. So open frameworks are a progressive
 improvement indicative of demands different from that at 
 the origin of the frameworks. These different demands 
 therefore pose other rules and procedures as operation that 
-form a new kind of private framework that relies on the 
+form a new kind of private framework reliant on the 
 previous framework, now open, to be directed in use for 
 it. 
 
