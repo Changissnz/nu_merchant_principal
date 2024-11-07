@@ -5979,6 +5979,6 @@ possibly modified throughout the course of use, with
 certain levels of uniqueness to each layer. It is 
 asymmetrical labor, in the form of hierarchies and 
 stratifications, that adopt the open framework for use. 
-The low-levels and high-levels of an open framework in 
-the form of a layered computational model are conflated 
+The low-levels and high-levels of an open framework, in 
+the form of a layered computational model, are conflated 
 with this mentioned asymmetrical labor. 
