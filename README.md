@@ -6015,7 +6015,15 @@ and the possible recipients. There are no ways around these
 errors in accordance with the user's style. The user is set 
 on this way of using the open framework. Without regulatory 
 overhead that is prohibitionist to the user, the user cannot 
-be expected to cease except out of their own will. In this 
-example of a contraption for erroneous offspring, metaphorically 
-speaking, there is also the related concept of the <ins>pragmatism 
-trap</ins> (section The Sophisticated as Behavior After Appearance).
+be expected to cease except out of their own will. Under the 
+prevailing chokehold of the precision curse, a user of a 
+layered computational model may attempt to change the underlying 
+mechanisms, found at the lower levels, for improved output. 
+But the user will discover that this requires an extremely 
+expensive magnitude of introspection into the device that they 
+use, the device that is supposed to serve their aims, not their 
+lofty estimations that remain correct only in the realm of 
+imagination. In this example of a contraption for erroneous 
+offspring, metaphorically speaking, there is also the related 
+concept of the <ins>pragmatism trap</ins> (section The 
+Sophisticated as Behavior After Appearance). 
