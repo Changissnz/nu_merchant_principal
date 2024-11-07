@@ -5963,5 +5963,14 @@ do not have the autonomy to be modified, by themselves or
 through sources other than a few select prescribers (i.e. 
 the higher levels). For these cases, the magnitude of 
 influence higher levels carry over lower levels is multiple 
-times greater than one. 
-
+times greater than one. The term "responsibility" is now 
+taken to mean the bearers of effects. The open framework 
+and the administration of effects related to it are not 
+rigid without the involvement of autonomous agents with 
+their own way of handling matters that may be outside the 
+completely controlling grasp of the open framework or 
+preferential usage of the open framework. The open framework, 
+as a layered computational model, must be one with roles 
+and procedures specially prescribed, possibly modified 
+throughout their course of use, with certain levels of 
+uniqueness to each layer. 
