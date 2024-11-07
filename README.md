@@ -5972,7 +5972,7 @@ effects. The open framework and the administration of effects
 related to it are not rigidly connected without the involvement 
 of autonomous agents, with their own way of handling matters 
 that may be outside the completely controlling grasp of 
-the open framework or preferential usage of the open framework. 
+the open framework or the open framework's preferential usage.
 The open framework, as a layered computational model, must 
 be one with roles and procedures specially prescribed, 
 possibly modified throughout the course of use, with 
@@ -5982,3 +5982,4 @@ stratifications, that adopt the open framework for use.
 The low-levels and high-levels of an open framework, in 
 the form of a layered computational model, are conflated 
 with this mentioned asymmetrical labor. 
+
