@@ -6029,3 +6029,15 @@ the user. In this example of a contraption for erroneous
 offspring, metaphorically speaking, there is also the related 
 concept of the <ins>pragmatism trap</ins> (section The 
 Sophisticated as Behavior After Appearance). 
+
+The economy of knowledge has its values and priorities. With 
+open frameworks alongside select use and distribution of 
+knowledge, a lack of expectations is the default 
+anticipatory state for those avoidant of speculation. 
+Unrestrained speculation for things not of a certainty 
+is not of the diligent's decorum. Even for a thoroughly 
+enjoyable future planned with no room for error, these 
+futures typically constrained to a small and controlled 
+environment, the meek dare not express their giddiness 
+for fear that such giddiness can be spun around to ruin 
+the dear event. 
