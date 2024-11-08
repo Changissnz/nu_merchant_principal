@@ -6040,14 +6040,12 @@ enjoyable future planned with no room for error, these
 futures typically constrained to a small and controlled 
 environment, the meek dare not express their giddiness 
 for fear that such giddiness can be spun around to ruin 
-the dear event. 
-
-A topic as grand in exemplified monetary value and as 
-deep, insightful, and thoughtful as the economy of knowledge 
-requires so many words, of textbooks and beyond, to be 
-given due justice in the representation of the power in 
-its gravity. As one of the more obvious routes to discuss 
-the economy of knowledge, the factor of pre-emptive knowledge,
+the dear event. A topic as grand in exemplified monetary 
+value and as deep, insightful, and thoughtful as the economy 
+of knowledge requires so many words, of textbooks and beyond, 
+to be given due justice in the representation of the power in 
+its gravity. In one of the more obvious routes to discuss 
+the economy of knowledge, the factor of pre-emptive knowledge, 
 possessed by one or more about others, is at the cornerstone 
 of <ins>feedforward systems</ins>. Feedforward, the idea that 
 one can use knowledge, supposedly accurate to the future, 
@@ -6057,3 +6055,10 @@ entirely reserved in the connected wills of all autonomous agents,
 then strategies of feedforwarding constitute one of the greatest 
 essences in the outcomes of determinism, by pre-deterministically 
 playing things at least one step ahead. 
+
+The dynamism of information valuable to arbitrary contexts is 
+broad enough for feedforwarding to also be of a similar magnitude 
+in broadness of exemplification. Proceeding illustrations of 
+feedforwarding are a part of the precision curse's information 
+acquisition & utility. One important sub-class of feedforwarding 
+is external multi-agent activity. 
