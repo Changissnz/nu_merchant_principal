@@ -6062,3 +6062,20 @@ in broadness of exemplification. Proceeding illustrations of
 feedforwarding are a part of the precision curse's information 
 acquisition & utility. One important sub-class of feedforwarding 
 is external multi-agent activity. 
+
+![image info](./images/pc_one.PNG)
+
+**PC1:** Agent $X_1$, as the blue node connected to their 
+background information represented as the black box, takes 
+the course of action that is the red nodes. This course of 
+action was constructed by an external agent $Y_1$. The 
+external agent first accesses the background information. 
+Then $Y_1$ uses the environmental output-function $Y_2$ to 
+produce the next step, as $X_2$, that $X_1$ takes. The 
+information on the activity of $X_1$ in $X_2$ is given as 
+feedback to agent $Y_1$. The external agent uses it, along 
+with the background information, to generate the next 
+environmental output-function $Y_3$. $Y_3$ then outputs 
+the next step, $X_3$, for $X_1$. The process continues 
+in this manner so as to produce a control mechanism of 
+environment for wanted activity belonging to agent $X_1$.
