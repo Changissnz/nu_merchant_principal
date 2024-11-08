@@ -6051,9 +6051,9 @@ the economy of knowledge, the factor of pre-emptive knowledge,
 possessed by one or more about others, is at the cornerstone 
 of <ins>feedforward systems</ins>. Feedforward, the idea that 
 one can use knowledge, supposedly accurate to the future, 
-by appropriately planning for the outcomes, of expected 
-and desired. If determinism is something entirely reserved 
-in the connected wills of all autonomous agents, then 
-strategies of feedforwarding constitute one of the greatest 
+by appropriately planning for the outcomes of expected 
+and desired, does become a concern. If determinism is something 
+entirely reserved in the connected wills of all autonomous agents, 
+then strategies of feedforwarding constitute one of the greatest 
 essences in the outcomes of determinism, by pre-deterministically 
 playing things at least one step ahead. 
