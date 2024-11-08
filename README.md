@@ -6085,6 +6085,6 @@ Diagram PC1 shows <ins>external feedforwarding environmental
 construction</ins>. Without discussing the two extreme 
 possibilities in the aims of the external agent to the 
 subject of such construction, there is this obvious fact 
-worthy of mention: the external agent is able to have a 
+worthy of mention: the external agent is able to exert a 
 noticeable form of "control" over the recipient of their 
 feedforwarding strategy. 
