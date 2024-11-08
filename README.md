@@ -6080,3 +6080,11 @@ generate the next environmental output-function $Y_3$. $Y_3$
 then outputs the next step, $X_3$, for $X_1$. The process 
 continues in this manner so as to produce a control mechanism 
 of environment for wanted activity belonging to agent $X_1$.
+
+Diagram PC1 shows <ins>external feedforwarding environmental 
+construction</ins>. Without discussing the two extreme 
+possibilities in the aims of the external agent to the 
+subject of such construction, there is this obvious fact 
+worthy of mention: the external agent is able to have a 
+noticeable form of "control" over the recipient of their 
+feedforwarding strategy. 
