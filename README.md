@@ -6041,3 +6041,9 @@ futures typically constrained to a small and controlled
 environment, the meek dare not express their giddiness 
 for fear that such giddiness can be spun around to ruin 
 the dear event. 
+
+A topic as grand in exemplified monetary value and as 
+deep, insightful, and thoughtful as the economy of knowledge 
+requires so many words, of textbooks and beyond, to be 
+given due justice in the representation of the power in 
+its gravity. 
