@@ -6139,12 +6139,10 @@ lines of distinction in activity and possibly status between
 them and their competitors, the non-possessors. The possessors 
 could also bypass the non-possessor's control of input and 
 cooperation that they would have had to be bound by if not 
-for their proprietary framework/s. 
-
-One area that open frameworks operate in, as a critical 
-effector variable, is <ins>confidence building</ins>. A 
-valuable proprietary framework somehow became valuable 
-enough for there to be a belief that its exclusive 
+for their proprietary framework/s. One area that open frameworks 
+operate in, as a critical effector variable, is <ins>confidence 
+building</ins>. A valuable proprietary framework somehow became 
+valuable enough for there to be a belief that its exclusive 
 possession is a vulnerability. The possessors have to 
 fortify defensive mechanisms to guard their "secret", 
 and the non-possessors feel as though they are put on 
@@ -6153,4 +6151,12 @@ for their failures costless to adversaries. When the
 proprietary framework is relinquished to the level of 
 an open one, the vulnerability in unfair mechanisms 
 through usage may still remain at some point in the 
-chain of activity related to the framework. 
+chain of activity related to the framework. The framework 
+is now less exclusive, and the question of its possession 
+is no longer entirely under the umbrella of vulnerabilities. 
+A typical goal of the framework becoming open is to 
+enable confidence between users to foster, for those outside 
+of the conventional realms of usage to become familiarized 
+with it as well as verification. The open framework becomes 
+subject to the ever-vigilant scrutiny of judges, specialized 
+or not, in their inspection of its correctness and consistency. 
