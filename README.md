@@ -6142,4 +6142,11 @@ cooperation that they would have had to be bound by if not
 for their proprietary framework/s. 
 
 One area that open frameworks operate in, as a critical 
-effector variable, is <ins>confidence building</ins>.  
+effector variable, is <ins>confidence building</ins>. A 
+valuable proprietary framework somehow becomes valuable 
+enough for there to be a belief that its exclusive 
+possession is a vulnerability. The possessors have to 
+fortify defensive mechanisms to guard their "secret", 
+and the non-possessors feel as though they are put on 
+an unfair playing field, the set-up intended not by them 
+for their failures costless to adversaries. 
