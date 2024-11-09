@@ -6101,15 +6101,15 @@ by the blue nodes. At $X_1$, influencer agent $Y_0$ calls
 for influencer function $I_0$ to influence $X_0$'s course 
 through a function $J_{noise}$ (stands for <ins>jitter-noise</ins>). 
 At every diverted location $X_0$ is on, $X_0$ attempts to 
-correct themself, by its decision $W_{?}$, to $X_{?}$ for 
+correct themself, by their wanted decision $W_{?}$ to $X_{?}$ for 
 their intended route. Note the $J_{noise}$ functions connected 
 to influencer $Y_0$. Each connection is bi-directional, allowing 
 for the influencer to know when $X_0$ has traveled to the 
 connection's corresponding node, and also where $X_0$ intends 
 to go. 
 
-Diagram PC2 is a practice that is an <ins>externally-sourced 
-feedforwarding influence</ins>. By the strategy of granting 
+Diagram PC2 is the strategy of <ins>externally-sourced 
+feedforwarding influence</ins>. This is exemplar of granting 
 the recipient an <ins>illusion of choice</ins>, the external 
 agent $Y_0$ does not have to expend for the objective of 
 constructing the environment for the recipient of their 
