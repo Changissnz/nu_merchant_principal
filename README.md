@@ -6160,3 +6160,17 @@ of the conventional realms of usage to become familiarized
 with it as well as verification. The open framework becomes 
 subject to the ever-vigilant scrutiny of judges, specialized 
 or not, in their inspection of its correctness and consistency. 
+With passing marks on verification tests, confidence flourishes 
+for the framework's validity, now open. 
+
+In zero-sum contexts, the vulnerability is transferred 
+over to the open framework's usage. Some elaboration on 
+how this transferal plays out has already been made in this 
+section. In perpetuating proprietary measures, these ones 
+stacked on top of the open framework, adopters exclusively 
+select their peers to build confidence through the sharing 
+of risks taken. These risks involve building the proprietary 
+measures on top of the open framework, all the while avoiding 
+or suppressing opposition to hamper this building, to achieve 
+the promised value of obtaining a surefire advantage amongst 
+the framework's mass use.
