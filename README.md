@@ -26,7 +26,7 @@
 17. [Half-Efforts, Full Takes](#p17)
 18. [Arguments in Image-Projectable Contexts](#p18)
 19. [Proprietary Calculations](#p19)
-
+20. [The Audience Is the Vulture](#p20)
 
 Business comes and goes, much more frequently than governments. 
 So how can commerce thrive without the dread of disillusionment
@@ -6186,3 +6186,5 @@ systems. Entities' proprietary calculations are a fixture
 due to their engineering of odds, once unfavorable or questionable, 
 towards objectives of a more absolutist mark in effects. And 
 obviously, absolutism is zero-sum. 
+
+## The Audience Is the Vulture <a name="p20"></a> 
