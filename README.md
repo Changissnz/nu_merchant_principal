@@ -6160,8 +6160,9 @@ of the conventional realms of usage to become familiarized
 with it as well as verification. The open framework becomes 
 subject to the ever-vigilant scrutiny of judges, specialized 
 or not, in their inspection of its correctness and consistency. 
-With passing marks on verification tests, confidence flourishes 
-for the framework's validity, now open. 
+With passing marks on verification tests, more transparent than 
+proprietary's self-verifying skew in nature, confidence 
+flourishes for the framework's validity, now open. 
 
 In zero-sum contexts, the bulk of vulnerabilities is transferred 
 over to the open framework's usage. Some elaboration on 
@@ -6175,4 +6176,4 @@ while avoiding or suppressing opposition to hamper this building,
 to achieve the promised value of obtaining a surefire advantage 
 amongst the framework's mass use. This situation is another pillar 
 in supporting the argument that open frameworks do serve as "staging 
-grounds" for designs of styles and use not for the open. 
+grounds" for designs of styles and use not for the open.
