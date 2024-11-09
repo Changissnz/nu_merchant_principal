@@ -6140,3 +6140,6 @@ them and their competitors, the non-possessors. The possessors
 could also bypass the non-possessor's control of input and 
 cooperation that they would have had to be bound by if not 
 for their proprietary framework/s. 
+
+One area that open frameworks operate in, as a critical 
+effector variable, is <ins>confidence building</ins>.  
