@@ -6110,7 +6110,7 @@ to go.
 
 Diagram PC2 is the strategy of <ins>externally-sourced 
 feedforwarding influence</ins>. This is exemplar of granting 
-the recipient an <ins>illusion of choice</ins>, the external 
+the recipient an <ins>illusion of choice</ins>; the external 
 agent $Y_0$ does not have to expend for the objective of 
 constructing the environment for the recipient of their 
 feedforwarding strategy. Influence, in the more covert approaches, 
