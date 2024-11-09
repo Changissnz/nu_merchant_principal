@@ -6088,3 +6088,25 @@ to the subject of such construction, there is this obvious
 fact worthy of mention: the external agent is able to exert 
 a noticeable form of "control" over the recipient of their 
 feedforwarding strategy. 
+
+Another feedforwarding strategy is not as direct in 
+assertion as that found in diagram PC1. But it is still 
+prominent enough by its effects to have an example concocted 
+for it. 
+
+![image info](./images/pc_two.PNG)
+
+**PC2:** Agent $X_0$ wants to take the path, represented 
+by the blue nodes. At $X_1$, influencer agent $Y_0$ calls 
+for influencer function $I_0$ to influence $X_0$'s course 
+through a function $J_{noise}$ (stands for <ins>jitter-noise</ins>). 
+At every diverted location $X_0$ is on, $X_0$ attempts to 
+correct itself, by its decision $W_{?}$, to $X_{?}$ for 
+its intended route. Note the $J_{noise}$ functions connected 
+to influencer $Y_0$. Each connection is bi-directional, allowing 
+for the influencer to know when $X_0$ has traveled to the 
+connection's corresponding node, and also where $X_0$ intends 
+to go. 
+
+Diagram PC2 is a practice that is an <ins>externally-sourced 
+feedforwarding influence</ins>. 
