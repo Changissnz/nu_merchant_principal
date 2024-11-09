@@ -6130,4 +6130,13 @@ typically entail <ins>vulnerability transfers</ins> in
 zero-sum agenda. The agenda does not have to be zero-sum, 
 sure, but that is a design best left to the finiteness 
 of resources, the owners of those resources, and those 
-desired to own those resources. 
+desired to own those resources. In proprietary frameworks 
+with possessors that reap benefit from them, the possessors 
+do so at marked cost to non-possessors. The possessors could 
+go on ahead to deploying these kinds of frameworks directly 
+against non-possessors in competitive match-ups, with strong 
+lines of distinction in activity and possibly status between 
+them and their competitors, the non-possessors. The possessors 
+could also bypass the non-possessor's control of input and 
+cooperation that they would have had to be bound by if not 
+for their proprietary framework/s. 
