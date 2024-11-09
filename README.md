@@ -6180,7 +6180,7 @@ in supporting the argument that open frameworks do serve as "staging
 grounds" for designs of styles and use not for the open. 
 
 All autonomous entities engage in calculations that cannot be 
-entirely left open in such a way as to be vulnerable. This is 
+entirely left open in such a way as to be vulnerable outlets. This is 
 a statement based on the derivatives borne from biological immune 
 systems. Entities' proprietary calculations are a fixture 
 due to their engineering of odds, once unfavorable or questionable, 
