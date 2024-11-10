@@ -6200,6 +6200,7 @@ Vultures are not inherently bad creatures, and what notoriety they
 garner is not because they are terrific predators. Quite opposite. 
 The anatomy of the vulture makes them ill-suited to acting as 
 predators in the ways of their more prestigious avian cousins. 
+
 There are cognitive limits placed on the sentient life besides 
 from human beings. This is not a flattering remark on humanity. It 
 has been stated many times, and this time is simply a retelling: 
