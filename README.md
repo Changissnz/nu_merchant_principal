@@ -6264,6 +6264,16 @@ relation is opposite to that of the other reference $R_1$. This
 computational reference network raises the question of what 
 real immediate and long-term benefits these relations between 
 the references and the source amount to. It is an open question. 
+Entity $S$, of the title "source", is actually not by the 
+section's definition of a computational reference network's 
+source. $S$ would have to provide strictly one of material or 
+functional utility to the references. Instead, $S$ has relations 
+differing between the references $R_0$ and $R_1$. $S$ somehow 
+manages to hold onto the title of "source" because it is a 
+middle-agent between the two references. A great majority of 
+the traffic flows through $S$, and this majority flow corresponds 
+to a granting of greater control to $S$ if the matter of control 
+is their choice in non-null magnitude.  
 
 The vulture is a protector and a reaper. These two metaphors 
 for the metaphor of the audience as a vulture spark curiosity 
@@ -6285,4 +6295,5 @@ or principle that is enumerated in the payoff table, the pain of
 unwanted forfeiture from zero-sum opens the route for a wide 
 possible range of indentation on the losing recipient's modus 
 operandi. The vulture, the gray-zone creature that it is, makes 
-for a potent case study in the blurring of game theory payoff labels. 
+for a potent case study in the blurring of game theory payoff 
+labels. 
