@@ -6230,7 +6230,7 @@ counterparts.
 In this section, the reason for why the audience is likened 
 to a vulture is to fulfill a healthy skepticism on matters 
 such as duties, appeasement, impressionism, and honor. Each 
-of these four mentioned terms are single-minded promoters. 
+of these four mentioned terms is a single-minded promoter. 
 Such drastic displays and actions taken, and there is little 
 space or time in direly needy situations for there to be 
 a reflection on the underlying reasoning that is usually 
@@ -6250,3 +6250,4 @@ way. That would violate its role in the cycle. Creatures
 such as vultures are fixed in their behavior. The audience 
 is not. But some parallels of interest emerge when the 
 audience is likened to the vulture. 
+
