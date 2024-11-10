@@ -6276,14 +6276,13 @@ education of decision-making. Specifically, the economic sub-field
 of game theory spearheads this as a co-existing dynamic with non-zero 
 sum games. Some that engage in games of sorts, outside of pure 
 recreation, can favor a specific kind of payoff for themself. 
-In terms of the psychological impact of a payoff's effects retained 
+In terms of the psychological impact from a payoff's effects retained 
 in memory, and the retention of the memory then used as fuel for 
-corrective or improvement mechanisms, the actualization of zero-sum 
-dynamics arguably outsizes in impact in comparison to cousin 
-payoffs. Depending on what is placed as the object or principle 
+self-corrective or self-improving mechanisms, the actualization of 
+zero-sum dynamics arguably outsizes in impact in comparison to 
+cousin payoffs. Depending on what is placed as the object or principle 
 that is enumerated in the payoff table, the pain of unwanted 
 forfeiture from zero-sum opens the route for a wide possible range 
-of indentation on the losing recipient's modus operandi.
-
-The vulture, the gray-zone creature that it is, makes for 
-a potent case study in the blurring of game theory payoff labels. 
+of indentation on the losing recipient's modus operandi. The vulture, 
+the gray-zone creature that it is, makes for a potent case study in 
+the blurring of game theory payoff labels. 
