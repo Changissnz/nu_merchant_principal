@@ -200,7 +200,7 @@ posit. Activities such as research&development,
 coordinated security, and journal publications do 
 lean toward cost values of non-zero sum game. 
 Knowledge, especially, is one of the fundamental 
-possessions that do not operate on zero-sum dynamics 
+possessions that does not operate on zero-sum dynamics 
 on the one condition that the knowledge is fairly
 distributed. One of the ideals espoused in higher 
 education is something along the lines of "a more 
@@ -6188,3 +6188,10 @@ towards objectives of a more absolutist mark in effects. And
 obviously, absolutism is zero-sum. 
 
 ## The Audience Is the Vulture <a name="p20"></a> 
+
+There is a division already, is there not? There is the audience 
+and the spectated. To go ahead and assume that this division will 
+foment a kind of malevolence between these two groups is too far 
+without more details. The participants of a spectacle open to an 
+audience 
+
