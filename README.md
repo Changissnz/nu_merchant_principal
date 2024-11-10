@@ -6193,5 +6193,7 @@ There is a division already, is there not? There is the audience
 and the spectated. To go ahead and assume that this division will 
 foment a kind of malevolence between these two groups is too far 
 without more details. The participants of a spectacle open to an 
-audience 
+audience could just be there, enjoying themselves in each others' 
+company. Negativity aside, please. An absolute lack of cooperation 
+and unity to state that there is a division that is not benign. 
 
