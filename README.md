@@ -6251,3 +6251,17 @@ such as vultures are fixed in their behavior. The audience
 is not. But some parallels of interest emerge when the 
 audience is likened to the vulture. 
 
+Section To Be Revered By What is related to the spectating 
+vulture. In that previous section, the theme touches on the 
+idea of that which is spectated to be believed as a source 
+of worship. The computational reference network, especially, 
+with an example diagram CRN2, could be used to depict how the 
+spectators (references) view the spectated (source). Diagram 
+CRN2 shows two references with material and functional utility 
+transfers with the source. Reference $R_0$ acquires functional 
+utility from the source and pays material utility to it. This 
+relation is opposite to that of the other reference $R_1$. This 
+computational reference network raises the question of what 
+real immediate and long-term benefits these relations between 
+the references and the source amount to. It is an open question. 
+
