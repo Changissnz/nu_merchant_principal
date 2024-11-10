@@ -6285,7 +6285,7 @@ work makes the claim that zero-sum is greatly emphasized in the
 education of decision-making. Specifically, the economic sub-field 
 of game theory spearheads this as a co-existing dynamic with non-zero 
 sum games. Some that engage in games of sorts, outside of pure 
-recreation, can favor a specific kind of payoff for themself. 
+recreation, can favor specific kinds of payoff for themselves. 
 In terms of the psychological impact from a payoff's effects retained 
 in memory, and the retention of the memory then used as fuel for 
 self-corrective or self-improving mechanisms, the actualization of 
