@@ -6279,8 +6279,8 @@ recreation, can favor a specific kind of payoff for themself.
 In terms of the psychological impact from a payoff's effects retained 
 in memory, and the retention of the memory then used as fuel for 
 self-corrective or self-improving mechanisms, the actualization of 
-zero-sum dynamics arguably outsizes in impact in comparison to 
-cousin payoffs. Depending on what is placed as the object or principle 
+zero-sum dynamics arguably outsizes in impact when compared to 
+cousin-types of payoffs. Depending on what is placed as the object or principle 
 that is enumerated in the payoff table, the pain of unwanted 
 forfeiture from zero-sum opens the route for a wide possible range 
 of indentation on the losing recipient's modus operandi. The vulture, 
