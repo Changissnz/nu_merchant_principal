@@ -6210,8 +6210,8 @@ ability. Emphasis on the descriptor "actionable". Maybe there
 are creatures on this planet more intelligent than the human. 
 The vulture, although also not known to be beyond the intelligence 
 of their peers, serve the noble purpose of an important mediator 
-in the cycling of life,death, and decomposition. The last 
-stage of decomposition is where the vulture intervenes as a 
-clean-up technician. Possible biological hazards are removed 
-through their feasting. Some nicknames for vultures: scavengers, 
-bottom feeders. 
+in the cycling of life,death, and decomposition. Decomposition, 
+the last stage, is where the vulture intervenes as a clean-up 
+technician. Possible biological hazards are removed through 
+their feasting. Some nicknames for vultures: scavengers, bottom 
+feeders. 
