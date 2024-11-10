@@ -6273,7 +6273,7 @@ manages to hold onto the title of "source" because it is a
 middle-agent between the two references. A great majority of 
 the traffic flows through $S$, and this majority flow corresponds 
 to a granting of greater control to $S$ if the matter of control 
-is their choice in non-null magnitude.  
+is their choice for non-null magnitude.  
 
 The vulture is a protector and a reaper. These two metaphors 
 for the metaphor of the audience as a vulture spark curiosity 
