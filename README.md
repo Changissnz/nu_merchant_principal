@@ -2116,7 +2116,7 @@ the destroyer function after $A_i$.
 ports, with agents $b_0$ and $b_1$ in charge of guarding
 entry against outsider agents listed as threats. Using 
 imaginary value $I$, outsiders $d_0$ and $d_1$ were able
-to obscure their identities and bypassed the guardian 
+to obscure their identities and bypass the guardian 
 agents, thereby infiltrating the five-star network. 
 
 ![image info](./images/imaginary_four.PNG)
@@ -6297,3 +6297,6 @@ possible range of indentation on the losing recipient's modus
 operandi. The vulture, the gray-zone creature that it is, makes 
 for a potent case study in the blurring of game theory payoff 
 labels. 
+
+The vulture, the spectator, not the spectated, exists in a 
+few paradigms featuring them as the star of the show. 
