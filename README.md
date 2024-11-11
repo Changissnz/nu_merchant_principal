@@ -6239,7 +6239,7 @@ harm's way is, by far, one of the most cliched tropes in
 tragedy. It is not ridicule on these deeds of autonomous 
 will under the influence, but such risky actions are to be 
 rationed because of their terminal and non-regeneratable 
-outcomes. The vulture has evolved to be smart in other senses  
+outcomes. The vulture has evolved to be smart in other senses 
 then. Not only a noble servant in the cycling of life,death, 
 and decomposition, it is also calculating through aversion 
 of risk. Its way of diet serves its appetite, the sanitation 
@@ -6269,7 +6269,7 @@ section's definition of a computational reference network's
 source. $S$ would have to provide strictly one of material or 
 functional utility to the references. Instead, $S$ has relations 
 differing between the references $R_0$ and $R_1$. $S$ somehow 
-manages to hold onto the title of "source" because it is a 
+manages to hold onto the title of "source" because they are a 
 middle-agent between the two references. A great majority of 
 the traffic flows through $S$, and this majority flow corresponds 
 to a granting of greater control to $S$ if the matter of control 
