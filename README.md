@@ -6299,4 +6299,4 @@ for a potent case study in the blurring of game theory payoff
 labels. 
 
 The vulture, the spectator, not the spectated, exists in a 
-few paradigms featuring them as the star of the show. 
+few paradigms featuring it as the star of the show. 
