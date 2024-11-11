@@ -6251,7 +6251,7 @@ such as vultures are fixed in their behavior. The audience
 is not. But some parallels of interest emerge when the 
 audience is likened to the vulture. 
 
-Section To Be Revered By What is related to the spectating 
+Section To Be Revered by What is related to the spectating 
 vulture. In that previous section, the theme touches on the 
 idea of that which is spectated to be believed as a source 
 of worship. The computational reference network, especially, 
@@ -6299,4 +6299,16 @@ for a potent case study in the blurring of game theory payoff
 labels. 
 
 The vulture, the spectator, not the spectated, exists in a 
-few paradigms featuring it as the star of the show. 
+few paradigms featuring it as the star of the show. Sentiments, 
+usually not explicitly expressed, go something like this: 
+
+"We the Vulture stand strong and together, 
+To fight for what is rightfully ours, 
+To voice both opinions and judges, 
+Onto those fortunate or not to stand them, 
+For the voice to drown everything else out." 
+
+The vulture loses its place as a direct metaphor for the 
+audience through the passage of the paradigm, in which there 
+are conditions and privileges attached unnaturally attached to 
+it. And these conditions and privileges are from human societies. 
