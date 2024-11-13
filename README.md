@@ -6304,7 +6304,7 @@ usually not explicitly expressed, go something like this:
 
 "We the Vulture stand strong and together,  
 To fight for what is rightfully ours,  
-To voice both opinions and judgements,  
+To voice both opinions and judgments,  
 With no sound, wait in silence,  
 Onto those fortunate or not to stand them,  
 For our voice to reap what kills our hunger."  
@@ -6315,3 +6315,11 @@ Conditions and privileges, of an unnatural association to the
 literal creature of the vulture, are attached to these 
 conceptualizations. And these conditions and privileges are 
 from human societies. 
+
+Illustration of the vulture as something more than 
+another run-of-the-mill creature starts with focus on it 
+as the reaper. Payoff tables enable the quantifying 
+definition of the vulture's context. This context of 
+structurally allocated numbers enables its viewer to 
+predict, with odds of correctness tending to above fifty 
+percent, what the vulture decides on. 
