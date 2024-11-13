@@ -6320,6 +6320,17 @@ Illustration of the vulture as something more than
 another run-of-the-mill creature starts with focus on it 
 as the reaper. Payoff tables enable the quantifying 
 definition of the vulture's context. This context of 
-structurally allocated numbers enables its viewer to 
+structurally allocated numbers enables viewer sto 
 predict, with odds of correctness tending to above fifty 
 percent, what the vulture decides on. 
+
+![image info](./images/taiv_one.PNG)
+
+**TAIV1:** Two spectated agents $S_1$ and $S_2$ engaged 
+in a duel. The payoff pair-values show a combination of 
+zero-sum and non-zero sum two-combinations belonging 
+to the spectated agents. Prediction of the most probable 
+move a spectator $S_x$ takes, with respect to the move 
+$q_?$ of adversary $S_y$, can be accomplished by 
+following the Nash equilibrium. 
+
