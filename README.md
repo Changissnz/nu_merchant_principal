@@ -6402,7 +6402,7 @@ of the situation between $S_1$ and $S_2$.
 the duel between $S_1$ and $S_2$. Depending on which of the 
 agents $S_1$, $S_2$ are fallen, the vultures expect no negative 
 changes to their well-being. Each $P^{(x)}_j$ value is a 
-positive partitioning of gains for the specific $x$'th 
+positive partition of gains for the specific $x$'th 
 vulture in the advent of the $j$'th spectated falls. 
 
 The vulture, in the situation between $S_1$ and $S_2$, is a 
