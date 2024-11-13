@@ -6370,4 +6370,48 @@ And this simple selection would yield them a probable
 chance of beating the other agent. TAIV2 makes $S_1$'s 
 affinity for selecting $q_5$ no longer guaranteed; 
 there could be FALSE values in the table pertaining to 
-$S_1$ and their move $q_5$.  
+$S_1$ and their move $q_5$. 
+
+Tables TAIV1 and TAIV2 form the foundation of decisions 
+for the spectated $S_1$ and $S_2$. In this setting, $S_1$ 
+and $S_2$ are associated with positive defense points $P_1$ 
+and $P_2$. These defense points are added to or subtracted 
+from by the agent actions taken, and a defense point $P_?$ 
+that falls to a non-positive value results in their owner's 
+decisive loss. $S_1$ and $S_2$ are in this situation to each 
+attempt to independently win. Despite the non-zero sum options 
+available in table TAIV1, there is no termination of agent 
+actions until at least one of them is downed. The possible 
+equilibrium of both of the players gaining from a decision 
+junction is slim at $\frac{2}{9}$. In rare occasions, table 
+TAIV2 would restrict the other seven combinations of moves, 
+thereby granting positive and non-zero sum gains for both 
+agents. It is safe to assume in a duel that is non-restrictive 
+on agent moveset, the situation of $S_1$ and $S_2$ is a non-zero 
+sum terminal game. The categorization of this being non-zero sum 
+is through process of elimination, by use of this condition: 
+each decision junction would have to result in zero-sum changes 
+to the game participants for the game to be labeled zero-sum. 
+
+Meanwhile, the vulture is patiently waiting for the termination 
+of the situation between $S_1$ and $S_2$. 
+
+![image info](./images/taiv_three.PNG)
+
+**TAIV3:** A variable number of $n$ vultures are spectating 
+the duel between $S_1$ and $S_2$. Depending on which of the 
+agents $S_1$, $S_2$ are fallen, the vultures expect no negative 
+changes to their well-being. Each $P^{(x)}_j$ value is a 
+positive partitioning of gains for the specific $x$'th 
+vulture in the advent of the $j$'th spectated falls. 
+
+The vulture, in the situation between $S_1$ and $S_2$, is a 
+zero-sum benefactor after the situation is terminated. The 
+reason for this unequivocating claim is due to the strong 
+division of labor present: the spectator does not need to 
+inflict or receive damage, and the spectated are stuck in the 
+situation until there is a non-recoverable loss from at least 
+one of the ends. The vulture is not under scrutiny or threat 
+of harm; its only stake as a non-acting participant in the 
+situation is its independent energy usage for waiting time 
+till termination of the situation. 
