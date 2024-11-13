@@ -6431,3 +6431,11 @@ All move combinations are non-zero sum and completely
 positive in gains for both agents $S_1$ and $S_2$. For 
 every move combination, the vulture loses the sum of the 
 gains by $S_1$ and $S_2$. 
+
+The situation in TAIV4 guarantees there to be no casualties 
+of $S_1$ and/or $S_2$. Spectating vultures would lose their 
+patience after having discovered the values of table TAIV4, 
+and go elsewhere to scavenge. As for the situation of TAIV5, 
+the vultures would discover, quite shortly after the duel 
+between $S_1$ and $S_2$ has commenced, not to stay around in 
+the vicinity for their own well-being of life. 
