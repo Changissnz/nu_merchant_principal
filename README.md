@@ -6334,7 +6334,7 @@ move a spectator $S_x$ takes, with respect to the move
 $q_?$ of adversary $S_y$, can be accomplished by 
 following the Nash equilibrium. 
 
-There are frequencies of move usage for each of the 
+There is unclear frequency in move usage for each of the 
 agents $S_1$ and $S_2$. For agent $S_1$, the move $q_5$ 
 guarantees a zero-probability of them losing any value. 
 Move $q_5$ is also agent $S_1$'s highest potential earner. 
@@ -6349,3 +6349,25 @@ a $\frac{2}{3}$ probability of transmitting loss to them,
 a risk-averse $S_2$ decides on the move $q_1$ as the most 
 frequent action they take, in typical circumstances of 
 $S_1$'s equal probabilities in their action. 
+
+![image info](./images/taiv_two.PNG)
+
+**TAIV2:** The same spectated agents from table TAIV1. 
+For each combination of moves, there is a boolean for 
+each agent. The boolean denotes if the respective agent 
+is capable of acting on the move in the event that the 
+opposing agent acts on their move. This table contains 
+variable boolean values, subject to change by the causality 
+of the specific spatiotemporal context during the duel. 
+
+Table TAIV2 forms a layout of restrictions imposed on 
+each of the agents during their duel. The agents would 
+each have to be conscientious of what choices in moves 
+they each can take at every changing context in their 
+duel. Without these restrictions, agent $S_1$ could 
+blindly choose move $q_5$ at every decision junction. 
+And this simple selection would yield them a probable 
+chance of beating the other agent. TAIV2 makes $S_1$'s 
+affinity for selecting $q_5$ no longer guaranteed; 
+there could be FALSE values in the table pertaining to 
+$S_1$ and their move $q_5$.  
