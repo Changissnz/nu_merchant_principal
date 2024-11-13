@@ -6408,10 +6408,10 @@ vulture in the advent of the $j$'th spectated falls.
 The vulture, in the situation between $S_1$ and $S_2$, is a 
 zero-sum benefactor after the situation is terminated. The 
 reason for this unequivocating claim is due to the strong 
-division of labor present: the spectator does not need to 
-inflict or receive damage, and the spectated are stuck in the 
-situation until there is a non-recoverable loss from at least 
-one of the ends. The vulture is not under scrutiny or threat 
-of harm; its only stake as a non-acting participant in the 
-situation is its independent energy usage for waiting time 
-till termination of the situation. 
+<ins>division of labor</ins> present: the spectator does not 
+need to inflict or receive damage, and the spectated are stuck 
+in the situation until there is a non-recoverable loss from 
+at least one of the ends. The vulture is not under scrutiny 
+or threat of harm; its only stake as a non-acting participant 
+in the situation is its independent energy usage for waiting 
+time till termination of the situation. 
