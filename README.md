@@ -6334,3 +6334,18 @@ move a spectator $S_x$ takes, with respect to the move
 $q_?$ of adversary $S_y$, can be accomplished by 
 following the Nash equilibrium. 
 
+There are frequencies of move usage for each of the 
+agents $S_1$ and $S_2$. For agent $S_1$, the move $q_5$ 
+guarantees a zero-probability of them losing any value. 
+Move $q_5$ is also agent $S_1$'s highest potential earner. 
+Agent $S_2$ has a more difficult time with establishing 
+an equilibrium for acting on its available moveset. The 
+cumulative (gains,losses) for $S_2$'s moves $q_1$,$q_2$, 
+and $q_3$ are $(9,-7)$, $(12,-15)$, and $(10,-15)$. The 
+highest possible gain for each of these moves are $6,12$, 
+and $10$, respectively. Due to the markedly greater possibility 
+for $S_2$'s loss by moves $q_2$ and $q_3$, moves that pose 
+a $\frac{2}{3}$ probability of transmitting loss to them, 
+a risk-averse $S_2$ decides on the move $q_1$ as the most 
+frequent action they take, in typical circumstances of 
+$S_1$'s equal probabilities in their action. 
