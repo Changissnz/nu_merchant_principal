@@ -6414,4 +6414,20 @@ in the situation until there is a non-recoverable loss from
 at least one of the ends. The vulture is not under scrutiny 
 or threat of harm; its only stake as a non-acting participant 
 in the situation is its independent energy usage for waiting 
-time till termination.
+time till termination. 
+
+![image info](./images/taiv_four.PNG)
+
+**TAIV4:** A differing alternative of the situation from 
+table TAIV1. All move combinations are non-zero sum, and 
+completely positive in gains for both agents $S_1$ and $S_2$. 
+
+![image info](./images/taiv_five.PNG)
+
+**TAIV5:** A differing alternative of the situation from 
+table TAIV1. Each value of the cost table is a triplet 
+showing the gains made by the vulture, $S_1$, and $S_2$. 
+All move combinations are non-zero sum and completely 
+positive in gains for both agents $S_1$ and $S_2$. For 
+every move combination, the vulture loses the sum of the 
+gains by $S_1$ and $S_2$. 
