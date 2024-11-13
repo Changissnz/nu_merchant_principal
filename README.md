@@ -6312,6 +6312,6 @@ For our voice to reap what kills our hunger."
 The vulture loses its place as a direct metaphor for the 
 audience through the passage of these numerous paradigms. 
 Conditions and privileges, of an unnatural association to the 
-literal creature to the vulture, are attached to these 
-conceptualization. And these conditions and privileges are 
+literal creature of the vulture, are attached to these 
+conceptualizations. And these conditions and privileges are 
 from human societies. 
