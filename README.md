@@ -6414,4 +6414,4 @@ in the situation until there is a non-recoverable loss from
 at least one of the ends. The vulture is not under scrutiny 
 or threat of harm; its only stake as a non-acting participant 
 in the situation is its independent energy usage for waiting 
-time till termination of the situation. 
+time till termination.
