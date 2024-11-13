@@ -6302,13 +6302,16 @@ The vulture, the spectator, not the spectated, exists in a
 few paradigms featuring it as the star of the show. Sentiments, 
 usually not explicitly expressed, go something like this: 
 
-"We the Vulture stand strong and together, 
-To fight for what is rightfully ours, 
-To voice both opinions and judges, 
-Onto those fortunate or not to stand them, 
-For the voice to drown everything else out." 
+"We the Vulture stand strong and together,  
+To fight for what is rightfully ours,  
+To voice both opinions and judgements,  
+With no sound, wait in silence,  
+Onto those fortunate or not to stand them,  
+For our voice to reap what kills our hunger."  
 
 The vulture loses its place as a direct metaphor for the 
-audience through the passage of the paradigm, in which there 
-are conditions and privileges attached unnaturally attached to 
-it. And these conditions and privileges are from human societies. 
+audience through the passage of these numerous paradigms. 
+Conditions and privileges, of an unnatural association to the 
+literal creature to the vulture, are attached to these 
+conceptualization. And these conditions and privileges are 
+from human societies. 
