@@ -6543,3 +6543,8 @@ first revealed into an inquisitive force of pressure onto an
 obscure, distinct, but also connected detail into the outsider 
 agent's knowledge base. 
 
+![image info](./images/taiv_eight.PNG)
+
+**TAIV8:** $X_0$ is the spectated group, in possession of a 
+secret piece of information $P$. $P$ is composed of an 
+arbitrary $n$ elements, $I_0,\dots,I_{n-1}$. 
