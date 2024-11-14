@@ -6522,7 +6522,7 @@ guarded does not work.
 
 **TAIV6:** Any exploit that directly attempts to impact 
 target $X_0$ fails. The black rectangle is the impeccable 
-defense barrier against $X_0$. 
+defense barrier for $X_0$. 
 
 ![image info](./images/taiv_seven.PNG)
 
@@ -6555,3 +6555,6 @@ the next $(i+1)$'th element of $P$, by use of forcing-function
 $F$. The pattern of information flow, desired by $X_0$ to 
 remain a secured secret, illustrates deployment of the broad 
 strategy termed implicative security-breaker to obtain $P$. 
+
+Another broad strategy of interest to distributors of capital 
+information (brokers) is <ins>preventative security</ins>. 
