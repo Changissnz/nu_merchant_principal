@@ -6529,3 +6529,16 @@ defense barrier against $X_0$.
 **TAIV7:** $X_0$ is able to be exploited by going through 
 $X_2$ and then $X_1$, two connectors. 
 
+Suppose there is a piece of information $P$ that is 
+cumulatively constructed during the course of a situation's 
+events that concern a spectated group $G$. Information piece 
+$P$ is designed and desired by $G$ to remain a secret known 
+only to those specific members. $P$ consists of details 
+connected to one another, such that the revelation of an 
+arbitrary detail to an outsider agent, such as a spectator, 
+has a non-zero probability of exposing another detail. This 
+compromising arrangement results from the outsider agent's 
+ability to use the "negative reception" of the detail 
+first revealed as a inquisitive force to pressure an obscure, 
+distinct, but also connected detail into the outsider 
+agent's knowledge base. 
