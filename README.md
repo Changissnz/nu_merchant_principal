@@ -6451,4 +6451,9 @@ Whereas a vulture of the implicitly favoritist variety does
 not influence the course of events leading up to the material 
 dead that it spectates, its counterpart favoritist does. In 
 both cases, the favoritist vulture abstains from consuming 
-the spectated fallen that it favored. 
+the spectated fallen that it favored. Favoritist practices 
+such as these fall in line with aspects common across all 
+species, such as ape clans. Here is a speculative notion: 
+if these kinds of vultures existed in resource-scarce 
+environments, their livelihood would force them to discriminate 
+less on what is available as their food. 
