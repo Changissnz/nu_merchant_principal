@@ -6490,4 +6490,6 @@ Not every situation welcomes an audience. The vulture may
 not be welcomed as a protectionist by its favoritist leanings. 
 Some games, intriguing to the areas of statistics and predictive 
 analytics, make themselves pertinent in these situations 
-unwelcoming to the spectator. 
+unwelcoming to the spectator. In the Game of Spilling Secrets, 
+the vulture takes up the responsibility of a selective 
+information broker. 
