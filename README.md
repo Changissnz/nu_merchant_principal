@@ -6452,8 +6452,22 @@ not influence the course of events leading up to the material
 dead that it spectates, its counterpart favoritist does. In 
 both cases, the favoritist vulture abstains from consuming 
 the spectated fallen that it favored. Favoritist practices 
-such as these fall in line with aspects common across all 
+such as these fall in line with aspects common across many 
 species, such as ape clans. Here is a speculative notion: 
 if these kinds of vultures existed in resource-scarce 
 environments, their livelihood would force them to discriminate 
 less on what is available as their food. 
+
+In environments ripe with favoritism, the spectated play into 
+the presumptions of the audience rather than let pass a stunning 
+upset to the partially sympathetic spectators. Given rules 
+established at the beginning, the spectated's abidement of the 
+rules is an entitlement to the spectators. The spectators, of a 
+favoritist variety, do have other expectations borne from hope 
+on their favored. Situations such as these are difficult to 
+psychologically mollify. From the generic perspective of 
+business ethics, "the customer is always right". To suppress 
+favoritism is not in line with the wants and needs of all 
+participants, especially the customer that is the spectator, 
+of the situation. Suppression is usually frowned upon as an 
+affront to individual freedoms and an idealization of apathy. 
