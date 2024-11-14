@@ -6438,4 +6438,17 @@ patience after having discovered the values of table TAIV4,
 and go elsewhere to scavenge. As for the situation of TAIV5, 
 the vultures would discover, quite shortly after the duel 
 between $S_1$ and $S_2$ has commenced, not to stay around in 
-the vicinity for their own well-being of life. 
+the vicinity for their own well-being of life. The vulture 
+intends to remain a zero-sum reaper, out of its role-playing 
+possibilities. 
+
+A characteristic separate from the literal vulture is attached 
+to the abstraction of a vulture in this next paradigm. Vultures, 
+the indiscriminate consumer of the material dead, turn out to 
+have a favoristist slant to their spectatorship. Favoritism 
+takes the two classic forms of implicit and explicit expression. 
+Whereas a vulture of the implicitly favoritist variety does 
+not influence the course of events leading up to the material 
+dead that it spectates, its counterpart favoritist does. In 
+both cases, the favoritist vulture abstains from consuming 
+the spectated fallen that it favored. 
