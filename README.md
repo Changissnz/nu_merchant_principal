@@ -6571,3 +6571,17 @@ a catalyzer for action, rather than the only constituent for the
 object in question (the argument in section Arguments in 
 Image-Projectable Contexts), in this section. 
 
+![image info](./images/taiv_nine.PNG)
+
+**TAIV9:** Table displays a spectated agent $S_1$'s choices 
+and those choices' effects in a situation where an information 
+broker applies pressure onto the decision-making of $S_1$. At 
+every timestamp $i$, $S_1$ can act by $a^{(i)}$, or refrain 
+from taking the action in order to defend the secrecy of 
+the set of information $\{x_j\}$ by function $\mathbb{D}$. 
+Failure to defend the secrecy of each timestamp's specific 
+set of information may result in the corresponding effects 
+of the next column (third). The projected effects vary from a 
+negative value, by function $\mathbb{C}$ inflicted upon agent $S_1$, 
+to nullification of a previous action taken, and the fourth 
+column shows probabilities of these effects' actualization.
