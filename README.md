@@ -6554,7 +6554,14 @@ three of the spectators then apply force onto $X_0$ for
 the next $(i+1)$'th element of $P$, by use of forcing-function 
 $F$. The pattern of information flow, desired by $X_0$ to 
 remain a secured secret, illustrates deployment of the broad 
-strategy termed implicative security-breaker to obtain $P$. 
+strategy, termed implicative security-breaker, to obtain $P$. 
 
 Another broad strategy of interest to distributors of capital 
-information (brokers) is <ins>preventative security</ins>. 
+information, brokers of sorts, is <ins>preventative security</ins>. 
+This strategy depends on the compromise of a quality belonging 
+to an agent, and this quality is a backward dependency to a 
+checkpoint wanted to be attained by the agent at a future point 
+in time. The term "backward dependency" has been mentioned in 
+the section Arguments in Image-Projectable Contexts. This specific 
+section places the term in the role of a target to be disrupted 
+for an executing process' wanted failure. 
