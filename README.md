@@ -6538,7 +6538,8 @@ connected to one another, such that the revelation of an
 arbitrary detail to an outsider agent, such as a spectator, 
 has a non-zero probability of exposing another detail. This 
 compromising arrangement results from the outsider agent's 
-ability to use the "negative reception" of the detail 
-first revealed as a inquisitive force to pressure an obscure, 
-distinct, but also connected detail into the outsider 
+ability to channel the "negative reception" of the detail 
+first revealed into an inquisitive force of pressure onto an 
+obscure, distinct, but also connected detail into the outsider 
 agent's knowledge base. 
+
