@@ -6485,3 +6485,9 @@ how the spectator's wants and their corresponding actions of
 influence coalesce. The influence is left to be another 
 one of those open questions, due to the lack of specific 
 context. 
+
+Not every situation welcomes an audience. The vulture may 
+not be welcomed as a protectionist by its favoritist leanings. 
+Some games, intriguing to the areas of statistics and predictive 
+analytics, make themselves pertinent in these situations 
+unwelcoming to the spectator. 
