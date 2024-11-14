@@ -6496,12 +6496,12 @@ spectator. In the Game of Spilling Secrets, the vulture takes
 up the responsibility of a selective information broker. 
 
 The tasks of an information broker, intent on benefiting 
-through these acts, involve choice calculations, are 
-impossible to quantitatively formulate given a lack of 
-information (additionally, the poor knowledge of precedent) 
-and the operating environment that must be mapped into 
-formats quantitatively operable. Once again, by some means, 
-a balancing act of picking and choosing emerges, this time 
+through these acts, involve choice calculations, impossible 
+to quantitatively formulate given a lack of information 
+(additionally, the poor knowledge of precedent) and the 
+operating environment that must be mapped into formats 
+quantitatively operable. Once again, by some means, a 
+balancing act of picking and choosing emerges, this time 
 featuring the vulture as the revelatory star. 
 
 Predictive analytics rests on the correct use of accurate 
@@ -6528,3 +6528,4 @@ defense barrier against $X_0$.
 
 **TAIV7:** $X_0$ is able to be exploited by going through 
 $X_2$ and then $X_1$, two connectors. 
+
