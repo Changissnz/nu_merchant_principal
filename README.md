@@ -6470,4 +6470,17 @@ business ethics, "the customer is always right". To suppress
 favoritism is not in line with the wants and needs of all 
 participants, especially the customer that is the spectator, 
 of the situation. Suppression is usually frowned upon as an 
-affront to individual freedoms and an idealization of apathy. 
+affront to individual freedoms and some idealization of apathy 
+that could very well be a deep antagonism. 
+
+The implementation of favoritism takes many forms. It is 
+unnecessary to attempt to list the various ways favoritism 
+is practiced. These kinds of allocated positive and negative 
+influences target the mutable surface of variables, by varying 
+degrees into the depths of their source control for outward 
+expression. The concept of externally-sourced feedforwarding 
+influence is a competent template of visualization for how 
+the spectator's wants and their corresponding actions of 
+influence coalesce. The influence is left to be another 
+one of those open questions, due to the lack of specific 
+context. 
