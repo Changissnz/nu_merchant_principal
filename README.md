@@ -6547,4 +6547,11 @@ agent's knowledge base.
 
 **TAIV8:** $X_0$ is the spectated group, in possession of a 
 secret piece of information $P$. $P$ is composed of an 
-arbitrary $n$ elements, $I_0,\dots,I_{n-1}$. 
+arbitrary $n$ elements, $I_0,\dots,I_{n-1}$. When $X_0$ 
+reveals an element $I_i$ to a spectator $X_1$, $X_1$ 
+transmits $I_i$ to its co-spectators $X_2$ and $X_3$. All 
+three of the spectators then apply force onto $X_0$ for 
+the next $(i+1)$'th element of $P$, by use of forcing-function 
+$F$. The pattern of information flow, desired by $X_0$ to 
+remain a secured secret, illustrates the broad strategy 
+termed implicative security-breaker. 
