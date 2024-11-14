@@ -6312,7 +6312,7 @@ For our voice to reap what kills our hunger."
 The vulture loses its place as a direct metaphor for the 
 audience through the passage of these numerous paradigms. 
 Conditions and privileges, of an unnatural association to the 
-literal creature of the vulture, are attached to these 
+literal creature that is the vulture, are attached to these 
 conceptualizations. And these conditions and privileges are 
 from human societies. 
 
@@ -6340,7 +6340,7 @@ guarantees a zero-probability of them losing any value.
 Move $q_5$ is also agent $S_1$'s highest potential earner. 
 Agent $S_2$ has a more difficult time with establishing 
 an equilibrium for acting on its available moveset. The 
-cumulative (gains,losses) for $S_2$'s moves $q_1$,$q_2$, 
+cumulative (gains,losses) for $S_2$'s moves $q_1,q_2$, 
 and $q_3$ are $(9,-7)$, $(12,-15)$, and $(10,-15)$. The 
 highest possible gain for each of these moves are $6,12$, 
 and $10$, respectively. Due to the markedly greater possibility 
@@ -6400,7 +6400,7 @@ of the situation between $S_1$ and $S_2$.
 
 **TAIV3:** A variable number of $n$ vultures are spectating 
 the duel between $S_1$ and $S_2$. Depending on which of the 
-agents $S_1$, $S_2$ are fallen, the vultures expect no negative 
+agents $S_1,S_2$ are fallen, the vultures expect no negative 
 changes to their well-being. Each $P^{(x)}_j$ value is a 
 positive partition of gains for the specific $x$'th 
 vulture in the advent of the $j$'th spectated falls. 
@@ -6496,10 +6496,25 @@ spectator. In the Game of Spilling Secrets, the vulture takes
 up the responsibility of a selective information broker. 
 
 The tasks of an information broker, intent on benefiting 
-through these acts, involves choice calculations, impossible 
-to quantitatively formulate given a lack of information 
-(including the poor knowledge of precedent) and the 
-operating environment that must be mapped into formats 
-quantitatively operable. Once again, a balancing act of 
-picking and choosing emerges, this time featuring the 
-vulture as the revelatory star. 
+through these acts, involve choice calculations, are 
+impossible to quantitatively formulate given a lack of 
+information (additionally, the poor knowledge of precedent) 
+and the operating environment that must be mapped into 
+formats quantitatively operable. Once again, by some means, 
+a balancing act of picking and choosing emerges, this time 
+featuring the vulture as the revelatory star. 
+
+Predictive analytics rests on the correct use of accurate 
+information. Outside of this applied usage, there are 
+some general strategies the information broker deploys 
+with the spectated. An <ins>implicating security-breaker</ins> 
+is a rationalist approach used to open up protected areas 
+of value. The bypassing or deterioration of defense allows 
+one to reach the area once protected. The approach is 
+frequently used in technical situations and as such, 
+definitely goes by many other names. The uniting detail 
+behind all of these situations is that the secured target 
+is secure by a connectionist arrangement. Attempts to 
+focus all efforts on a single exploit that is heavily 
+guarded does not work. 
+
