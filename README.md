@@ -6487,9 +6487,17 @@ one of those open questions, due to the lack of specific
 context. 
 
 Not every situation welcomes an audience. The vulture may 
-not be welcomed as a protectionist by its favoritist leanings. 
-Some games, intriguing to the areas of statistics and predictive 
-analytics, make themselves pertinent in these situations 
-unwelcoming to the spectator. In the Game of Spilling Secrets, 
-the vulture takes up the responsibility of a selective 
-information broker. 
+not be welcomed as a protectionist due to its favoritist 
+leanings. It may not be welcomed whatsoever, despite what 
+lack of discrimination it poses. Some games, intriguing to 
+the areas of statistics and predictive analytics, make 
+themselves pertinent in these situations unwelcoming to the 
+spectator. In the Game of Spilling Secrets, the vulture takes 
+up the responsibility of a selective information broker. 
+
+The tasks of an information broker, intent on benefiting 
+through these acts, involves choice calculations, impossible 
+to quantitatively formulate given a lack of information 
+(including the poor knowledge of precedent) and the 
+operating environment that must be mapped into formats 
+quantitatively operable. 
