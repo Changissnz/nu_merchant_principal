@@ -6505,7 +6505,7 @@ a balancing act of picking and choosing emerges, this time
 featuring the vulture as the revelatory star. 
 
 Predictive analytics rests on the correct use of accurate 
-information. Outside of this applied usage, there are 
+information. Above of this applied usage, there are 
 some general strategies the information broker deploys 
 with the spectated. An <ins>implicating security-breaker</ins> 
 is a rationalist approach used to open up protected areas 
