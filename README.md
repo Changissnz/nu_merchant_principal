@@ -6518,3 +6518,13 @@ is secure by a connectionist arrangement. Attempts to
 focus all efforts on a single exploit that is heavily 
 guarded does not work. 
 
+![image info](./images/taiv_six.PNG)
+
+**TAIV6:** Any exploit that directly attempts to impact 
+target $X_0$ fails. The black rectangle is the impeccable 
+defense barrier against $X_0$. 
+
+![image info](./images/taiv_seven.PNG)
+
+**TAIV7:** $X_0$ is able to be exploited by going through 
+$X_2$ and then $X_1$, two connectors. 
