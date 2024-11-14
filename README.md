@@ -6500,4 +6500,6 @@ through these acts, involves choice calculations, impossible
 to quantitatively formulate given a lack of information 
 (including the poor knowledge of precedent) and the 
 operating environment that must be mapped into formats 
-quantitatively operable. 
+quantitatively operable. Once again, a balancing act of 
+picking and choosing emerges, this time featuring the 
+vulture as the revelatory star. 
