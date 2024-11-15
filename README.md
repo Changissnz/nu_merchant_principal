@@ -6614,9 +6614,9 @@ $A_i$ or defend the dependencies of secret information from
 exposure ($\mathbb{D}$) is sent to vulture $X$. $X$ is 
 faced with the multi-decision of transmitting these two 
 forms of information from $Y_0$ to its co-vultures, 
-$V_1^{(-)},$V_2^{(+)}$, and $V_3^{(?)}$. The superscript 
-for these co-vultures represent their predominant alignment 
-with the central vulture $X$. The decisions of these vultures 
-help to determine the outcome of their possibly knowing 
-$I_j$, as well as what the active measure of $P_{sec}$ 
-(alongside $X$) amounts to. 
+$V_1^{(-)},$V_2^{(+)}$, and $V_3^{(?)}$. Each co-vulture's 
+superscript represent its predominant alignment with the 
+central vulture $X$. The decisions of these vultures help 
+to determine the outcome of their possibly knowing $I_j$, 
+as well as what the active measure of $P_{sec}$ (alongside 
+$X$) amounts to. 
