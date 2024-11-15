@@ -6594,7 +6594,8 @@ the well-being of the spectated. It is the main agent in
 the Game of Spilling Secrets; the secrets belong to the 
 spectated, most unwelcoming to the vulture. This particular 
 game becomes very complicated when the spectators, all 
-vultures, are not strongly allied with each other. Situations 
-of weakly-connected and adversarial-transformed alliances 
-have been described in the section Shifty and Shifting 
-Alliances Pt. II. 
+vultures, are not strongly allied with each other. The 
+concept of weakly-connected alliances, a fair term for 
+vultures not beholden to a solid alignment, were described 
+in the section Shifty and Shifting Alliances Pt. II. 
+
