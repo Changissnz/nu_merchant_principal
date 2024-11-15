@@ -6596,6 +6596,6 @@ spectated, most unwelcoming to the vulture. This particular
 game becomes very complicated when the spectators, all 
 vultures, are not strongly allied with each other. The 
 concept of weakly-connected alliances, a fair term for 
-vultures not beholden to a solid alignment, were described 
+vultures not beholden to a solid alignment, was described 
 in the section Shifty and Shifting Alliances Pt. II. 
 
