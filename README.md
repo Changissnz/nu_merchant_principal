@@ -6636,4 +6636,6 @@ of technical notation in line with standard computational
 theory, the complexity of these balancing acts the vultures 
 decide on do oscillate in the confines of extremity, these 
 confines entirely dependent on the actual information and 
-actions belonging to the spectated. 
+capable actions belonging to the spectated. This is a game 
+about control. 
+
