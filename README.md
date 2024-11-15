@@ -6614,7 +6614,7 @@ $A_i$ or defend the dependencies of secret information from
 exposure ($\mathbb{D}$) is sent to vulture $X$. $X$ is 
 faced with the multi-decision of transmitting these two 
 forms of information from $Y_0$ to its co-vultures, 
-$V_1^{(-)},$V_2^{(+)}$, and $V_3^{(?)}$. Each co-vulture's 
+$V_1^{(-)},V_2^{(+)}$, and $V_3^{(?)}$. Each co-vulture's 
 superscript represent its predominant alignment with the 
 central vulture $X$. The decisions of these vultures help 
 to determine the outcome of their possibly knowing $I_j$, 
@@ -6636,6 +6636,15 @@ of technical notation in line with standard computational
 theory, the complexity of these balancing acts the vultures 
 decide on do oscillate in the confines of extremity, these 
 confines entirely dependent on the actual information and 
-capable actions belonging to the spectated. This is a game 
-about control. 
+capable actions belonging to the spectated. 
 
+This is a game about adversarial control. In this section, 
+its description does not contain constraints such as rules 
+placed on the spectated and the spectators to preserve the 
+strong division of labor and the scope of harmful activity 
+the vulture could be a part of. From a quantitative perspective, 
+description of the Game of Spilling Secrets lacks the 
+form of algebraic/economic rigidity found in simpler 
+decision-making situations. Attempting to add quantitative 
+definition to this game requires operation on multi-layered 
+algebraic expressions (i.e. inequalities, matrices). 
