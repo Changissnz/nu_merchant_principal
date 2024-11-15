@@ -6649,3 +6649,8 @@ decision-making situations. Attempting to add quantitative
 definition to this game requires multi-layered algebraic 
 expressions (i.e. inequalities, matrices), for use as 
 decision-making operating environments. 
+
+In this next paradigm, the vulture is a protector of the 
+spectated. By some twists of alignment, these creatures now 
+take the side of the spectated that need their actions and 
+information kept secret. 
