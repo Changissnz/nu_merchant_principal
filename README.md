@@ -6620,3 +6620,20 @@ central vulture $X$. The decisions of these vultures help
 to determine the outcome of their possibly knowing $I_j$, 
 as well as what the active measure of $P_{sec}$ (alongside 
 $X$) amounts to. 
+
+Each vulture in the Game of Spilling Secrets has to 
+make decisions for a situation similar to that of the 
+central vulture $X$ in diagram TAIV10. A mixed-strategy 
+of the implicating security-breaker, used to reveal wanted 
+information of the spectated's secret information, 
+and preventative security, that which uses 
+information-catalyzing measures direct or indirect in 
+impact, is what is required of the vulture to maximize 
+the force it can conjure, by the use of the preliminary 
+constituent that is information of the spectated that 
+the spectated desired to be kept secret. Without the use 
+of technical notation in line with standard computational 
+theory, the complexity of these balancing acts the vultures 
+decide on do oscillate in the confines of extremity, these 
+confines entirely dependent on the actual information and 
+actions belonging to the spectated. 
