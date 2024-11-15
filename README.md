@@ -6646,5 +6646,6 @@ the vulture could be a part of. From a quantitative perspective,
 description of the Game of Spilling Secrets lacks the 
 form of algebraic/economic rigidity found in simpler 
 decision-making situations. Attempting to add quantitative 
-definition to this game requires operation on multi-layered 
-algebraic expressions (i.e. inequalities, matrices). 
+definition to this game requires multi-layered algebraic 
+expressions (i.e. inequalities, matrices), for use as 
+decision-making operating environments. 
