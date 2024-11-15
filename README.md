@@ -6320,7 +6320,7 @@ Illustration of the vulture as something more than
 another run-of-the-mill creature starts with focus on it 
 as the reaper. Payoff tables enable the quantifying 
 definition of the vulture's context. This context of 
-structurally allocated numbers enables viewer sto 
+structurally allocated numbers enables viewers to 
 predict, with odds of correctness tending to above fifty 
 percent, what the vulture decides on. 
 
@@ -6599,3 +6599,24 @@ concept of weakly-connected alliances, a fair term for
 vultures not beholden to a solid alignment, was described 
 in the section Shifty and Shifting Alliances Pt. II. 
 
+![image info](./images/taiv_ten.PNG)
+
+**TAIV10:** Diagram illustrating the construct that one 
+vulture $X$ is confronted with in the Game of Spilling 
+Secrets. The vulture uses a mixed strategy of implicating 
+security-breaker and preventative security to the spectated 
+$Y_0$. Implicating security-breaker is denoted by $X$ sending 
+a query $Q$ for information $I_j$, through the starting point 
+of information $I_i$, with the response (possibly null or 
+fallacious) from $Y_0$ as the formula $R*$. For preventative 
+security, the information of $Y_0$ deciding to act by move 
+$A_i$ or defend the dependencies of secret information from 
+exposure ($\mathbb{D}$) is sent to vulture $X$. $X$ is 
+faced with the multi-decision of transmitting these two 
+forms of information from $Y_0$ to its co-vultures, 
+$V_1^{(-)},$V_2^{(+)}$, and $V_3^{(?)}$. The superscript 
+for these co-vultures represent their predominant alignment 
+with the central vulture $X$. The decisions of these vultures 
+help to determine the outcome of their possibly knowing 
+$I_j$, as well as what the active measure of $P_{sec}$ 
+(alongside $X$) amounts to. 
