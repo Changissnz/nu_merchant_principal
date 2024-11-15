@@ -6540,8 +6540,8 @@ has a non-zero probability of exposing another detail. This
 compromising arrangement results from the outsider agent's 
 ability to channel the "negative reception" of the detail 
 first revealed into an inquisitive force of pressure onto an 
-obscure, distinct, but also connected detail into the outsider 
-agent's knowledge base. 
+obscure, distinct, but also connected detail to improve the 
+outsider agent's knowledge base. 
 
 ![image info](./images/taiv_eight.PNG)
 
