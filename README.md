@@ -6567,9 +6567,9 @@ section places the term in the role of a target to be disrupted
 for an executing process' wanted failure. Backward dependencies, 
 of preventative security by information brokerage, take forms of 
 differing qualities to those of that section. Information is 
-a catalyzer for action, rather than the only constituent for the 
-object in question (the argument in section Arguments in 
-Image-Projectable Contexts), in this section. 
+a catalyzer for action in this section, rather than the only 
+constituent for the object in question (the argument in 
+section Arguments in Image-Projectable Contexts). 
 
 ![image info](./images/taiv_nine.PNG)
 
@@ -6585,3 +6585,16 @@ of the next column (third). The projected effects vary from a
 negative value, by function $\mathbb{C}$ inflicted upon agent $S_1$, 
 to nullification of a previous action taken, and the fourth 
 column shows probabilities of these effects' actualization.
+
+The information broker's use of these two strategies, 
+implicating security-breaker and preventative security, run 
+converse to the actions taken by the spectated. The vulture, 
+as this kind of information broker, is a protector not for 
+the well-being of the spectated. It is the main agent in 
+the Game of Spilling Secrets; the secrets belong to the 
+spectated, most unwelcoming to the vulture. This particular 
+game becomes very complicated when the spectators, all 
+vultures, are not strongly allied with each other. Situations 
+of weakly-connected and adversarial-transformed alliances 
+have been described in the section Shifty and Shifting 
+Alliances Pt. II. 
