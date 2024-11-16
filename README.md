@@ -6707,7 +6707,7 @@ the first encrypted layer over $I$, the remaining classes
 of vultures, $V_d^{(1)}$ through $V_d^{(n)}$, add more 
 encrypting layers. The objective is for $I$ to be 
 unrecognizable by $A$ from their initial receipt of it,
-and continued to be unrecognizable by them after their 
+and continue to be unrecognizable by them after their 
 efforts to discover what $I$ really is. 
 
 The idea is that even if $A$ is able to get past each 
