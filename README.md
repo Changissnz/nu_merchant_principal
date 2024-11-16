@@ -6750,5 +6750,7 @@ When it comes to over-reliance on sentient beings in
 protectionist schematics, some may not be qualified 
 to obey a prescribed quantification scheme. Quantification 
 could fall short of predicting chaos reactive from 
-some kind of information reception, which does not have 
-to be the truth. 
+some kind of information reception, and that information 
+does not have to be the truth. In the grand order of 
+protectionism, there are economic costs attached. There 
+are power dynamics and contingencies to be maintained. 
