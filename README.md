@@ -6700,7 +6700,7 @@ outsider's acquisition.
 
 ![image info](./images/taiv_thirteen.PNG)
 
-**TAIV13:** A layered information-defensive design 
+**TAIV13:** A layered information-protectionist design 
 by the vultures to protect the spectated $S$' information 
 $I$ from adversary $A$. Every green node depicts a class 
 of vultures. After the verifier-vultures $V_v$ initiated 
@@ -6730,9 +6730,9 @@ input.
 The vulture, as the protector, in this brief abstract 
 of standard cryptographic practice, is far from how 
 the literal vulture operates. But information security 
-practices usually do depend on protecting a spectator of 
-sorts, including the possessor/narrator of information 
-and the devices responsible for containing that information, 
+practices could mean to protect a spectator of sorts, 
+including the possessor/narrator of information and 
+the devices responsible for containing that information, 
 so this description of the metaphorical vulture-protector 
 is a fitting analogy for activity in that realm. Like the 
 Game of Telephone, very well-known to many areas of the 
