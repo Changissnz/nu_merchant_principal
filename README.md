@@ -6237,7 +6237,7 @@ space or time in direly needy situations for there to be
 a reflection on the underlying reasoning that is usually 
 strongly tainted with emotionalism. To merrily jump into 
 harm's way is, by far, one of the most cliched tropes in 
-tragedy. It is not ridicule on these deeds of autonomous 
+tragedy. This is not ridicule on these deeds of autonomous 
 will under the influence, but such risky actions are to be 
 rationed because of their terminal and non-regeneratable 
 outcomes. The vulture has evolved to be smart in other senses 
