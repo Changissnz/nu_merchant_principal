@@ -6716,6 +6716,16 @@ reach $V_v$, the verifier-vultures, let alone $V_s$, the
 spectator-vultures. Every class of vultures operates in 
 a contained manner with respect to members, and 
 compartmentalization between classes is code of conduct. 
+The adversary could use something called an <ins>inquisitive 
+force</ins> onto a class of obfuscator-vulture $V_d^{(i)}$. 
+$V_d^{(i)}$ would send the information $I$ as  
+$E_i(\dots(E_1(I))\dots)$.  
+After successful application of the <ins>inquisitive 
+force</ins>, $V_d^{(i)}$ would be forced to reveal $I$ as  
+$E_{i-1}(\dots(E_1(I))\dots)$,  
+the information that they were originally given as 
+input. 
+
 The vulture, as the protector, in this brief abstraction 
 of standard cryptographic practice, is far from how 
 the literal vulture operates. But information security 
