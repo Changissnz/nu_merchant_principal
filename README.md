@@ -6719,7 +6719,8 @@ compartmentalization between classes is code of conduct.
 The vulture, as the protector, in this brief abstraction 
 of standard cryptographic practice, is far from how 
 the literal vulture operates. But information security 
-practices usually do depend on a spectator of sorts, 
-including the possessor or narrator of information, so 
-this description of the metaphorical vulture-protector 
+practices usually do depend on protecting a spectator of 
+sorts, including the possessor/narrator of information 
+and the devices responsible for containing that information, 
+so this description of the metaphorical vulture-protector 
 is a fitting analogy for activity in that realm. 
