@@ -6687,7 +6687,7 @@ adversarial agents. If enough adversarial agents know
 what information $i$ is, their offensive against $Y$ 
 and its allies would be more effective.  
 
-Information protectionist schemes are essentially 
+Information-protectionist schemes are essentially 
 cryptographic practice. Defensive competency by the 
 principle of accumulative layering is standard practice. 
 Vultures, as protectors of the spectated, are divided 
