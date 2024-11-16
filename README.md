@@ -6641,16 +6641,21 @@ capable actions belonging to the spectated.
 This is a game about adversarial control. In this section, 
 its description does not contain constraints such as rules 
 placed on the spectated and the spectators to preserve the 
-strong division of labor and the scope of harmful activity 
+strong division of labor, and the scope of harmful activity 
 the vulture could be a part of. From a quantitative perspective, 
 description of the Game of Spilling Secrets lacks the 
 form of algebraic/economic rigidity found in simpler 
 decision-making situations. Attempting to add quantitative 
 definition to this game requires multi-layered algebraic 
-expressions (i.e. inequalities, matrices), for use as 
-decision-making operating environments. 
+expressions (i.e. chained-inequalities, sequential matrices), 
+for use as decision-making operating environments. 
 
 In this next paradigm, the vulture is a protector of the 
 spectated. By some twists of alignment, these creatures now 
 take the side of the spectated that need their actions and 
-information kept secret. 
+information kept secret. Reliability of information transmission 
+is the central task for the vultures. There is the issue with 
+consistency of information quality transmitted from one to 
+another. Another issue deals with the outward transmission of 
+sensitive information from the protectors of a spectated group 
+to outsiders. 
