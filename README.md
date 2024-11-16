@@ -6743,7 +6743,7 @@ Sometimes, there is a big gap between the information
 deemed valuable, to be heavily guarded, and the security 
 of the sentient being or place that information pertains 
 to. Maybe the mystery of the unknown information, or the 
-information presented in differing forms such as in 
+information presented in differing forms such as through  
 encryption or gossip, sparks the right kind of outrage 
 to pose real harm, especially if that information is 
 not directly related to ensuring security of some form. 
