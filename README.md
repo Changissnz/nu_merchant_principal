@@ -6605,13 +6605,13 @@ in the section Shifty and Shifting Alliances Pt. II.
 **TAIV10:** Diagram illustrating the construct that one 
 vulture $X$ is confronted with in the Game of Spilling 
 Secrets. The vulture uses a mixed strategy of implicating 
-security-breaker and preventative security to the spectated 
+security-breaker and preventative security with the spectated 
 $Y_0$. Implicating security-breaker is denoted by $X$ sending 
 a query $Q$ for information $I_j$, through the starting point 
 of information $I_i$, with the response (possibly null or 
-fallacious) from $Y_0$ as the formula $R*$. For preventative 
+fallacious) from $Y_0$ as the expression $R*$. For preventative 
 security, the information of $Y_0$ deciding to act by move 
-$A_i$ or defend the dependencies of secret information from 
+$A_i$ or defending the dependencies of secret information from 
 exposure ($\mathbb{D}$) is sent to vulture $X$. $X$ is 
 faced with the multi-decision of transmitting these two 
 forms of information from $Y_0$ to its co-vultures, 
@@ -6628,12 +6628,12 @@ central vulture $X$ in diagram TAIV10. A mixed-strategy
 of the implicating security-breaker, used to reveal wanted 
 information of the spectated's secret information, 
 and preventative security, that which uses 
-information-catalyzing measures direct or indirect in 
+catalyzing informatic measures direct or indirect in 
 impact, is what is required of the vulture to maximize 
 the force it can conjure, by the use of the preliminary 
-constituent that is information of the spectated that 
-the spectated desired to be kept secret. Without the use 
-of technical notation in line with standard computational 
+constituent, the information of the spectated that the 
+spectated desired to be kept secret. Without the use of 
+technical notation in line with standard computational 
 theory, the complexity of these balancing acts the vultures 
 decide on do oscillate in the confines of extremity, these 
 confines entirely dependent on the actual information and 
@@ -6735,7 +6735,7 @@ including the possessor/narrator of information and
 the devices responsible for containing that information, 
 so this description of the metaphorical vulture-protector 
 is a fitting analogy for activity in that realm. Like the 
-Game of Telephone, very well-known to many areas of the 
+Game of Telephone, very well-known in many areas of the 
 modern world, regardless of the area's technological and 
 cultural prestige, vulture organization into cryptographic 
 configurations may not produce the security intended. 
