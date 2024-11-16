@@ -6726,11 +6726,29 @@ $E_{i-1}(\dots(E_1(I))\dots)$,
 the information that they were originally given as 
 input. 
 
-The vulture, as the protector, in this brief abstraction 
+The vulture, as the protector, in this brief abstract 
 of standard cryptographic practice, is far from how 
 the literal vulture operates. But information security 
 practices usually do depend on protecting a spectator of 
 sorts, including the possessor/narrator of information 
 and the devices responsible for containing that information, 
 so this description of the metaphorical vulture-protector 
-is a fitting analogy for activity in that realm. 
+is a fitting analogy for activity in that realm. Like the 
+Game of Telephone, very well-known to many areas of the 
+modern world, regardless of the area's technological and 
+cultural prestige, vulture organization into cryptographic 
+configurations may not produce the security intended. 
+Sometimes, there is a big gap between the information 
+deemed valuable, to be heavily guarded, and the security 
+of the sentient being or place that information pertains 
+to. Maybe the mystery of the unknown information, or the 
+information presented in differing forms such as in 
+encryption or gossip, sparks the right kind of outrage 
+to pose real harm, especially if that information is 
+not directly related to ensuring security of some form. 
+When it comes to over-reliance on sentient beings in 
+protectionist schematics, some may not be qualified 
+to obey a prescribed quantification scheme. Quantification 
+could fall short of predicting chaos reactive from 
+some kind of information reception, which does not have 
+to be the truth. 
