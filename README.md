@@ -6653,7 +6653,7 @@ for use as decision-making operating environments.
 In this next paradigm, the vulture is a protector of the 
 spectated. By some twists of alignment, these creatures now 
 take the side of the spectated that need their actions and 
-information kept secret. Reliability of information transmission 
+information kept secret. Security of information transmission 
 is the central task for the vultures. There is the issue with 
 consistency of information quality transmitted from one to 
 another. Another issue deals with the outward transmission of 
@@ -6673,4 +6673,15 @@ to $X_2$. And $X_2$ ensures that $T(I_q)$ equals $I_q$ by
 cross-checking the information with $X_1$. Both $X_0$ and 
 $X_2$ conducted information consistency tests on $I_q$. 
 For the question of the source of $I_q$, whereas $X_0$ is 
-a direct witnessing agent, $X_2$ is a narrating agent.
+a direct witnessing agent, $X_2$ is a narrating agent. 
+
+![image info](./images/taiv_twelve.PNG)
+
+**TAIV12:** Valuable information $I_i$ is to be kept 
+secret by $Y$ for security concerns. Anytime $Y$ is 
+queried by an adversarial agent (green nodes), $Y$ 
+responds with information different than $I_i$. Sending 
+$I_i$ to $X_0$ results in $X_0$ sending it to other 
+adversarial agents. If enough adversarial agents know 
+what information $i$ is, their offensive against $Y$ 
+and its allies would be more effective.  
