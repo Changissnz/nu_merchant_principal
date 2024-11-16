@@ -6689,7 +6689,7 @@ and its allies would be more effective.
 
 Information-protectionist schemes are essentially 
 cryptographic practice. Defensive competency by the 
-principle of accumulative layering is standard practice. 
+principle of cumulative layering is standard practice. 
 Vultures, as protectors of the spectated, are divided 
 into three main categories. The first is the witness, 
 the second the verifiers of the information relayed 
