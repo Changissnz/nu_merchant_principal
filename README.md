@@ -6754,4 +6754,4 @@ some kind of information reception, and that information
 does not have to be the truth. In the grand order of 
 protectionism, there are economic costs attached. There 
 are power dynamics and contingencies to be maintained. 
-And there is the literal creature of the vulture. 
+And there is the literal creature, the vulture. 
