@@ -6686,3 +6686,7 @@ $I_i$ to $X_0$ results in $X_0$ sending it to other
 adversarial agents. If enough adversarial agents know 
 what information $i$ is, their offensive against $Y$ 
 and its allies would be more effective.  
+
+![image info](./images/taiv_thirteen.PNG)
+
+**TAIV13:** 
