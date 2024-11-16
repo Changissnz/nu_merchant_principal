@@ -27,6 +27,7 @@
 18. [Arguments in Image-Projectable Contexts](#p18)
 19. [Proprietary Calculations](#p19)
 20. [The Audience Is the Vulture](#p20)
+21. [About the Simplicity of the Cycle](#p21)
 
 Business comes and goes, much more frequently than governments. 
 So how can commerce thrive without the dread of disillusionment
@@ -6755,3 +6756,5 @@ does not have to be the truth. In the grand order of
 protectionism, there are economic costs attached. There 
 are power dynamics and contingencies to be maintained. 
 And there is the literal creature, the vulture. 
+
+# About the Simplicity of the Cycle
