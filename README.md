@@ -6707,7 +6707,7 @@ of vultures. After the verifier-vultures $V_v$ initiated
 the first encrypted layer over $I$, the remaining classes 
 of vultures, $V_d^{(1)}$ through $V_d^{(n)}$, add more 
 encrypting layers. The objective is for $I$ to be 
-unrecognizable by $A$ from their initial receipt of it,
+unrecognizable to $A$ from their initial receipt of it,
 and continue to be unrecognizable by them after their 
 efforts to discover what $I$ really is. 
 
@@ -6716,7 +6716,7 @@ of the obfuscating classes of vultures, $A$ will never
 reach $V_v$, the verifier-vultures, let alone $V_s$, the 
 spectator-vultures. Every class of vultures operates in 
 a contained manner with respect to members, and 
-compartmentalization between classes is code of conduct. 
+compartmentalization of classes is code of conduct. 
 The adversary could use something called an <ins>inquisitive 
 force</ins> onto a class of obfuscator-vulture $V_d^{(i)}$. 
 $V_d^{(i)}$ would send the information $I$ as  
