@@ -6687,6 +6687,39 @@ adversarial agents. If enough adversarial agents know
 what information $i$ is, their offensive against $Y$ 
 and its allies would be more effective.  
 
+Information protectionist schemes are essentially 
+cryptographic practice. Defensive competency by the 
+principle of accumulative layering is standard practice. 
+Vultures, as protectors of the spectated, are divided 
+into three main categories. The first is the witness, 
+the second the verifiers of the information relayed 
+from the witnesses, and the third is the arbitrary 
+defensive system to guard against an adversarial 
+outsider's acquisition. 
+
 ![image info](./images/taiv_thirteen.PNG)
 
-**TAIV13:** 
+**TAIV13:** A layered information-defensive design 
+by the vultures to protect the spectated $S$' information 
+$I$ from adversary $A$. Every green node depicts a class 
+of vultures. After the verifier-vultures $V_v$ initiated 
+the first encrypted layer over $I$, the remaining classes 
+of vultures, $V_d^{(1)}$ through $V_d^{(n)}$, add more 
+encrypting layers. The objective is for $I$ to be 
+unrecognizable by $A$ from their initial receipt of it,
+and continued to be unrecognizable by them after their 
+efforts to discover what $I$ really is. 
+
+The idea is that even if $A$ is able to get past each 
+of the obfuscating classes of vultures, $A$ will never 
+reach $V_v$, the verifier-vultures, let alone $V_s$, the 
+spectator-vultures. Every class of vultures operates in 
+a contained manner with respect to members, and 
+compartmentalization between classes is code of conduct. 
+The vulture, as the protector, in this brief abstraction 
+of standard cryptographic practice, is far from how 
+the literal vulture operates. But information security 
+practices usually do depend on a spectator of sorts, 
+including the possessor or narrator of information, so 
+this description of the metaphorical vulture-protector 
+is a fitting analogy for activity in that realm. 
