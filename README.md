@@ -6720,10 +6720,10 @@ compartmentalization of classes is code of conduct.
 The adversary could use something called an <ins>inquisitive 
 force</ins> onto a class of obfuscator-vulture $V_d^{(i)}$. 
 $V_d^{(i)}$ would send the information $I$ as  
-$E_i(\dots(E_1(I))\dots)$.  
+$E_{i+1}(\dots(E_1(I))\dots)$.  
 After successful application of the <ins>inquisitive 
 force</ins>, $V_d^{(i)}$ would be forced to reveal $I$ as  
-$E_{i-1}(\dots(E_1(I))\dots)$,  
+$E_{i}(\dots(E_1(I))\dots)$,  
 the information that they were originally given as 
 input. 
 
