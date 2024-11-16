@@ -6659,3 +6659,18 @@ consistency of information quality transmitted from one to
 another. Another issue deals with the outward transmission of 
 sensitive information from the protectors of a spectated group 
 to outsiders. 
+
+![image info](./images/taiv_eleven.PNG)
+
+**TAIV11:** A typical verification scheme that uses the 
+principle of consistent echo (recollection). The spectated 
+agent $Y$ conducts an act that is processed by both $X_0$ 
+and $X_1$ as information $I_q$. Agent $X_0$ verifies that 
+its "perception" is accurate by querying $X_1$ for accuracy 
+($V(I_q)$), and $X_1$ sends its response on the query as 
+$R(V(I_q))$. $X_0$ transmits its version of $I_q$, as $T(I_q)$, 
+to $X_2$. And $X_2$ ensures that $T(I_q)$ equals $I_q$ by 
+cross-checking the information with $X_1$. Both $X_0$ and 
+$X_2$ conducted information consistency tests on $I_q$. 
+For the question of the source of $I_q$, whereas $X_0$ is 
+a direct witnessing agent, $X_2$ is a narrating agent.
