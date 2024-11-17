@@ -6763,7 +6763,7 @@ The conceptual cycle has produced some classic phrases
 that have found their way into common dialogue, discussion, 
 and other kinds of linguistic expression. For an encouraging 
 remark, try "maybe next time". For a rationale on what is 
-believed to be justice exemplified, "that's karma" and "what 
+believed to be justice exemplified, "that is karma" and "what 
 comes around goes around". For telling another what they are 
 in the totality of existence, "know your place in the circle 
 of life". For admitting to the consequences of a bad decision 
@@ -6788,7 +6788,7 @@ order that many human beings believe to be the one/s pre-ordained
 to govern, the cycle in these abstracted mentions lacks scientific 
 proof and practice. The capability of commanding wheels, cogs, and 
 circuits is not the only determinant in controlling the all-superceding 
-cycle, believed to be the dictator of anything that can change through 
+cycle, believed to be the dictator of any thing that can change through 
 the thing's existence, yes? But yet, there are still some that stand 
 by the cycle as justification for whatever lack of control they 
 have, or for what contentious actions they have taken. The preferential 
