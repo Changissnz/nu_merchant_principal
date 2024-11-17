@@ -6769,7 +6769,7 @@ in the totality of existence, "know your place in the circle
 of life". For admitting to the consequences of a bad decision 
 or events outside of one's own control, "it is a cyclical 
 downturn". The conceptual cycle is perceived as simple, yet 
-robust enough to accomodate for the many unexpected disappointments 
+robust enough to account for the many unexpected disappointments 
 and the stories of triumph after rebirth. There exist beliefs 
 in it as the prime component, the core, of deterministic 
 perfection, unbreakable conservatism, and rule of human 
