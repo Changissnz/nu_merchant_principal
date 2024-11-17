@@ -6757,4 +6757,39 @@ protectionism, there are economic costs attached. There
 are power dynamics and contingencies to be maintained. 
 And there is the literal creature, the vulture. 
 
-# About the Simplicity of the Cycle
+# About the Simplicity of the Cycle 
+
+The conceptual cycle has produced some classic phrases 
+that have found their way into common dialogue, discussion, 
+and other kinds of linguistic expression. For an encouraging 
+remark, try "maybe next time". For a rationale on what is 
+believed to be justice exemplified, "that's karma" and "what 
+comes around goes around". For telling another what they are 
+in the totality of existence, "know your place in the circle 
+of life". For admitting to the consequences of a bad decision 
+or events outside of one's own control, "it is a cyclical 
+downturn". The conceptual cycle is perceived as simple, yet 
+robust enough to accomodate for the many unexpected disappointments 
+and the stories of triumph after rebirth. There exist beliefs 
+in it as the prime component, the core, of deterministic 
+perfection, unbreakable conservatism, and rule of human 
+choice (a part of unbreakable conservatism in the socio-economic 
+realm). The spans of available choice, in general, do coincide 
+with expansions and recessions in capital and the state. Those 
+proponents of free will, subject to these choices, would 
+probably prefer abstinence given the degree of said choices' 
+poorness. Mating games for many species are also cyclical due 
+to seasonal preferences. Relentless dedication that results 
+in more perfection than not is usually not without a scientific 
+awareness of the methodology for cyclical improvement. The wheel, 
+the cog, and the circuit are all materializations of the cycle. 
+In more subjective contexts, such as in faith and the natural 
+order that many human beings believe to be pre-ordained to govern, 
+the cycle in these abstracted mentions lacks scientific proof 
+and practice. But yet, there are still some that stand by 
+the cycle as justification for whatever lack of control they 
+do not have, or for what contentious actions they have taken. 
+The preferential practice by cyclical routines is due to, by 
+some degree, the practitioner's belief that they can achieve 
+the closest possible to the infinite, an unquantifiable and godly 
+value.
