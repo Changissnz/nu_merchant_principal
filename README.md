@@ -6757,7 +6757,7 @@ protectionism, there are economic costs attached. There
 are power dynamics and contingencies to be maintained. 
 And there is the literal creature, the vulture. 
 
-# About the Simplicity of the Cycle 
+# About the Simplicity of the Cycle <a name="p21"></a> 
 
 The conceptual cycle has produced some classic phrases 
 after having found their way into common dialogue, discussion, 
