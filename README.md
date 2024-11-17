@@ -6792,4 +6792,4 @@ do not have, or for what contentious actions they have taken.
 The preferential practice by cyclical routines is due to, by 
 some degree, the practitioner's belief that they can achieve 
 the closest possible to the infinite, an unquantifiable and godly 
-value.
+value, by acting in the image of the infinitely-spinning cycle. 
