@@ -6760,7 +6760,7 @@ And there is the literal creature, the vulture.
 # About the Simplicity of the Cycle 
 
 The conceptual cycle has produced some classic phrases 
-that have found their way into common dialogue, discussion, 
+after having found their way into common dialogue, discussion, 
 and other kinds of linguistic expression. For an encouraging 
 remark, try "maybe next time". For a rationale on what is 
 believed to be justice exemplified, "that is karma" and "what 
