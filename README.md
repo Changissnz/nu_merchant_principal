@@ -6784,12 +6784,16 @@ in more perfection than not is usually not without a scientific
 awareness of the methodology for cyclical improvement. The wheel, 
 the cog, and the circuit are all materializations of the cycle. 
 In more subjective contexts, such as in faith and the natural 
-order that many human beings believe to be pre-ordained to govern, 
-the cycle in these abstracted mentions lacks scientific proof 
-and practice. But yet, there are still some that stand by 
-the cycle as justification for whatever lack of control they 
-do not have, or for what contentious actions they have taken. 
-The preferential practice by cyclical routines is due to, by 
-some degree, the practitioner's belief that they can achieve 
-the closest possible to the infinite, an unquantifiable and godly 
-value, by acting in the image of the infinitely-spinning cycle. 
+order that many human beings believe to be the one/s pre-ordained 
+to govern, the cycle in these abstracted mentions lacks scientific 
+proof and practice. The capability of commanding wheels, cogs, and 
+circuits is not the only determinant in controlling the all-superceding 
+cycle, believed to be the dictator of anything that can change through 
+the thing's existence, yes? But yet, there are still some that stand 
+by the cycle as justification for whatever lack of control they 
+have, or for what contentious actions they have taken. The preferential 
+practice by cyclical routines is due to, by some degree, the 
+practitioner's belief that they can achieve the closest possible 
+to the infinite, an unquantifiable and godly value, by acting 
+in the image of the infinitely-spinning cycle. 
+
