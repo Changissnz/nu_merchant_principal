@@ -6759,12 +6759,12 @@ And there is the literal creature, the vulture.
 
 # About the Simplicity of the Cycle <a name="p21"></a> 
 
-The conceptual cycle has produced some classic phrases 
-after having found their way into common dialogue, discussion, 
-and other kinds of linguistic expression. For an encouraging 
-remark, try "maybe next time". For a rationale on what is 
-believed to be justice exemplified, "that is karma" and "what 
-comes around goes around". For telling another what they are 
+The conceptual cycle has produced some phrases made 
+classic after having found their way into common dialogue, 
+discussion, and other kinds of linguistic expression. For an 
+encouraging remark, try "maybe next time". For a rationale on 
+what is believed to be justice exemplified, "that is karma" and 
+"what comes around goes around". For telling another what they are 
 in the totality of existence, "know your place in the circle 
 of life". For admitting to the consequences of a bad decision 
 or events outside of one's own control, "it is a cyclical 
