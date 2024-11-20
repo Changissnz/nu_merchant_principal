@@ -6853,4 +6853,11 @@ the "wiring" of activators and propensities are modified towards
 satisfying the aims of the subtle commands enmeshed in the hypnosis 
 session. Opponents of hypnosis, whether applied onto themselves or 
 the overall practice, would call the results of "successful" hypnosis 
-"textbook manipulation". 
+"textbook manipulation". A more convincing argument for the cycle to 
+be recognized as a hypnotizer and a derecognizer exists, and this 
+argument uses analyses of the cycle's effects on memory. The 
+mechanisms of memory are difficult to explain in some cases, such 
+as with human memory. By associating the quality of memory with 
+recall testing in areas such as frequency of occurrence and recognition, 
+and also in confidence of memory authenticity, the perspective that 
+the cycle produces effects onto memory can be reasonably reviewed. 
