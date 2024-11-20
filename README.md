@@ -6585,7 +6585,15 @@ set of information may result in the corresponding effects
 of the next column (third). The projected effects vary from a 
 negative value, by function $\mathbb{C}$ inflicted upon agent $S_1$, 
 to nullification of a previous action taken, and the fourth 
-column shows probabilities of these effects' actualization.
+column shows probabilities of these effects' actualization. 
+
+Preventative security is taken by some particular types of 
+information brokers to ensure that some actions cannot be 
+taken by their target. Pressure is applied onto the target, 
+so that their decisions are greatly influenced by the necessitation 
+of either guarding their secret/s, or proceeding along with 
+the action that they would have taken if there was no external 
+and aggressive pressure geared against them. 
 
 The information broker's use of these two strategies, 
 implicating security-breaker and preventative security, run 
@@ -6921,3 +6929,4 @@ that begins down the hypnotized path becomes insistent on
 recognizing the next iteration of the cycle and, in this pursuit, 
 derecognizes details that they find to be superfluous or 
 counter-argumentative to the cycle. 
+
