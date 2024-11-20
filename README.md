@@ -6838,7 +6838,7 @@ regarding its unbreakable conservatism and rule, be verified? The
 claims take a believer then. But then again, cognitive analysis by 
 choice and capability does rest much on belief. 
 
-Frequent results from involvement in a cycle place said cycle 
+Frequent results from involvement with a cycle place said cycle 
 as a key <ins>hypnotizer</ins>. On a intersecting field to hypnosis 
 is the cycle's role as a <ins>derecognizer</ins>. The documentation 
 of psychological practice and experimentation is not the aim of this 
@@ -6865,5 +6865,19 @@ reviewed.
 
 ![image info](./images/asoc_one.PNG)
 
-**TAIV13:** A cycle with one head, $q$, and two additional 
+**ASOC1:** A cycle with one head, $q$, and two additional 
 checkpoints, $\hat{q}$ and $q_0$. 
+
+To be a hypnotizer to a subject, the cycle could present itself as 
+an entity with elements separate from the subject. The subject is 
+not involved in the process/es that run the cycle, and their place 
+is to be a third-party observer to the cycle. After some number of 
+iterations, the observer discovers the cycle to be composed of a 
+head and some number of checkpoints before the cycle terminates 
+back at the head. The observer's memory recollection trains them 
+to recognize the cycle by perceiving the head, and each of the 
+checkpoints in their iterative sequence. Expectations are adjusted, 
+from the beginning of lack of expectation towards the certainty 
+that a noted element of the cycle will occur some increments of 
+time later, due to the occurrence of an element that the cycle 
+passed at a previous point in time. 
