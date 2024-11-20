@@ -6890,9 +6890,18 @@ observer's cognition to those elements of their initial memory.
 In contrary alterations, the cycle could alter itself by removing 
 certain checkpoints that the observer holds in their initial 
 full-memory. A successful hypnotizer would force the observer 
-to correct their initial full-memory for the "most accurate" 
-full-memory of the cycle. The cycle could be composed of just 
-one element, the head, and the observer's cognition would make 
-them think that that is all in their ongoing perception of 
-the cycle. 
+to correct their initial full-memory to the "most accurate" 
+full-memory of the cycle. The cycle could be altered to be composed 
+of just one element, the head, and the observer's cognition 
+would make them think that that is all to the cycle in their ongoing 
+observation. The cycle used as a successful hypnotizer would 
+train the observer's cognition so that the observer would be 
+able to attribute each iteration of the cycle as the identity 
+of the cycle. Although there can be alterations to what a cycle 
+consists of, as long as the observer recognizes each iteration 
+that they observe of the cycle as the cycle's identity, then 
+the hypnotizer has produced lasting effects on the comprehending 
+mechanisms of the observer, with respect to the cycle and its 
+perceived iterations.  
+
 
