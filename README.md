@@ -6860,4 +6860,10 @@ mechanisms of memory are difficult to explain in some cases, such
 as with human memory. By associating the quality of memory with 
 recall testing in areas such as frequency of occurrence and recognition, 
 and also in confidence of memory authenticity, the perspective that 
-the cycle produces effects onto memory can be reasonably reviewed. 
+the cycle produces effects of some nature onto memory can be reasonably 
+reviewed. 
+
+![image info](./images/asoc_one.PNG)
+
+**TAIV13:** A cycle with one head, $q$, and two additional 
+checkpoints, $\hat{q}$ and $q_0$. 
