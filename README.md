@@ -6810,7 +6810,7 @@ as identical cycles. The cycle of one process can produce more than
 one product. A cycle can produce multiple products through a single 
 iteration. By the quality of localization, a particular product 
 attributed to a cycle could be a product of another cycle. The other 
-cycle could be a super-cycle to that cycle, or it be a predominantly 
+cycle could be a super-cycle to that cycle, or be a predominantly 
 disjoint cycle except for the sharing of attribution in that one 
 product. There is both consistency and inconsistency in the cycle 
 then, due to its capabilities to localize (change in concentration 
@@ -6821,4 +6821,19 @@ cycle of these contexts is mentioned because of the perception,
 resting on background and presumptive knowledge, that becomes 
 rationalized into that of a judgment on the cycle as the one 
 explanation for possibly many shades, scopes, and established 
-causes. 
+causes. There is due to be opinion on the individuality of the 
+cycle: materializations of the cycle into forms such as wheels 
+are inarguably distinct, due to the process of exemplification 
+from the source to the crafted material. The all-superceding 
+cycle cannot be traced or shadowed to such degrees that total 
+control over it can be achieved. But that is not the great irony, 
+out of its unipolarity. Arguably, the great irony is that offsprings 
+of this all-superceding cycle can be used as contentious explanations 
+wrongly claimed to have the same believed omnipotence of the 
+all-superceding cycle, for events comprehended as facts or opinions. 
+Another great irony is that if the all-superceding cycle cannot be 
+traced or shadowed, how can the truthfulness of claims, regarding 
+its unbreakable conservatism and rule, be verified? The claims take 
+a believer then. But then again, cognitive analysis by choice and 
+capability does rest much on belief. 
+
