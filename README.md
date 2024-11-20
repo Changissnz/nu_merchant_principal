@@ -6871,7 +6871,7 @@ checkpoints, $\hat{q}$ and $q_0$.
 To be a hypnotizer to a subject, the cycle could present itself as 
 an entity with elements separate from the subject. The subject is 
 not involved in the process/es that run the cycle, and their place 
-is to be a third-party observer to the cycle. After some number of 
+is of a third-party observer to the cycle. After some number of 
 iterations, the observer discovers the cycle to be composed of a 
 head and some number of checkpoints before the cycle terminates 
 back at the head. The observer's memory recollection trains them 
@@ -6880,4 +6880,10 @@ checkpoints in their iterative sequence. Expectations are adjusted,
 from the beginning of lack of expectation towards the certainty 
 that a noted element of the cycle will occur some increments of 
 time later, due to the occurrence of an element that the cycle 
-passed at a previous point in time. 
+passed at a previous point in time. The cycle could alter its 
+appearance to include additional elements. But the observer would 
+conserve their initial memory of the cycle, with the head and 
+some number of checkpoints, so as to ignore what additional 
+elements are added from one iteration to the next. Then the 
+hypnotizer has accomplished the objective of fixing the 
+observer's cognition to those elements of their initial memory. 
