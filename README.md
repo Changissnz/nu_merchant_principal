@@ -6838,7 +6838,7 @@ regarding its unbreakable conservatism and rule, be verified? The
 claims take a believer then. But then again, cognitive analysis by 
 choice and capability does rest much on belief. 
 
-Frequent results from involvement in a cycle places said cycle 
+Frequent results from involvement in a cycle place said cycle 
 as a key <ins>hypnotizer</ins>. On a intersecting field to hypnosis 
 is the cycle's role as a <ins>derecognizer</ins>. The documentation 
 of psychological practice and experimentation is not the aim of this 
