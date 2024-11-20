@@ -6831,7 +6831,7 @@ or shadowed to such degrees that total control over it can be achieved.
 But that is not the great irony. Arguably, the great irony is that 
 offsprings of this all-superceding cycle can be used as contentious 
 explanations wrongly claimed to have the same believed omnipotence 
-of the all-superceding cycle, for events comprehended as facts or 
+as the all-superceding cycle, for events comprehended as facts or 
 opinions. Another great irony is that if the all-superceding cycle 
 cannot be traced or shadowed, how can the truthfulness of claims, 
 regarding its unbreakable conservatism and rule, be verified? The 
