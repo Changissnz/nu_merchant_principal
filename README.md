@@ -7077,7 +7077,6 @@ but with the addition of a connective chain for a group
 of cycles, their individual identities mean little for 
 individual value. The engineering of vulnerable systems 
 for output, such that the components are preferred to be 
-ignored in rank of value so that little risk of 
-precision-based tampering can occur on the blackbox's 
-functionality, demands a security that blurs any 
-real demarcation.
+ignored in rank of value so that precision-based tampering 
+is not as encouraged on the blackbox's functionality, 
+demands a security that blurs any real demarcation.
