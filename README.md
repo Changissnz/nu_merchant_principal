@@ -7084,7 +7084,7 @@ The connective chain is part of the super-cycle over
 the connected cycles. On what exactly is the cycle, 
 individual recognition becomes a problem with answers 
 of unscientific explanations, component-wise. A piece 
-can be demarcated from the whole, but for some reason 
+can be demarcated from the whole. But for some reason, 
 it does not work when demarcated. And the whole has too 
 many pieces to be given the sole identity through innumerable 
 functions attributed to it. Oh, these localized-mutative 
