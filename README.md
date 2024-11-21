@@ -6930,3 +6930,13 @@ recognizing the next iteration of the cycle and, in this pursuit,
 derecognizes details that they find to be superfluous or 
 counter-argumentative to the cycle. 
 
+The cycle's hypnotic and derecognizing capabilities also work 
+from a first-party perspective. Without being granted a holistic 
+view of the cycle, the subject of the cycle is to uphold other 
+responsibilities of two varieties: stationary and mobile. Stationary 
+responsibilities require the subject to be responsible for procedures 
+of an arbitrary number of checkpoints in the cycle. Mobile 
+responsibilities treat the subject as an input variable into the 
+cycle. At each checkpoint in the cyclical flow, the subject is 
+responsibility for conducting activity, usually prescribed in a 
+similar degree to the degree of determinism belonging to the cycle. 
