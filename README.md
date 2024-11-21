@@ -6953,8 +6953,9 @@ concept that connects the modus operandi of a hypnotizer and that
 of a derecognizer is "attention". Dedicated and concentrated 
 attention from either the first-party or third-party subject is 
 exerted, and these two classes of subjects are divided on the 
-basis of two primary premises: the local area/s of the cycle 
+basis of two primary premises: the localized area/s of the cycle 
 their attention is latched on to, in the manner of magnification, 
 and their actions in relation to the cycle (observation & anticipation 
-&prediction, or observation & anticipation & required work to fulfill 
+& prediction, or observation & anticipation & required work to fulfill 
 cyclical iteration). 
+
