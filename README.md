@@ -6979,8 +6979,13 @@ origin of $C$'s alteration, to an external cycle.
 is the super-cycle containing the other three. Every point on 
 an arbitrary cycle represents an event of qualities and 
 occurrences that forms a part of its whole. Two attempts are 
-made to correlate a point of one "distinct" cycle from another. 
-The attempt, in blue lines, is a linear angular approach (in the 
+made to correlate a point of one "distinct" cycle to another. 
+The attempt, in blue, is a linear angular approach (in the 
 geometric sense). And the other attempt appears to be a more 
 arbitrary one that uses non-disclosed correlation functions to 
 map the point from one cycle to the next. 
+
+While both diagrams ASOC2 and ASOC3 are merely incomplete 
+and generalistic attempts to depict cycles, they do encourage 
+thoughts that lead to a few issues of cycles and their cognitive 
+processing. 
