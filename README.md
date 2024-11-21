@@ -6958,8 +6958,8 @@ their attention is latched on to, in the manner of magnification,
 and their actions in relation to the cycle (observation & anticipation 
 & prediction, or observation & anticipation & required work to fulfill 
 cyclical iteration). Cycles that decline in effectiveness as hypnotizers 
-and derecognizers inflame transient notions of doubt on determinism and 
-non-determinism, and the terminal breaking of effects would turn those 
-initially transient notions into central foci of reflection and 
-meditation for clarification. 
+and derecognizers inflame transient notions of doubt on non-determinism, 
+and the terminal breaking of effects would turn those initially 
+transient notions into central foci of reflection and meditation 
+for clarification. 
 
