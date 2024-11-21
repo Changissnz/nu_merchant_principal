@@ -6959,6 +6959,7 @@ and their actions in relation to the cycle (observation & anticipation
 & prediction, or observation & anticipation & required work to fulfill 
 cyclical iteration). Cycles that decline in effectiveness as hypnotizers 
 and derecognizers inflame transient notions of doubt on determinism and 
-non-determinism, and the terminal breaking of effects would make those 
-initially transient notions turn into central foci of reflection and 
+non-determinism, and the terminal breaking of effects would turn those 
+initially transient notions into central foci of reflection and 
 meditation for clarification. 
+
