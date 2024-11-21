@@ -7047,10 +7047,10 @@ a subject first enters a cycle. Then at a checkpoint, the
 subject ceases to proceed to the next checkpoint, instead 
 exiting out of the cycle into another. If the subject is 
 the only one that has entered the exited cycle, the cycle 
-ceases to be relevant and thus dies. The subject is an 
+ceases to be relevant and thus dies. The subject is a 
 <ins>cycle-breaker</ins> of an agent then. The non-constant 
 cycle can also shrink. In ASOC2, if the connection of node 
-5 to $P_X$, the entry point into the other side, results in 
+$5$ to $P_X$, the entry point into the other side, results in 
 a long-running imbalance of flow out of the five-node cycle 
 $C$, $C$ will shrink by some variable rate, and eventually 
 terminate in motion and existence. Circular reasoning for 
@@ -7059,7 +7059,8 @@ why this phenomenon can occur. There is the common perspective
 that a terminated cycle is part of a greater cycle's planned 
 steps. So great is the greater cycle that once its steps have 
 been planned and put into motion, there is no determinism 
-other than those steps for the foreseeable future. 
+that can produce anything other than those steps for the 
+foreseeable future. 
 
 Back to the topic of the individuality of the cycle, the 
 design of a particular cycle could be suited to produce 
@@ -7075,7 +7076,7 @@ one cycle to the next.
 Cycles can be demarcated into individual identities, 
 but with the addition of a connective chain for a group 
 of cycles, their individual identities mean little for 
-individual value. The engineering of vulnerable systems 
+individual values. The engineering of vulnerable systems 
 for output, such that the components are preferred to be 
 ignored in rank of value so that precision-based tampering 
 is not as encouraged on the blackbox's functionality, 
@@ -7088,5 +7089,4 @@ can be demarcated from the whole. But for some reason,
 it does not work when demarcated. And the whole has too 
 many pieces to be given the sole identity through innumerable 
 functions attributed to it. Oh, these localized-mutative 
-effectors, these cycles. 
-
+effectors, these cycles.
