@@ -6971,7 +6971,16 @@ $P_A$ establishes an input-output functional relation with $C$.
 This ongoing relation can act as a point for questioning the 
 "identity" of cycle $C$, since $C$ has five critical points 
 and one of those points acts as an entry point, a possible 
-origin of altering $C$, to an external cycle. 
+origin of $C$'s alteration, to an external cycle. 
 
+![image info](./images/asoc_three.PNG)
 
-
+**ASOC3:** A group of nested cycles, such that the fourth cycle 
+is the super-cycle containing the other three. Every point on 
+an arbitrary cycle represents an event of qualities and 
+occurrences that forms a part of its whole. Two attempts are 
+made to correlate a point of one "distinct" cycle from another. 
+The attempt, in blue lines, is a linear angular approach (in the 
+geometric sense). And the other attempt appears to be a more 
+arbitrary one that uses non-disclosed correlation functions to 
+map the point from one cycle to the next. 
