@@ -6865,7 +6865,7 @@ the overall practice, would call the results of "successful" hypnosis
 be recognized as a hypnotizer and a derecognizer exists, and this 
 argument uses analyses of the cycle's effects on memory. The 
 mechanisms of memory are difficult to explain in some cases, such 
-as with human memory. By associating the quality of memory with 
+as of human memory. By associating the quality of memory with 
 recall testing in areas such as frequency of occurrence and recognition, 
 and also in confidence of memory authenticity, the perspective that 
 the cycle produces effects of some nature onto memory can be reasonably 
@@ -6957,5 +6957,8 @@ basis of two primary premises: the localized area/s of the cycle
 their attention is latched on to, in the manner of magnification, 
 and their actions in relation to the cycle (observation & anticipation 
 & prediction, or observation & anticipation & required work to fulfill 
-cyclical iteration). 
-
+cyclical iteration). Cycles that decline in effectiveness as hypnotizers 
+and derecognizers inflame transient notions of doubt on determinism and 
+non-determinism, and the terminal breaking of effects would make those 
+initially transient notions turn into central foci of reflection and 
+meditation for clarification. 
