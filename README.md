@@ -6938,5 +6938,23 @@ responsibilities require the subject to be responsible for procedures
 of an arbitrary number of checkpoints in the cycle. Mobile 
 responsibilities treat the subject as an input variable into the 
 cycle. At each checkpoint in the cyclical flow, the subject is 
-responsibility for conducting activity, usually prescribed in a 
-similar degree to the degree of determinism belonging to the cycle. 
+responsible for conducting activity that is usually prescribed, in 
+a degree relative to the degree of determinism belonging to the 
+cycle. Instead of gathering knowledge of qualities, in the 
+spatiotemporal sense, on the entire cycle for achieving correctness 
+in third-party observe-and-predict tasks, the first-party subject's 
+cognitive processes fit for what comes before and after (stationary), 
+or the specific tasks derived from prescribed responsibilities (mobile). 
+The first-party subject's direct influence in the workings of the 
+cycle economize their attention and efforts for direct application, 
+via work, that could lead to an ignorance of the entire pattern and 
+set of principles behind the cycle they are a subject in. The 
+concept that connects the modus operandi of a hypnotizer and that 
+of a derecognizer is "attention". Dedicated and concentrated 
+attention from either the first-party or third-party subject is 
+exerted, and these two classes of subjects are divided on the 
+basis of two primary premises: the local area/s of the cycle 
+their attention is latched on to, in the manner of magnification, 
+and their actions in relation to the cycle (observation & anticipation 
+&prediction, or observation & anticipation & required work to fulfill 
+cyclical iteration). 
