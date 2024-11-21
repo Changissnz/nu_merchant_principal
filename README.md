@@ -7037,3 +7037,26 @@ need to be ranked as second priority if the use to produce is
 really an objective. Run the cycle over and again, until the 
 desired product values emerge as results. 
 
+Some more notions are fit to be mentioned about alteratable 
+cycles. Diagram ASOC2 makes for a complete preliminary on the 
+mutative cycle. The two concepts of decline and death can be 
+a part of certain cycles. The default cycle is a perpetual 
+entity. Once it is set into motion, its design independent 
+from external forces does not let it cease motion. Suppose 
+a subject first enters a cycle. Then at a checkpoint, the 
+subject ceases to proceed to the next checkpoint, instead 
+exiting out of the cycle into another. If the subject is 
+the only one that has entered the exited cycle, the cycle 
+ceases to be relevant and thus dies. The subject is an 
+<ins>cycle-breaker</ins> of an agent then. The non-constant 
+cycle can also shrink. In ASOC2, if the connection of node 
+5 to $P_X$, the entry point into the other side, results in 
+a long-running imbalance of flow out of the five-node cycle 
+$C$, $C$ will shrink by some variable rate, and eventually 
+terminate in motion and existence. Circular reasoning for 
+the existence of cycles does little to aid in understanding 
+why this phenomenon can occur. There is the common perspective 
+that a terminated cycle is part of a greater cycle's planned 
+steps. So great is the greater cycle that once its steps have 
+been planned and put into motion, there is no determinism 
+other than those steps for the foreseeable future. 
