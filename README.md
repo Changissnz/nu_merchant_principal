@@ -7004,8 +7004,19 @@ the preferential criteria for identifying a cycle be "evolved"
 over time to maintain the achievement of a balancing act between 
 preserving the authentic identity and accounting for change 
 that is spurred by spatio-temporal specifics? For these questions' 
-answers crafted to suit judgment, regarded as objective, first 
-requires the full consideration of the cycle/s as valid 
-structural processes.
+answers crafted to suit judgment regarded as objective, the 
+answers first require the full consideration of the cycle/s as 
+valid structural processes. There is the dedication of acknowledgment 
+and attention already, even if the only efforts that come out 
+of answers are passive and resigned acceptance of the cycle/s. 
 
-Diagram ASOC3 shows the 
+Diagram ASOC3 shows a set of nested cycles, and this nesting 
+lends credence to the notion of factual hierarchy in these 
+cycles' relations. Maybe a cycle's attribute of being nested 
+in another is the big condition of the cycle's subservience 
+in control and influence to the other. Maybe the super-cycle 
+is a governing player in a Game of <ins>Constant-Concern</ins> 
+to its sub-cycles. Identitification and correlation are oftentimes 
+contrarian. Correlation is part of conflationary reasoning, and 
+identification goes down the path of observing infinitesimal 
+uniqueness between candidates. 
