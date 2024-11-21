@@ -6963,5 +6963,15 @@ and the terminal breaking of effects turns those initially
 transient notions into central foci of reflection and meditation 
 for clarification. 
 
+![image info](./images/asoc_two.PNG)
+
+**ASOC2:** A cycle $C$ with five nodes, $[1,2,3,4,5]$, and a 
+distinct cycle comprised of an arbitrary $P_X$ connected to $P_A$. 
+$P_A$ establishes an input-output functional relation with $C$. 
+This ongoing relation can act as a point for questioning the 
+"identity" of cycle $C$, since $C$ has five critical points 
+and one of those points acts as an entry point, a possible 
+origin of altering $C$, to an external cycle. 
+
 
 
