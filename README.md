@@ -7017,7 +7017,22 @@ in another is the big condition of the cycle's subservience
 in control and influence to the other. Maybe the super-cycle 
 is a governing player in a Game of <ins>Constant-Concern</ins> 
 to its sub-cycles. Identification and correlation are oftentimes 
-contrarian. Correlation is part of conflationary reasoning, and 
-identification goes down the path of observing infinitesimal 
-uniqueness between candidates. 
+contrarian to one another. Correlation is part of conflationary 
+reasoning, and identification goes down the path of observing 
+infinitesimal uniqueness between candidates. 
 
+As already stated, hypnotic-like decision making, especially 
+one that falls under the formulaic structure of a cycle, 
+consistently depends on recognition mechanisms that intend 
+to output identification of pre-determined values. When future 
+events of one span are denoted as a particular cycle, the key 
+identifying features of that one span are observed for 
+occurrence. The rest, of variants and extras and negations, 
+should be derecognized under the hypnotic state. In verification 
+tasks, the belief is that the methodology works, but one iteration 
+of the methodology may produce differing values. The cycle is a 
+stabilizer that should not be changed. The cycle exists for a 
+reason. Its use to produce the values that orbit it, the core, 
+need to be ranked as second priority if the use to produce is 
+really an objective. Run the cycle over and again, until the 
+desired product values emerge as results. 
