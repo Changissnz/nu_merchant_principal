@@ -6979,13 +6979,33 @@ origin of $C$'s alteration, to an external cycle.
 is the super-cycle containing the other three. Every point on 
 an arbitrary cycle represents an event of qualities and 
 occurrences that forms a part of its whole. Two attempts are 
-made to correlate a point of one "distinct" cycle to another. 
+made to correlate points of one "distinct" cycle to another. 
 The attempt, in blue, is a linear angular approach (in the 
 geometric sense). And the other attempt appears to be a more 
 arbitrary one that uses non-disclosed correlation functions to 
-map the point from one cycle to the next. 
+map a point from one cycle to the next. 
 
 While both diagrams ASOC2 and ASOC3 are merely incomplete 
 and generalistic attempts to depict cycles, they do encourage 
 thoughts that lead to a few issues of cycles and their cognitive 
-processing. 
+processing. The issues on identitification, preference, and 
+recognition in these cyclical schematics are a continuation of 
+the discussion on the cycle as a hypnotizer and derecognizer. 
+ASOC2 asks the question of how $C$ should be identified: purely 
+by the occurrence of the chain $[1,2,3,4,5]$, or can $C$ still 
+be $C$ after allowing there to be inputs of a questionably 
+external cycle? Is the cycle to be identified as a strict 
+sequence? What use is its identification if it is a simple 
+abstraction that allows for wiggle-room, such as through the 
+merged activity of another cycle and beyond? What scientific 
+rigidity exists for a cycle to remain as its initial identity 
+after undergoing some arbitrary magnitude of change? How can 
+the preferential criteria for identifying a cycle be "evolved" 
+over time to maintain the achievement of a balancing act between 
+preserving the authentic identity and accounting for change 
+that is spurred by spatio-temporal specifics? For these questions' 
+answers crafted to suit judgment, regarded as objective, first 
+requires the full consideration of the cycle/s as valid 
+structural processes.
+
+Diagram ASOC3 shows the 
