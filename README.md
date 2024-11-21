@@ -7038,7 +7038,7 @@ really an objective. Run the cycle over and again, until the
 desired product values emerge as results. 
 
 Some more notions are fit to be mentioned about alteratable 
-cycles. Diagram ASOC2 makes for a complete preliminary on the 
+cycles. Diagram ASOC2 makes for a preliminary example on the 
 mutative cycle. The two concepts of decline and death can be 
 a part of certain cycles. The default cycle is a perpetual 
 entity. Once it is set into motion, its design independent 
@@ -7060,3 +7060,24 @@ that a terminated cycle is part of a greater cycle's planned
 steps. So great is the greater cycle that once its steps have 
 been planned and put into motion, there is no determinism 
 other than those steps for the foreseeable future. 
+
+Back to the topic of the individuality of the cycle, the 
+design of the particular cycle could be suited to produce 
+inputs for another cycle. A chain of connectivity could be 
+an instrument additionally attached to a group of cycles. 
+
+![image info](./images/asoc_four.PNG)
+
+**ASOC4:** A group of cycles. Every red or blue line 
+represents a connective flow of select products from 
+one cycle to the next. 
+
+Cycles can be demarcated into individual identities, 
+but with the addition of a connective chain for a group 
+of cycles, their individual identities mean little for 
+individual value. The engineering of vulnerable systems 
+for output, such that the components are preferred to be 
+ignored in rank of value so that little risk of 
+precision-based tampering can occur on the blackbox's 
+functionality, demands a security that blurs any 
+real demarcation.
