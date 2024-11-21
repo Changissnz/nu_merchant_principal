@@ -7016,7 +7016,8 @@ cycles' relations. Maybe a cycle's attribute of being nested
 in another is the big condition of the cycle's subservience 
 in control and influence to the other. Maybe the super-cycle 
 is a governing player in a Game of <ins>Constant-Concern</ins> 
-to its sub-cycles. Identitification and correlation are oftentimes 
+to its sub-cycles. Identification and correlation are oftentimes 
 contrarian. Correlation is part of conflationary reasoning, and 
 identification goes down the path of observing infinitesimal 
 uniqueness between candidates. 
+
