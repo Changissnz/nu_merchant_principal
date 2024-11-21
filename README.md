@@ -6987,8 +6987,8 @@ map a point from one cycle to the next.
 
 While both diagrams ASOC2 and ASOC3 are merely incomplete 
 and generalistic attempts to depict cycles, they do encourage 
-thoughts that lead to a few issues of cycles and their cognitive 
-processing. The issues on identitification, preference, and 
+thoughts that lead to a few issues of cognitively processing 
+cycles. The issues on identitification, preference, and 
 recognition in these cyclical schematics are a continuation of 
 the discussion on the cycle as a hypnotizer and derecognizer. 
 ASOC2 asks the question of how $C$ should be identified: purely 
