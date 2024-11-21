@@ -7082,10 +7082,11 @@ is not as encouraged on the blackbox's functionality,
 demands a security that blurs any real demarcation. 
 The connective chain is part of the super-cycle over 
 the connected cycles. On what exactly is the cycle, 
-individual recognition becomes a problem for answers 
+individual recognition becomes a problem with answers 
 of unscientific explanations, component-wise. A piece 
 can be demarcated from the whole, but for some reason 
 it does not work when demarcated. And the whole has too 
-many pieces to be given the sole identity. Oh, these 
-localized-mutative effectors, these cycles. 
+many pieces to be given the sole identity through innumerable 
+functions attributed to it. Oh, these localized-mutative 
+effectors, these cycles. 
 
