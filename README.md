@@ -6987,7 +6987,7 @@ map a point from one cycle to the next.
 
 While both diagrams ASOC2 and ASOC3 are merely incomplete 
 and generalistic attempts to depict cycles, they do encourage 
-thoughts that lead to a few issues of cognitively processing 
+thoughts that lead to a few issues in cognitively processing 
 cycles. The issues on identitification, preference, and 
 recognition in these cyclical schematics are a continuation of 
 the discussion on the cycle as a hypnotizer and derecognizer. 
@@ -7003,12 +7003,12 @@ after undergoing some arbitrary magnitude of change? How can
 the preferential criteria for identifying a cycle be "evolved" 
 over time to maintain the achievement of a balancing act between 
 preserving the authentic identity and accounting for change 
-that is spurred by spatio-temporal specifics? For these questions' 
+spurred by spatio-temporal specifics? For these questions' 
 answers crafted to suit judgment regarded as objective, the 
-answers first require the full consideration of the cycle/s as 
+answers first require the full acceptance of the cycle/s as 
 valid structural processes. There is the dedication of acknowledgment 
 and attention already, even if the only efforts that come out 
-of answers are passive and resigned acceptance of the cycle/s. 
+of answers are passive and resigned acceptances of the cycle/s. 
 
 Diagram ASOC3 shows a set of nested cycles, and this nesting 
 lends credence to the notion of factual hierarchy in these 
@@ -7036,3 +7036,4 @@ reason. Its use to produce the values that orbit it, the core,
 need to be ranked as second priority if the use to produce is 
 really an objective. Run the cycle over and again, until the 
 desired product values emerge as results. 
+
