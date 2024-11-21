@@ -7062,7 +7062,7 @@ been planned and put into motion, there is no determinism
 other than those steps for the foreseeable future. 
 
 Back to the topic of the individuality of the cycle, the 
-design of the particular cycle could be suited to produce 
+design of a particular cycle could be suited to produce 
 inputs for another cycle. A chain of connectivity could be 
 an instrument additionally attached to a group of cycles. 
 
