@@ -7152,4 +7152,20 @@ past by select-hyperbolic fashion, the ideal cannot be a pure
 good when it is certainly more than those primes expressed in 
 exaggeration. They go on thinking, to have reached the ideal 
 and finally peeled off the surface display of the ideal for 
-hopefully enjoy the ideal is a finalized bargain most regretful. 
+hopefully enjoying the ideal is a finalized bargain most 
+regretful. Here are two diagrams for these thoughts, in order, 
+left scant to preserve the honor by hiding the shame of 
+all those that have fallen victim to these bargains. 
+
+![image info](./images/asoc_five.PNG) 
+
+**ASOC5:** The green circle is the natural setting of the 
+ideal, with the ideal denoted by the red dot on it. The blue 
+circle is the experience of the one before receiving the 
+product of the Faustian bargain, through the exchange denoted 
+by the black line. 
+
+![image info](./images/asoc_six.PNG) 
+
+**ASOC6:** The larger-than-life projection of the ideal leaves 
+after substituting itself with the ideal of actuality. 
