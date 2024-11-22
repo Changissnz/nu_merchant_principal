@@ -7107,7 +7107,7 @@ After the discovery, the most accurate cycle is
 practiced in other local zones, maybe in a "global" 
 zone. The best cyclical methodology from trial-and-error 
 is still a localized-mutative effector by its conception, 
-however perfect, and are also usually modified to some 
+however perfect, and is also usually modified to some 
 extent for every application of different localities 
 and globalities. Some cyclical methodologies cannot 
 be so easily mutated,externally, to account for 
@@ -7178,11 +7178,11 @@ ideal, after exiting their own cycle into the cycle of the
 ideal. The Faustian bargain, as illustrated by cycles, serves 
 as a competent example of differentiation between cycles, 
 by their separate effects, that should not have merged. 
-The recipient of the Faustian bargain did not believe that 
-they could merge their existence with the ideal found in 
-the other cycle. And third-party observers conclude, without 
-direct experience as evidence, that the recipient was 
-incompetent enough to be blind to the forbidden merging, 
-out of the unnaturalness, of two cycles best kept separate, 
-although all that these observers can objectively perceive 
-are events and losses, not the cycles themselves. 
+The recipient of the Faustian bargain wrongly believed that they 
+could merge their existence with the ideal found in the other 
+cycle. And third-party observers conclude, without direct 
+experience as evidence, that the recipient was incompetent 
+enough to be blind to the forbidden merging, out of the 
+unnaturalness, of two cycles best kept separate, although 
+all that these observers could objectively perceive were 
+events and losses, not the cycles themselves. There is the 
