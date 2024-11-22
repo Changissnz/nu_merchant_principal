@@ -7271,5 +7271,12 @@ Statements of non-belligerence that turned into icy guards,
 on one hand, and a patience of insatiable hunger, on the other. 
 And then, the antagonism is pre-determined once commenced, a 
 blind cycle liberated by the careless killing of gravity. 
-Whatever happens happens then, even if the cycle dies for it 
-is the ideal that stands after death. 
+What accountability? Whatever happens happens then, even if 
+the cycle dies for it is the ideal that stands after death. 
+Sure, the weaknesses of inequality from difference could have 
+been fixed beforehand. There was knowledge of what strengths 
+needed to be achieved. But those efforts would have broken the 
+way of life, the ideals, and so, there is that. 
+
+Description of the problem of cyclical offense the opposition 
+is forced to confront ensues. 
