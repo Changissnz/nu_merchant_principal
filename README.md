@@ -7220,4 +7220,17 @@ for timely results of defense to the style of offense that
 felled them. By priming their specific methodologies for 
 immediate lethality at every opportunity, there remains 
 no chance for opposition's learnability of the problems 
-most pressing to them. 
+most pressing to them. The cyclical offendors' effectiveness 
+in elimination is because they kept oppositions' notions of 
+them so broad and seemingly aimless, by fully taking 
+advantage of their greater mobility until the point of 
+contact with the ill-prepared opposition. After what remains 
+of the opposition past the initial point of contact within 
+a span, the opposition struggles with a balance disheveled. 
+The opposition usually expects there to come another point 
+of contact, of time nearer or farther, from the cyclical 
+offendor. But the opposition does not manage to formulate 
+better tactics out of their strategy. So for proceeding 
+points of contact, they oppose with their original 
+mechanisms, but with a disheveled balance that ensured 
+them lower potential in performance.
