@@ -7180,17 +7180,17 @@ as a competent example of differentiation between cycles,
 by their separate effects, that should not have merged. 
 The recipient of the Faustian bargain wrongly believed that they 
 could merge their existence with the ideal, found in the other 
-cycle, to finally ideally live. And third-party observers conclude, 
-without direct experience as evidence, that the recipient 
-was incompetent enough to be blind to the forbidden merging, 
-out of the unnaturalness, of two cycles best kept separate, 
-although all that these observers could objectively perceive 
-were events and losses, not the cycles themselves. The 
-observers could probably conclude that the recipient of 
-the Faustian bargain entered a <ins>doom-cycle</ins>, 
-constructed by the forbidden merging of two cycles, but that 
-is merely their theory if that is all to their commentary's 
-thesis. 
+cycle, to finally achieve ideally living. And third-party 
+observers conclude, without direct experience as evidence, 
+that the recipient was incompetent enough to be blind to 
+the forbidden merging, out of the unnaturalness, of two 
+cycles best kept separate, although all that these observers 
+could objectively perceive were events and losses, not the 
+cycles themselves. The observers could probably conclude 
+that the recipient of the Faustian bargain entered a 
+<ins>doom-cycle</ins>, constructed by the forbidden merging 
+of two cycles, but that is merely their theory if that is 
+all to their commentary's thesis. 
 
 A technique, out of genuinely bad trickery, is given the name 
 <ins>false-accounting cycle</ins> in this section's mention. For 
@@ -7206,3 +7206,4 @@ not know that any alternative cyclical process was used,
 and they are faced with the decision to believe in details 
 not verified to have been associated with the base cyclical 
 process. 
+
