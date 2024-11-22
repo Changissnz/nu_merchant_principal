@@ -7217,4 +7217,7 @@ offendors' use is a popular mention due to historical
 occurrences. And in virtually every instance of offendor 
 success by use of the cycle, the opposition did not adapt 
 for timely results of defense to the style of offense that 
-felled them. 
+felled them. By priming their specific methodologies for 
+immediate lethality at every opportunity, there remains 
+no chance for opposition's learnability of the problems 
+most pressing to them. 
