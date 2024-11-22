@@ -7271,3 +7271,5 @@ Statements of non-belligerence that turned into icy guards,
 on one hand, and a patience of insatiable hunger, on the other. 
 And then, the antagonism is pre-determined once commenced, a 
 blind cycle liberated by the careless killing of gravity. 
+Whatever happens happens then, even if the cycle dies for it 
+is the ideal that stands after death. 
