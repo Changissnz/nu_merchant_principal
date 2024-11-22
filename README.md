@@ -7212,6 +7212,6 @@ the Drive in Gridlock) and GSA (section Shifty and Shifting
 Alliances) are of helpful reminder in understanding the 
 complexity of alterable cycles. 
 
-In applied theoretics of cycles, the subfield of offendors' 
-use is a popular mention due to the combination of historical 
-occurrences and pragmatic utilities. 
+In applied theoretics of cycles, the subfield of physical 
+offendors' use is a popular mention due to historical 
+occurrences.
