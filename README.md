@@ -7207,3 +7207,7 @@ and they are faced with the decision to believe in details
 not verified to have been associated with the base cyclical 
 process. 
 
+The possibilities found in diagrams GBGD2 (section Wasting 
+the Drive in Gridlock) and GSA (section Shifty and Shifting 
+Alliances) are of helpful reminder in understanding the 
+complexity of alteratable cycles. 
