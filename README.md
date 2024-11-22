@@ -7267,16 +7267,18 @@ reason of choice and conviction, carried out in the duration of
 time's accumulated effects. There were attempts to unite for 
 one economy of differences in one will's singularity. But that 
 cannot be so. "Agree to disagree". "Make due with the differences". 
-Statements of non-belligerence that turned into icy guards, 
-on one hand, and a patience of insatiable hunger, on the other. 
-And then, the antagonism is pre-determined once commenced, a 
-blind cycle liberated by the careless killing of gravity. 
-What accountability? Whatever happens happens then, even if 
-the cycle dies for it is the ideal that stands after death. 
-Sure, the weaknesses of inequality from difference could have 
-been fixed beforehand. There was knowledge of what strengths 
-needed to be achieved. But those efforts would have broken the 
-way of life, the ideals, and so, there is that. 
+Statements of non-belligerence turned into icy guards, on one 
+hand, and a patience of insatiable hunger, on the other. And 
+then, the antagonism is pre-determined once commenced, a blind 
+cycle liberated by the careless killing of gravity. What 
+accountability? Whatever happens happens then, even if the 
+cycle dies for it is the ideal that stands after death. Sure, 
+the weaknesses of inequality from difference could have been 
+fixed beforehand. There was knowledge of what strengths needed 
+to be achieved. But those efforts would have broken the way 
+of life, the ideals, and so, there is that. 
 
 Description of the problem of cyclical offense the opposition 
-is forced to confront ensues. 
+is forced to confront ensues. Deprivations unique to each of the 
+two cycles are put aside by their own practictioners, of great 
+dissimilarity, for long-awaited confrontations. 
