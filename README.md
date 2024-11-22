@@ -7214,4 +7214,7 @@ complexity of alterable cycles.
 
 In applied theoretics of cycles, the subfield of physical 
 offendors' use is a popular mention due to historical 
-occurrences.
+occurrences. And in virtually every instance of offendor 
+success by use of the cycle, the opposition did not adapt 
+for timely results of defense to the style of offense that 
+felled them. 
