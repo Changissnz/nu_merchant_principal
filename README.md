@@ -7255,17 +7255,17 @@ not there for them two, in order for them to be one and the same
 in the match-up between the physically cyclical offendor and the 
 opposition. Ponderance on the total from any one of the two 
 halves is already limited by the perspective of allegiance. 
-So what if there is a mistake on one end acknowledged by that 
+So what if there is/was a mistake on one end acknowledged by that 
 end, for they are to keep that acknowledgment to themselves, 
 by the terms of their bondage. No authorization exists from 
 either end to the other, for the other to issue non-destructive 
 corrective criticism. Any attempts of this sort of criticism 
-is responded back by those that first invoked hurt of their own 
-cultural and other group-based forms of unity through bondage. 
-The distinct ways of life are different because of the reason 
-of choice and conviction, carried out in the duration of time's 
-accumulated effects. There were attempts to unite for one 
-economy of differences in one will's singularity. But that 
+is rejectedly responded back by those that first invoked hurt of 
+their own cultural and other group-based forms of unity through 
+bondage. The distinct ways of life are different because of the 
+reason of choice and conviction, carried out in the duration of 
+time's accumulated effects. There were attempts to unite for 
+one economy of differences in one will's singularity. But that 
 cannot be so. "Agree to disagree". "Make due with the differences". 
 Statements of non-belligerence that turned into icy guards, 
 on one hand, and a patience of insatiable hunger, on the other. 
