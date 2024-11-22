@@ -7169,3 +7169,13 @@ by the black line.
 
 **ASOC6:** The larger-than-life projection of the ideal leaves 
 after substituting itself with the ideal of actuality. 
+
+So the ideal sought after in the Faustian bargain is part 
+of a cyclical process that preserves its value, and the 
+recipient of this bargain wrongly believed that they can 
+be only positively connected in direct relation with the 
+ideal, after exiting their own cycle into the cycle of the 
+ideal. The Faustian bargain, as illustrated by cycles, serves 
+as a competent example of differentiation between cycles, 
+by their separate effects, that should not have merged. 
+
