@@ -7138,7 +7138,7 @@ Some particular arrangements of a dark light, phrased as
 the well-known <ins>Faustian bargain</ins>, also have a 
 place in this discussion on cycles. The recipient of a 
 Faustian bargain pushes for the deal of acquiring or fulfilling 
-of some thing. After there is that ideal granted to the recipient, 
+some thing. After there is that ideal granted to the recipient, 
 the recipient experiences second-thoughts and unwanted events, 
 all the while holding onto the product of the bargain. They 
 think, because the ideal was too initially too far away that 
