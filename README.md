@@ -6988,7 +6988,7 @@ map a point from one cycle to the next.
 While both diagrams ASOC2 and ASOC3 are merely incomplete 
 and generalistic attempts to depict cycles, they do encourage 
 thoughts that lead to a few issues in cognitively processing 
-cycles. The issues on identitification, preference, and 
+cycles. The issues on identification, preference, and 
 recognition in these cyclical schematics are a continuation of 
 the discussion on the cycle as a hypnotizer and derecognizer. 
 ASOC2 asks the question of how $C$ should be identified: purely 
@@ -6996,7 +6996,7 @@ by the occurrence of the chain $[1,2,3,4,5]$, or can $C$ still
 be $C$ after allowing there to be inputs of a questionably 
 external cycle? Is the cycle to be identified as a strict 
 sequence? What use is its identification if it is a simple 
-abstraction that allows for wiggle-room, such as through the 
+abstraction that allows for wiggle-room, such as enabling the 
 merged activity of another cycle and beyond? What scientific 
 rigidity exists for a cycle to remain as its initial identity 
 after undergoing some arbitrary magnitude of change? How can 
@@ -7092,3 +7092,37 @@ it does not work when demarcated. And the whole has too
 many pieces to be given the sole identity through innumerable 
 functions attributed to it. Oh, these localized-mutative 
 effectors, these cycles. 
+
+The cycle is one of the cornerstones of scientific 
+methodology: trial-and-error as cyclical iteration 
+for wanted products that can be reproduced by the most 
+accurate cycle of methodology. With phrasing that 
+directly associates "error" with "trial", positive 
+expectations of these methodological practices are 
+halved. The objective of <ins>purely gainful value 
+transfer</ins> from trial-and-error operations must 
+have risk of failure. The cycle of trial-and-error 
+for discovery is usually run in a localized zone. 
+After the discovery, the most accurate cycle is 
+practiced in other local zones, maybe in a "global" 
+zone. The best cyclical methodology from trial-and-error 
+is still a localized-mutative effector by its conception, 
+however perfect, and are also usually modified to some 
+extent for every application of different localities 
+and globalities. Some cyclical methodologies cannot 
+be so easily externally mutated to account for distinguishing 
+traits from one application to another. What necessity 
+to run the methodological cycle, regardless, requires the 
+marginalization of the distinguishing traits in the 
+representation of the input, in effect marginalizing the 
+surface of disapproving attack on the cycle. 
+<ins>Pathologically-perceived inputs</ins>, inputs that 
+would be misapplied by a particular cycle of methodology, 
+can be nevertheless inserted into the localized-mutative 
+effector. And then what. There is bound to be error from 
+the cycle onto the input and maybe beyond. The particular 
+cycle should not have been run but, by some volition 
+probably self-claimed to be righteous without challenge 
+if not for the judgment of its pathology by the results, 
+the input was processed by it; the input acted as a catalyst 
+for <ins>falsely-caused firings</ins>. 
