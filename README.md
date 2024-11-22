@@ -7238,7 +7238,7 @@ performance.
 
 Many moralistic viewpoints have been expressed on the 
 matter of the cyclical practice turned malicious against 
-the other entity/ies. Viewpoints are first noted in 
+the other entity/ies. Viewpoints are now noted in 
 general and pseudo-precise echoing. Of foremost prominence 
 in the themes expressed by viewpoints is the judgment 
 that there was a mistake, or plenty of mistakes, somewhere 
@@ -7269,3 +7269,5 @@ one economy of differences in one will's singularity. But that
 cannot be so. "Agree to disagree". "Make due with the differences". 
 Statements of non-belligerence that turned into icy guards, 
 on one hand, and a patience of insatiable hunger, on the other. 
+And then, the antagonism is pre-determined once commenced, a 
+blind cycle liberated by the careless killing of gravity. 
