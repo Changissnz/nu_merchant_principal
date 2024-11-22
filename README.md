@@ -7245,9 +7245,11 @@ that there was a mistake, or plenty of mistakes, somewhere
 along the way for there to be this physical offendor's 
 malicious utility of the cycle. Without the feel to 
 mince words in this retelling, there is the belief that 
-the mistake that corrects itself by correcting other mistakes, 
-through control by techniques including containment, deprivation, 
-forced role-playing amongst other forms of subjugation, as well 
-as the broad field of terror tactics with tools of physical 
-violence or undetected harm designed to be perceived as 
-non-violent. 
+there is a mistake that corrects itself by correcting other 
+mistakes, through control by techniques including containment, 
+deprivation, forced role-playing amongst other forms of subjugation, 
+as well as the broad field of terror tactics with tools of physical 
+violence or undetected harm designed to be perceived as non-violent. 
+For each mistake and the entity of that mistake, the separation is 
+not there for them two to be one and the same in the match-up between 
+the physically cyclical offendor and the opposition. 
