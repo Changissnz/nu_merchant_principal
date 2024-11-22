@@ -7178,4 +7178,11 @@ ideal, after exiting their own cycle into the cycle of the
 ideal. The Faustian bargain, as illustrated by cycles, serves 
 as a competent example of differentiation between cycles, 
 by their separate effects, that should not have merged. 
-
+The recipient of the Faustian bargain did not believe that 
+they could merge their existence with the ideal found in 
+the other cycle. And third-party observers conclude, without 
+direct experience as evidence, that the recipient was 
+incompetent enough to be blind to the forbidden merging, 
+out of the unnaturalness, of two cycles best kept separate, 
+although all that these observers can objectively perceive 
+are events and losses, not the cycles themselves. 
