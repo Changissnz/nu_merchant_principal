@@ -7263,5 +7263,9 @@ corrective criticism. Any attempts of this sort of criticism
 is responded back by those that first invoked hurt of their own 
 cultural and other group-based forms of unity through bondage. 
 The distinct ways of life are different because of the reason 
-of choice and conviction in the choice in the duration of 
-time's accumulated effects. 
+of choice and conviction, carried out in the duration of time's 
+accumulated effects. There were attempts to unite for one 
+economy of differences in one will's singularity. But that 
+cannot be so. "Agree to disagree". "Make due with the differences". 
+Statements of non-belligerence that turned into icy guards, 
+on one hand, and a patience of insatiable hunger, on the other. 
