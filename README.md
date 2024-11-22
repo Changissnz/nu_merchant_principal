@@ -7189,6 +7189,8 @@ events and losses, not the cycles themselves. The
 observers could probably conclude that the recipient of 
 the Faustian bargain entered a <ins>doom-cycle</ins>, 
 constructed by the forbidden merging of two cycles, but 
-that is merely their speculation if that is their 
-commentary's thesis.
+that is merely their theory if that is all to their 
+commentary's thesis. 
+
+
 
