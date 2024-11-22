@@ -7134,7 +7134,7 @@ uncertainty of success remains after the cycle has been
 corrected to the most accurate cycle, to be applied onto 
 the real copy of the input. 
 
-Some particular arrangements of a dark light, phrased as  
+Some particular arrangements of a dark light, phrased as 
 the well-known <ins>Faustian bargain</ins>, also have a 
 place in this discussion on cycles. The recipient of a 
 Faustian bargain pushes for the deal of acquiring or fulfilling 
