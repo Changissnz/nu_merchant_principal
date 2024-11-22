@@ -7260,17 +7260,17 @@ end, for they are to keep that acknowledgment to themselves,
 by the terms of their bondage. No authorization exists from 
 either end to the other, for the other to issue non-destructive 
 corrective criticism. Any attempts of this sort of criticism 
-is rejectedly responded back by those that first invoked hurt of 
-their own cultural and other group-based forms of unity through 
-bondage. The distinct ways of life are different because of the 
-reason of choice and conviction, carried out in the duration of 
-time's accumulated effects. There were attempts to unite for 
-one economy of differences in one will's singularity. But that 
-cannot be so. "Agree to disagree". "Make due with the differences". 
-Statements of non-belligerence turned into icy guards, on one 
-hand, and a patience of insatiable hunger, on the other. And 
-then, the antagonism is pre-determined once commenced, a blind 
-cycle liberated by the careless killing of gravity. What 
+is rejectedly responded back by those that first invoked claims 
+of hurt to their own cultural and other group-based forms of 
+unity through bondage. The distinct ways of life are different 
+because of the reason of choice and conviction, carried out in 
+the duration of time's accumulated effects. There were attempts 
+to unite for one economy of differences in one will's singularity. 
+But that cannot be so. "Agree to disagree". "Make due with the 
+differences". Statements of non-belligerence turned into icy 
+guards, on one hand, and a patience of insatiable hunger, on the 
+other. And then, the antagonism is pre-determined once commenced, 
+a blind cycle liberated by the careless killing of gravity. What 
 accountability? Whatever happens happens then, even if the 
 cycle dies for it is the ideal that stands after death. Sure, 
 the weaknesses of inequality from difference could have been 
