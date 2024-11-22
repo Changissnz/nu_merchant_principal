@@ -7180,10 +7180,10 @@ as a competent example of differentiation between cycles,
 by their separate effects, that should not have merged. 
 The recipient of the Faustian bargain wrongly believed that they 
 could merge their existence with the ideal, found in the other 
-cycle, to finally achieve ideally living. And third-party 
+cycle, to finally achieve ideal living. And third-party 
 observers conclude, without direct experience as evidence, 
 that the recipient was incompetent enough to be blind to 
-the forbidden merging, out of the unnaturalness, of two 
+the merging forbidden, out of the unnaturalness, of two 
 cycles best kept separate, although all that these observers 
 could objectively perceive were events and losses, not the 
 cycles themselves. The observers could probably conclude 
@@ -7210,4 +7210,4 @@ process.
 The possibilities found in diagrams GBGD2 (section Wasting 
 the Drive in Gridlock) and GSA (section Shifty and Shifting 
 Alliances) are of helpful reminder in understanding the 
-complexity of alteratable cycles. 
+complexity of alterable cycles. 
