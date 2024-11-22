@@ -7262,3 +7262,6 @@ either end to the other, for the other to issue non-destructive
 corrective criticism. Any attempts of this sort of criticism 
 is responded back by those that first invoked hurt of their own 
 cultural and other group-based forms of unity through bondage. 
+The distinct ways of life are different because of the reason 
+of choice and conviction in the choice in the duration of 
+time's accumulated effects. 
