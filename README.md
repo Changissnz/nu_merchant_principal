@@ -7185,4 +7185,10 @@ experience as evidence, that the recipient was incompetent
 enough to be blind to the forbidden merging, out of the 
 unnaturalness, of two cycles best kept separate, although 
 all that these observers could objectively perceive were 
-events and losses, not the cycles themselves. There is the 
+events and losses, not the cycles themselves. The 
+observers could probably conclude that the recipient of 
+the Faustian bargain entered a <ins>doom-cycle</ins>, 
+constructed by the forbidden merging of two cycles, but 
+that is merely their speculation if that is their 
+commentary's thesis.
+
