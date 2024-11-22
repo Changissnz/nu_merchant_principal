@@ -7192,5 +7192,16 @@ constructed by the forbidden merging of two cycles, but that
 is merely their theory if that is all to their commentary's 
 thesis. 
 
-
-
+A technique, out of genuinely bad trickery, is given the name 
+<ins>false-accounting cycle</ins> in this section. In this 
+variety of cycle, an event of some cyclical process is claimed 
+to have occurred by one party to another. The claimant party 
+lacks the evidence for the claim. So they construct an 
+alternative cyclical process, and inject input from the base 
+cyclical process into the alternative cyclical process. The 
+alternative cyclical process is designed to produce effects 
+in the likeness of the claims made. The other party does 
+not know that any alternative cyclical process was used, 
+and they are faced with the decision to believe in details 
+not verified to have been associated with the base cyclical 
+process. 
