@@ -7232,5 +7232,5 @@ of contact, of time nearer or farther, from the cyclical
 offendor. But the opposition does not manage to formulate 
 better tactics out of their strategy. So for proceeding 
 points of contact, they oppose with their original 
-mechanisms, but with a disheveled balance that has already 
-ensured them lower potential of performance.
+mechanisms, but with a disheveled and declining balance 
+that has already ensured them lower potential of performance. 
