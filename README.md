@@ -7361,7 +7361,7 @@ the opposition for supplies.
 
 An opposition that is initially stationary belongs to one 
 cycle. What they choose to do, after whatever decisions 
-they've made to make an offendor out of a physically 
+they have made to make an offendor out of a physically 
 cyclical entity, arguably breaks their cycle of routine, 
 even if they chose to not adapt by mirrorization with 
 the offendor. The physically cyclical offendor, no 
