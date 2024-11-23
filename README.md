@@ -28,6 +28,8 @@
 19. [Proprietary Calculations](#p19)
 20. [The Audience Is the Vulture](#p20)
 21. [About the Simplicity of the Cycle](#p21)
+22. [Shifty and Shifting Alliances Pt. III](#p22)
+
 
 Business comes and goes, much more frequently than governments. 
 So how can commerce thrive without the dread of disillusionment
@@ -7404,3 +7406,5 @@ cycles prioritize the recognizing of patterns over
 details, the correlation over the uniqueness, and the 
 incredulity of what uncertainty the singularity can 
 offer. 
+
+# Shifty and Shifting Alliances Pt. III <a name="p22"></a> 
