@@ -7177,7 +7177,7 @@ be only positively connected in direct relation with the
 ideal, after exiting their own cycle into the cycle of the 
 ideal. The Faustian bargain, as illustrated by cycles, serves 
 as a competent example of differentiation between cycles, 
-by their separate effects, that should not have merged. 
+by their separate effects that should not have merged. 
 The recipient of the Faustian bargain wrongly believed that they 
 could merge their existence with the ideal, found in the other 
 cycle, to finally achieve ideal living. And third-party 
@@ -7310,15 +7310,15 @@ relative magnitude.
 ![image info](./images/asoc_seven.PNG) 
 
 **ASOC7:** A diagram that shows the two broad strategies 
-(mirror and wall) that opposition $O$ can employ. Maybe, $O$ 
+(mirror and wall) that opposition $O$ can employ. Maybe $O$ 
 uses both in a mixed-strategy. Physically cyclical offendor $F$'s 
 frontal assault, $A_{front}$, and retreat-to-base, $A_{retreat}$, 
 are illustrated by the green arrows. Opposition $O$'s mirror 
 approach is in dashed lines. If $O$ goes by the wall strategy, 
 $O$ remains stationary in the hopes that the advancing $F$ 
-fatigues itself before breaking through to the other side 
+fatigues themself before breaking through to the other side 
 for direct confrontation. Both $O$ and $F$ have bases for 
-their operations. Typically, $F$ tends to change its base 
+their operations. Typically, $F$ tends to change their base 
 more frequently than $O$ does.
 
 An ill-prepared opposition that is positionally scattered 
