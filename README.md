@@ -7341,3 +7341,20 @@ a prideful remark, spoken too early, from a spectator
 of a false-retreat: "look at the deserters flee away, 
 the cowards, the disgrace that they are". 
 
+The Game of Mirror or Wall, as illustrated in ASOC7, 
+featuring a physically cyclical offendor and opposition, 
+is not one for a trivial opposition. An opposition, not 
+of any roughly equivalent forward-offensive caliber, that 
+wants to conduct a frontal assault against an incoming 
+frontal assault from the physically cyclical offendor 
+will be crushed. If the opposition retreats from their base 
+by sluggish mobility, the physically cyclical offendor 
+could very easily catch up to them and crush them. If 
+the opposition wants to conduct a frontal assault to the 
+offendor's base, the offendor would still crush them by 
+advancing after they did, and beating them in direct 
+confrontation. If the opposition goes by the strategy 
+of the wall, they would have to ensure the wall can 
+endure the offensive. Also, there would have be open 
+routes, not accessible to the offendor, remaining to 
+the opposition for supplies. 
