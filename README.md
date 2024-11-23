@@ -7254,7 +7254,7 @@ For each mistake and the entity of that mistake, the separation is
 not there for them two, in order for them to be one and the same 
 in the match-up between the physically cyclical offendor and the 
 opposition. Ponderance on the total from any one of the two 
-halves is already limited by the perspective of allegiance. 
+halves is already limited by the bondage of allegiance. 
 So what if there is/was a mistake on one end acknowledged by that 
 end, for they are to keep that acknowledgment to themselves, 
 by the terms of their bondage. No authorization exists from 
@@ -7299,7 +7299,22 @@ protested against in internal affairs. There are big
 challenges in this mirroring. The physically cyclical offendor's 
 practice is already perfected, by relativity metrics. And the 
 opposition's mirrorization process means to train in an image 
-at least partially prescribed, with the only objective the 
-capability to counter the executable strengths of their 
+at least partially prescribed, with the only real objective being 
+the capability to counter the executable strengths of their 
 adversaries. It is a decision of catch-up that balances with 
-surviving legacy and custom. 
+surviving legacy and custom. Such hardship in this adaptation 
+route. Maybe with the wall, the physically cyclical offendor 
+cannot push forward by their unique strengths excessive in 
+relative magnitude. 
+
+![image info](./images/asoc_seven.PNG) 
+
+**ASOC7:** A diagram that shows the two broad strategies 
+(mirror and wall) that opposition $O$ can employ. Maybe, $O$ 
+uses both in a mixed-strategy. Physically cyclical offendor $F$'s 
+frontal assault, $A_{front}$, and retreat-to-base, $A_{retreat}$, 
+are illustrated by the green arrows. Opposition $O$'s mirror 
+approach is in dashed lines. If $O$ goes by the wall strategy, 
+$O$ remains stationary in the hopes that the advancing $F$ 
+fatigues itself before breaking through to the other side 
+for direct confrontation. 
