@@ -7209,10 +7209,11 @@ and they are faced with the decision to believe in details
 not verified to have been associated with the base cyclical 
 process. 
 
-The possibilities found in diagrams GBGD2 (section Wasting 
-the Drive in Gridlock) and GSA (section Shifty and Shifting 
-Alliances) are of helpful reminder in understanding the 
-complexity of alterable cycles. 
+The possibilities found in diagrams GBGD2 (underminement, 
+section Wasting the Drive in Gridlock) and GSA (Game of 
+Sliding Alliances, section Shifty and Shifting Alliances) 
+are of helpful reminder in understanding the complexity 
+of alterable cycles. 
 
 In applied theoretics of cycles, the subfield of physical 
 offendors' use is a popular mention due to historical 
