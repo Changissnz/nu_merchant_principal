@@ -7317,4 +7317,15 @@ are illustrated by the green arrows. Opposition $O$'s mirror
 approach is in dashed lines. If $O$ goes by the wall strategy, 
 $O$ remains stationary in the hopes that the advancing $F$ 
 fatigues itself before breaking through to the other side 
-for direct confrontation. 
+for direct confrontation. Both $O$ and $F$ have bases for 
+their operations. Typically, $F$ tends to change its base 
+more frequently than $O$ does.
+
+An ill-prepared opposition that is positionally scattered 
+across a field does have a greater chance of repelling if 
+not defeating the physically cyclical offendor. This is 
+simply due to the "many heads" the opposition has. The 
+physically cyclical offendor that is effective takes at 
+most two attempts to defeat opposition at a position. With 
+one "head" down, there are that "many heads" minus one left. 
+
