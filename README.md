@@ -7381,7 +7381,7 @@ and bested the physically cyclical offendor.
 
 Sometimes, the opposition unanimously fails. And then 
 accountability would make claims of leadership issues. 
-Here is one frequent claim that have been seriously 
+Here is one frequent claim that has been seriously 
 entertained. The social order proved to be insufficient 
 after the declaration of ideals. Certain individuals' 
 interests were betrayed before the beginning of the 
