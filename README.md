@@ -7389,7 +7389,7 @@ entertained. The social order proved to be insufficient
 after the declaration of ideals. Certain individuals' 
 interests were betrayed before the beginning of the 
 conflict, and those ramifications overshadowed those 
-individuals for decline before collective ruin, even  
+individuals for decline before collective ruin, even 
 after they forgave letdowns of them. Now this is 
 not a good basis to begin with before the conflict. 
 Here is a common feature of physically cyclical offendors 
