@@ -7378,7 +7378,7 @@ paced patterned decision making that inflicts lethality.
 Just as hypnotized states borne from effective hypnotizers' 
 application can be broken, the physically cyclical offendor 
 can also be, as farfetched as this analogy reasons to. 
-So certainly, there are instances where opposition uses 
+So certainly, there are instances where opposition used 
 strategies of walls and mirrors, and bested the physically 
 cyclical offendor. 
 
