@@ -7394,5 +7394,4 @@ were effective. The cycle, even after opposition has
 learned it to the point of effectively countering it 
 at local scales, can continue its targetted domination 
 by birthing traitors out of the opposition. A common-sense 
-saying for this is something like this: there is loyalty, 
-and there is bondage.
+saying for this is: there is loyalty, and there is bondage.
