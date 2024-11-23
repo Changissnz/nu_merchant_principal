@@ -7323,9 +7323,21 @@ more frequently than $O$ does.
 
 An ill-prepared opposition that is positionally scattered 
 across a field does have a greater chance of repelling if 
-not defeating the physically cyclical offendor. This is 
-simply due to the "many heads" the opposition has. The 
-physically cyclical offendor that is effective takes at 
-most two attempts to defeat opposition at a position. With 
-one "head" down, there are that "many heads" minus one left. 
+not defeating the physically cyclical offendor. But the 
+greater chance is greater not necessarily in the absolute, 
+but as a relative to the lone chance. This is simply due 
+to the "many heads" the opposition has. The physically 
+cyclical offendor that is effective takes at most two 
+attempts to defeat opposition at a position. With one 
+"head" down, there are that "many heads" minus one left. 
+One aspect the physically cyclical offendor relies on, 
+for effectiveness, besides from greater mobility and 
+immediate lethality is the <ins>false-retreat</ins>, 
+a technique made convenient by the cyclical nature of 
+travel they take. The false-retreat fools the opposition 
+into believing that they have successfully warded off 
+the physically cyclical offendor. Here is an example of 
+a prideful remark, spoken too early, from a spectator 
+of a false-retreat: "look at the deserters, the cowards 
+flee away, the disgrace that they are". 
 
