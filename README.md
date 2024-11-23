@@ -7338,6 +7338,6 @@ travel they take. The false-retreat fools the opposition
 into believing that they have successfully warded off 
 the physically cyclical offendor. Here is an example of 
 a prideful remark, spoken too early, from a spectator 
-of a false-retreat: "look at the deserters, the cowards 
-flee away, the disgrace that they are". 
+of a false-retreat: "look at the deserters flee away, 
+the cowards, the disgrace that they are". 
 
