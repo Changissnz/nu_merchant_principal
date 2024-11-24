@@ -2449,7 +2449,7 @@ solutions for perfect-information objectives, usually specialized
 and cross-referenced in real-world practices. There is, however, 
 a concise principle on how entities may operate in open versus 
 closed knowledge environments. In open knowledge environments, 
-the entities would know what new connections to "alliance" factors 
+the entities know what new connections to "alliance" factors 
 occur. In closed knowledge environments, each entity would have 
 to deduce if there are new connections to other entities 
 based on its independent observation of the other entities' 
@@ -3531,7 +3531,7 @@ of these starting numbers.
 ![image info](./images/ssa2_tab1.PNG)
 
 **TASK1:** Table detailing the expendable amount of 
-value per each of the five tasks capable by "alliance" 
+value for each of the five tasks capable by "alliance" 
 factor $F$; 5 x 2.  
 
 ![image info](./images/ssa2_tab2.PNG)
@@ -3677,7 +3677,7 @@ samples of threshold conditions.
 ![image info](./images/ssa2_tab3.PNG)
 
 **PROHIB1:** Table detailing the prohibition rules declared 
-by each of the connected units to "alliance" factor $F$ 
+by each of the units connected to "alliance" factor $F$ 
 (see diagram MCAF1), with respect to $F$'s task $T_3$. 
 Refer to the table DEM1 for the specific starting 
 demand values of connected units for $T_3$. The row-wise 
@@ -3698,7 +3698,7 @@ For a set of $k$ connected units to an "alliance"
 factor $F$, there is a task $T_{?}$ of interest and 
 a unit $u$ that is faced with contradictions on the 
 prohibition rules placed on its demand of $T_{?}$. 
-The $k-1$ other units assert these rules onto $u$, 
+The $k-1$ other units assert these rules onto $u$. 
 And for the possible range of values for $v$ that 
 $u$ can choose from, every one of these values 
 violate every prohibition rule set by the remaining 
@@ -3713,12 +3713,12 @@ of the $k-1$ units. Unit $u$, with its demand value
 $v$ of $T_{?}$, violates the rules of subset $U_v$, 
 and satisfies the rules of subset $U_s$. Once again, 
 a sort of "toss-up" procedure is called for to resolve 
-the violations of the rules wanted satisfaction by 
+the violations of the rules wanted satisfied by 
 $U_v$. This is different from the first example, in 
 which every unit besides from $u$ had its prohibition 
 rule violated. In this example, there is a dichotomy 
 between those rule-satisfied and those not. What 
-difference for the outcome, that is, of unit $u$ 
+difference of the outcome, that is, of unit $u$ 
 adjusting its demand value $v$ for task $T_?$, 
 does this difference in rule-satisfaction make? 
 
@@ -3807,7 +3807,7 @@ weakly-connected alliances can be gathered from a
 few of their operational attributes. Alliances with 
 high degrees of measurable contradiction in their 
 prohibition rules, amongst themselves, are weakly-connected 
-due the necessity for "toss-up" procedures as 
+due to the necessity for "toss-up" procedures as 
 resolution intended to reduce the contradiction. 
 These "toss-up" procedures could result in shattering 
 of connections in the alliance, as well as changing 
@@ -7008,7 +7008,7 @@ preserving the authentic identity and accounting for change
 spurred by spatio-temporal specifics? For these questions' 
 answers crafted to suit judgment regarded as objective, the 
 answers first require the full acceptance of the cycle/s as 
-valid structural processes. There is the dedication of acknowledgment 
+valid structural process/es. There is the dedication of acknowledgment 
 and attention already, even if the only efforts that come out 
 of answers are passive and resigned acceptances of the cycle/s. 
 
@@ -7409,3 +7409,4 @@ incredulity of what uncertainty the singularity can
 offer. 
 
 # Shifty and Shifting Alliances Pt. III <a name="p22"></a> 
+
