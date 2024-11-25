@@ -7444,4 +7444,8 @@ those things recognized as facts, and a notable proportion of
 these recognitions easy to destroy and impossible to accurately 
 replicate in any timely manner. 
 
-Subjectivity is an interesting aspect of alliances. 
+Subjectivity is an interesting aspect of alliances. Participants 
+of an alliance chose, through some majority-based procedure/s, 
+to pursue the objective to "unite" by some degree for some 
+activity/ies. In other words, they set that objective as the 
+"truth" to aspire towards. 
