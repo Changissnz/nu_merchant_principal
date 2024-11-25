@@ -7541,10 +7541,10 @@ sometime during the course, that the definitions they used to erect
 the alliance are in fact concocted, although perhaps not by their 
 own efforts. In other words, the definition could be expressed 
 for the need to establish a basis of fact. The expression of the 
-definition's expression takes the form of imitation, reaction, 
+definition's expression takes forms that include imitation, reaction, 
 and contradiction. So if the fact behind the initial definition, 
-a product of select expression, is already behold to favoritist 
+a product of select expression, is already beholden to favoritist 
 interests, how can what follows after the initial be one and the 
-same to the fact. The previous is an obvious factual chain, and 
-does appear silly out of its obviousness akin to the lack of need 
+same to the fact? The previous is an obvious factual chain, and 
+does read silly out of its obviousness akin to the lack of need 
 to remind. 
