@@ -7537,6 +7537,6 @@ range, so that the undergoing of change in those states and processes
 continue to serve at least one ultimate aim, arbitrarily-defined 
 in this generalization. This generalization also works as proof 
 for why participants of an eventful alliance would acknowledge, 
-sometime during the course, that the definitions they erected at 
-the beginning are in fact concocted, although perhaps not by their 
+sometime during the course, that the definitions they used to erect 
+the alliance are in fact concocted, although perhaps not by their 
 own efforts. 
