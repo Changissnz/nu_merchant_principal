@@ -7477,4 +7477,5 @@ If the topic of shifty and shifting alliances required only
 one sentence for its cause, the sentence would satisfy by 
 including the notion that the predominant cause is breakdowns 
 by disintegration of agreement over the subjective/s, in 
-unequivocating ways. 
+unequivocating ways. That is elementary. 
+
