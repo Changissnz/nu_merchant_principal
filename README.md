@@ -7463,7 +7463,7 @@ judgment of the noun's truth value holds onto the belief that
 their contribution's judgment matter. In some cases, the 
 finalization of the judgment process is delegated to a small 
 proportion of all those involved, in such a way for there to be 
-a "pre-determined" final judgment on the matter, "pre-determined" 
-because the decision was already accepted as fact before the 
-proceedings of the total involved by their various mannerisms 
-of analysis for judgment.
+a final judgment on the matter that was already "pre-determined", 
+"pre-determined" because the decision was already accepted as 
+fact before the proceedings of the total involved by their 
+various mannerisms of analysis for judgment. 
