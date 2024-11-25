@@ -7503,8 +7503,8 @@ over the other, members regard risk-dumping only as intuitively
 gainful if they are not required to explain any further. What 
 makes risk-dumping so impactful, other than its affinity for 
 application on zero-sum variables, is that it cannot be 
-categorized as a group-extrinsic outflow, at least according 
-to the collective agreement of what the group is by the 
+unequivocally categorized as a group-extrinsic outflow, at least 
+according to the collective agreement of what the group is by the 
 sentient participants. And by the lack of categorization, 
 any alliance's usage of risk-dumping techniques, usually resting 
 on mathematical principles for profiting of sorts, cannot 
@@ -7539,4 +7539,12 @@ in this generalization. This generalization also works as proof
 for why participants of an eventful alliance would acknowledge, 
 sometime during the course, that the definitions they used to erect 
 the alliance are in fact concocted, although perhaps not by their 
-own efforts. 
+own efforts. In other words, the definition could be expressed 
+by the need to establish a basis of fact. The expression of the 
+definition's expression takes the form of imitation, reaction, 
+and contradiction. So if the fact behind the initial definition, 
+a product of select expression, is already behold to favoritist 
+interests, how can what follows after the initial be one and the 
+same to the fact. The previous is an obvious factual chain, and 
+does appear silly out of its obviousness akin to the lack of need 
+to remind. 
