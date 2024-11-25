@@ -7535,4 +7535,8 @@ and processes can change, by allowance. But then, other factors
 such as capabilities and values are to remain in a satisfying 
 range, so that the undergoing of change in those states and processes 
 continue to serve at least one ultimate aim, arbitrarily-defined 
-in this generalization. 
+in this generalization. This generalization also works as proof 
+for why participants of an eventful alliance would acknowledge, 
+sometime during the course, that the definitions they erected at 
+the beginning are in fact concocted, although perhaps not by their 
+own efforts. 
