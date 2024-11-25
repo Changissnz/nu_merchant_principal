@@ -7469,5 +7469,12 @@ fact before the proceedings of the total involved by their
 various mannerisms of analysis for judgment. Invoking 
 subjectivity on a matter can be due to the cause of the invoker's 
 lack of capability to independently act on the truth, whether 
-to counteract or make use of by adoption. 
-
+to counteract or make use of by adoption. Processes that somehow 
+transform subjective matters into belief systems believed by 
+an alliance to be the objective (the truth?) are a priceless 
+staple of the alliance's modus operandi, from core to execution. 
+If the topic of shifty and shifting alliances required only 
+one sentence for its cause, the sentence would satisfy by 
+including the notion that the predominant cause is breakdowns 
+by disintegration of agreement over the subjective/s, in 
+unequivocating ways. 
