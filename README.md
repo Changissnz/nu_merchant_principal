@@ -7448,4 +7448,8 @@ Subjectivity is an interesting aspect of alliances. Participants
 of an alliance chose, through some majority-based procedure/s, 
 to pursue the objective to "unite" by some degree for some 
 activity/ies. In other words, they set that objective as the 
-"truth" to aspire towards. 
+"truth" to aspire towards. This section's mention of the word 
+"subjective" demands clarification. For some statement or material, 
+there is a lack of agreement between sentience capable of judging 
+its truth value, although it could actually be an <ins>unestablished 
+fact</ins>. 
