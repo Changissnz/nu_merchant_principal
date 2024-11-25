@@ -7553,8 +7553,9 @@ Denunciations of alliances, by arguments on their lack of an
 arbitrary constant, are insufficient for their rejection. 
 These kinds of denunciations place the requirement of the lack 
 of motion onto the alliance, in order for that alliance to be 
-one satisfying to all members. Alliances do change in appearances 
-and behavior, despite what definitions are adopted or continue 
-to be adhered to. And that poses occurrences that demand attention 
-to the differentiating labels of "shifty" and "shifting" for 
-alliances.
+one satisfying to all members. The requirement, from the pure 
+and absolutist sense, is unreasonable. Alliances do change in 
+appearances and behavior, despite what definitions are adopted or 
+continue to be adhered to. And that poses occurrences that demand 
+attention to the differentiating labels of "shifty" and "shifting" 
+for alliances.
