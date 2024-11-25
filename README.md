@@ -7421,7 +7421,7 @@ shifts to more specific techniques involved in alliances
 not of constancy. 
 
 The word "alliance" operates on social-based arrangements, 
-despite the perception of an alliance's order or organized 
+despite the perception of any alliance's order or organized 
 chaos, both mathematically imitatable. Scientific principles 
 can be attempted to be set into place to ignite and 
 persist alliances. There are methodologies to estimate the 
@@ -7430,11 +7430,13 @@ to produce alliances between particular sentient entities.
 Methodologies also exist to attempt solidification or 
 liquidation of alliances in a wanted timespan. Methodologies 
 cannot be used to produce intangible or inherent variables 
-deemed important. And perhaps these variables are the most 
-valuable, what with the systematic production capabilities 
-of sentience that can achieve past a relevant minimum 
-threshold of competence. Therefore, many methodologies 
-involved in the activity of birthing and maintaining 
-alliances come after the facts, with a notable proportion 
-easy to destroy and impossible to replicate in any timely 
-manner. 
+deemed important, without there being at least changes in 
+sentient will proportional in radicality to the rarity of 
+the intangible or inherent variable. And perhaps these 
+variables are the most valuable, what with the systematic 
+production capabilities of sentience that can achieve past 
+a relevant minumum threshold of competence. Therefore, many 
+methodologies involved in the activity of birthing and 
+maintaining alliances come after the facts, and a notable 
+proportion of these facts easy to destroy and impossible to 
+replicate in any timely manner. 
