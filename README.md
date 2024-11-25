@@ -7411,4 +7411,12 @@ offer.
 # Shifty and Shifting Alliances Pt. III <a name="p22"></a> 
 
 The theme of "alliances" in change-prone environments 
-deserves a third section dedicated to it. 
+deserves a third section dedicated to it. Expanding past 
+the incomplete discussions in possible graphical units 
+available to model alliances, alliance factors ranging 
+from single to multi-connected, a game on a particular 
+alliance pattern, and the insufficiency of alliance 
+factors in the numerical sense, the discussion now 
+shifts to more specific techniques involved in alliances 
+not of constancy. 
+
