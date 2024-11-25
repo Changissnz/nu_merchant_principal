@@ -7460,10 +7460,13 @@ of the subjective label can be placed over a noun not universally
 accepted as a fact. The subjectivity is there so that every sentient 
 being that has a keen interest to involve themselves in the 
 judgment of the noun's truth value holds onto the belief that 
-their contribution's judgment matter. In some cases, the 
+their contribution's judgment matters. In some cases, the 
 finalization of the judgment process is delegated to a small 
 proportion of all those involved, in such a way for there to be 
 a final judgment on the matter that was already "pre-determined", 
 "pre-determined" because the decision was already accepted as 
 fact before the proceedings of the total involved by their 
-various mannerisms of analysis for judgment. 
+various mannerisms of analysis for judgment. Invoking 
+subjectivity on a matter can be due to the cause of the invoker's 
+lack of capability to act on the truth, whether to counteract 
+or make use of by adoption. 
