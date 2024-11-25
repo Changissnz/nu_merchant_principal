@@ -7468,5 +7468,6 @@ a final judgment on the matter that was already "pre-determined",
 fact before the proceedings of the total involved by their 
 various mannerisms of analysis for judgment. Invoking 
 subjectivity on a matter can be due to the cause of the invoker's 
-lack of capability to act on the truth, whether to counteract 
-or make use of by adoption. 
+lack of capability to independently act on the truth, whether 
+to counteract or make use of by adoption. 
+
