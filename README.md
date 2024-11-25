@@ -7548,3 +7548,13 @@ interests, how can what follows after the initial be one and the
 same to the fact? The previous is an obvious factual chain, and 
 does read silly out of its obviousness akin to the lack of need 
 to remind. 
+
+Denunciations of alliances, by arguments on their lack of an 
+arbitrary constant, are insufficient for their rejection. 
+These kinds of denunciations place the requirement of the lack 
+of motion onto the alliance, in order for that alliance to be 
+one satisfying to all members. Alliances do change in appearances 
+and behavior, despite what definitions are adopted or continue 
+to be adhered to. And that poses occurrences that demand attention 
+to the differentiating labels of "shifty" and "shifting" for 
+alliances.
