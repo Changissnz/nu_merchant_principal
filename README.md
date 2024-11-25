@@ -7434,7 +7434,7 @@ deemed important, without there being at least changes in
 sentient will proportional in radicality to the rarity of 
 the intangible or inherent variable. The condition of the 
 previous statement does presuppose many notions, such as 
-predisposition not necessarily being the continuity of 
+predisposition not necessarily being the constancy of particular 
 outward expression. And perhaps these variables are the 
 most valuable, what with the systematic production capabilities 
 of sentience that can achieve past a relevant minumum threshold 
@@ -7443,3 +7443,5 @@ activity of birthing and maintaining alliances come after
 those things recognized as facts, and a notable proportion of 
 these recognitions easy to destroy and impossible to accurately 
 replicate in any timely manner. 
+
+Subjectivity is an interesting aspect of alliances. 
