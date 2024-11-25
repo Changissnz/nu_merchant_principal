@@ -7440,6 +7440,6 @@ most valuable, what with the systematic production capabilities
 of sentience that can achieve past a relevant minumum threshold 
 of competence. Therefore, many methodologies involved in the 
 activity of birthing and maintaining alliances come after 
-the facts, and a notable proportion of these facts easy to 
-destroy and impossible to accurately replicate in any timely 
-manner. 
+those things recognized as facts, and a notable proportion of 
+these recognitions easy to destroy and impossible to accurately 
+replicate in any timely manner. 
