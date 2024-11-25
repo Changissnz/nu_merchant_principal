@@ -7505,5 +7505,13 @@ makes risk-dumping so impactful, other than its affinity for
 application on zero-sum variables, is that it cannot be 
 categorized as a group-extrinsic outflow, at least according 
 to the collective agreement of what the group is by the 
-sentient participants. 
+sentient participants. And by the lack of categorization, 
+any alliance's usage of risk-dumping techniques, usually resting 
+on mathematic principles for profit, cannot be expected to abide 
+by constants for constant effects by the lack of natural 
+laws. Although the statement does read to be obvious and 
+another way of expressing the lack of collective certainty 
+when coupled when actionable notions of independent agents' 
+"free will", it is actually not entirely exact, but rather 
+an implication. 
 
