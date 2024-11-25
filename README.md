@@ -7527,4 +7527,6 @@ The classic concept of the weighting scheme was put forth in
 the second part of Shifty and Shifting Alliances. The concept, 
 with its many insufficiencies, does still discriminately serves 
 the purposes of its proponents and opponents, alike. The constant 
-is a localizable categorization of a matter's monoticity. 
+is a localizable categorization of a matter's monoticity. Users 
+of risk-dumping techniques typically focus on the stabilization 
+of their states and processes. 
