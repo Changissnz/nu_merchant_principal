@@ -7517,3 +7517,8 @@ independent agents' "free will", the likeness is actually not
 entirely exact, but rather an implication that focuses on 
 the autonomous' dealing with possessed risks through disconnective 
 transmission (full transfer from one to another) and acceptance. 
+For participants of an alliance, the fair distribution of the most 
+accurate marks in risk assessment is also not guaranteed to be 
+constant; an argument for the opposite as the pre-dominant form 
+of this information's distribution is actually more convincing, 
+given practices historical to present. 
