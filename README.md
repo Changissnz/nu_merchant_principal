@@ -7482,7 +7482,11 @@ unequivocating ways. That is elementary.
 An alliance surely has to use concocted definitions at its 
 inception, to be maintained or changed or discarded throughout 
 the alliance's lifespan. Definitions, by the fact that their 
-factuality is not of the same purity as facts, but 
-representations/expressions/forms of facts and other elements 
-along the spectrum of truth, place the alliance as a group 
-with pivots through their selection. 
+factuality is not of the same purity as facts, but representations/ 
+expressions/ forms of facts and other elements along the spectrum 
+of truth, place the alliance as a group with pivots through their 
+selection. The breadth and depth, of what is expected by each 
+participant of an alliance with regards to co-participants, 
+is variable and the uses of setting quantities to qualities 
+for the rule enables behaviorial patterns to emerge. 
+
