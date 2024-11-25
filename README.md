@@ -7432,11 +7432,14 @@ liquidation of alliances in a wanted timespan. Methodologies
 cannot be used to produce intangible or inherent variables 
 deemed important, without there being at least changes in 
 sentient will proportional in radicality to the rarity of 
-the intangible or inherent variable. And perhaps these 
-variables are the most valuable, what with the systematic 
-production capabilities of sentience that can achieve past 
-a relevant minumum threshold of competence. Therefore, many 
-methodologies involved in the activity of birthing and 
-maintaining alliances come after the facts, and a notable 
-proportion of these facts easy to destroy and impossible to 
-replicate in any timely manner. 
+the intangible or inherent variable. The condition of the 
+previous statement does presuppose many notions, such as 
+predisposition not necessarily being the continuity of 
+outward expression. And perhaps these variables are the 
+most valuable, what with the systematic production capabilities 
+of sentience that can achieve past a relevant minumum threshold 
+of competence. Therefore, many methodologies involved in the 
+activity of birthing and maintaining alliances come after 
+the facts, and a notable proportion of these facts easy to 
+destroy and impossible to accurately replicate in any timely 
+manner. 
