@@ -7410,5 +7410,5 @@ offer.
 
 # Shifty and Shifting Alliances Pt. III <a name="p22"></a> 
 
-The theme of "alliances" in change-prone situations 
+The theme of "alliances" in change-prone environments 
 deserves a third section dedicated to it. 
