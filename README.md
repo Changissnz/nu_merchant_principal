@@ -7492,5 +7492,6 @@ for the rule enables behavioral patterns to emerge. A behaviorial
 pattern can be divided into individual actions taken by each 
 participant of an alliance, and the knowledge of such patterns 
 serve as the first primary step towards comprehending the 
-complex, contradictory, and physically removed effects of these 
-patterns by permutatorial (participant,action) pairs taken. 
+complex, contradictable, and physically removed effects of these 
+patterns by permutatorial (participant,action)-pair attribution. 
+
