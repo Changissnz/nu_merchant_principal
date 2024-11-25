@@ -651,7 +651,7 @@ could very well change their objective a split instance
 before for a future decision unanticipated by Agents A 
 or C. Prediction of Agent B's objective is clearly 
 a probabilistic problem, with some reasonable solution 
-catered to their behaviorial leanings. Below is a possible
+catered to their behavioral leanings. Below is a possible
 cost table that accomodates the second decision junction.
 
 | $dec_t=2$ | $D_1$ | $D_2$ | $D_3$ | $D_{null}$ |
@@ -2482,7 +2482,7 @@ connects to it.
 
 ![image info](./images/ssa_seven.PNG)
 
-**ALLT:** Mapping for the behaviorial effects of nodes, in alliance 
+**ALLT:** Mapping for the behavioral effects of nodes, in alliance 
 MESH1, from connecting to "alliance" factor F. These are the 
 pre-programmed (premeditated, planned, declared,et cetera) rules 
 that every constituent of the alliance agreed upon if "alliance" 
@@ -5417,7 +5417,7 @@ constituents. Boolean labels for the truthfulness of each
 constituent serve as a barebones basic. There is the spectrum 
 of continuity that is used in cases of uncertainty between 
 polarities. The category of external mutability, according to 
-state and behaviorial conservation, adds another dimension 
+state and behavioral conservation, adds another dimension 
 of complexity. Overall, the use of both of these categories 
 works in a manner similar to that of the complex number 
 system. To allow for explanation that concentrates on the 
@@ -7488,5 +7488,9 @@ of truth, place the alliance as a group with pivots through their
 selection. The breadth and depth, of what is expected by each 
 participant of an alliance with regards to co-participants, 
 is variable and the uses of setting quantities to qualities 
-for the rule enables behaviorial patterns to emerge. 
-
+for the rule enables behavioral patterns to emerge. A behaviorial 
+pattern can be divided into individual actions taken by each 
+participant of an alliance, and the knowledge of such patterns 
+serve as the first primary step towards comprehending the 
+complex, contradictory, and physically removed effects of these 
+patterns by permutatorial (participant,action) pairs taken. 
