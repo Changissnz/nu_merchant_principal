@@ -7499,7 +7499,7 @@ and actual executions is a crucial aspect of discussion between
 their members. Strategies that members employ rely on tactics 
 such as <ins>risk-dumping</ins>; by the perspective of valuing 
 the identity (the alliance, a subset of the alliance, et cetera) 
-over the other, members view risk-dumping only as intuitively 
+over the other, members regard risk-dumping only as intuitively 
 gainful if they are not required to explain any further. What 
 makes risk-dumping so impactful, other than its affinity for 
 application on zero-sum variables, is that it cannot be 
@@ -7522,3 +7522,9 @@ accurate marks in risk assessment is also not guaranteed to be
 constant; an argument for the opposite as the pre-dominant form 
 of this information's distribution is actually more convincing, 
 given practices historical to present. 
+
+The classic concept of the weighting scheme was put forth in 
+the second part of Shifty and Shifting Alliances. The concept, 
+with its many insufficiencies, does still discriminately serves 
+the purposes of its proponents and opponents, alike. The constant 
+is a localizable categorization of a matter's monoticity. 
