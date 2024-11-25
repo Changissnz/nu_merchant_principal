@@ -7479,10 +7479,10 @@ including the notion that the predominant cause is breakdowns
 by disintegration of agreement over the subjective/s, in 
 unequivocating ways. That is elementary. 
 
-An alliance surely has to concoct definitions at its inception, 
-to be maintained or changed or discarded throughout the 
-alliance's lifespan. Definitions, by the fact that their 
+An alliance surely has to use concocted definitions at its 
+inception, to be maintained or changed or discarded throughout 
+the alliance's lifespan. Definitions, by the fact that their 
 factuality is not of the same purity as facts, but 
-representations/expressions/forms of facts and other 
-elements along the spectrum of truth, place the alliance 
-as a group with pivots through their selection. 
+representations/expressions/forms of facts and other elements 
+along the spectrum of truth, place the alliance as a group 
+with pivots through their selection. 
