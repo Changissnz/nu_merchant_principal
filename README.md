@@ -7420,7 +7420,9 @@ factors in the numerical sense, the discussion now
 shifts to more specific techniques involved in alliances 
 not of constancy. 
 
-The word "alliance" is a social-based term. Scientific 
+The word "alliance" operates on social-based arrangements, 
+despite the perception of order or organized chaos, both 
+mathematically imitatable, from an alliance. Scientific 
 principles can be attempted to be set into place to ignite 
 and persist alliances. There are methodologies to estimate 
 the best mechanisms available, by selected variables 
