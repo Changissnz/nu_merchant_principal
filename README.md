@@ -7420,3 +7420,11 @@ factors in the numerical sense, the discussion now
 shifts to more specific techniques involved in alliances 
 not of constancy. 
 
+The word "alliance" is a social-based term. Scientific 
+principles can be attempted to be set into place to ignite 
+and persist alliances. There are methodologies to estimate 
+the best mechanisms available, by selected variables 
+available, to produce alliances between particular 
+sentient entities. Methodologies also exist to attempt 
+solidification and liquidation of alliances in a wanted 
+timespan. 
