@@ -7508,11 +7508,12 @@ to the collective agreement of what the group is by the
 sentient participants. And by the lack of categorization, 
 any alliance's usage of risk-dumping techniques, usually resting 
 on mathematical principles for profiting of sorts, cannot 
-be expected to abide by constants for constant effects by 
+be expected to abide by constants for constant effects, by 
 the lack of restriction from natural laws on the spectrum of 
 possible decisions. Although the statement does read to be 
 obvious and another way of expressing the lack of collective 
-certainty when coupled when actionable notions of independent 
-agents' "free will", it is actually not entirely exact, but 
-rather an implication. 
-
+certainty when coupled with actionable notions of independent 
+agents' "free will", the likeness is actually not entirely 
+exact, but rather an implication that focuses on the autonomous 
+dealing with possessed risks through their disconnecting 
+transmission (full transfer from one to another) and acceptance. 
