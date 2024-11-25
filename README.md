@@ -7452,4 +7452,18 @@ activity/ies. In other words, they set that objective as the
 "subjective" demands clarification. For some statement or material, 
 there is a lack of agreement between sentience capable of judging 
 its truth value, although it could actually be an <ins>unestablished 
-fact</ins>. 
+fact</ins>. Questioning, reflection, and reconstruction of topics 
+with implementation that is already of a high performance, according 
+to specific metrics, is how subjectivity can be wielded as a 
+tool for a challenger entity with an agenda. For example, a veneer 
+of the subjective label can be placed over a noun not universally 
+accepted as a fact. The subjectivity is there so that every sentient 
+being that has a keen interest to involve themselves in the 
+judgment of the noun's truth value holds onto the belief that 
+their contribution's judgment matter. In some cases, the 
+finalization of the judgment process is delegated to a small 
+proportion of all those involved, in such a way for there to be 
+a "pre-determined" final judgment on the matter, "pre-determined" 
+because the decision was already accepted as fact before the 
+proceedings of the total involved by their various mannerisms 
+of analysis for judgment.
