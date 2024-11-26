@@ -7566,8 +7566,12 @@ executable objective is:
   estimate of risk attached, to a subset of the alliance participants 
   to attempt, or 
 - wholly abstained from by the alliance. 
-
-In terms of psychological economics, there is the fear of failure 
+The destinations of possible failure, intended by the selection of 
+each of these two areas, are (in respective order) the subset of 
+the alliance's participants and no participants of the alliance. 
+Attempts to curb the non-null probability of certain risks' adverse 
+effects rely on more considerations than simple assignment. In 
+terms of psychological economics, there is the fear of failure 
 that dominates the choice towards the decision of rejection, and 
 the gains unmet from that rejection is what is lost. There is 
 also the loss from the positive action taken, as rejection of the 
@@ -7575,3 +7579,4 @@ fear of failure that turned out to actualize. Forecasts on each
 of these two ways mate to form the shadow over every decision 
 junction an autonomous entity has to make in the path with 
 non-absolute predictions in outcomes. 
+
