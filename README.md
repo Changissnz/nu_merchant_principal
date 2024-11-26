@@ -7655,4 +7655,19 @@ The base move in these schemes determines the best candidate,
 of an alliance, for each action or agent of this threat. The 
 candidate acts in the role of a neutralizer to their assignment 
 in the pairing, and the pairing could be entirely neutralized 
-in its duration of activity. 
+in its duration of activity. The naming, passive-
+deconfliction scheme, does sound fancy and unnecessary. What 
+has been described on this concept is essentially a prioritized 
+layered defense system, such that each "layer" is one or 
+more participants of the alliance; the prioritized layered 
+cannot cave in to the center lest they concede. So that feature, 
+by itself, is far from original. However, the phrasing of this 
+concept implies some additional attributes to be clarified. The 
+passivity of these schemes is to guard the active representation 
+of the alliance; this does imply the alliance to undisputably 
+have a hierarchy in these contexts. And the term "deconfliction" 
+is used by the alliance to signify an innate benevolence, forced 
+to take active measures possibly archetypal of malice, against 
+a threat; stated goals are to reduce the conflict, for conflict 
+to not spread. But the phrasing makes no mention of restrictions 
+on participants' enjoyment of conflict in pertaining situations. 
