@@ -7606,4 +7606,6 @@ for contention in environments that nurture challenger
 initiatives. In the second area of risk-dumping, for an 
 entire alliance to abstain from something recognized as 
 both risky and value-producing, the rationalist alliance 
-must not have at least one of capacity or capability. 
+must not have at least one of the proper capacity and 
+capability. 
+
