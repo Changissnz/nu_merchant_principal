@@ -7594,3 +7594,6 @@ $OUTPUT$ is either accomplished or close to being accomplished
 with a high degree of safety, agent $O_2$ attains the value 
 of $OUTPUT$ without having to do the bulk of the work that 
 $O$ did. 
+
+Diagram RANDRISK1 is an example of nonlinearity in payoff 
+between risk and reward. 
