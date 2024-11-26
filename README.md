@@ -7642,6 +7642,17 @@ manner by participants that aspire for exerting what they
 believe to be direct control on the matters of the system's 
 application. 
 
-An interesting technique, given the name "<ins>passive-deconfliction 
-scheme</ins>" in this section, is sometimes used by an 
-alliance in their procedural functionings. 
+An interesting technique, given the name "<ins>passive-
+deconfliction scheme</ins>" in this section, is sometimes 
+used by an alliance in their procedural functionings. Passive-
+deconfliction schemes constitute a class of risk-dumping 
+techniques, and could entail harm to specific participants 
+of an alliance's use. These schemes are used in settings 
+where there is the notion from the alliance that there is 
+a threat. The objective is to guard the most valuable subset 
+of participants in the alliance during this ongoing threat. 
+The base move in these schemes determines the best candidate, 
+of an alliance, for each action or agent of this threat. The 
+candidate acts in the role of a neutralizer to their assignment 
+in the pairing, and the pairing could be entirely neutralized 
+in its duration of activity. 
