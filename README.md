@@ -7609,3 +7609,8 @@ both risky and value-producing, the rationalist alliance
 must not have at least one of the proper capacity and 
 capability. 
 
+An alliance's utility of concocted definitions is frequently 
+for constructive purposes; the definitions serve as units 
+to build for their system of holistic and component-wise 
+choice. Here is where the idea of passive control can 
+be a factor in the alliance's modus operandi.
