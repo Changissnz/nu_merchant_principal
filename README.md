@@ -7560,5 +7560,9 @@ continue to be adhered to. And that poses occurrences that demand
 attention to the differentiating labels of "shifty" and "shifting" 
 for alliances. 
 
-Risk-dumping techniques consider two categories of areas to be 
-destinations for the transported risk. 
+Risk-dumping techniques are carried out in two main areas. An 
+executable objective is: 
+- the alliance's assignment of the objective, with an associated 
+  estimate of risk attached, to a subset of the alliance participants 
+  to attempt, or 
+- wholly abstained from by the alliance. 
