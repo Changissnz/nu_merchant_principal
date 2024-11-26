@@ -7596,4 +7596,8 @@ of $OUTPUT$ without having to do the bulk of the work that
 $O$ did. 
 
 Diagram RANDRISK1 is an example of nonlinearity in payoff 
-between risk and reward. 
+from risk to reward. Risk, in terminal forms, assigned to 
+specific participants would mean that over the temporal 
+course of events, where all non-zero possibilities are 
+eventually reached, those participants have higher risk 
+of termination.
