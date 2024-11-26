@@ -7583,3 +7583,14 @@ non-absolute predictions in outcomes. This explanation pre-supposes
 that an alliance goes by the principle "not all eggs in one 
 basket", a frequent rationalist approach that falls under 
 risk-averse decision-making. 
+
+![image info](./images/ssa3_one.PNG) 
+
+**RANDRISK1:** A diagram that shows an agent $O$ that is 
+to accomplish an $OUTPUT$. The procedure to attempt this 
+involves precarious conditions, denoted by the blackbox 
+$RAND$. After getting past the $RAND$ processes, such that 
+$OUTPUT$ is either accomplished or close to being accomplished 
+with a high degree of safety, agent $O_2$ attains the value 
+of $OUTPUT$ without having to do the bulk of the work that 
+$O$ did. 
