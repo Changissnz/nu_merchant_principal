@@ -7578,5 +7578,7 @@ also the loss from the positive action taken, as rejection of the
 fear of failure that turned out to actualize. Forecasts on each 
 of these two ways mate to form the shadow over every decision 
 junction an autonomous entity has to make in the path with 
-non-absolute predictions in outcomes. 
-
+non-absolute predictions in outcomes. This explanation pre-supposes 
+that an alliance goes by the principle "not all eggs in one 
+basket", a frequent rationalist approach that abides by 
+risk-averse decision-making. 
