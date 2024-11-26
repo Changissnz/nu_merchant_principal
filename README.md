@@ -7600,4 +7600,7 @@ from risk to reward. Risk, in terminal forms, assigned to
 specific participants would mean that over the temporal 
 course of events, where all non-zero possibilities are 
 eventually reached, those participants have higher risk 
-of termination.
+of termination. Allocation of risk to specific participants, 
+on a constant basis, could prove to be a great point for 
+contention in environments that nurture challenger 
+initiatives. 
