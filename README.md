@@ -7601,6 +7601,9 @@ specific participants would mean that over the temporal
 course of events, where all non-zero possibilities are 
 eventually reached, those participants have higher risk 
 of termination. Allocation of risk to specific participants, 
-on a constant basis, could prove to be a great point for 
-contention in environments that nurture challenger 
-initiatives. 
+on a constant basis, could prove to be a persuasive point 
+for contention in environments that nurture challenger 
+initiatives. In the second area of risk-dumping, for an 
+entire alliance to abstain from something recognized as 
+both risky and value-producing, the alliance must not 
+have at least one of capacity or capability. 
