@@ -7612,5 +7612,10 @@ capability.
 An alliance's utility of concocted definitions is frequently 
 for constructive purposes; the definitions serve as units 
 to build for their system of holistic and component-wise 
-choice. Here is where the idea of passive control can 
-be a factor in the alliance's modus operandi.
+choice. Here is where the idea of passive control injects 
+itself into the alliance's modus operandi. There is an alliance, 
+and the alliance was able to persist by the unity of their 
+participants. The alliance was able to make constructive 
+uses of their chosen definitions for a system with possibly 
+evolutionary capabilities. 
+
