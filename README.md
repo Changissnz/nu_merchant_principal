@@ -7617,5 +7617,8 @@ itself into the alliance's modus operandi. There is an alliance,
 and the alliance was able to persist by the unity of their 
 participants. The alliance was able to make constructive 
 uses of their chosen definitions for a system with possibly 
-evolutionary capabilities. 
-
+evolutionary capabilities. Very little sentiment for that 
+which is not of the system, even the definitions for the 
+system outside of the context of the system, is a trait 
+of an alliance dependent on their system erected, while 
+tending to interests vested elsewhere. 
