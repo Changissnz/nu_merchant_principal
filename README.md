@@ -7643,5 +7643,5 @@ believe to be direct control on the matters of the system's
 application. 
 
 An interesting technique, given the name "<ins>passive-deconfliction 
-scheme</ins>" in this section, is sometimes used in procedural 
-functionings of an alliance. 
+scheme</ins>" in this section, is sometimes used by an 
+alliance in their procedural functionings. 
