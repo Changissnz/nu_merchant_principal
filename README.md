@@ -7566,8 +7566,8 @@ executable objective is:
   estimate of risk attached, to a subset of the alliance participants 
   to attempt, or 
 - wholly abstained from by the alliance. 
-The destinations of possible failure, intended by the selection of 
-each of these two areas, are (in respective order) the subset of 
+The destinations of possible failure intended, by the selection of 
+one of these two areas, are (in respective order) the subset of 
 the alliance's participants and no participants of the alliance. 
 Attempts to curb the non-null probability of certain risks' adverse 
 effects rely on more considerations than simple assignment. In 
