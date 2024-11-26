@@ -7635,4 +7635,9 @@ not have been the direct actors for those processes
 delegated to that system. Then, at least there is the 
 freedom of <ins>passive cognition</ins> for tasks previously 
 worked on. The construction of the system, by concocted 
-definitions, 
+definitions, could lead to complications of the decisions 
+in its utilization. What is designed to promote passive 
+cognition on certain tasks could be used in semi-autonomous 
+manner by participants that aspire for exerting what they 
+believe to be direct control on the matters of the system's 
+application. 
