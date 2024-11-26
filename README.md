@@ -7558,4 +7558,7 @@ and absolutist sense, is unreasonable. Alliances do change in
 appearances and behavior, despite what definitions are adopted or 
 continue to be adhered to. And that poses occurrences that demand 
 attention to the differentiating labels of "shifty" and "shifting" 
-for alliances.
+for alliances. 
+
+Risk-dumping techniques consider two categories of areas to be 
+destinations for the transported risk. 
