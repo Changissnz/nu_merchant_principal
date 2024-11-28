@@ -7678,7 +7678,7 @@ of concocted definitions, allows the alliance at least the freedom
 of passive cognition. There is no universal specification on what this 
 freedom could mean for an alliance's benefits and losses. Debates, by 
 the stance of nurturing complacency, are common settings for system 
-analysis. A few noteworthy traits are attached to systems use, in the 
+analysis. A few common patterns are attached to systems use, in the 
 practical field of resource management. In growth and adoption of 
 materials and techniques not granted at the intrinsic level, the 
 graphical pattern takes one of two general forms: the flat line and 
@@ -7689,4 +7689,9 @@ way of a flat line, rhetoric attempts to persuade by noting the
 surviving ideals, outlooks, and practices that have continued on, 
 whether intactly or through "evolved" forms, that the body labeled 
 a system now is associated with in the same vein as the body of 
-the past that was under a similar labeling. 
+the past that was under a similar labeling. Passivity is a factor 
+that presents itself through many variables in systems growth. 
+Honest attempts to understand alliance in the systematic sense 
+must consider how passivity can "pull the strings" of the system 
+that has supposedly gained strength through satisfaction of 
+proposed system requirements. 
