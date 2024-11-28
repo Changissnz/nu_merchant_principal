@@ -7718,4 +7718,5 @@ feats of accomplishing much, "seeing things through", all the while
 having to tend to an established system are the successful halves 
 of results from "pulling strings". It is these successful halves 
 from the totality of results that perpetuate conviction in upholding 
-the system. 
+the system. Growth and change constitute bodies of activity that 
+are quite meaningful to system adherence. 
