@@ -7704,4 +7704,6 @@ system because it is an adequate metaphor for system usage, automation-like,
 after the construction and embrace of an erected system. Automation 
 has already been mentioned in this section's description of system 
 construction, specifically for contexts of group-based unity and 
-decision-making (alliances). 
+decision-making, an outsized consideration in alliances. "Pulling 
+strings" instead of acting by one's completely owned mechanisms is 
+a form of passivity, by individualistic metrics. 
