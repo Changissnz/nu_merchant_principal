@@ -7622,7 +7622,7 @@ which is not of the system, even the definitions for the
 system outside of the context of the system, is a trait 
 of an alliance dependent on their system erected, while 
 tending to interests vested elsewhere. Once a workable 
-system is intended to act in the accordance of the alliance's 
+system is intent on acting in the accordance of the alliance's 
 goals, the alliance is granted several freedoms. The 
 alliance does not need to expend as much cognitive effort, 
 in the manner of roundabout calculations and extraneous 
@@ -7672,3 +7672,4 @@ a threat; stated goals are to reduce the conflict, for conflict
 to not spread. But the phrasing makes no mention of restrictions 
 on participants' enjoyment of the conflict in pertaining situations. 
 
+expandable source for activity 
