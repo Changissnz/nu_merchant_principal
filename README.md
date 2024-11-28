@@ -7740,3 +7740,5 @@ maintaining unity, respectively. The diagram is a step forward in
 exemplifying a possibility of diagram MCAF2 (Shifty and Shifting 
 Alliances Pt. II). 
 
+Some possible attributes can be present in the supply-demand 
+relation that is shown by diagram RANDRISK2. 
