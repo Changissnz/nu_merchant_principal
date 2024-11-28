@@ -7698,11 +7698,11 @@ proposed system requirements. Two phenomena, growth and change,
 are the basis of operation for impactful game agents bent on pulling 
 the strings belonging to a system. 
 
-The concept of "pulling strings" is used to illustrate the 
-influence, by either internal or external origins, by utilizing a 
-system because it is an adequate metaphor for system usage, automation-like, 
-after the construction and embrace of an erected system. Automation 
-has already been mentioned in this section's description of system 
+The concept of "pulling strings" is used to illustrate action, 
+by either internal or external origins, through utilizing a system 
+because it is an adequate metaphor for system usage, automation-like, 
+after the construction and embrace of said system. Automation has 
+already been mentioned in this section's description of system 
 construction, specifically for contexts of group-based unity and 
 decision-making, an outsized consideration in alliances. "Pulling 
 strings" instead of acting by one's completely owned mechanisms is 
