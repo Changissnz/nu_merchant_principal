@@ -7743,4 +7743,9 @@ Alliances Pt. II).
 Some attributes are present in the supply-demand relation 
 that is shown by diagram RANDRISK2. One is the lack of binding 
 responsibility from $X_0$ and $X_1$ to $X_2$, an impediment to 
-the alliance's growth by fully accomodating $X_2$. 
+the alliance's growth by fully accepting $X_2$. Neither $X_0$ 
+nor $X_1$ are expected to be of a wholesome supplier to $X_2$. 
+The splitting of responsibility between $X_0$ and $X_1$ is but 
+one factor in the two's ongoing efforts to maintain unity. Unity 
+is posed as a question to be independently reviewed by the two, 
+and also debated between them. 
