@@ -7672,4 +7672,3 @@ a threat; stated goals are to reduce the conflict, for conflict
 to not spread. But the phrasing makes no mention of restrictions 
 on participants' enjoyment of the conflict in pertaining situations. 
 
-expandable source for activity 
