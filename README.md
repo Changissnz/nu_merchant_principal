@@ -7713,4 +7713,7 @@ other words, to adhere to and use <ins>due process</ins> for what
 is recognized as problems and solutions, alike, for the one reliable 
 solution is already the system that was erected on the premise of 
 correctness, by practical merit and universal ideal. Acting by these 
-prescribed routes of some system is inarguably passive. 
+prescribed routes of some system is inarguably passive. The impressive 
+feats of accomplishing much, "seeing things through", all the while 
+having to tend to an established system are the successful halves 
+of results from "pulling strings". 
