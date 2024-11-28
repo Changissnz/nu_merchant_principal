@@ -7720,9 +7720,11 @@ of results from "pulling strings". It is these successful halves
 from the totality of results that perpetuate conviction in upholding 
 the system. Growth and change constitute bodies of activity that 
 are quite meaningful to system adherence. Consider an alliance that 
-currently has capability issues in acting by its prescribed formulae. 
+currently has capability issues in acting by iteir prescribed formulae. 
 And capacity issues, with regards to current participants of the 
 alliance as well as accomodation of novel non-participants into 
 alliance membership, make these issues more dire. Growing membership 
 is not a top priority of this specific alliance; "holding onto what 
-is dear" has already burdened their collective attention span. 
+is dear" has already burdened their collective attention span. But 
+the alliance cannot "forsake" on what demands and duties they are 
+originally charged with. 
