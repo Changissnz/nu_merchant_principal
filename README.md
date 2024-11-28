@@ -7694,4 +7694,7 @@ that presents itself through many variables in systems growth.
 Honest attempts to understand alliance in the systematic sense 
 must consider how passivity can "pull the strings" of the system 
 that has supposedly gained strength through satisfaction of 
-proposed system requirements. 
+proposed system requirements. Two phenomena, growth and change, 
+are the basis of operation for impactful game agents bent on pulling 
+the strings belonging to a system. 
+
