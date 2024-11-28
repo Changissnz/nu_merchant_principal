@@ -7722,5 +7722,7 @@ the system. Growth and change constitute bodies of activity that
 are quite meaningful to system adherence. Consider an alliance that 
 currently has capability issues in acting by its prescribed formulae. 
 And capacity issues, with regards to current participants of the 
-alliance as well as accomodating novel non-participants into alliance 
-membership, make these issues more dire. 
+alliance as well as accomodation of novel non-participants into 
+alliance membership, make these issues more dire. Growing membership 
+is not a top priority of this specific alliance; "holding onto what 
+is dear" has already burdened their collective attention span. 
