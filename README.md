@@ -7740,5 +7740,7 @@ maintaining unity, respectively. The diagram is a step forward in
 exemplifying a possibility of diagram MCAF2 (Shifty and Shifting 
 Alliances Pt. II). 
 
-Some possible attributes can be present in the supply-demand 
-relation that is shown by diagram RANDRISK2. 
+Some attributes are present in the supply-demand relation 
+that is shown by diagram RANDRISK2. One is the lack of binding 
+responsibility from $X_0$ and $X_1$ to $X_2$, an impediment to 
+the alliance's growth by fully accomodating $X_2$. 
