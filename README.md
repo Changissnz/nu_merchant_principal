@@ -7710,10 +7710,12 @@ a form of passivity, by individualistic metrics. By the metric of
 satisfying unifying means for unifying interests, alliances are 
 burdened by constant decisions to take the prescribed route, in 
 other words, to adhere to and use <ins>due process</ins> for what 
-is recognized as problems and solutions, alike, for the one reliable 
+is recognized as problem and solution, alike, for the one reliable 
 solution is already the system that was erected on the premise of 
 correctness, by practical merit and universal ideal. Acting by these 
 prescribed routes of some system is inarguably passive. The impressive 
 feats of accomplishing much, "seeing things through", all the while 
 having to tend to an established system are the successful halves 
-of results from "pulling strings". 
+of results from "pulling strings". It is these successful halves 
+from the totality of results that perpetuate conviction in upholding 
+the system. 
