@@ -7720,7 +7720,7 @@ of results from "pulling strings". It is these successful halves
 from the totality of results that perpetuate conviction in upholding 
 the system. Growth and change constitute bodies of activity that 
 are quite meaningful to system adherence. Consider an alliance that 
-currently has capability issues in acting by iteir prescribed formulae. 
+currently has capability issues in acting by their prescribed formulae. 
 And capacity issues, with regards to current participants of the 
 alliance as well as accomodation of novel non-participants into 
 alliance membership, make these issues more dire. Growing membership 
@@ -7728,3 +7728,15 @@ is not a top priority of this specific alliance; "holding onto what
 is dear" has already burdened their collective attention span. But 
 the alliance cannot "forsake" on what demands and duties they are 
 originally charged with. 
+
+![image info](./images/ssa3_two.PNG) 
+
+**RANDRISK2:** A diagram showing two members of an alliance, $X_0$ 
+and $X_1$, having to serve demand $d$ from $X_2$. $X_2$ is not 
+particular on the source of demand, but they demand that $d$ be 
+met. Functions $S$ and $U$, between $X_0$ and $X_1$, determine 
+the split of responsibility for serving $d$ and for their 
+maintaining unity, respectively. The diagram is a step forward in 
+exemplifying a possibility of diagram MCAF2 (Shifty and Shifting 
+Alliances Pt. II). 
+
