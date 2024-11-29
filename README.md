@@ -7750,8 +7750,19 @@ one factor in the two's ongoing efforts to maintain unity. Unity
 is posed as a question to be independently reviewed by the two, 
 and also debated between them. 
 
-This specific alliance is also intent on maintaining a "monoticity" 
+This specific alliance is also intent on maintaining a "monotonicity" 
 in decisions to act, with aims for the expected and actual 
 effects from these decisions to be predominantly one and the 
 same. Here is one aspect where tasks of perceiving stability 
-frequently occur. 
+frequently occur. Being categorized as "stable" is the positive 
+end of "monotonicity". "Monotonicity" is achieved by acting in the 
+least contradicting manner, in reference to the rules and 
+procedures of a system. "Monotonicity" may mean to disregard 
+calls to hasten due process for timelier results, or to delete 
+or add elements of improvement to this system. Consistent use 
+of mechanisms in the alliance's internal setting is a mark for 
+monotonicity. Dichotomization between the internal setting 
+(active representation of the alliance) and the external setting 
+(other participants of the alliance, affected non-participants) 
+is a balancing act, with their results able to be measured along 
+monotonicity metrics. 
