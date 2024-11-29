@@ -7837,5 +7837,8 @@ image of the predecessor. And there is also the reconciliation
 of differences in order to keep the form and function of the 
 alliance intact. Such reconciliation could ironically demand 
 a participant that would not keep the alliance's form and 
-function intact. 
+function intact. It is about the details of how, what, and 
+when the form and function is no longer intact that seem to 
+slip away into speculation zones for these most uniting 
+points of alliance. 
 
