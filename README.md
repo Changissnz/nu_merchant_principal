@@ -7829,5 +7829,13 @@ is just no way but conflict if those things are to be positively
 elevated. Essentially, compromise cannot be ever reached in 
 these situations. The coupling of unity with fiasco demonstrates 
 the pathological and irrational propensities at play in wars of 
-desire VS will. 
+desire VS will. The unity fiasco takes place at a few important 
+junctions in certain alliances. Alliances that are based on 
+hierarchy have their own ways of ceding power from one participant 
+to another. On the one hand, there is the desire to retain the 
+image of the predecessor. And there is also the reconciliation 
+of differences in order to keep the form and function of the 
+alliance intact. Such reconciliation could ironically demand 
+a participant that would not keep the alliance's form and 
+function intact. 
 
