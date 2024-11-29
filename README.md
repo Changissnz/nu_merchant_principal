@@ -7826,5 +7826,8 @@ when there is just no way for some things to be accepted.
 These things can change over the course of time to satisfy 
 the expectation. These things can retain their original 
 identity. But there is just no way but conflict if those 
-things were to be positively elevated. Essentially, these 
-situations are incapable of compromise. 
+things are to be positively elevated. Essentially, these 
+situations are incapable of compromise. The coupling of 
+unity with fiasco is to demonstrate the pathological and 
+irrational propensities at play in wars of desire VS will. 
+
