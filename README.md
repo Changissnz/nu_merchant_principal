@@ -7750,7 +7750,8 @@ one factor in the two's ongoing efforts to maintain unity. Unity
 is posed as a question to be independently reviewed by the two, 
 and also debated between them. 
 
-This specific alliance also is intent on maintaining a "monoticity" 
-over decisions to act, with aims for the expected and actual 
+This specific alliance is also intent on maintaining a "monoticity" 
+in decisions to act, with aims for the expected and actual 
 effects from these decisions to be predominantly one and the 
-same. 
+same. Here is one aspect where tasks of perceiving stability 
+frequently occur. 
