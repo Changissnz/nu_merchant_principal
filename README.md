@@ -7527,7 +7527,7 @@ The classic concept of the weighting scheme was put forth in
 the second part of Shifty and Shifting Alliances. The concept, 
 with its many insufficiencies, does still discriminately serve 
 the purposes of its proponents and opponents, alike. The constant 
-is a localizable categorization of a matter's monoticity. Users 
+is a localizable categorization of a matter's monotonicity. Users 
 of risk-dumping techniques typically focus on the stabilization 
 of their states and processes. For a little more clarification 
 on how stabilization could be enacted, suppose that the states 
@@ -7790,7 +7790,6 @@ with respect to some thing. Objectives, revolving around abiding
 by this idiom, fall into one or more of these general categories: 
 - recyclable enablement: reciprocated in some recognizable and positively 
   usable way. 
-- nonconsequentially antagonistic: support does not directly result 
+- nonconsequentially antagonist: support does not directly result 
   in the nurturing of a relatively formidable adversary. 
 
-The vast field of knowledge 
