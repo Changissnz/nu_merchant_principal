@@ -7687,8 +7687,8 @@ that are all virtually defied in the longevity of spatiotemporal
 challenges. For a particular system that is argued to persist in the 
 way of a flat line, rhetoric attempts to persuade by noting the 
 surviving ideals, outlooks, and practices that have continued on, 
-whether intactly or through "evolved" forms, that the body labeled 
-a system now is associated with in the same vein as the body of 
+whether intactly or through "evolved" forms, for the body labeled 
+a system now to be associated with, in the same vein, as the body of 
 the past that was under a similar labeling. Passivity is a factor 
 that presents itself through many variables in systems growth. 
 Honest attempts to understand alliance in the systematic sense 
@@ -7731,10 +7731,10 @@ originally charged with.
 
 ![image info](./images/ssa3_two.PNG) 
 
-**RANDRISK2:** A diagram showing two members of an alliance, $X_0$ 
-and $X_1$, having to serve demand $d$ from $X_2$. $X_2$ is not 
-particular on the source of demand, but they demand that $d$ be 
-met. Functions $S$ and $U$, between $X_0$ and $X_1$, determine 
+**RANDRISK2:** Two members of an alliance, $X_0$ and $X_1$, 
+have to serve demand $d$ from $X_2$. $X_2$ is not particular 
+on the source of demand, but they demand that $d$ be met. 
+Functions $S$ and $U$, between $X_0$ and $X_1$, determine 
 the split of responsibility for serving $d$ and for their 
 maintaining unity, respectively. The diagram is a step forward in 
 exemplifying a possibility of diagram MCAF2 (Shifty and Shifting 
@@ -7749,3 +7749,8 @@ The splitting of responsibility between $X_0$ and $X_1$ is but
 one factor in the two's ongoing efforts to maintain unity. Unity 
 is posed as a question to be independently reviewed by the two, 
 and also debated between them. 
+
+This specific alliance also is intent on maintaining a "monoticity" 
+over decisions to act, with aims for the expected and actual 
+effects from these decisions to be predominantly one and the 
+same. 
