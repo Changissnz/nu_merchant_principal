@@ -7806,3 +7806,8 @@ is to push the substitute into the role of a quasi-permanent
 alternative to the substituted. There are initiatives to 
 "maintain the balance" of meeting the demand, the objective, 
 through this primary route of a reneged deal. 
+
+Identity is a hefty topic of discussion in alliances. Equations 
+could be posited in mathematical form, but the more simplistic 
+variations seldom suffice anything but simplistic statistical 
+demands. 
