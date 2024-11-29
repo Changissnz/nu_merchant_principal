@@ -29,6 +29,7 @@
 20. [The Audience Is the Vulture](#p20)
 21. [About the Simplicity of the Cycle](#p21)
 22. [Shifty and Shifting Alliances Pt. III](#p22)
+23. [Pride Plays Perception](#p23)
 
 
 Business comes and goes, much more frequently than governments. 
@@ -7882,3 +7883,7 @@ attack's objective is the complete opposite of merit and
 efficiency in the placement of participants into roles. 
 Serious effects from mismatches include stunted and/or 
 imploded alliances. 
+
+# Pride Plays Perception <a name="p23"></a> 
+
+rsedtrkjl
