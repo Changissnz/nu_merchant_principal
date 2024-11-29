@@ -7780,3 +7780,10 @@ contradictions to the alliance's due process.
 cannot satisfy a demand $D$ without breaking out of its 
 self-defined monotonicity. 
 
+Some idioms impose remarkable influence on matters of this 
+kind of decision-making. One of them is something similar to 
+"give an inch, give a mile", an absolutist belief on the lack 
+of limits on the magnitude when any lone possibility is enabled. 
+There is concern over the directionality of the course of events, 
+transpired all due to some arbitrary degree of enablement, 
+with respect to some thing. 
