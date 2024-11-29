@@ -7855,11 +7855,13 @@ respective role cost the least (minumum in). One more condition
 is attached to MIMOTT, in order for the optimized input/output 
 values to hold. The efforts that each matched participant take 
 must not be constructive towards their breaking out of their 
-matched role. In mathematical terms, numbers in a structured 
-form solve for MIMOTT's optima. MIMOTT may run contrary to 
-meritocratic principles, simply due to the fixture of participants 
-into roles. The participants may have actually opted for something 
-else, to break free from their assigned responsibilities for 
+matched role. Metaphorically, the potential of each participant's 
+enacting systemic change is a stump instead of a tree. In 
+mathematical terms, numbers in a structured form solve for 
+MIMOTT's optima. MIMOTT may run contrary to meritocratic principles, 
+simply due to the fixture of participants into roles. The 
+participants may have actually opted for something else, to 
+break free from their assigned responsibilities for 
 responsibilities of a similar if not greater level. The 
 optimal matching of MIMOTT is done only once. Over the 
 trials of time, participant-role matchings may not be 
