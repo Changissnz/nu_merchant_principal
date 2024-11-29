@@ -7810,4 +7810,9 @@ through this primary route of a reneged deal.
 Identity is a hefty topic of discussion in alliances. Equations 
 could be posited in mathematical form, but the more simplistic 
 variations seldom suffice anything but simplistic statistical 
-demands. 
+demands. So there then is the question of preference for the 
+simplistic in practical matters, which becomes a discussion about 
+culture, ethics, and material values. Quite subjective and 
+lengthy for any meaningful discussion that can borne practical 
+novelty and insightful revelation. Here is another subjective 
+matter. The <ins>unification fiasco</ins>. 
