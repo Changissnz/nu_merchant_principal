@@ -7519,7 +7519,7 @@ the autonomous' dealing with possessed risks through disconnective
 transmission (full transfer from one to another) and acceptance. 
 For participants of an alliance, the fair distribution of the most 
 accurate marks in risk assessment is also not guaranteed to be 
-constant; an argument for the opposite as the pre-dominant form 
+constant; an argument for the opposite as the predominant form 
 of this information's distribution is actually more convincing, 
 given practices historical to present. 
 
@@ -7790,6 +7790,19 @@ with respect to some thing. Objectives, revolving around abiding
 by this idiom, fall into one or more of these general categories: 
 - recyclable enablement: reciprocated in some recognizable and positively 
   usable way. 
-- nonconsequentially antagonist: support does not directly result 
+- nonconsequentially antagonistic: support does not directly result 
   in the nurturing of a relatively formidable adversary. 
 
+<ins>Reneged deals</ins>, in forms such as <ins>pathological 
+supply</ins>, are frequent decisions made by alliances, out of 
+the actuality that took place to deter the alliance from finalizing 
+the deal, from proposition to agreement to satisfaction. Reneged 
+deals defy the expectation by deliverance of the expectation's 
+lackluster alternative. Pathological supply primarily works by 
+substituting parts or the entirety of the deal with something 
+non-existent. Economically, the substitute tends to be cheaper 
+(not as valued by standard valuation). The pathological supply 
+is to push the substitute into the role of a quasi-permanent 
+alternative to the substituted. There are initiatives to 
+"maintain the balance" of meeting the demand, the objective, 
+through this primary route of a reneged deal. 
