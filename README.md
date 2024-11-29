@@ -7765,4 +7765,6 @@ monotonicity. Dichotomization between the internal setting
 (active representation of the alliance) and the external setting 
 (other participants of the alliance, affected non-participants) 
 is a balancing act, with their results able to be measured along 
-monotonicity metrics. 
+monotonicity metrics. "Monotonicity" is challengeable on the 
+grounds of the lack of universal cause-and-effect; such lack is 
+named "hypocritical" by opponents. 
