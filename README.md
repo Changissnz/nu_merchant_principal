@@ -7839,13 +7839,13 @@ of differences in order to keep the form and function of the
 alliance intact. Such reconciliation could ironically demand 
 a participant that would not keep the alliance's form and 
 function intact. It is about the details of how, what, and 
-when the form and function is no longer intact that seem to 
+when the form and function are no longer intact that seem to 
 slip away into speculation zones for these most uniting 
 points of alliance. 
 
 Alliances, as organizations with their structural processes, 
-can depend on a strategy named minumum-in maximum-out till 
-termination (MIMOTT) for collective efficiency and conservation 
+can depend on a strategy, named minumum-in maximum-out till 
+termination (MIMOTT), for collective efficiency and conservation 
 of the active representation. MIMOTT matches each participant 
 with their "most fitting" role. The participants acquire the 
 skills necessary to excel in the role, at a level much greater 
