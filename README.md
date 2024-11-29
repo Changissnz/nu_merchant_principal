@@ -7821,4 +7821,10 @@ its self and very much the same to that something. And what
 is not different at the beginning can questionably become the 
 different to its self and very much the different to that 
 something. Acceptance is a necessity in the incorporation 
-of these two possibilities in unity. 
+of these two possibilities in unity. The unity fiasco occurs 
+when there is just no way for some things to be accepted. 
+These things can change over the course of time to satisfy 
+the expectation. These things can retain their original 
+identity. But there is just no way but conflict if those 
+things were to be positively elevated. Essentially, these 
+situations are incapable of compromise. 
