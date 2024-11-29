@@ -7869,6 +7869,7 @@ that does not have to do any of the heavy work, only the
 accounting. In role-switching, the first participant would 
 easily pick up on accounting. But the other participant would 
 not be able to do the heavy work. There is a lack of dynamism 
-and robustness in MIMOTT, a strategy that attempts to place 
-excellence found at the beginning into permanence, till 
-termination calls for a new participant-role matching.  
+and robustness, negating challenges to positions, in MIMOTT, 
+a strategy that attempts to place excellence found at the 
+beginning into permanence, till termination calls for a new 
+participant-role matching. 
