@@ -7786,4 +7786,11 @@ kind of decision-making. One of them is something similar to
 of limits for the magnitude after any lone possibility is enabled. 
 There is concern over the directionality of the course of events, 
 transpired all due to some arbitrary degree of enablement, 
-with respect to some thing. 
+with respect to some thing. Objectives, revolving around abiding 
+by this idiom, fall into one or more of these general categories: 
+- recyclable enablement: reciprocated in some recognizable and usable way. 
+- nonconsequentially antagonistic: support does not directly result 
+  in the nurturing of a relatively formidable adversary. 
+
+
+  
