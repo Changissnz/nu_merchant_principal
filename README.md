@@ -7771,5 +7771,12 @@ such lack is named "hypocritical" by opponents. Suppose the
 alliance is faced with a growing concern from non-participants. 
 These non-participants claim that they do not wish to antagonize 
 the alliance. Their demand, as the growing concern, is not solvable 
-by the alliance, due to a combination of their resource limits 
-and contradictions to the alliance's due process. 
+by the alliance, due to a combination of resource limits and 
+contradictions to the alliance's due process. 
+
+![image info](./images/ssa3_three.PNG) 
+
+**RANDRISK3:** Programmatic function for an alliance $A$ that 
+cannot satisfy a demand $D$ without breaking out of its 
+self-defined monotonicity. 
+
