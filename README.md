@@ -7761,10 +7761,15 @@ procedures of a system. "Monotonicity" may mean to disregard
 calls to hasten due process for timelier results, or to delete 
 or add elements of improvement to this system. Consistent use 
 of mechanisms in the alliance's internal setting is a mark for 
-monotonicity. Dichotomization between the workings of the internal 
+monotonicity. Dichotomizing the workings of the internal 
 setting (active representation of the alliance) and the external 
 setting (other participants of the alliance, affected 
 non-participants) is a balancing act, and results are advocated 
 to be measurable along monotonicity metrics. "Monotonicity" is 
 challengeable on the grounds of the lack of universal cause-and-effect; 
-such lack is named "hypocritical" by opponents. 
+such lack is named "hypocritical" by opponents. Suppose the 
+alliance is faced with a growing concern from non-participants. 
+These non-participants claim that they do not wish to antagonize 
+the alliance. Their demand, as the growing concern, is not solvable 
+by the alliance, due to a combination of their resource limits 
+and contradictions to the alliance's due process. 
