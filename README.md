@@ -7689,10 +7689,10 @@ challenges. For a particular system that is argued to persist in the
 way of a flat line, rhetoric attempts to persuade by noting the 
 surviving ideals, outlooks, and practices that have continued on, 
 whether intactly or through "evolved" forms, for the body labeled 
-a system now to be associated with, in the same vein, as the body of 
+a system now to be associated with, in the same vein, the body of 
 the past that was under a similar labeling. Passivity is a factor 
 that presents itself through many variables in systems growth. 
-Honest attempts to understand alliance in the systematic sense 
+Honest attempts to understand an alliance in the systematic sense 
 must consider how passivity can "pull the strings" of the system 
 that has supposedly gained strength through satisfaction of 
 proposed system requirements. Two phenomena, growth and change, 
@@ -7760,7 +7760,7 @@ end of "monotonicity". "Monotonicity" is achieved by acting in the
 least contradicting manner, in reference to the rules and 
 procedures of a system. "Monotonicity" may mean to disregard 
 calls to hasten due process for timelier results, or to delete 
-or add elements of improvement to this system. Consistent use 
+or add elements for improvement to this system. Consistent use 
 of mechanisms in the alliance's internal setting is a mark for 
 monotonicity. Dichotomizing the workings of the internal 
 setting (active representation of the alliance) and the external 
