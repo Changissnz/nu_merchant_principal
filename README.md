@@ -7873,7 +7873,7 @@ easily pick up on accounting. But the other participant would
 not be able to do the heavy work. There is a lack of dynamism 
 and robustness, negating challenges to positions, in MIMOTT, 
 a strategy that attempts to place excellence found at the 
-beginning into permanence, till termination calls for a new 
+beginning into permanence till termination calls for a new 
 participant-role matching. Alliances that depend on 
 participant-role matching, in any form, to satisfy their 
 ongoing objectives may be vulnerable to a type of influence 
