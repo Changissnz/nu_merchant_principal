@@ -7815,4 +7815,10 @@ simplistic in practical matters, which becomes a discussion about
 culture, ethics, and material values. Quite subjective and 
 lengthy for any meaningful discussion that can borne practical 
 novelty and insightful revelation. Here is another subjective 
-matter. The <ins>unification fiasco</ins>. 
+matter. The <ins>unity fiasco</ins>. What is not the same to 
+something at the beginning can questionably become different to 
+its self and very much the same to that something. And what 
+is not different at the beginning can questionably become the 
+different to its self and very much the different to that 
+something. Acceptance is a necessity in the incorporation 
+of these two possibilities in unity. 
