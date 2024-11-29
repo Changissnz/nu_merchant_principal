@@ -7880,5 +7880,5 @@ ongoing objectives may be vulnerable to a type of influence
 attack: the <ins>functionary-allocation attack</ins>. The 
 attack's objective is the complete opposite of merit and 
 efficiency in the placement of participants into roles. 
-Serious effects from mismatches include imploded and/or 
-stunted alliances. 
+Serious effects from mismatches include stunted and/or 
+imploded alliances. 
