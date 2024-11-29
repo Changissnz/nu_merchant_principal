@@ -7788,7 +7788,8 @@ There is concern over the directionality of the course of events,
 transpired all due to some arbitrary degree of enablement, 
 with respect to some thing. Objectives, revolving around abiding 
 by this idiom, fall into one or more of these general categories: 
-- recyclable enablement: reciprocated in some recognizable and usable way. 
+- recyclable enablement: reciprocated in some recognizable and positively 
+  usable way. 
 - nonconsequentially antagonistic: support does not directly result 
   in the nurturing of a relatively formidable adversary. 
 
