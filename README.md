@@ -7842,3 +7842,30 @@ when the form and function is no longer intact that seem to
 slip away into speculation zones for these most uniting 
 points of alliance. 
 
+Alliances, as organizations with their structural processes, 
+can depend on a strategy named minumum-in maximum-out till 
+termination (MIMOTT) for collective efficiency and conservation 
+of the active representation. MIMOTT matches each participant 
+with their "most fitting" role. The participants acquire the 
+skills necessary to excel in the role, at a level much greater 
+than their counterparts if the counterparts were to have attempted 
+to do the same (maximum out). In hard terms such as temporal 
+and spatial measures, these participants matched with their 
+respective role cost the least (minumum in). One more condition 
+is attached to MIMOTT, in order for the optimized input/output 
+values to hold. The efforts that each matched participant take 
+must not be constructive towards their breaking out of their 
+matched role. In mathematical terms, numbers in a structured 
+form solve for MIMOTT's optima. MIMOTT may run contrary to 
+meritocratic principles, simply due to the fixture of participants 
+into roles. The participants may have actually opted for something 
+else, to break free from their assigned responsibilities for 
+responsibilities of a similar if not greater level. The 
+optimal matching of MIMOTT is done only once. Over the 
+trials of time, participant-role matchings may not be 
+beneficial to the participant. For example, the participant 
+has to do heavy work, but gets paid less than another participants 
+that does not have to do any of the heavy work, only the 
+accounting. In role-switching, the first participant would 
+easily pick up on accounting. But the other participant would 
+not be able to do the heavy work. 
