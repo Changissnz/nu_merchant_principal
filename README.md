@@ -7962,8 +7962,8 @@ is the need to rationalize a metaphysical backtracing path
 from the behavior to the intangible and imperceivable pride. 
 "Pride" is but a subjective term in many analyses. The term 
 can also be a derogatory label, usually given by an adversary 
-of some sorts, for the agent of some behavior. The coupling 
-of "pride" with "perception" uses its conceptualizations 
+of some sorts, for the agent of some behavior. This section's 
+coupling of "pride" with "perception" uses its conceptualizations 
 that is relatively simple in quantification and visualization, 
-rather than by selecting phenomena believed by some to be 
+rather than selecting phenomena believed by some to be 
 representative of "pride". 
