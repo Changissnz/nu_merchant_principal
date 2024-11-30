@@ -7925,10 +7925,10 @@ only two aspects to discuss for this one scope:
 
 There does not appear to be a universal formula or set of 
 formulae for delineating "perception" from the factors that 
-produce it. However, the notion that competing formulae can 
-serve as equally competent solutions for modeling this task 
-is valid, by using claims that rest on the similarities of 
-accuracies by select weighting schemes. "Pride" takes a 
+produce or influence it. However, the notion that competing 
+formulae can serve as equally competent solutions for modeling 
+this task is valid, by using claims that rest on the similarities 
+of accuracies by select weighting schemes. "Pride" takes a 
 high-ranking spot as a relevant candidate out of these factors. 
 It contributes greatly as a motive to recognize or filter 
 information. "Pride", taken up into individual or group 
