@@ -7955,15 +7955,15 @@ accepted methodology. It splits itself into a multitude
 of values, intangible and imperceivable to external sources 
 of sense. Unlike lust or gluttony, for instance, pride does 
 not abide by such direct cause-and-effect patterns. There 
-is hubris, the extreme variant of pride, that is recognized 
-after events that fall under categories of grievous mistake. 
-For behavior to be recognized as prideful, there is the need 
-to rationalize a metaphysical backtracing path from the 
-behavior to the intangible and imperceivable pride. "Pride" 
-is but a subjective term in many analyses. The term can 
-also be a derogatory label, usually given by an adversary 
+is hubris, the extreme variant of pride, that is more 
+recognized after events that fall under categories of grievous 
+mistake. For behavior to be recognized as prideful, there 
+is the need to rationalize a metaphysical backtracing path 
+from the behavior to the intangible and imperceivable pride. 
+"Pride" is but a subjective term in many analyses. The term 
+can also be a derogatory label, usually given by an adversary 
 of some sorts, for the agent of some behavior. The coupling 
-of "pride" with "perception is to use conceptualizations of 
-"pride" that is relatively simple in quantification and 
-visualization, rather than by selecting phenomena believed by 
-some to be representative of "pride". 
+of "pride" with "perception" uses its conceptualizations 
+that is relatively simple in quantification and visualization, 
+rather than by selecting phenomena believed by some to be 
+representative of "pride". 
