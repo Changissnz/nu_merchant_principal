@@ -7893,4 +7893,10 @@ reconstruct towards its fullness; the memory is no longer
 wholly withdrawn from a base into active cognition, and 
 the active cognition has to process additional steps 
 for that lone memory faded to be brought back to life 
-in a distorted form. 
+in a distorted form. Section How Obtuse Judgments Can 
+Count contains slight explanation on the differentiating 
+lines between perception and judgment. The ensuing discussion 
+attempts to capture more explanation on perception, using 
+conceptualizations of that thing called pride, and extending 
+out of simple juxtaposition with the concept of cognitive 
+"judgment". 
