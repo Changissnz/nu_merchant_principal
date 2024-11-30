@@ -7969,8 +7969,21 @@ instead of narrating over select phenomena believed by some
 to be representative of "pride". 
 
 Pride, in the realm not necessarily entirely reserved to 
-human beings, but to sentience in general, is a motivating 
+human beings but to sentience in general, is a motivating 
 and controlling force before the perception, and a reactive 
 force after the perception, despite how accurate the perception 
 can be without any additional drivers connected to it (if that 
-is even possible). 
+is even possible). Consider perception as not a default immune 
+to partiality. On the converse, perception is an act attached 
+to objectives that do not have to present themselves in such 
+forward fashion. Objectives can expressed in fashions of 
+universality: "eradicate poverty", "war against drugs", 
+"kill the corrupt", et cetera. The methodology that judges 
+the objective as a singular expression, void of nuance, to 
+be a universal must be at most agnostic in belief to the 
+possibilities, actualized or not, that constitute the means 
+believed to be necessary to satisfying the objective. Critics 
+of particular means would expectedly use words such as 
+"blindness" and "perversion", very antithetical to the 
+nobleness that objectives must carry to retain and perpetuate 
+believership. 
