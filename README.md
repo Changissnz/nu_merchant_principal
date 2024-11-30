@@ -7976,7 +7976,7 @@ can be without any additional drivers connected to it (if that
 is even possible). Consider perception as not a default immune 
 to partiality. On the converse, perception is an act attached 
 to objectives that do not have to present themselves in such 
-forward fashion. Objectives can expressed in fashions of 
+forward fashion. Objectives can be expressed in fashions of 
 universality: "eradicate poverty", "war against drugs", 
 "kill the corrupt", et cetera. The methodology that judges 
 the objective as a singular expression, void of nuance, to 
@@ -7986,4 +7986,31 @@ means believed to be necessary to satisfying the objective.
 Critics of particular means would expectedly use words such as 
 "blindness" and "perversion", very antithetical to the 
 nobleness that objectives must carry to retain and perpetuate 
-believership. 
+believership. There are some that argue that their own 
+believed rightful universal is at least agnostic in belief, 
+that they are willing to do whatever it takes to achieve 
+their wanted marks of success. The rationale, on why the statement 
+on the rightful universal to be at most agnostic in belief, 
+is due to the double-sided nature of progress and infliction; 
+what is to be done to the other in the name of the universal 
+cannot be done to the self, out of sanity. This is a rationale 
+based on the reference of selflessness, contrary to the opposite 
+of the self with directed interests that would inevitably be 
+called "blind" or "perverse" by opposition. Opposition, in 
+general, do not have to be constrained to accuracy of perception, 
+and this opens up possibilities for them to arbitrarily label any 
+initiative as "blind" or "perverse", regardless of the initiative's 
+reference of the self or selflessness. Because the reference of 
+selflessness is not as concentrated as the lone self, criticisms 
+are geared against the "negative" (non-existence, negligence) marks 
+of the selfless, which could then be defended by the selfless 
+through their posit of no accountability or control. Criticisms 
+of the self, the self being one that yearns for singular 
+attribution, focus on the "positive" (failures through attempt, 
+ignorance) marks. As with the absolute split of qualities found 
+in typical dichotomies, this dichotomy of the self and the 
+selfless is imperfect, usable only as a preliminary metric of 
+further judgment. The truth and the action do not run in forms 
+parallel to each other according to a universally believed natural 
+order, not when there are objectives by pride of either the self, the 
+group, or the selfless. 
