@@ -7944,7 +7944,7 @@ sometimes lead to admissions of some kind of fault for
 the purpose of correction towards "balance". Other times, 
 there is only the acknowledgment of such a force, and 
 there remains underlying drive to forgo attempts to change 
-activity stemming from this force, via entire elimination 
+activity, stemming from this force, via entire elimination 
 of it from all levels of cognition. Dishearteningly, from 
 a great number of perspectives, "pride" along with its six 
 counterparts constitute unkillable forces very much like 
@@ -7954,8 +7954,10 @@ more difficult of the seven to recognize by a universally
 accepted methodology. It splits itself into a multitude 
 of values, intangible and imperceivable to external sources 
 of sense. Unlike lust or gluttony, for instance, pride does 
-not abide by such direct cause-and-effect patterns. For 
-behavior to be recognized as prideful, there is the need 
+not abide by such direct cause-and-effect patterns. There 
+is hubris, the extreme variant of pride, that is recognized 
+after events that fall under categories of grievous mistake. 
+For behavior to be recognized as prideful, there is the need 
 to rationalize a metaphysical backtracing path from the 
 behavior to the intangible and imperceivable pride. "Pride" 
 is but a subjective term in many analyses. The term can 
