@@ -7900,7 +7900,7 @@ not wholesome. A differing perspective would counter that
 the recollection is not authentic because it is tidbits 
 of what happened, and these tidbits are typically both 
 most memorable and picturesque to be recollected for a 
-supposedly accurate form. So there is the question of the 
+supposedly accurate form. So there are questions of the 
 recollection's wholesomeness, and the authenticity of the 
 remnants that is the recollection of the memory now faded. 
 Section How Obtuse Judgments Can Count contains slight explanation 
