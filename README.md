@@ -7892,5 +7892,5 @@ away in the sense that recollection must work harder to
 reconstruct towards its fullness; the memory is no longer 
 wholly withdrawn from a base into active cognition, without 
 the active cognition having to process additional steps 
-for that lone memory faded and now brought back to life 
+for that lone memory faded to be brought back to life 
 in a distorted form. 
