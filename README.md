@@ -7890,7 +7890,7 @@ Perception somehow has to produce meaning. The lone memory,
 accurate in the short time after its birth, eventually fades 
 away in the sense that recollection must work harder to 
 reconstruct towards its fullness; the memory is no longer 
-wholly withdrawn from a base into active cognition, without 
-the active cognition having to process additional steps 
+wholly withdrawn from a base into active cognition, and 
+the active cognition has to process additional steps 
 for that lone memory faded to be brought back to life 
 in a distorted form. 
