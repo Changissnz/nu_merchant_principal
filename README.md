@@ -7899,4 +7899,17 @@ lines between perception and judgment. The ensuing discussion
 attempts to capture more explanation on perception, using 
 conceptualizations of that thing called pride, and extending 
 out of simple juxtaposition with the concept of cognitive 
-"judgment". 
+"judgment". In this discussion, the conceptualizations of 
+pride may actually outweigh perception in the lengths of 
+their elaborations. The choice to use this theme to elongate 
+discussion on perception is due to its real and far-reaching 
+effects on sentience that can operate on both "individual" 
+and "group" bases. From certain perspectives, the concept 
+of "perception" is not confined to the one scope of external 
+phenomena's effects processed by simple sense/s, for the 
+resultant to be a feeling or memory. There would be only 
+two aspects to discuss for this one scope: 
+- "accurate" initial processing of the external phenomenon 
+  via granted senses;  
+- accurate recollection of the initial procession into 
+  active cognition. 
