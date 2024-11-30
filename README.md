@@ -7943,10 +7943,10 @@ deadly sins. Conversations on this particular concept
 sometimes lead to admissions of some kind of fault for 
 the purpose of correction towards "balance". Other times, 
 there is only the acknowledgment of such a force, and 
-the underlying drive to forgo attempts to change activity 
-stemming from this force by entirely eliminating it from 
-all levels of cognition. Dishearteningly, from a great 
-number of perspectives, "pride" along with its six 
+there remains underlying drive to forgo attempts to change 
+activity stemming from this force, via entire elimination 
+of it from all levels of cognition. Dishearteningly, from 
+a great number of perspectives, "pride" along with its six 
 counterparts constitute unkillable forces very much like 
 essential ingredients for a specific food recipe. Things 
 would not be the same without pride. 
