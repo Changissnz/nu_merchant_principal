@@ -1209,7 +1209,7 @@ sentient mind? The concept of "judgment" is
 associated with a decisive tone, maybe consequence
 or consequences, maybe a conclusion to merely 
 believe in if not to uphold and advance. The 
-explicit mention of associated  terms, such 
+explicit mention of associated terms, such 
 as consequences and conclusions, belonging 
 to judgments is necessary to discuss the topic 
 in this outline of cognitive processes.
@@ -7886,4 +7886,11 @@ imploded alliances.
 
 # Pride Plays Perception <a name="p23"></a> 
 
-die fantumvulf, decados finazzi...
+Perception somehow has to produce meaning. The lone memory, 
+accurate in the short time after its birth, eventually fades 
+away in the sense that recollection must work harder to 
+reconstruct towards its fullness; the memory is no longer 
+wholly withdrawn from a base into active cognition, without 
+the active cognition having to process additional steps 
+for that lone memory faded and now brought back to life 
+in a distorted form. 
