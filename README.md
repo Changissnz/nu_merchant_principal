@@ -7922,9 +7922,31 @@ only two aspects to discuss for this one scope:
   via granted senses;  
 - accurate recollection of the initial procession into 
   active cognition. 
+
 There does not appear to be a universal formula or set of 
 formulae for delineating "perception" from the factors that 
 produce it. However, the notion that competing formulae can 
 serve as equally competent solutions for modeling this task 
-is valid, by using claims that rest on similar accuracies by 
-select weighting schemes.
+is valid, by using claims that rest on the similarities of 
+accuracies by select weighting schemes. "Pride" takes a 
+high-ranking spot as a relevant candidate out of these factors. 
+It contributes greatly as a motive to recognize or filter 
+information. "Pride", taken up into individual or group 
+cognition, deflects itself from its base word into a multitude 
+of values for thoughts that are either internally secured 
+(arguably labeled as "repressed" by certain cultures) or 
+actionable. A lot of notions, sometimes posited as pure 
+truths, have been put forth on "pride". The concept (pride) 
+does make for an easy topic to denounce from a moralistic 
+perspective. It is the number one sin out of the seven 
+deadly sins. Conversations on this particular concept 
+sometimes lead to admissions of some kind of fault for 
+the purpose of correction towards "balance". Other times, 
+there is only the acknowledgment of such a force, and 
+the underlying drive to forgo attempts to change activity 
+stemming from this force by entirely eliminating it from 
+all levels of cognition. Dishearteningly, from a great 
+number of perspectives, "pride" along with its six 
+counterparts constitute unkillable forces very much like 
+essential ingredients for a specific food recipe. Things 
+would not be the same without pride. 
