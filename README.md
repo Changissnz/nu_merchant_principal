@@ -7965,5 +7965,12 @@ can also be a derogatory label, usually given by an adversary
 of some sorts, for the agent of some behavior. This section's 
 coupling of "pride" with "perception" uses conceptualizations 
 that are relatively simple in quantification and visualization, 
-rather than by selecting phenomena believed by some to be 
-representative of "pride". 
+instead of narrating over select phenomena believed by some 
+to be representative of "pride". 
+
+Pride, in the realm not necessarily entirely reserved to 
+human beings, but to sentience in general, is a motivating 
+and controlling force before the perception, and a reactive 
+force after the perception, despite how accurate the perception 
+can be without any additional drivers connected to it (if that 
+is even possible). 
