@@ -8000,8 +8000,8 @@ called "blind" or "perverse" by opposition. Opposition, in
 general, does not have to be constrained to accuracy of perception, 
 and this opens up possibilities for them to arbitrarily label any 
 initiative as "blind" or "perverse", regardless of the initiative's 
-reference of the self or selflessness. Because the reference of 
-selflessness is not as concentrated as the lone self, criticisms 
+strict reference to the self or selflessness. Because the reference 
+of selflessness is not as concentrated as the lone self, criticisms 
 tend to be geared against the "negative" (non-existence, negligence) 
 marks of the selfless, which could then be defended by the selfless 
 through their posit of no accountability or control. Criticisms 
