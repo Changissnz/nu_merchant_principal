@@ -7844,8 +7844,8 @@ slip away into speculation zones for these most uniting
 points of alliance. 
 
 Alliances, as organizations with their structural processes, 
-can depend on a strategy, named minumum-in maximum-out till 
-termination (MIMOTT), for collective efficiency and conservation 
+can depend on a strategy named minumum-in maximum-out till 
+termination (MIMOTT) for collective efficiency and conservation 
 of the active representation. MIMOTT matches each participant 
 with their "most fitting" role. The participants acquire the 
 skills necessary to excel in the role, at a level much greater 
