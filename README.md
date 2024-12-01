@@ -8074,10 +8074,17 @@ actualization of a threat. In abstract terms, a wholesome perception
 logic structure has to map the raw input, collected by the 
 senses, to what that raw input "means". Diction is at play in 
 this logic structure's design. What that raw input is mapped 
-to "mean" could instead be labeled the "judgment" phase. But 
-another valid labeling for "judgment" would be the statement that 
-the threat actualized needs to be averted. For this to happen, 
+to "mean" could instead be labeled the "judgment" phase of cognition. 
+But another valid labeling for "judgment" would be the statement 
+that the threat actualized needs to be averted. For this to happen, 
 the perception logic structure should immediately map the clenched 
 fist to a threat, and perception would have to heavily be in use 
 for events of prolonged physical altercation. 
 
+![image info](./images/ppp_two.PNG) 
+
+**PPP2:** An abstraction of typical artificial neural networks. 
+There is the input, and $n$ layers of interpretative perception 
+after the initial perception step $P_0$. Information from $P_?$ 
+layers are routed to a blackbox judgment function $F_j$ and then, 
+there is judgment. 
