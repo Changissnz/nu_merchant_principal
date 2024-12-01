@@ -8116,8 +8116,8 @@ of rational-like belief. These conjectured traits of pride all
 lead back to the identity of the prideful. In cases where there 
 are differences in the sensory input, no matter how slight, two 
 differing possibilities for a formulated judgment could lead to 
-vastly different conclusions (final judgments), via interpretation 
-of different segments of the sensory input through the perception 
+vastly different conclusions (final judgments), via derivation 
+from different segments of the sensory input through the perception 
 logic structure (equivalently, interpretation). 
 
 The common notion that every decision bears effects, great or 
@@ -8130,4 +8130,6 @@ pride can do, not independently but as a potent force. Sources of
 perceptual processing are not necessarily stationary. Pride, as 
 a determinant, in the decisions made then place these sources into 
 spatiotemporal settings that otherwise would only have occurred 
-through drivers other than pride. 
+through drivers other than pride. The interpretability of the 
+lone word in use, coupled with diction that prefers one word for 
+another likened as a synonym, 
