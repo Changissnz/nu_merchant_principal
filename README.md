@@ -8107,7 +8107,7 @@ meaning to be gathered in this possibility. For additional meaning to
 be generated from the initial sensory input, there must be non-identity 
 mappings that observe subsets or the whole of this input. 
 
-Pride supposedly present itself in some forms through all of 
+Pride supposedly presents itself in some forms through all of 
 this processing from sentience. For one, pride acts by certain 
 cues, recognizes certain symbols more than others, and can act 
 as a random-like self-driving force that propels objectives out 
