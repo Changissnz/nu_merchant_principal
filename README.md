@@ -8111,5 +8111,10 @@ Pride supposedly presents itself in some forms through all of
 this processing from sentience. For one, pride acts by certain 
 cues, recognizes certain symbols more than others, and can act 
 as a random-like self-driving force that propels objectives out 
-of rational-like belief. These conjectured traits of pride all lead 
-back to the identity of the prideful. 
+of rational-like belief. These conjectured traits of pride all 
+lead back to the identity of the prideful. In cases where there 
+are differences in the sensory input, no matter how slight, two 
+differing possibilities for a formulated judgment could lead to 
+vastly different conclusions (final judgments), via the different 
+segments of the sensory input that is interpreted through the 
+perception logic structure (equivalently, interpretation). 
