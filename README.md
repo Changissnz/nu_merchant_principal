@@ -8132,4 +8132,12 @@ a determinant, in the decisions made then place these sources into
 spatiotemporal settings that otherwise would only have occurred 
 through drivers other than pride. The interpretability of the 
 lone word in use, coupled with diction that prefers one word for 
-another likened as a synonym, 
+another likened as a synonym, incur difficulty on the perfect 
+attribution of pride to a vastly different sequences of decisions 
+forced to be taken. An analytical statement could be expressed as: 
+if it was not for "pride", these events of these descriptions 
+would not have occurred. Without further details that eliminate 
+extraneous possibilities for a constrained context pertaining 
+to this statement, substitute words for "pride" could be "haste", 
+"anger", "hate", and "love"; practically any noun with a 
+non-narrow scope of influence would do. 
