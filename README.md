@@ -7982,7 +7982,7 @@ universality: "eradicate poverty", "war against drugs",
 the objective as a singular expression, void of nuance, to 
 be a rightful universal must be at most agnostic in belief 
 to the possibilities, actualized or not, that constitute the 
-means believed to be necessary to satisfying the objective. 
+means believed to be necessary to satisfy the objective. 
 Critics of particular means would expectedly use words such as 
 "blindness" and "perversion", very antithetical to the 
 nobleness that objectives must carry to retain and perpetuate 
@@ -8056,7 +8056,8 @@ subspaces of total cognition; to clarify, total cognition includes
 the "sub-conscious", sensory input (commonly termed "perception"), 
 the "feelings", the "ruminations", the "hypotheses", the "conclusions", 
 and any other additional thoughts not encompassed by these quoted 
-terms. An example of the perception logic structure is now put forth: 
+terms. An example situation for the perception logic structure's use 
+is now put forth: 
 1. A man with a clenched fist walks up to you. 
 2. The same man throws a punch at your face. 
 3. You duck. 
