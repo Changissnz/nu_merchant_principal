@@ -7990,8 +7990,8 @@ believership. There are some that argue that their own
 believed rightful universal is at least agnostic in belief, 
 that they are willing to do whatever it takes to achieve 
 their wanted marks of success. The rationale, on why the statement 
-of the rightful universal to be at most agnostic in belief, 
-is due to the double-sided nature of progress and infliction; 
+of the rightful universal is at most agnostic in belief, is 
+due to the double-sided nature of progress and infliction; 
 what is to be done to the other in the name of the universal 
 cannot be done to the self, out of sanity. This is a rationale 
 based on the reference of selflessness, contrary to the opposite 
@@ -8015,5 +8015,14 @@ truth and the action do not run in forms parallel to each other
 according to a universally believed natural order, not when 
 there are objectives by pride of the self, the group, and 
 the selfless. The phrase "universally believed" is synonymous 
-to collective agreement, in this context. 
+to collective sentient agreement, in this context. 
 
+Perhaps these next statements are more than half-truths on the 
+ramifications of "true" pride. The prideful operates by principles 
+that they do not want to violate if they had the liberty not to. The 
+prideful does not want to feel humiliated or belittled, and as such, 
+tends to act in ways that do not risk their being put into situations 
+that promote these dynamics. The prideful has an intimate and binding 
+relation with their identity, in self and group forms. The prideful is 
+a resolute and self-enduring entity. The prideful responds in unyielding 
+tones to demands that they do not agree with. 
