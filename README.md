@@ -8083,8 +8083,8 @@ for events of prolonged physical altercation.
 
 ![image info](./images/ppp_two.PNG) 
 
-**PPP2:** An abstraction of typical artificial neural networks. 
-There is the input, and $n$ layers of interpretative perception 
-after the initial perception step $P_0$. Information from $P_?$ 
-layers are routed to a blackbox judgment function $F_j$ and then, 
-there is judgment. 
+**PPP2:** An abstraction of typical artificial neural networks, 
+albeit with more "humanistic" labeling. There is the input, and 
+$n$ layers of interpretative perception after the initial perception 
+step $P_0$. Information from $P_?$ layers are routed to a blackbox 
+judgment function $F_j$ and then, there is judgment. 
