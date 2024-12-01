@@ -8061,8 +8061,8 @@ terms. An example of the perception logic structure is now put forth:
 2. The same man throws a punch at your face. 
 3. You duck. 
 
-A competent perception for this example produces an information 
-sequence in this likeness: 
+A competent perception logic structure for this example produces 
+an information sequence in this likeness: 
 1. Detect threat situation. 
 2. Detect threat. 
 3. Avert threat. 
