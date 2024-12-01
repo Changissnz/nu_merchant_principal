@@ -8098,11 +8098,18 @@ processing to be done via the route at head $P_0$ instead of $P_0^{(1)}$.
 Section How Obtuse Judgments Can Count mentioned two models, the 
 perception-first and judgment-first models. Diagrams PPP2 and PPP3 
 further illustrate those two. Judgment matters. In the continuity 
-of sentient existence, judgment could very well come before perception. 
-It is the specific judgment that determines the focus (synonymously 
-in this usage, the objective) of the perception logic structure. The 
-sensory input into the perception logic structure could remain identical 
-throughout the processing; there is no additional meaning to be 
-gathered in this possibility. For additional meaning to be generated 
-from the initial sensory input, there must be non-identity mappings 
-that observe subsets or the whole of this input. 
+of sentient existence, judgment could very well come before perception 
+at some points in time. It is the specific judgment that determines 
+the focus (synonymously in this usage, the objective) of the perception 
+logic structure. The sensory input into the perception logic structure 
+could remain identical throughout the processing; there is no additional 
+meaning to be gathered in this possibility. For additional meaning to 
+be generated from the initial sensory input, there must be non-identity 
+mappings that observe subsets or the whole of this input. 
+
+Pride supposedly present itself in some forms through all of 
+this processing from sentience. For one, pride acts by certain 
+cues, recognizes certain symbols more than others, and can act 
+as a random-like self-driving force that propels objectives out 
+of rational-like belief. These conjectured traits of pride all lead 
+back to the identity of the prideful. 
