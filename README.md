@@ -8068,6 +8068,15 @@ sequence in this likeness:
 3. Avert threat. 
 
 The perception logic structure should immediately correlate (map) 
-the clenched fist as a threatening sign in body language. Afterwards, 
+the clenched fist to a threatening sign of body language. Afterwards, 
 this same structure should map the threatening sign to the 
-actualization of a threat. 
+actualization of a threat. In abstract terms, a wholesome perception 
+logic structure has to map the raw input, collected by the 
+senses, to what that raw input "means". Diction is at play in 
+this logic structure's design. What that raw input is mapped 
+to "mean" could instead be labeled the "judgment" phase. But 
+another valid labeling for "judgment" would be the belief that 
+the threat actualized needs to be averted. For this to happen, 
+the perception logic structure should immediately map the clenched 
+fist to a threat, and perception would have to heavily be in use 
+for events of prolonged physical altercation. 
