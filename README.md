@@ -8119,3 +8119,8 @@ differing possibilities for a formulated judgment could lead to
 vastly different conclusions (final judgments), via interpretation 
 of different segments of the sensory input through the perception 
 logic structure (equivalently, interpretation). 
+
+The common notion that decisions bear effects, great or small, 
+mean things in terms of the outcomes; in the real sense, 
+spatiotemporal details are affected by decisions. This notion 
+opens up another medium for pride to inject its influence. 
