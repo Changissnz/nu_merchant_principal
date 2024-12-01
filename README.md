@@ -8049,4 +8049,9 @@ to accomplish their wanted tasks. Perhaps "pride" is not the word.
 Perhaps? 
 
 The focus now shifts from incomplete illumination of the concept of 
-"pride" to its influence on perception.  
+"pride" to its influence on perception. "Perception" has not yet 
+been abstracted into a logic structure in this section. A model for 
+"perception" takes the practice to be an extendable and reducible 
+subspace of total cognition; to clarify, total cognition includes 
+the "sub-conscious", the "feelings", the "ruminations", the 
+"hypotheses", and the "conclusions".  
