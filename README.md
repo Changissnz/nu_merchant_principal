@@ -8123,8 +8123,10 @@ logic structure (equivalently, interpretation).
 The common notion that every decision bears effects, great or 
 small, mean things in terms of the outcomes; in the real sense, 
 these outcomes are the spatiotemporal details affected by decisions, 
-through their promotion or demotion. This notion opens up another medium 
+through promotion or demotion. This notion opens up another medium 
 for pride to inject its influence. The concept of situational engineering 
 (an entire section has already been dedicated to the concept) is what 
-pride can do, not independently but as a potent force. 
-
+pride can do, not independently but as a potent force. Sources of 
+perceptual processing are not necessarily stationary; pride as 
+a determinant in the decisions made then place these sources into 
+different spatiotemporal settings. 
