@@ -7968,8 +7968,8 @@ that are relatively simple in quantification and visualization,
 instead of narrating over select phenomena believed by some 
 to be representative of "pride". 
 
-Pride, in the realm not necessarily entirely reserved to 
-human beings but to sentience in general, is a motivating 
+Pride, in the realm not necessarily to be entirely reserved 
+to human beings but to sentience in general, is a motivating 
 and controlling force before the perception, and a reactive 
 force after the perception, despite how accurate the perception 
 can be without any additional drivers connected to it (if that 
@@ -7994,8 +7994,8 @@ of the rightful universal is at most agnostic in belief, is
 due to the double-sided nature of progress and infliction; 
 what is to be done to the other in the name of the universal 
 cannot be done to the self, out of sanity. This is a rationale 
-based on the reference of selflessness, contrary to the opposite 
-of the self with directed interests that would inevitably be 
+based on the reference of selflessness, contrary to the opposite, 
+the self with directed interests that would inevitably be 
 called "blind" or "perverse" by opposition. Opposition, in 
 general, does not have to be constrained to accuracy of perception, 
 and this opens up possibilities for them to arbitrarily label any 
@@ -8037,14 +8037,16 @@ or preside predominantly at one of the two ends. The possible actions that
 "pride" can take are not shown in the automaton, only their orientations 
 (pro,contra,?) according to an axis. There are no rigid definitions 
 attached to "pride" or "no pride" in the automaton. The automaton for 
-"lust" is more narrow in scope, and can act as a template for a demonstrative 
+"lust" is more narrow in scope, and can act as a template for demonstrative 
 testing of an agent for their possibility of being lustful. There is 
-a way for the "lust" diagram to terminate: the agent has conclusively 
+a way for the "lust" automaton to terminate: the agent has conclusively 
 demonstrated "no lust". 
 
-After the diagram PPP1 that models how "pride" and "lust" behaves, a 
+After the diagram PPP1 that models how "pride" and "lust" behave, a 
 last statement on "pride" is in order: "pride" is a great mystery, 
 in many of its forms, because the prideful can be unusually deceptive 
 to accomplish their wanted tasks. Perhaps "pride" is not the word. 
 Perhaps? 
 
+The focus now shifts from incomplete illumination of the concept of 
+"pride" to its influence on perception.  
