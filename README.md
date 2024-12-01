@@ -8139,5 +8139,6 @@ if it was not for "pride", these events of these descriptions
 would not have occurred. Without further details that eliminate 
 extraneous possibilities for a constrained context pertaining 
 to this statement, substitute words for "pride" could be "haste", 
-"anger", "hate", and "love"; practically any noun with a 
-non-narrow scope of influence would do. 
+"anger", "hate", and "love"; practically, any noun with a 
+scope of influence, with respect to the open-ended context, 
+would do. 
