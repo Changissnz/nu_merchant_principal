@@ -8144,6 +8144,7 @@ any noun with a non-null scope of influence, with respect to the
 open-ended context, would do. 
 
 In standard English dictionaries, "pride" has an alternative 
-definition: a pack of lions. The condition of the being being 
-the lion can be extended to any sentience that operates by 
-group-like principles.  
+definition: a pack of lions. For continuation into another 
+aspect of pride's coupling with perception, The condition of 
+the being being the lion is extended to any sentience that 
+operates by group-like principles. 
