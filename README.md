@@ -8120,7 +8120,11 @@ vastly different conclusions (final judgments), via interpretation
 of different segments of the sensory input through the perception 
 logic structure (equivalently, interpretation). 
 
-The common notion that decisions bear effects, great or small, 
-mean things in terms of the outcomes; in the real sense, 
-spatiotemporal details are affected by decisions. This notion 
-opens up another medium for pride to inject its influence. 
+The common notion that every decision bears effects, great or 
+small, mean things in terms of the outcomes; in the real sense, 
+these outcomes are the spatiotemporal details affected by decisions, 
+through their promotion or demotion. This notion opens up another medium 
+for pride to inject its influence. The concept of situational engineering 
+(an entire section has already been dedicated to the concept) is what 
+pride can do, not independently but as a potent force. 
+
