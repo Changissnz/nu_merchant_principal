@@ -8138,7 +8138,12 @@ forced to be taken. An analytical statement could be expressed as:
 if it was not for "pride", these events of these descriptions 
 would not have occurred. Without further details that eliminate 
 extraneous possibilities for a constrained context pertaining 
-to this statement, substitute words for "pride" could be "haste", 
-"anger", "hate", and "love"; practically, any noun with a 
-scope of influence, with respect to the open-ended context, 
-would do. 
+to this statement, substitute words for "pride" could be 
+"ambition", "haste", "anger", "hate", and "love"; practically, 
+any noun with a non-null scope of influence, with respect to the 
+open-ended context, would do. 
+
+In standard English dictionaries, "pride" has an alternative 
+definition: a pack of lions. The condition of the being being 
+the lion can be extended to any sentience that operates by 
+group-like principles.  
