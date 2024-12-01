@@ -8053,6 +8053,7 @@ The focus now shifts from incomplete illumination of the concept of
 been abstracted into a logic structure in this section. A model for 
 "perception" takes the practice to be an extendable and reducible 
 subspace of total cognition; to clarify, total cognition includes 
-the "sub-conscious", the "feelings", the "ruminations", the 
-"hypotheses", the "conclusions", and any other additional thought 
-not encompassed by these quoted terms. 
+the "sub-conscious", sensory input (commonly termed "perception"), 
+the "feelings", the "ruminations", the "hypotheses", the "conclusions", 
+and any other additional thoughts not encompassed by these quoted 
+terms. 
