@@ -8042,8 +8042,9 @@ testing of an agent for their possibility of being lustful. There is
 a way for the "lust" diagram to terminate: the agent has conclusively 
 demonstrated "no lust". 
 
-A last statement on "pride" is in order, after the diagram PPP1: 
-"pride" is a great mystery, in many of its forms, because the prideful 
-can be unusually deceptive to accomplish their wanted tasks. Perhaps 
-"pride" is not the word. Perhaps? 
+After the diagram PPP1 that models how "pride" and "lust" behaves, a 
+last statement on "pride" is in order: "pride" is a great mystery, 
+in many of its forms, because the prideful can be unusually deceptive 
+to accomplish their wanted tasks. Perhaps "pride" is not the word. 
+Perhaps? 
 
