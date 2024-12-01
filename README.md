@@ -8093,4 +8093,5 @@ blackbox judgment function $F_j$ and then, there is judgment.
 
 **PPP3:** The aftermath of the input processing from diagram PPP2. 
 The specific judgment produced from diagram PPP2 prefers additional 
-processing to done via the route at head $P_0$ instead of $P_0^{(1)}$. 
+processing to be done via the route at head $P_0$ instead of $P_0^{(1)}$. 
+
