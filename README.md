@@ -8013,5 +8013,7 @@ selfless, in the context of believable criticism, is imperfect
 and usable only as a preliminary metric for further judgment. The 
 truth and the action do not run in forms parallel to each other 
 according to a universally believed natural order, not when 
-there are objectives by pride of the self, the group, or 
-the selfless. 
+there are objectives by pride of the self, the group, and 
+the selfless. The phrase "universally believed" is synonymous 
+to collective agreement, in this context. 
+
