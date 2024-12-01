@@ -8075,8 +8075,9 @@ logic structure has to map the raw input, collected by the
 senses, to what that raw input "means". Diction is at play in 
 this logic structure's design. What that raw input is mapped 
 to "mean" could instead be labeled the "judgment" phase. But 
-another valid labeling for "judgment" would be the belief that 
+another valid labeling for "judgment" would be the statement that 
 the threat actualized needs to be averted. For this to happen, 
 the perception logic structure should immediately map the clenched 
 fist to a threat, and perception would have to heavily be in use 
 for events of prolonged physical altercation. 
+
