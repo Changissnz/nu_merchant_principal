@@ -8115,6 +8115,6 @@ of rational-like belief. These conjectured traits of pride all
 lead back to the identity of the prideful. In cases where there 
 are differences in the sensory input, no matter how slight, two 
 differing possibilities for a formulated judgment could lead to 
-vastly different conclusions (final judgments), via the different 
+vastly different conclusions (final judgments), via different 
 segments of the sensory input that is interpreted through the 
 perception logic structure (equivalently, interpretation). 
