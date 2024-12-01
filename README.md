@@ -8051,9 +8051,19 @@ Perhaps?
 The focus now shifts from incomplete illumination of the concept of 
 "pride" to its influence on perception. "Perception" has not yet 
 been abstracted into a logic structure in this section. A model for 
-"perception" takes the practice to be an extendable and reducible 
-subspace of total cognition; to clarify, total cognition includes 
+"perception" takes the practice to be extendable and reducible 
+subspaces of total cognition; to clarify, total cognition includes 
 the "sub-conscious", sensory input (commonly termed "perception"), 
 the "feelings", the "ruminations", the "hypotheses", the "conclusions", 
 and any other additional thoughts not encompassed by these quoted 
-terms. 
+terms. An example of the perception logic structure is now put forth: 
+1. A man with a clenched fist walks up to you. 
+2. The same man throws a punch at your face. 
+3. You duck. 
+
+A competent perception for this example produces an information 
+sequence in this likeness: 
+1. Detect threat situation. 
+2. Detect threat. 
+3. Avert threat. 
+
