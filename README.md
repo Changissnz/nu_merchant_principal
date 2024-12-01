@@ -8026,3 +8026,18 @@ that promote these dynamics. The prideful has an intimate and binding
 relation with their identity, in self and group forms. The prideful is 
 a resolute and self-enduring entity. The prideful responds in unyielding 
 tones to demands that they do not agree with. 
+
+![image info](./images/ppp_one.PNG) 
+
+**PPP1:** Two automata that show how "pride" and "lust" act. The diagram 
+for "pride" is more open-ended than lust in a few aspects. One is that 
+there is no way for the "pride" automaton to terminate. The agent that 
+the automaton models can oscillate evenly between "pride" and "no pride", 
+or preside predominantly at one of the two ends. The possible actions that 
+"pride" can take are not shown in the automaton, only their orientations 
+(pro,contra,?) according to an axis. There are no rigid definitions 
+attached to "pride" or "no pride" in the automaton. The automaton for 
+"lust" is more narrow in scope, and can act as a template for a demonstrative 
+testing of an agent for their possibility of being lustful. There is 
+a way for the "lust" diagram to terminate: the agent has conclusively 
+demonstrated "no lust". 
