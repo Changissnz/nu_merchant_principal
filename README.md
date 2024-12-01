@@ -8067,3 +8067,7 @@ sequence in this likeness:
 2. Detect threat. 
 3. Avert threat. 
 
+The perception logic structure should immediately correlate (map) 
+the clenched fist as a threatening sign in body language. Afterwards, 
+this same structure should map the threatening sign to the 
+actualization of a threat. 
