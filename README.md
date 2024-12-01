@@ -8086,5 +8086,11 @@ for events of prolonged physical altercation.
 **PPP2:** An abstraction of typical artificial neural networks, 
 albeit with more "humanistic" labeling. There is the input, and 
 $n$ layers of interpretative perception after the initial perception 
-step $P_0$. Information from $P_?$ layers are routed to a blackbox 
-judgment function $F_j$ and then, there is judgment. 
+step $P_0$. Information from the $P_?$ layers are routed to a 
+blackbox judgment function $F_j$ and then, there is judgment. 
+
+![image info](./images/ppp_three.PNG) 
+
+**PPP3:** The aftermath of the input processing from diagram PPP2. 
+The specific judgment produced from diagram PPP2 prefers additional 
+processing to done via the route at head $P_0$ instead of $P_0^{(1)}$. 
