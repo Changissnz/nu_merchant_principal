@@ -8062,8 +8062,8 @@ is now put forth:
 2. The same man throws a punch at your face. 
 3. You duck. 
 
-A competent perception logic structure for this example produces 
-an information sequence in this likeness: 
+A competent perception logic structure for this example helps 
+produce an information sequence in this likeness: 
 1. Detect threat situation. 
 2. Detect threat. 
 3. Avert threat. 
@@ -8116,6 +8116,6 @@ of rational-like belief. These conjectured traits of pride all
 lead back to the identity of the prideful. In cases where there 
 are differences in the sensory input, no matter how slight, two 
 differing possibilities for a formulated judgment could lead to 
-vastly different conclusions (final judgments), via different 
-segments of the sensory input that is interpreted through the 
-perception logic structure (equivalently, interpretation). 
+vastly different conclusions (final judgments), via interpretation 
+of different segments of the sensory input through the perception 
+logic structure (equivalently, interpretation). 
