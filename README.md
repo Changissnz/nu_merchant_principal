@@ -8127,6 +8127,7 @@ through promotion or demotion. This notion opens up another medium
 for pride to inject its influence. The concept of situational engineering 
 (an entire section has already been dedicated to the concept) is what 
 pride can do, not independently but as a potent force. Sources of 
-perceptual processing are not necessarily stationary. Pride as 
-a determinant in the decisions made then place these sources into 
-different spatiotemporal settings. 
+perceptual processing are not necessarily stationary. Pride, as 
+a determinant, in the decisions made then place these sources into 
+spatiotemporal settings that otherwise would only have occurred 
+through drivers other than pride. 
