@@ -8183,13 +8183,13 @@ properties of tight-knittedness that cannot be conveniently
 manipulated by those not of the pride. The pride, due to 
 both the lone autonomous capabilities of its members and 
 each member's distinguishable identity, has the liberty 
-of many faces. Even absolute uniformity is differentiable 
-through a tag-like identifier or the independent experience. 
+of many faces. Even absolute uniformity becomes differentiable 
+through tag-like identifiers and independent experiences. 
 And the term "face" is not a strict association to that 
-most distinguishable anatomical part of the human being. 
-The "face" has a personality, per se, with talents possibly 
-of categories unique amongst peers. And these talents 
-are evidenced through the work of the "hands". The "face" 
-and the "hands" could very well be synonyms with one 
-another, in group orders where appearance is submissive 
-to the work. 
+anatomical part of the human being, most distinguishable 
+to the naked eye. The "face" has a personality, per se, 
+with talents possibly of categories unique amongst peers. 
+And these talents are evidenced through the work of the 
+"hands". The "face" and the "hands" could very well be 
+synonyms with one another, in group orders where appearance 
+is submissive to the work. 
