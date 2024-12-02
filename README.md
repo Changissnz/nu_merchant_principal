@@ -8154,11 +8154,21 @@ Non-negligible factors are present in a pride for its members
 to continue co-relations not of a souring or soured tone, 
 sweet only on the tongues of feudalists. This does appear to 
 be an off-hand remark. The statement is derived from 
-feudalism resting on a sour centrality of goodness, by 
-default. Pride takes shapes that convolute itself, quite 
+feudalism debatably resting on a sour centrality of goodness, 
+by default. Pride takes shapes that convolute itself, quite 
 frequently, with wrath and strength. This convolution 
 demonstrates the difficulty of containing, let alone 
 pinpointing, pride as the culprit behind some action taken 
 believed to be the means appropriate, based on the judgment 
 derived from the possibly long process of perception that 
-led to the decisive interpretations for that judgment. 
+led to the decisive interpretations for it. Tasks of 
+identifying purity of metaphysical forces, as drivers for 
+specific actions, is difficult to conclusively agree on. 
+The social sciences allow "wiggle room" to independently 
+extend the conclusion for some yet unconsidered purpose 
+other than the retention of the original (pure) meaning. 
+This poses one classification of complexity for pride's 
+identification. And to recall on this section's previous 
+mention of linguistic complexity, there is also diction 
+and the lone word given new meaning under particular 
+uses, outside of the default. 
