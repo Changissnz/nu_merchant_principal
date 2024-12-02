@@ -8177,3 +8177,17 @@ for pride's identification. And to recall on this section's
 previous mention of linguistic complexity, there is also 
 diction and the lone word given new meaning under particular 
 uses, outside of the default. 
+
+A pride, taken to be a term synonymous with "group", has 
+properties of tight-knittedness that cannot be conveniently 
+manipulated by those not of the pride. The pride, due to 
+both the lone autonomous capabilities of its members and 
+the member's distinguishable identities, has the liberty 
+of many faces. And the term "face" is not a strict association 
+to that most distinguishable anatomical part of the human 
+being. The "face" has a personality, per se, with talents 
+possibly of categories unique amongst peers. And these 
+talents are evidenced through the work of the "hands". 
+The "face" and the "hands" could very well be synonyms 
+with one another, in group orders where appearance is 
+submissive to the work. 
