@@ -8241,8 +8241,8 @@ entity would have had to take a different series
 of steps to accomplish their original objective. 
 But this, alone, does not reveal much on the advantages 
 of a pride that is open, in the manner of a trap for 
-potential threats, or closed. This is an example 
-that could be used as an argument for pride's 
+potential threats, as opposed to closed. This is an 
+example that could be used as an argument for pride's 
 undefinable strengths by its autonomous practice. 
 The autonomy of pride lies in its maintenance of 
 the entity's perception, and thus their judgment, 
