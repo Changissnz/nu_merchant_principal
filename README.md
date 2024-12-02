@@ -8191,5 +8191,11 @@ to the naked eye. The "face" has a personality, per se,
 with talents possibly of categories unique amongst peers. 
 And these talents are evidenced through the work of the 
 "hands". The "face" and the "hands" could very well be 
-synonyms with one another, in group orders where appearance 
-is submissive to the work. 
+synonyms for one another, in group orders where appearance 
+is submissive to the work. The tight-knittedness of a 
+pride, intent on remaining a pride, does not concede 
+elements that could be directly used or exponentiated 
+for that pride's disintegration. Prides are vulnerable, 
+and unanimously successful prides have great control 
+over what continues to enable their constancy if not 
+flourish. 
