@@ -8247,3 +8247,6 @@ undefinable strengths by its autonomous practice.
 What is a truth on an enduring pride, after the 
 dealing with a threat through a combination of open 
 and closed methodologies, is that the pride survives. 
+But is that really representative of pride, by the first 
+definition, or is the survival of any group (pride) under 
+an identity all there is to pride as proof in practice? 
