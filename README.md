@@ -8247,11 +8247,11 @@ undefinable strengths by its autonomous practice.
 The autonomy of pride lies in its maintenance of 
 the entity's perception, and thus their judgment, 
 in their progress towards completing the $n$ steps. 
-Judgment of the entity was off the mark, their 
+Judgment by the entity was off the mark and their 
 perception of their surroundings for the objective 
 laid out in those $n$ steps did not aid in correcting 
 their judgment for the better decision of withdrawing 
-or correcting their procedure. And the pride controlled 
+or correcting their procedure. The pride controlled 
 the entity's destiny in the span of the entity's 
 activity in the pride's domain. What is a truth on an 
 enduring pride, after the dealing with a threat through 
