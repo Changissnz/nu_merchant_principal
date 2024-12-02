@@ -8206,4 +8206,19 @@ and the directionality of effecting influence is
 predominantly of one source. 
 
 An entity, not part of a pride, enters the setting of 
-the pride. What the entity 
+the pride. The pride appears to have more than half-like 
+degrees of control over its domain, but the entity's 
+perceiving of the pride's absoluteness in control is 
+not there. The entity's intuition advances them for 
+the objective that they believe feasible of wanting 
+to accomplish an $n$ number of steps. And the entity 
+discovers, after attempts to fulfill some of these steps, 
+that their objective has been foiled. The pride was 
+subtle in its control, and took active measures to 
+not appear pro-active in its guarding against the 
+planned $n$ steps of the entity. The entity had 
+different inklings on the makings and workings 
+of the pride's structure. Their higher hopes for 
+achieving their objective can be visualized by 
+probability distributions of a high score, well 
+passed the default fifty percent threshold. 
