@@ -8164,11 +8164,16 @@ derived from the possibly long process of perception that
 led to the decisive interpretations for it. Tasks of 
 identifying purity of metaphysical forces, as drivers for 
 specific actions, is difficult to conclusively agree on. 
-The social sciences allow "wiggle room" to independently 
-extend the conclusion for some yet unconsidered purpose 
-other than the retention of the original (pure) meaning. 
-This poses one classification of complexity for pride's 
-identification. And to recall on this section's previous 
-mention of linguistic complexity, there is also diction 
-and the lone word given new meaning under particular 
+The use of "conclusively" is to signify the lack of any 
+possible differing statement that is believable in 
+presentation, not the lack of debate in the setting of 
+deliberation. A pride united in perspective on a statement 
+would not act on any motivation to debate, but the perspective 
+is conclusive only to them. The social sciences allow "wiggle 
+room" to independently extend the conclusion for some yet 
+unconsidered purpose other than the retention of the original 
+("pure") meaning. This poses one classification of complexity 
+for pride's identification. And to recall on this section's 
+previous mention of linguistic complexity, there is also 
+diction and the lone word given new meaning under particular 
 uses, outside of the default. 
