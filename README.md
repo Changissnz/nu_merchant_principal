@@ -8126,19 +8126,19 @@ these outcomes are the spatiotemporal details affected by decisions,
 through promotion or demotion. This notion opens up another medium 
 for pride to inject its influence. The concept of situational engineering 
 (an entire section has already been dedicated to the concept) is what 
-pride can do, not independently but as a potent force. Sources of 
+pride can do, not independently but as a potent factor. Sources of 
 perceptual processing are not necessarily stationary. Pride, as 
 a determinant, in the decisions made then places these sources into 
 spatiotemporal settings that otherwise would only have occurred 
-through drivers other than pride. The interpretability of the 
-lone word in use, coupled with diction that prefers one word for 
-another likened as a synonym, incur difficulty on the perfect 
-attribution of pride to a vastly different sequence of decisions 
-forced to be taken. An analytical statement could be expressed as: 
-if it was not for "pride", these events of these descriptions 
-would not have occurred. Without further details that eliminate 
-extraneous possibilities for a constrained context pertaining 
-to this statement, substitute words for "pride" could be 
+through drivers other than pride but of similar wants. The 
+interpretability of the lone word in use, coupled with diction 
+that prefers one word for another likened as a synonym, incur 
+difficulty on the perfect attribution of pride to a vastly different 
+sequence of decisions forced to be taken. An analytical statement 
+could be expressed as: if it was not for "pride", these events of 
+these descriptions would not have occurred. Without further details 
+that eliminate extraneous possibilities for a constrained context 
+pertaining to this statement, substitute words for "pride" could be 
 "ambition", "haste", "anger", "hate", and "love"; practically, 
 any noun with a non-null scope of influence, with respect to the 
 open-ended context, would do. 
