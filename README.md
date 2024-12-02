@@ -8198,4 +8198,12 @@ elements that could be directly used or exponentiated
 for that pride's disintegration. Prides are vulnerable, 
 and unanimously successful prides have great control 
 over what continues to enable their constancy if not 
-flourish. 
+flourish. The concept of control is conventionally 
+illustrated with physical apparatuses such as strings 
+and chains, and in actions by effective grips and commands. 
+Subservient relations are shown through these illustrations, 
+and the directionality of effecting influence is 
+predominantly of one source. 
+
+An entity, not part of a pride, enters the setting of 
+the pride. What the entity 
