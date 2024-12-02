@@ -8244,9 +8244,19 @@ of a pride that is open, in the manner of a trap for
 potential threats, or closed. This is an example 
 that could be used as an argument for pride's 
 undefinable strengths by its autonomous practice. 
-What is a truth on an enduring pride, after the 
-dealing with a threat through a combination of open 
-and closed methodologies, is that the pride survives. 
-But is that really representative of pride, by the first 
-definition, or is the survival of any group (pride) under 
-an identity all there is to pride as proof in practice? 
+The autonomy of pride lies in its maintenance of 
+the entity's perception, and thus their judgment, 
+in their progress towards completing the $n$ steps. 
+Judgment of the entity was off the mark, their 
+perception of their surroundings for the objective 
+laid out in those $n$ steps did not aid in correcting 
+their judgment for the better decision of withdrawing 
+or correcting their procedure. And the pride controlled 
+the entity's destiny in the span of the entity's 
+activity in the pride's domain. What is a truth on an 
+enduring pride, after the dealing with a threat through 
+a combination of open and closed methodologies, is that 
+the pride survives. But is that really representative 
+of pride, by the first definition, or is the survival 
+of any group (pride) under an identity all there is to 
+pride as proof in practice? 
