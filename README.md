@@ -7935,7 +7935,7 @@ information. "Pride", taken up into individual or group
 cognition, deflects itself from its base word into a multitude 
 of values for thoughts that are either internally secured 
 (arguably labeled as "repressed" by certain cultures) or 
-actionable. A lot of notions, sometimes posited as pure 
+actionable. A lot of notions, sometimes presented as pure 
 truths, have been put forth on "pride". The concept (pride) 
 does make for an easy topic to denounce from a moralistic 
 perspective. It is the number one sin out of the seven 
@@ -8128,12 +8128,12 @@ for pride to inject its influence. The concept of situational engineering
 (an entire section has already been dedicated to the concept) is what 
 pride can do, not independently but as a potent force. Sources of 
 perceptual processing are not necessarily stationary. Pride, as 
-a determinant, in the decisions made then place these sources into 
+a determinant, in the decisions made then places these sources into 
 spatiotemporal settings that otherwise would only have occurred 
 through drivers other than pride. The interpretability of the 
 lone word in use, coupled with diction that prefers one word for 
 another likened as a synonym, incur difficulty on the perfect 
-attribution of pride to a vastly different sequences of decisions 
+attribution of pride to a vastly different sequence of decisions 
 forced to be taken. An analytical statement could be expressed as: 
 if it was not for "pride", these events of these descriptions 
 would not have occurred. Without further details that eliminate 
@@ -8145,6 +8145,10 @@ open-ended context, would do.
 
 In standard English dictionaries, "pride" has an alternative 
 definition: a pack of lions. For continuation into another 
-aspect of pride's coupling with perception, The condition of 
+aspect of pride's coupling with perception, the condition of 
 the being being the lion is extended to any sentience that 
-operates by group-like principles. 
+operates by group-like principles. Theoretically, metrics 
+for tight-knittedness of a pride have the expectation of 
+outputting non-null values. Factors are present in a pride 
+for its members to continue co-relations not of a sour tone, 
+sweet only on the tongues of feudalists. 
