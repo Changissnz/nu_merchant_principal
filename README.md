@@ -8307,3 +8307,13 @@ change the image and educate the others on the ways
 of their values, efforts that could prove quite 
 expensive in monetary terms alone. 
 
+Inflation and deflation, two concepts studied 
+extensively in economics and fiscal policy, are 
+also heavily used by pride in its communicating 
+of its self. Inflate the communication of those 
+traits the pride believes to be the "positive", 
+and deflate that of those the pride believes 
+"negative". Where is the truth in this affiliation 
+of pride with inflation and deflation, when it 
+is pride that believes it rightfully can inflate 
+or deflate? 
