@@ -30,6 +30,7 @@
 21. [About the Simplicity of the Cycle](#p21)
 22. [Shifty and Shifting Alliances Pt. III](#p22)
 23. [Pride Plays Perception](#p23)
+24. [Pride Plays Perception Pt. II](#p24)
 
 
 Business comes and goes, much more frequently than governments. 
@@ -8397,3 +8398,6 @@ processed by perception and the expected that is the desired
 future, due to that high mark of confidence. Nothing can prove 
 confidence wrong without error that kicks back with the 
 impunity of natural law at work.  
+
+# Pride Plays Perception Pt. II <a name="p24"></a> 
+
