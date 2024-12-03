@@ -8273,9 +8273,9 @@ that so much intellect has been dedicated to in the fields
 of ethics, cultural studies, reason, and religion. Out 
 of the prideful prerogative to preserve the constructed 
 "image" and adopted "values", many candidates that would have 
-otherwise achieved much, for a pride, by gaining acceptance 
-into the pride are instead cast aside, like homeless dogs 
-too domesticated to be as self-sufficient as wolves, like 
-material for "cannon fodder" in a cold and barren world, 
-prone to hostilities of monstrous forms and titanic 
-magnitudes, outside of the domain of the pride. 
+otherwise achieved much, for a pride, by first gaining 
+acceptance into the pride are instead cast aside, like 
+homeless dogs too domesticated to be as self-sufficient as 
+wolves, like material for "cannon fodder" in a cold and 
+barren world, prone to hostilities of monstrous forms and 
+titanic magnitudes, outside of the pride's domain. 
