@@ -8350,4 +8350,4 @@ to disregard as ramifications of what they can see,
 such as their untoward words and actions, that compose 
 some of the most unpredictable wrath. If pride were really 
 in charge, it is as if wrath is just another one of pride's 
-sidearm. 
+sidearms. 
