@@ -8324,3 +8324,7 @@ deflation are those two moves specially reserved for
 pride's use. There are objective identification issues, 
 as already exemplified but not fully on pride. 
 
+Can pride be operationally principleless? Structure 
+cannot exist without principles. An unrevealing statement, 
+yes, that intersects the meaning of "principle" with 
+"structure". 
