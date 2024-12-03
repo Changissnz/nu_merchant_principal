@@ -8383,4 +8383,17 @@ protests against the measure's use as true representation of
 confidence. Confidence is a predictive motivator. Behaviors 
 are modified, farfetched possibilities then but now the ideal 
 set as the objective, and other effects of cognitive changes 
-are present with the elevation of confidence.
+are present with the elevation of confidence. The confidence 
+placed in the hypothesis of the existence of something, for 
+example, implicitly places demands onto perceptual processing. 
+Thoughts such as the high chance of success and the great 
+gains from that success modify perceptual processes, indirectly 
+through the alteration of judgment. A judgment adjusted (any 
+confidence) or skewed (false confidence) influences perception 
+to note any information that has semblance to the actualization 
+of what is to be done because of high confidence. Imaginary 
+connections are drawn between tidbits of the entire information 
+processed by perception and the expected that is the desired 
+future, due to that high mark of confidence. Nothing can prove 
+confidence wrong without error that kicks back with the 
+impunity of natural law at work.  
