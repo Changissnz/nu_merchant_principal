@@ -8263,7 +8263,7 @@ pride as proof in practice?
 
 Is pride something like a business that can grow larger 
 than its respective source? Businesses that were able 
-to grow also tend to preserve their brand, their "image" 
+to grow also tended to preserve their brand, their "image" 
 and "values" as makings out of predominantly their 
 independently adopted practices, per se. A category of 
 alliance, on the spectrum of absolute adversary to absolute 
@@ -8279,3 +8279,16 @@ homeless dogs too domesticated to be as self-sufficient as
 wolves, like material for "cannon fodder" in a cold and 
 barren world, prone to hostilities of monstrous forms and 
 titanic magnitudes, outside of the pride's domain. 
+Gray-zone agents are forced to operate by principles 
+outside of the sentiment for the symbol, the status, and 
+the affiliation, quite simply due to the design of the 
+directional flows of gains and losses with respect to 
+this agent category. Without sentiment, there are only 
+such things as material goods, acts of gratification, 
+and forms of bondage instead of the connection by 
+genuine affection of loyalty. Ultimately in the 
+economic sense, moral protests against gray-zone 
+agents cannot produce permanent changes of their 
+inclusion into a pride. Gray-zone agents are an 
+inevitable byproduct of the central product that is 
+the establishment and legacy. 
