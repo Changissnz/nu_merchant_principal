@@ -8297,5 +8297,13 @@ in the "language of poetic justice", the grayness
 reflected back from the gray-zone agents is the truth 
 of the light that hits them. A scientific principle 
 turned quasi because of application onto a category 
-of social constructs. 
+of social constructs. But the designing and directing 
+of perception holds in stable or confirmed settings. 
+There is a pride. The pride has this image and these 
+values. Others can choose to align themselves with 
+initiatives put forth by the pride, but the pride 
+cannot let those others completely in, lest they 
+change the image and educate the others on the ways 
+of their values, efforts that could prove quite 
+expensive in monetary terms alone. 
 
