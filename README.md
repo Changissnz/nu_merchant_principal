@@ -8376,4 +8376,8 @@ is to insult one's self, is it not?
 
 To walk with pride is to walk with confidence, an analogy 
 that designates compatibility of pride with confidence, as 
-if them two were meant to be, until the world ends. 
+if them two were meant to be, until the world ends. Confidence 
+has a statistical measure for it, although the measure is 
+still numerically based, leading to the possibility of 
+protests against the measure's use as true representation of 
+confidence. 
