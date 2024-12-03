@@ -8313,10 +8313,13 @@ also heavily used by pride in its communicating
 of its self. Inflate the communication of those 
 traits the pride believes to be the "positive", 
 and deflate that of those the pride believes 
-"negative". Where is the truth in this affiliation 
-of pride with inflation and deflation, when it 
-is pride that believes it can rightfully inflate 
-or deflate? And it is not as if inflation and deflation 
-are those two moves specially reserved for pride's 
-use. There are objective identification issues, as 
-already exemplified but not fully on pride. 
+"negative". A pride willing not to be fair would 
+also apply inflationary and deflationary measures 
+on the other in directions inverted to that what 
+it does to itself. Where is the truth in this 
+affiliation of pride with inflation and deflation, 
+when it is pride that believes it can rightfully 
+inflate or deflate? And it is not as if inflation and 
+deflation are those two moves specially reserved for 
+pride's use. There are objective identification issues, 
+as already exemplified but not fully on pride. 
