@@ -8351,3 +8351,15 @@ such as their untoward words and actions, that compose
 some of the most unpredictable wrath. If pride were really 
 in charge, it is as if wrath is just another one of pride's 
 sidearms. 
+
+There is a common saying from those that have felt insulted. 
+The saying is: "my pride is insulted". The concept of 
+pride is already of dubious sense in exactitude. If the 
+person that said this is actually prideful, in the sense 
+that their pride is self-generated, they would not feel 
+insulted. But if the person's sense of self in the context 
+of their identity is believed to be defamed by the other, 
+then they have the right to state that their pride (identity) 
+was unrightfully given bad note, in defense of their pride. 
+These are stylistic differences in the mention of pride by 
+the supposedly prideful. 
