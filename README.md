@@ -7938,8 +7938,8 @@ of values for thoughts that are either internally secured
 actionable. A lot of notions, sometimes presented as pure 
 truths, have been put forth on "pride". The concept (pride) 
 does make for an easy topic to denounce from a moralistic 
-perspective. It is the number one sin out of the seven 
-deadly sins. Conversations on this particular concept 
+perspective. It is the number one sin out of the Seven 
+Deadly Sins. Conversations on this particular concept 
 sometimes lead to admissions of some kind of fault for 
 the purpose of correction towards "balance". Other times, 
 there is only the acknowledgment of such a force, and 
