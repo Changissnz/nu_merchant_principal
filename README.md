@@ -8290,17 +8290,17 @@ genuine affection of loyalty. Ultimately in the
 economic sense, moral protests against gray-zone 
 agents cannot produce permanent changes of their 
 inclusion into a pride, without there being replacement 
-in observable form. Gray-zone agents are an inevitable 
-byproduct of the central product that is the establishment 
-and legacy. In an attempt to further express this idea 
-in the "language of poetic justice", the grayness 
-reflected back from the gray-zone agents is the truth 
-of the light that hits them. A scientific principle 
-turned quasi because of application onto a category 
-of social constructs. But the designing and directing 
-of perception holds in stable or confirmed settings. 
-There is a pride. The pride has this image and these 
-values. Others can choose to align themselves with 
+or conversion in observable form. Gray-zone agents are 
+an inevitable byproduct of the central product that is 
+the establishment and legacy. In an attempt to further 
+express this idea in the "language of poetic justice", 
+the grayness reflected back from the gray-zone agents 
+is the truth of the light that hits them. A scientific 
+principle turned quasi because of application onto a 
+category of social constructs. But the designing and 
+directing of perception holds in stable or confirmed 
+settings. There is a pride. The pride has this image and 
+these values. Others can choose to align themselves with 
 initiatives put forth by the pride, but the pride 
 cannot let those others completely in, lest they 
 change the image and educate the others on the ways 
