@@ -8203,7 +8203,7 @@ illustrated with physical apparatuses such as strings
 and chains, and in actions by effective grips and commands. 
 Subservient relations are shown through these illustrations, 
 and the directionality of effecting influence is 
-predominantly of one source. 
+predominantly from one source. 
 
 An entity, not part of a pride, enters the setting of 
 the pride. The pride appears to have more than half-like 
@@ -8260,3 +8260,14 @@ the pride survives. But is that really representative
 of pride, by the first definition, or is the survival 
 of any group (pride) under an identity all there is to 
 pride as proof in practice? 
+
+Is pride something like a business that can grow larger 
+than its respective source? Businesses that were able 
+to grow also tend to preserve their brand, their "image" 
+and "values" as makings out of predominantly their 
+independently adopted practices, per se. A category of 
+alliance, on the spectrum of absolute adversary to absolute 
+ally, is the <ins>gray-zone agent</ins>. This naming is 
+only natural, in line with the classic black-white dichotomy 
+that so much intellect has been dedicated to in the fields 
+of ethics, cultural studies, reason, and religion. 
