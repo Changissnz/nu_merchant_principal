@@ -8315,5 +8315,8 @@ traits the pride believes to be the "positive",
 and deflate that of those the pride believes 
 "negative". Where is the truth in this affiliation 
 of pride with inflation and deflation, when it 
-is pride that believes it rightfully can inflate 
-or deflate? 
+is pride that believes it can rightfully inflate 
+or deflate? And it is not as if inflation and deflation 
+are those two moves specially reserved for pride's 
+use. There are objective identification issues, as 
+already exemplified but not fully on pride. 
