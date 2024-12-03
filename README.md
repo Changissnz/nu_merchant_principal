@@ -8376,8 +8376,11 @@ is to insult one's self, is it not?
 
 To walk with pride is to walk with confidence, an analogy 
 that designates compatibility of pride with confidence, as 
-if them two were meant to be, until the world ends. Confidence 
+if them two were meant to be until the world ends. Confidence 
 has a statistical measure for it, although the measure is 
 still numerically based, leading to the possibility of 
 protests against the measure's use as true representation of 
-confidence. 
+confidence. Confidence is a predictive motivator. Behaviors 
+are modified, farfetched possibilities then but now the ideal 
+set as the objective, and other effects of cognitive changes 
+are present with the elevation of confidence.
