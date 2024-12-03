@@ -8330,9 +8330,12 @@ yes, that intersects the meaning of "principle" with
 "structure". A sentient being, recognized as representative 
 of pride, can still be representative of pride after 
 disregarding a principle, either they themself stated or 
-noted by the other. One transformation could lead to 
+noted by the other. But one transformation could lead to 
 another. The prideful would be unrecognizable even to 
 themself after bending and conforming their behavior, 
 careless to their principles, for many transformations 
 that take effect in internal mechanism of their self 
-to external observation by their non-selves. 
+and external observation by their non-selves. The quality 
+of pride being unyielding, noted in the beginning of this 
+section, would be broken by all of this untempered 
+transformation. 
