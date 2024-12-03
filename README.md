@@ -8362,4 +8362,7 @@ of their identity is believed to be defamed by the other,
 then they have the right to state that their pride (identity) 
 was unrightfully given bad note, in defense of their pride. 
 These are stylistic differences in the mention of pride by 
-the supposedly prideful. 
+the supposedly prideful. Pride, that unkillable force due to 
+its innateness and virality, is nevertheless practically finite 
+in each of its hosts because the hosts themselves are 
+under the scientific clause of mortality. 
