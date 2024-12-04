@@ -8509,3 +8509,16 @@ and what is really the disgrace, taking up the means to compete
 or the continuation of the act that is being challenged, 
 the decision of this rhetorical question is one in the 
 vein of anti-competition. 
+
+A relatively large gap exists between "honor" and "pride", 
+in their meanings and practices. Arguably, there are 
+rigidities in "honor" codes that make those beholden 
+to act honorably have the weakness of being more more 
+predictable than "pride". This greater predictability 
+rests on what principles are contained in these "honor" 
+codes and how said codes are practice in relation to the 
+superior, the equal, and the inferior of status. Once 
+again, the intangible yet ever-present force of "pride" 
+in sentience is frequently convoluted with other forces 
+in practice. So the claim that "honor" is more predictable 
+than "pride" could be argued to be soft theory. 
