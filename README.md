@@ -6769,7 +6769,7 @@ protectionism, there are economic costs attached. There
 are power dynamics and contingencies to be maintained. 
 And there is the literal creature, the vulture. 
 
-# About the Simplicity of the Cycle <a name="p21"></a> 
+## About the Simplicity of the Cycle <a name="p21"></a> 
 
 The conceptual cycle has produced some phrases made 
 classic after having found their way into common dialogue, 
@@ -7410,7 +7410,7 @@ details, the correlation over the uniqueness, and the
 incredulity of what uncertainty the singularity can 
 offer. 
 
-# Shifty and Shifting Alliances Pt. III <a name="p22"></a> 
+## Shifty and Shifting Alliances Pt. III <a name="p22"></a> 
 
 The theme of "alliances" in change-prone environments 
 deserves a third section dedicated to it. Expanding past 
@@ -7885,7 +7885,7 @@ and efficiency in the placement of participants into roles.
 Serious effects from mismatches include stunted and/or 
 imploded alliances. 
 
-# Pride Plays Perception <a name="p23"></a> 
+## Pride Plays Perception <a name="p23"></a> 
 
 Perception somehow has to produce meaning. The lone memory, 
 accurate in the short time after its birth, eventually fades 
@@ -8399,7 +8399,7 @@ future, due to that high mark of confidence. Nothing can prove
 confidence wrong without error that kicks back with the 
 impunity of natural law at work.  
 
-# Pride Plays Perception Pt. II <a name="p24"></a> 
+## Pride Plays Perception Pt. II <a name="p24"></a> 
 
 There is always something more to be expressed about pride. 
 In this second edition, some more characteristics arguable 
