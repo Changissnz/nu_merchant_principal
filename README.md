@@ -8625,10 +8625,14 @@ can challenge the incumbent of the brand labeled
 legitimate, and either replace or equalize the 
 incumbent. Obviously, the first case of legitimacy 
 presents fewer socio-economic challenges to the 
-prideful, at least from their beginning. Nothing is 
-really that cut and dry in societies of flux, however. 
-Legitimacy wars make for very sad cases of discussion, 
-from emotive viewpoints. And the waging of legitimacy 
-wars, not always violent, heavily rely on information 
-warfare by cryptographic and propagandistic means. 
+prideful's recognition, at least from their beginning. 
+Nothing is really that cut and dry in societies of flux, 
+however. Legitimacy wars make for very sad cases of 
+discussion, from emotive viewpoints. And the waging of 
+legitimacy wars, not always violent, heavily rely on 
+information warfare by cryptographic and propagandistic 
+means. So there is that much for truth written on the 
+topic. 
+
+
 
