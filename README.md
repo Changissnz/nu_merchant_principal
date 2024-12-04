@@ -8609,4 +8609,24 @@ concentrated, are put into serious question of an
 insulting and subversive nature. These conflicts have 
 varied, from power transfers on the nation-state level, 
 to inter-nation conflict, to ethnic disputes, to paranoid 
-and envious local rivals. 
+and envious local rivals. There are two primary routes 
+for pride to show itself as an indisputable. The 
+prideful can be "ordained" into a status of legitimacy. 
+This ordainment happens very frequently in aristocratic 
+environments. Societies that practice discrimination of 
+institutional scale disqualify those viewed as some 
+type of way. Disqualification does not have to happen 
+outright in explicit commandment, but by a silently 
+lurking and threatening shadow of terror, loyal to the 
+legitimitate, over those categorized by the societal 
+institution/s to not be fit for the brand, the pride, 
+the legitimacy, per se. In the second case, the prideful 
+can challenge the incumbent of the brand labeled 
+legitimitate, and either replace or equalize the 
+incumbent. Obviously, the first case of legitimacy 
+presents fewer socio-economic challenges to the 
+prideful, at least from their beginning. Nothing is 
+really that cut and dry in societies of flux, however. 
+Legitimacy wars make for very sad cases of discussion, 
+from emotive viewpoints. 
+
