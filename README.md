@@ -8628,5 +8628,7 @@ presents fewer socio-economic challenges to the
 prideful, at least from their beginning. Nothing is 
 really that cut and dry in societies of flux, however. 
 Legitimacy wars make for very sad cases of discussion, 
-from emotive viewpoints. 
+from emotive viewpoints. And the waging of legitimacy 
+wars, not always violent, heavily rely on information 
+warfare by cryptographic and propagandistic means. 
 
