@@ -8499,11 +8499,12 @@ thing/s were their actual organs. The demand from a rival
 to compete turns into the prideful's choice to respond with 
 anti-competitive measures. Words such as "dignity" and 
 "honor" are used by the prideful to claim a kind of moral 
-righteousness. The more calculating variants are also 
-risk-averse. One rhetorical question that is an actual 
-decision for them when faced with adversity is: why 
-"stoop down to their level" to compete when there is 
-only "disgrace" to be had? Regardless of the moralistic 
+righteousness. The more calculating variants also practice 
+risk-averse, out of their consideration for the spectrum 
+believed by them from least to most gainful. One rhetorical 
+question that is an actual decision for them when faced with 
+adversity is: why "stoop down to their level" to compete when 
+there is only "disgrace" to be had? Regardless of the moralistic 
 views on what cannot be taken up by stooping down to accept 
 and what is really the disgrace, taking up the means to compete 
 or the continuation of the act that is being challenged, 
@@ -8554,5 +8555,4 @@ This categorization serves as a pre-defined
 structuralization to understanding the practices of 
 pride, although the short descriptions of these four 
 categories of pride are terse, and the wording is not 
-specific whatsoever.
-
+specific whatsoever. 
