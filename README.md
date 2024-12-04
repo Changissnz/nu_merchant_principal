@@ -8600,3 +8600,13 @@ low confidence (this reasoning is not scientific,
 however, since there is a lot left unwritten, and 
 the simple reasoning basically equates self-esteem 
 with confidence). 
+
+Legitimacy is a rather political issue in the real 
+world. Conflicts have arisen during times when what 
+was once an indisputable standard, quite outright an 
+institution of sorts with powers both extendible and 
+concentrated, are put into serious question of an 
+insulting and subversive nature. These conflicts have 
+varied, from power transfers on the nation-state level, 
+to inter-nation conflict, to ethnic disputes, to paranoid 
+and envious local rivals. 
