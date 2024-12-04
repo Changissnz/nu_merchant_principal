@@ -8567,4 +8567,14 @@ hosts for expression, and the diversity of possible
 hosts, each with their traits and motives supposedly 
 unique due to self-interests, makes the task of identifying 
 pride by the expression of specific words or actions not 
-with certainty. 
+with certainty. Interpretation and framing are heavily 
+used in investigations of pride's hosts. The bombastically 
+prideful is framed as an insecure attention seeker, 
+possibly one with a personality disorder according to 
+psychiatry. The bombastically prideful could also have 
+allies that claim they are, in fact, not an insecure 
+attention seeker but an outspoken and strong-willed 
+one. Absolutist splits in depicting the prideful, such 
+as in this example, are quite cumbersome to overcome 
+for a united opinion; such unity for a united opinion 
+would pose it a fact then, by consensus. 
