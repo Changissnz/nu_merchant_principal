@@ -8471,4 +8471,11 @@ that are called competitions, yet with outcomes already
 pre-determined by the primary decisive makers cannot honestly 
 be called competition; "performance" and "demonstration" 
 are labels with more transparent underlying implications. 
-
+The prideful, in their attempt to appear fair to others, 
+outwardly promotes competition for talent: "may the best 
+win so that they get what they deserve". Self-interested 
+practices encourage the lack of compulsory competition, 
+that every one has a fair chance of having to compete in 
+the competition that cannot be implemented in a universal 
+setting, by default of resource limitations and shortcomings 
+in compliance.
