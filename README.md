@@ -8542,10 +8542,11 @@ of power. The prideful can seek and hold onto power in
 the image and values of their pride. Those that lust 
 after power may obtain power. And the gluttonous that 
 crave power, similar to the cravings for food, may also 
-have their desires fulfilled. Defining pride may be 
-difficult, but when pride is coupled together with other 
-concepts, each coupling forming a category of their own, 
-there paves the way for more clarity. 
+have their desires fulfilled. Drawing a direct connection 
+between pride and power is with challenge, but when 
+pride is coupled together with other concepts, each 
+coupling forming a category of their own, there paves 
+the way for more clarity. 
 - Pride and honor: more steadfast.   
 - Pride and lust: more instinctive and passionate. 
 - Pride and vanity: more hubristic.
@@ -8556,3 +8557,4 @@ structuralization to understanding the practices of
 pride, although the short descriptions of these four 
 categories of pride are indeed terse, and the wording 
 is not specific whatsoever. 
+
