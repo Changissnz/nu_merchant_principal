@@ -8527,7 +8527,7 @@ ways to think about "honor" and "pride".
 - To be honorable is to have a reason to be prideful.  
 - Being part of a pride requires one to be honorable. 
 
-Prepositional logic using these social terms bring not 
+Propositional logic using these social terms bring not 
 clarity, but invites for more words at more discussion 
 tables, with expectations of equal exchange rates of the 
 unique perspectives behind the concepts. Differing 
