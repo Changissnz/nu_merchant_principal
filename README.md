@@ -8621,18 +8621,15 @@ lurking and threatening shadow of terror, loyal to the
 legitimate, over those categorized by the societal 
 institution/s to not be fit for the brand, the pride, 
 the legitimacy, per se. In the second case, the prideful 
-can challenge the incumbent of the brand labeled 
-legitimate, and either replace or equalize the 
-incumbent. Obviously, the first case of legitimacy 
-presents fewer socio-economic challenges to the 
-prideful's recognition, at least from their beginning. 
-Nothing is really that cut and dry in societies of flux, 
-however. Legitimacy wars make for very sad cases of 
-discussion, from emotive viewpoints. And the waging of 
-legitimacy wars, not always violent, heavily rely on 
-information warfare by cryptographic and propagandistic 
-means. So there is that much for truth written on the 
-topic. 
-
-
+challenges the incumbent of the brand labeled legitimate, 
+and either replace or equalize the incumbent. Obviously, 
+the first case of legitimacy presents fewer socio-economic 
+challenges to the prideful's recognition, at least from 
+their beginning. Nothing is really that cut and dry in 
+societies of flux, however. Legitimacy wars make for very 
+sad cases of discussion, from emotive viewpoints. And the 
+waging of legitimacy wars, not always physically violent, 
+heavily rely on information warfare by cryptographic and 
+propagandistic means. So there is that much for truth 
+written on the topic. 
 
