@@ -8609,7 +8609,7 @@ concentrated, is put into serious question of an
 insulting and subversive nature. These conflicts have 
 varied, from power transfers on the nation-state level, 
 to inter-nation conflict, to ethnic disputes, to paranoid 
-and envious local rivals. There are two primary routes 
+and envious local rivalry. There are two primary routes 
 for pride to show itself as an indisputable. The 
 prideful can be "ordained" into a status of legitimacy. 
 This ordainment happens very frequently in aristocratic 
