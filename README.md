@@ -8521,4 +8521,8 @@ superior, the equal, and the inferior of status. Once
 again, the intangible yet ever-present force of "pride" 
 in sentience is frequently convoluted with other forces 
 in practice. So the claim that "honor" is more predictable 
-than "pride" could be argued to be soft theory. 
+than "pride" could be argued to be soft theory. To be 
+honorable is to have the reason to be prideful. Being 
+part of a pride requires there to be honor. Prepositional 
+logic with these social terms bring not clarity, but 
+invites for more words at more discussion tables. 
