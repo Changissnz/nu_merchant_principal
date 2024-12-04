@@ -8479,7 +8479,7 @@ that every one has a fair chance of having to compete in
 the competition that cannot be implemented in a universal 
 setting, by default of resource limitations and shortcomings 
 in compliance. It is these self-interested practices that 
-the prideful careful leverages. The prideful can choose to 
+the prideful carefully leverages. The prideful can choose to 
 compete in a setting of their choice. They can also abstain. 
 In terms of power dynamics, the prideful would rather rule 
 and regulate a competition if they already see their chances 
@@ -8500,8 +8500,8 @@ to compete turns into the prideful's choice to respond with
 anti-competitive measures. Words such as "dignity" and 
 "honor" are used by the prideful to claim a kind of moral 
 righteousness. The more calculating variants also practice 
-risk-averse, out of their consideration for the spectrum 
-believed by them from least to most gainful. One rhetorical 
+risk aversion, out of their consideration for the spectrum 
+from least to most gainful believed by them. One rhetorical 
 question that is an actual decision for them when faced with 
 adversity is: why "stoop down to their level" to compete when 
 there is only "disgrace" to be had? Regardless of the moralistic 
@@ -8532,7 +8532,10 @@ clarity, but invites for more words at more discussion
 tables, with expectations of equal exchange rates of the 
 unique perspectives behind the concepts. Differing 
 viewpoints are a plurality, something the prideful may 
-have issues with. 
+have issues with. One statement can be regarded more true 
+than not with "pride" and "honor". Many a times more 
+honor has served the prideful than more prideful has served 
+the honorable. 
 
 Are the prideful predisposed (if pride is itself a 
 disposition) to seeking and holding onto power? There 
