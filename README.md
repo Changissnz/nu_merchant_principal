@@ -7921,7 +7921,7 @@ for the resultant to be a feeling or memory. There would be
 only two aspects to discuss for this one scope: 
 - "accurate" initial processing of the external phenomenon 
   via granted senses;  
-- accurate recollection of the initial procession into 
+- accurate recollection of the initial processing into 
   active cognition. 
 
 There does not appear to be a universal formula or set of 
