@@ -8534,8 +8534,8 @@ unique perspectives behind the concepts. Differing
 viewpoints are a plurality, something the prideful may 
 have issues with. One statement can be regarded more true 
 than not with "pride" and "honor". Many a times more 
-honor has served the prideful than more prideful has served 
-the honorable. 
+honorables have served the prideful than more pridefuls 
+have served the honorable.
 
 Are the prideful predisposed (if pride is itself a 
 disposition) to seeking and holding onto power? There 
