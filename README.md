@@ -8533,3 +8533,25 @@ unique perspectives behind the concepts. Differing
 viewpoints are a plurality, something the prideful may 
 have issues with. 
 
+Are the prideful predisposed (if pride is itself a 
+disposition) to seeking and holding onto power? There 
+are some that argue that even the modest can be prideful, 
+and the modest really cannot be excessive in their want 
+of power. The prideful can seek and hold onto power in 
+the image and values of their pride. Those that lust 
+after power may obtain power. And the gluttonous that 
+crave power, similar to the cravings for food, may also 
+have their desires fulfilled. Defining pride may be 
+difficult, but when pride is coupled together with other 
+concepts, each coupling forming a category of their own, 
+there paves the way for more clarity. 
+- Pride and honor: more steadfast.   
+- Pride and lust: more instinctive and passionate. 
+- Pride and vanity: more hubristic.
+- Pride and gluttony: excessively greedy. 
+  
+This categorization serves as a pre-defined 
+structuralization to understanding the practices of 
+pride. The short descriptions of these four categories 
+of pride are too terse, and the wording is not specific 
+whatsoever.
