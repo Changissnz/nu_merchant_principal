@@ -8483,4 +8483,12 @@ the prideful careful leverages. The prideful can choose to
 compete in a setting of their choice. They can also abstain. 
 In terms of power dynamics, the prideful would rather rule 
 and regulate a competition if they already see their chances 
-of victory by their involvement unsubstantial. 
+of victory by their involvement unsubstantial. These 
+statements on the prideful may reason to be off the mark. 
+In fact, these statements are off the mark for the extreme 
+variant of pride, the hubristic. The hubristic compete when 
+they feel as though they can, and pay little regard to the 
+warnings derived from both empirical probability measures 
+and intuitionists. In the typical case, the prideful have 
+a status, unique by some marks, that they have to stand 
+by. 
