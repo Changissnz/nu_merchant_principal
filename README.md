@@ -8589,4 +8589,14 @@ although they have the capability to do so. This
 observation of their lack of changing certain 
 behaviors and beliefs, when openly confronted to 
 change, is a tell-tale sign of the characteristic 
-of stubbornness. 
+of stubbornness. There is also the opinion that casts 
+negative light on stubbornness as akin to stupidity. 
+"A tree that cannot bend will break". This perspective 
+encourages thinking on pride as directly correlated 
+to stubbornness and thus, stupidity. Another perspective 
+correlates the lack of "pride" with low self-esteem, 
+when in actuality, low self-esteem is a symptom of 
+low confidence (this reasoning is not scientific, 
+however, since there is a lot left unwritten, and 
+the simple reasoning basically equates self-esteem 
+with confidence). 
