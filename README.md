@@ -8413,7 +8413,9 @@ edition will also fall somewhat short with respect to the
 grandiose of pride's role in one of the greatest paradigms 
 for understanding, perception. 
 
-The prideful unfulfilled in its self-belief, unaccomplished 
-in its stated mission, and trivialized by their peers entertains 
+The prideful unfulfilled in their self-belief, unaccomplished 
+in their stated mission, and trivialized by their peers entertains 
 the idea of feeling a sense of doubt after their cognitive feedback 
-loop crashes. 
+loop crashes. Praises turned out to be faked or mean little, 
+reward systems all of a sudden upended, and the "promised land" 
+was never met. 
