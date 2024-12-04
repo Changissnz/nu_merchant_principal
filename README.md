@@ -8429,7 +8429,18 @@ they have lost all right to being so. Suppose the prideful
 seeks to survive, and survive they do. They resort to admitting 
 defeat, and feel the damages right down to their psyche. To 
 admit defeat because that is the only honest thing for them 
-to do, but to crave for a future victory of some kind is a 
-closed door to the prideful's dominance and an open door to 
-the prideful's transformation into a jealous and underhanded 
-type. 
+to do, but to crave for a future victory of some kind, reaped 
+directly from those that beat them, is a closed door to the 
+prideful's dominance and an open door to the prideful's 
+transformation into a jealous and underhanded type. Ascribing 
+principles of comprehension and prediction on pride's handling 
+of defeat is not something like solving a mathematical 
+equation of a standardized format. This has been exemplified 
+in the first segment of this series, specifically pride's 
+convolutions with wrath and confidence. Pride and jealousy 
+are two forces that may share characteristics by the same 
+host, the identity in other words. But there is one 
+fundamental difference. The prideful believe themselves to 
+be the "source", while the jealous believe that the "source" 
+is false and that they are the rightful "source". 
+
