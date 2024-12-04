@@ -8454,3 +8454,14 @@ field is another matter of debate, much to the contempt of the
 prideful's possible want of peerless absolution. Denial is one 
 possible decision for the prideful if they lose. 
 
+The prideful has two categories of factors they have to 
+weigh: peerless recognition, that they may share traits of 
+similarities with another one but they themself are ultimately 
+the "source", and equal competition. The prideful believe 
+themselves to be undisputable by many benchmarks, this 
+privilege granted to them through their high achievements. 
+But the setting of the achievement can never be universal. 
+Many times, there have been attempts to propagate the local 
+setting for achievement for universal application. And 
+every time, there has been marked resistance to that adoption 
+in one form or another. 
