@@ -8552,6 +8552,7 @@ there paves the way for more clarity.
   
 This categorization serves as a pre-defined 
 structuralization to understanding the practices of 
-pride. The short descriptions of these four categories 
-of pride are too terse, and the wording is not specific 
-whatsoever.
+pride, although the short descriptions of these four 
+categories of pride are terse, and the wording is not 
+specific whatsoever.
+
