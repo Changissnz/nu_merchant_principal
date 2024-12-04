@@ -8577,4 +8577,16 @@ attention seeker but an outspoken and strong-willed
 one. Absolutist splits in depicting the prideful, such 
 as in this example, are quite cumbersome to overcome 
 for a united opinion; such unity for a united opinion 
-would pose it a fact then, by consensus. 
+would pose it as a fact then, by consensus. The prideful 
+also have a tendency to also be considered stubborn. 
+The idiom, "swallowing one's pride", acts as a suggestion 
+to the prideful to humble themselves by forgoing the 
+convictions that make them be judged as stubborn. 
+Stubbornness is actually easier for a third-party to 
+gauge of a candidate. The candidate proactively does not 
+change when they are corrected by external agents, 
+although they have the capability to do so. This 
+observation of their lack of changing certain 
+behaviors and beliefs, when openly confronted to 
+change, is a tell-tale sign of the characteristic 
+of stubbornness. 
