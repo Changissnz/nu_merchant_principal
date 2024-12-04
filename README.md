@@ -8497,5 +8497,15 @@ as the hubristic, for the prideful usually do have something
 unique to be proud about, to value and guard as if the 
 thing/s were their actual organs. The demand from a rival 
 to compete turns into the prideful's choice to respond with 
-anti-competitive measures. 
-
+anti-competitive measures. Words such as "dignity" and 
+"honor" are used by the prideful to claim a kind of moral 
+righteousness. The more calculating variants are also 
+risk-averse. One rhetorical question that is an actual 
+decision for them when faced with adversity is: why 
+"stoop down to their level" to compete when there is 
+only "disgrace" to be had? Regardless of the moralistic 
+views on what cannot be taken up by stooping down to accept 
+and what is really the disgrace, taking up the means to compete 
+or the continuation of the act that is being challenged, 
+the decision of this rhetorical question is one in the 
+vein of anti-competition. 
