@@ -8566,5 +8566,5 @@ recognizing pride by pride's expression. Pride needs
 hosts for expression, and the diversity of possible 
 hosts, each with their traits and motives supposedly 
 unique due to self-interests, makes the task of identifying 
-pride by specific words or actions expressed not with 
-certainty. 
+pride by the expression of specific words or actions not 
+with certainty. 
