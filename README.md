@@ -8459,9 +8459,16 @@ weigh: peerless recognition, that they may share traits of
 similarities with another one but they themself are ultimately 
 the "source", and equal competition. The prideful believe 
 themselves to be undisputable by many benchmarks, this 
-privilege granted to them through their high achievements. 
-But the setting of the achievement can never be universal. 
+privilege granted to them through their high marks that 
+may not have had to been achieved independently by them. 
+But the setting for the achievement can never be universal. 
 Many times, there have been attempts to propagate the local 
-setting for achievement in universal application. And 
+setting for achievement into universal application. And 
 every time, there has been marked resistance to that adoption 
-in one form or another. 
+in one form or another. Implementation of competition is 
+usually designed to be probabilistic in outcome. Events 
+that are called competitions, yet with outcomes already 
+pre-determined by the primary decisive makers cannot honestly 
+be called competition; "performance" and "demonstration" 
+are labels with more transparent underlying implications. 
+
