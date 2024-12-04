@@ -8401,3 +8401,14 @@ impunity of natural law at work.
 
 # Pride Plays Perception Pt. II <a name="p24"></a> 
 
+There is always something more to be expressed about pride. 
+In this second edition, some more characteristics arguable 
+as features of pride are presented and detailed. But the 
+vast field of the intersection between pride, as a concept 
+not entirely describable due to either inadequacy or inaccuracy 
+of the translation from the manifestation to the written word, 
+and perception, quantifiable and simulatable but with individual 
+experiences not replicable without fault, means this second 
+edition will also fall somewhat short with respect to the 
+grandiose of pride's role in one of the greatest paradigms 
+for understanding, perception. 
