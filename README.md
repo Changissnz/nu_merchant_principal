@@ -8561,3 +8561,10 @@ pride, although the short descriptions of these four
 categories of pride are indeed terse, and the wording 
 is not specific whatsoever. 
 
+A predominant number of methodologies exist for 
+recognizing pride by pride's expression. Pride needs 
+hosts for expression, and the diversity of possible 
+hosts, each with their traits and motives supposedly 
+unique due to self-interests, makes the task of identifying 
+pride by specific words or actions expressed not with 
+certainty. 
