@@ -8431,7 +8431,7 @@ defeat, and feel the damages right down to their psyche. To
 admit defeat because that is the only honest thing for them 
 to do, but to crave for a future victory of some kind, reaped 
 directly from those that beat them, is a closed door to the 
-prideful's dominance and an open door to the prideful's 
+prideful's dominance and an open door for the prideful's 
 transformation into a jealous and underhanded type. Ascribing 
 principles of comprehension and prediction on pride's handling 
 of defeat is not something like solving a mathematical 
@@ -8439,8 +8439,18 @@ equation of a standardized format. This has been exemplified
 in the first segment of this series, specifically pride's 
 convolutions with wrath and confidence. Pride and jealousy 
 are two forces that may share characteristics by the same 
-host, the identity in other words. But there is one 
-fundamental difference. The prideful believe themselves to 
-be the "source", while the jealous believe that the "source" 
-is false and that they are the rightful "source". 
+host, the identity in physical form in other words. But there 
+is one fundamental difference. The prideful believe themselves 
+to be the "source", while the jealous believe that the "source" 
+is false and that they are the rightful "source". To be the 
+"source", by the standards of pride, is to first and foremost 
+be one with the power, not necessarily the ability to produce 
+more or better, to think and perform better; however, testing 
+and beating the prideful is constrained to achieving superiorities 
+over them in these fields. The notion that superiority of a 
+field can be unequivocally measured in a local field that 
+reflects truth back for the recognition onwards to a global 
+field is another matter of debate, much to the contempt of the 
+prideful's possible want of peerless absolution. Denial is one 
+possible decision for the prideful if they lose. 
 
