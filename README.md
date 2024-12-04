@@ -8492,7 +8492,7 @@ little regard to the warnings derived from both empirical
 probability measures and intuitionists. In the typical case, 
 the prideful have a status, unique by some marks, that they 
 have to stand by. This obligation means the prideful do not 
-have to be bound to compete and challenge in the same frequency 
+have to be bound to compete and challenge at the same frequency 
 as the hubristic, for the prideful usually do have something 
 unique to be proud about, to value and guard as if the 
 thing/s were their actual organs. 
