@@ -8495,4 +8495,7 @@ have to stand by. This obligation means the prideful do not
 have to be bound to compete and challenge at the same frequency 
 as the hubristic, for the prideful usually do have something 
 unique to be proud about, to value and guard as if the 
-thing/s were their actual organs. 
+thing/s were their actual organs. The demand from a rival 
+to compete turns into the prideful's choice to respond with 
+anti-competitive measures. 
+
