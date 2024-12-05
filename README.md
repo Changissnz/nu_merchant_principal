@@ -31,6 +31,7 @@
 22. [Shifty and Shifting Alliances Pt. III](#p22)
 23. [Pride Plays Perception](#p23)
 24. [Pride Plays Perception Pt. II](#p24)
+25. [About the Simplicity of the Cycle Pt. II](#p25)
 
 
 Business comes and goes, much more frequently than governments. 
@@ -8684,4 +8685,6 @@ in these circumstances by projecting the "identity", the
 "spirit", the "power" really cannot be stated with certainty 
 since the circumstances of this writing are intentionally 
 left open-ended. 
+
+## About the Simplicity of the Cycle Pt. II <a name="p25"></a> 
 
