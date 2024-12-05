@@ -8676,8 +8676,12 @@ the legitimacy as written about in the previous paragraph.
 One could be prideful about one's self and maintain a modesty 
 on the outside to third-party observers. Underneath the 
 modesty is an underarmour of "pride" that only shows itself 
-under serious threat. How "pride" shows itself in these 
-circumstances, by projecting the "identity", the "spirit", 
-the "power" really cannot be stated with certainty since 
-the circumstances of this writing are intentionally left 
-open-ended. 
+under serious threat. The granting of legitimacy can be 
+viewed as the granting of protections and privileges. Without 
+certain protections and privileges, the modest and prideful 
+do have to show their underarmour. How "pride" shows itself 
+in these circumstances, by projecting the "identity", the 
+"spirit", the "power" really cannot be stated with certainty 
+since the circumstances of this writing are intentionally 
+left open-ended. 
+
