@@ -8671,3 +8671,13 @@ be indisputable facts after the intertwining processes is
 the status. "Pride" and "status" are still two different 
 words. 
 
+Then again, one could be prideful and not seek the status, 
+the legitimacy as written about in the previous paragraph. 
+One could be prideful about one's self and maintain a modesty 
+on the outside to third-party observers. Underneath the 
+modesty is an underarmour of "pride" that only shows itself 
+under serious threat. How "pride" shows itself in these 
+circumstances, by projecting the "identity", the "spirit", 
+the "power" really cannot be stated with certainty since 
+the circumstances of this writing are intentionally left 
+open-ended. 
