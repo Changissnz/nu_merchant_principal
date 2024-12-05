@@ -8627,7 +8627,7 @@ the first case of legitimacy presents fewer socio-economic
 challenges to the prideful's recognition, at least from 
 their beginning. Instead of having to go through winding 
 tunnels of trial-and-error for the prideful to be recognized 
-as the pride, with each of these errors accounted for and 
+as the pride, with each of these errors accounted and 
 publicized for ritual humiliation in extreme politics, the 
 prideful could have just been born into a position to be 
 conveniently ordained. One cannot choose what they are 
