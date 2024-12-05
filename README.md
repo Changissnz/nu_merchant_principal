@@ -8680,7 +8680,7 @@ under serious threat. The granting of legitimacy can be
 viewed as the granting of protections and privileges. Without 
 certain protections and privileges, the modest and prideful 
 do have to show their underarmour. How "pride" shows itself 
-in these circumstances, by projecting the "identity", the 
+in these circumstances by projecting the "identity", the 
 "spirit", the "power" really cannot be stated with certainty 
 since the circumstances of this writing are intentionally 
 left open-ended. 
