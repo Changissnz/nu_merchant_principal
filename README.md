@@ -8807,7 +8807,7 @@ can only become a believed pseudoscience. There is the
 issue of untangling the mind from the force labeled pride, 
 and of handling alterations to the external factors believed 
 to aid in the host's self-generation of pride, and last but 
-not least, how much believability reception has of the testing. 
+not least, the believability that reception has of the testing. 
 And nothing is really so exact until it happens. For example, 
 an assessor could destroy all of the belongings of a suspected 
 host of pride. The host does not have to express offense, out 
@@ -8816,5 +8816,8 @@ express offense, out of their pride that they believe they
 must defend. A coin toss, without any more specifics, 
 especially in the longevity of time in which the host of 
 pride clearly has a liberty that "comes from within" to 
-be a host to any other of the Seven Deadly Sins. 
+be a host to any other of the Seven Deadly Sins. And would 
+not the assessor also have to be somewhat prideful in order 
+to feel at ease with their way of testing? Very interesting 
+question, is it not? 
 
