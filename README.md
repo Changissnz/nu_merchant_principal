@@ -8773,7 +8773,7 @@ as in "it comes from within" (yes, this does read cliche),
 although the self-generative process may have to take into 
 account variables outside of pride's host/s so that the force 
 of pride can be generated according to the self's formulation 
-of it, then has to be the hosts' objective but with 
+of it, then has to be the hosts' objectives but with 
 possibilities of nullification through the lack of positive 
 feedback from the external validators, possibly inanimate 
 and definitely not omnipotent. Comprehensive testing of 
