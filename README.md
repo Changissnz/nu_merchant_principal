@@ -8698,7 +8698,7 @@ choice of the other, and for the other to respond that that
 is God's will as the simple explanation, as if any life 
 below quarter-starvation to death can muster the clarity 
 of cognition to formulate a rational response back, as 
-if reason in its correct practice can help clear up the 
+if reason in its lone practice can help clear up the 
 way for deprivation to be no more. Charity, the power to 
 give for the expectation of something reciprocal back to 
 the giver, could be or could have been the power to take. 
