@@ -8782,7 +8782,7 @@ a host of pride involves effectively locating the external
 factors for self-generation. Apply alterations to them, 
 according to the heedance of a reference containing 
 directions, to gauge the host's reactions when the circumstances 
-that generate their pride are changes. This is clearly more 
+that generate their pride are changed. This is clearly more 
 easier said or written than done. Testing of this kind does 
 have to be somewhat questionable, this being proved through 
 any accurate surveying of opinion. More penetrative 
