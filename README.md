@@ -8728,20 +8728,19 @@ Oh, pride must be careful lest it requires another host;
 pride does have limits in its material drive. It is those 
 rivaled against another, out of their drives of some 
 combination of pride and jealousy, that go digging up 
-gravestones for evidence while ignoring what they can 
-perceive, their own failures included, and also using 
-most unwholly ways for what they claim to be for the 
-"greater" or "common" good; the terms "greater" and "common" 
-correspond to those two classic ends of the political 
-spectrum in regards to the self and the selfless. These 
-so-called sacrifices, weighing out of matters for the 
-believed best choice, spark some of the most heated 
-debates that go far outside of the confines of any 
-religious framework, assuming that all religious 
-frameworks are moral and based on the coolness of 
-acceptance. The assumption is very absolutist and 
-will probably spark laughter of the crazed variety, 
-in a full and honest survey.
+graves for evidence while ignoring what they can perceive, 
+their own failures included, and also using most unwholly 
+ways for what they claim to be for the "greater" or "common" 
+good; the terms "greater" and "common" correspond to those 
+two classic ends of the political spectrum in regards to 
+the self and the selfless. These so-called sacrifices, 
+weighing out of matters for the believed best choice, 
+spark some of the most heated debates that go far 
+outside of the confines of any religious framework, 
+assuming that all religious frameworks are moral and 
+based on the coolness of acceptance. The assumption 
+is very absolutist and will probably spark laughter 
+of the crazed variety, in a full and honest survey.
 
 Truly, one of those peculiar things about pride in 
 host form is that pride is frequently more fit to be 
