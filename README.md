@@ -8822,8 +8822,8 @@ to feel at ease with this way of testing? Very interesting
 question, is it not? 
 
 The two possibilities described that the tested host, 
-in the previous example, can decide on in effect points to 
+in the previous example, can decide on in effect point to 
 the principle of pride being a force present in a host 
 that could, in turn, control the force such as by hiding 
 this force, expressing this force, and probably also be able 
-to distributing this force.
+to distribute this force.
