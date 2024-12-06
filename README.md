@@ -8761,9 +8761,9 @@ disfigured force; nothing much but uncertainty of the
 elements in the power the prideful, in this context, wishes 
 to project can be gathered. Knowing that some things have 
 happened, for the better or the worse, because of pride, 
-but to not be able to draw the connection from the doer to 
-an alleged commander of the doer, that most prideful one, 
-becomes something like another chain of events that 
-could be called "humiliating" and "unserious", with 
-objection not of an entirely absolute degree. 
+but to not be able to reconstruct credible connections from 
+the doer to an alleged commander of the doer, that most 
+prideful one, becomes something like another chain of 
+events that could be called "humiliating" and "unserious", 
+with objection not of an entirely absolute degree. 
 
