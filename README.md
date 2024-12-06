@@ -8813,5 +8813,8 @@ an assessor could destroy all of the belongings of a suspected
 host of pride. The host does not have to express offense, out 
 of their pride that "comes from within". The host could also 
 express offense, out of their pride that they believe they 
-must defend. A coin toss, without any more specifics. 
+must defend. A coin toss, without any more specifics, 
+especially in the longevity of time in which the host of 
+pride clearly has a liberty that "comes from within" to 
+be a host to any other of the Seven Deadly Sins. 
 
