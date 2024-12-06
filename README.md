@@ -8724,7 +8724,14 @@ have to be the ones that do the bidding for pride. To do
 the bidding for pride may require one to engage in much 
 destruction and disgrace, two concepts when actualized may 
 cause more trouble than what pride's hosts can stomach. 
-Oh, pride must be careful lest it requires another host, 
-pride does have limits in its material drive. 
-
+Oh, pride must be careful lest it requires another host; 
+pride does have limits in its material drive. It is those 
+rivaled against another, out of their drives of some 
+combination of pride and jealousy, that go digging up 
+gravestones for evidence while ignoring what they can 
+perceive, their own failures included, and also using 
+most unwholly ways for what they claim to be for the 
+"greater" or "common" good; the terms "greater" and "common" 
+correspond to those two classic ends of the political 
+spectrum in regards to the self and the selfless. 
 
