@@ -8769,7 +8769,7 @@ with objection not of an entirely absolute degree, to the
 theorists. 
 
 Pride being a force, labeled this word, that is part of 
-cognitive processes, and this force having to be self-generated, 
+cognitive processes, and this force having to be self-generated 
 as in "it comes from within" (yes, this does read cliche), 
 although the self-generative process may have to take into 
 account variables outside of pride's host/s so that the force 
@@ -8779,10 +8779,23 @@ possibilities of nullification through the lack of positive
 feedback from the external validators, possibly inanimate 
 and definitely not omnipotent. Comprehensive testing of 
 a host of pride involves effectively locating the external 
-factors for self-generation. Apply alterations, according to 
-the heedance of a reference, to gauge the host's reactions 
-when the circumstances that generate their pride are changes. 
-This is clearly more easier said or written than done. Testing 
-of this kind does have to be somewhat questionable, this 
-being proved through any accurate surveying of opinion. 
+factors for self-generation. Apply alterations to them, 
+according to the heedance of a reference containing 
+directions, to gauge the host's reactions when the circumstances 
+that generate their pride are changes. This is clearly more 
+easier said or written than done. Testing of this kind does 
+have to be somewhat questionable, this being proved through 
+any accurate surveying of opinion. More penetrative 
+testing procedures involve identifying the metaphysical 
+factors found within the host, and applying alterations 
+to those factors so that the host of pride can be assessed 
+under their differing internal circumstances. For these 
+kinds of penetrative alterations, the assessor could do 
+things such as communicate ideas, related to the metaphysical 
+factors of interest, to the suspected host of pride. The 
+term "penetrative" is used in this explanation to signify 
+procedures that directly attempt to alter the metaphysical 
+forces of pride in the host, rather than alter external 
+factors believed to be involved in the host's self-generation 
+of pride. 
 
