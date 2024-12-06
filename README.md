@@ -8797,5 +8797,9 @@ term "penetrative" is used in this explanation to signify
 procedures that directly attempt to alter the metaphysical 
 forces of pride in the host, rather than alter external 
 factors believed to be involved in the host's self-generation 
-of pride. 
-
+of pride. Testing of pride has occurred since ancient times, 
+so it has been done before and time and again for many agendas, 
+such as those things under the label of "rite of passage". 
+This paragraph's explanation is a reminder on an acceptable 
+starting point for devising more sophisticated and detailed 
+testing arrangements. 
