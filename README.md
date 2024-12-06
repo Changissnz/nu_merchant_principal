@@ -8765,5 +8765,6 @@ but to not be able to reconstruct credible connections from
 the doer to an alleged commander of the doer, that most 
 prideful one, becomes something like another chain of 
 events that could be called "humiliating" and "unserious", 
-with objection not of an entirely absolute degree. 
+with objection not of an entirely absolute degree, to the 
+theorists.
 
