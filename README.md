@@ -8875,4 +8875,5 @@ are two labels for a kind of classification for these
 analyses. So that is one way to attempt to understand 
 pride, through a juvenile thinking of dualities on what 
 the prideful is or does, a kind of hit-or-miss guessing 
-game played by a third-party from a safe space. 
+game gleefully played by a third-party from a safe space. 
+
