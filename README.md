@@ -8711,3 +8711,10 @@ Holy Emperor.
 
 ## Pride Plays Perception Pt. III <a name="p26"></a> 
 
+Every thing of a real existence, especially in material 
+form, is eventually tested. This truth says nothing on 
+the forms of tests applied to each of these things, and 
+what natures surround these tests to validate the tests' 
+strengths, above all, and maybe the tests' correctness 
+in applications afterwards, if there is the time, capital, 
+and ethics to allow for that. 
