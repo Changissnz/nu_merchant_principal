@@ -8818,6 +8818,6 @@ especially in the longevity of time in which the host of
 pride clearly has a liberty that "comes from within" to 
 be a host to any other of the Seven Deadly Sins. And would 
 not the assessor also have to be somewhat prideful in order 
-to feel at ease with their way of testing? Very interesting 
+to feel at ease with this way of testing? Very interesting 
 question, is it not? 
 
