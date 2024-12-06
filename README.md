@@ -32,6 +32,7 @@
 23. [Pride Plays Perception](#p23)
 24. [Pride Plays Perception Pt. II](#p24)
 25. [About the Simplicity of the Cycle Pt. II](#p25)
+26. [Pride Plays Perception Pt. III](#p26)
 
 
 Business comes and goes, much more frequently than governments. 
@@ -8688,3 +8689,24 @@ left open-ended.
 
 ## About the Simplicity of the Cycle Pt. II <a name="p25"></a> 
 
+Some cycles produce so little, a deserted and barren land 
+that those more fortunate dare egg on their sayings that 
+such lands have been cursed by God. This is similar to how 
+some lifeforms can be starved to death, out of not the 
+misfortunate of immobility in the position, no, but the 
+choice of the other, and for the other to respond that that 
+is God's will as the simple explanation, as if any life 
+below quarter-starvation to death can muster the clarity 
+of cognition to formulate a rational response back, as 
+if reason in its correct practice can help clear up the 
+way for deprivation to be no more. Charity, the power to 
+give for the expectation of something reciprocal back to 
+the giver, could be or could have been the power to take. 
+Every one has their own doubts about high charity, while 
+the starved and deprived put aside their doubts for their 
+will to live, perhaps even have to pretend to be a believer 
+because that is the passage to kill off the starvation 
+where charity may as well be the self-proclaimed Holy 
+Emperor. 
+
+## Pride Plays Perception Pt. III <a name="p26"></a> 
