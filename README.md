@@ -8733,5 +8733,28 @@ perceive, their own failures included, and also using
 most unwholly ways for what they claim to be for the 
 "greater" or "common" good; the terms "greater" and "common" 
 correspond to those two classic ends of the political 
-spectrum in regards to the self and the selfless. 
+spectrum in regards to the self and the selfless. These 
+so-called sacrifices, weighing out of matters for the 
+believed best choice, spark some of the most heated 
+debates that go far outside of the confines of any 
+religious framework, assuming that all religious 
+frameworks are moral and based on the coolness of 
+acceptance. The assumption is very absolutist and 
+will probably spark laughter of the crazed variety, 
+in a full and honest survey.
 
+Truly, one of those peculiar things about pride in 
+host form is that pride is frequently more fit to be 
+a commander than a doer. And it does not take much 
+life experience to state this truth: to be an effective 
+commander, one should practice an even-tempered conduct. 
+The objective of accomplishing some task sometimes 
+requires the kind of humiliating and unserious conduct 
+that cannot be considered representative of pride by 
+any standard. Immediately, with the words "humiliating" 
+and "unserious", the reader could have supposed the 
+doer to be a charlatan or a seller of gratification. 
+But such conduct does not have to be perverse. The 
+conduct is by a mask hiding a disfigured force; nothing 
+much but uncertainty of the power the prideful, in this 
+context, wishes to project can be gathered. 
