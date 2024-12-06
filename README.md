@@ -8749,7 +8749,7 @@ a commander than a doer. And it does not take much
 life experience to state this truth: to be an effective 
 commander, one should practice an even-tempered conduct. 
 Why question pride when pride can be a motivator for 
-outcomes thoroughly fit by some self-interests? The 
+outcomes thoroughly fit to some self-interests? The 
 objective of accomplishing some task sometimes requires 
 the kind of humiliating and unserious conduct that cannot 
 be considered representative of pride by any standard. 
@@ -8759,6 +8759,11 @@ or a seller of gratification. But such conduct does not
 have to be perverse. The conduct is by a mask hiding a 
 disfigured force; nothing much but uncertainty of the 
 power the prideful, in this context, wishes to project 
-can be gathered. 
-
+can be gathered. Knowing that some things have happened, 
+for the better or the worse, because of pride, but to 
+not able to draw the connection between the doer to the 
+alleged commander of the doer, that most prideful one, 
+becomes something like another chain of events that 
+could be called "humiliating" and "unserious" with 
+objection not of an entirely absolute degree. 
 
