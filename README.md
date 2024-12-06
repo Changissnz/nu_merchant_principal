@@ -8802,4 +8802,16 @@ so it has been done before and time and again for many agendas,
 such as those things under the label of "rite of passage". 
 This paragraph's explanation is a reminder on an acceptable 
 starting point for devising more sophisticated and detailed 
-testing arrangements. 
+testing arrangements. Ultimately, testing of social traits 
+can only become a believed pseudoscience. There is the 
+issue of untangling the mind from the force labeled pride, 
+and of handling alterations to the external factors believed 
+to aid in the host's self-generation of pride, and last but 
+not least, how much believability reception has of the testing. 
+And nothing is really so exact until it happens. For example, 
+an assessor could destroy all of the belongings of a suspected 
+host of pride. The host does not have to express offense, out 
+of their pride that "comes from within". The host could also 
+express offense, out of their pride that they believe they 
+must defend. A coin toss, without any more specifics. 
+
