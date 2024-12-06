@@ -8724,4 +8724,7 @@ have to be the ones that do the bidding for pride. To do
 the bidding for pride may require one to engage in much 
 destruction and disgrace, two concepts when actualized may 
 cause more trouble than what pride's hosts can stomach. 
+Oh, pride must be careful lest it requires another host, 
+pride does have limits in its material drive. 
+
 
