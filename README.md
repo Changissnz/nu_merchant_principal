@@ -8836,15 +8836,15 @@ the terms' recycling back into the prideful's self-generation
 of pride. The narrative could be anything, such as a 
 fact in which the prideful won something, and the fact 
 is re-iterated time to time in the cognition of the 
-prideful as part of the self-generation for pride. The 
-narrative could also be lofty thoughts of grandiose 
+prideful as part of the self-generation for their pride. 
+The narrative could also be lofty thoughts of grandiose 
 power, how someone was so humiliated and embarassed, 
 clearly a great contrast to their honor, the prideful. 
 It is the prideful that fall back on their wins in their 
 times of challenge, and these are also the same ones that 
 are the icons of discouragement, aimlessness, and 
 anti-competition with challenges that involve them directly 
-or indirectly but still affects their image in some 
+or indirectly but still affect their image in some 
 way. Maybe the prideful is also a pacifist one. There 
 is nothing outright wrong with pacifism. For fair dues, 
 though, it is not just the prideful that operate on 
@@ -8853,18 +8853,26 @@ thought of to be prideful while they rest their case
 to stand tall and strong on top of structures composed 
 of deception (for demonstration only). And an ending point 
 of obviousness on narratives and the prideful: the prideful 
-would rather trivialize than be trivialized, and will 
+would rather trivialize than be trivialized, and would 
 most likely construct challenges for those challengers 
-that trivialize the prideful. 
+that trivialize them, the prideful. 
 
 Attempting to describe the prideful in the dualities 
 of what they would rather do as opposed to the alternative 
 is effectively juvenile. Stating dualities on the matter 
 of the cases of pridefuls is not for pure intentions of 
 precise identification, instead tools to engineer opinion 
-against a specific prideful. If the credibility is not 
-there though, goes a certain line of thinking, for 
-opinion to be swayed, then there cannot be engineering 
-of opinion. But the previous statement too is stubbed 
-reasoning, since persuasion by a narrative convincing 
-enough of any notion posed as fact does indeed occur. 
+of a specific prideful. If the credibility is not there 
+though, goes a certain line of thinking, for opinion to 
+be swayed, then there cannot be engineering of opinion. 
+But the previous statement too is stubbed reasoning, 
+since persuasion by a narrative convincing enough of 
+any notion posed as fact does indeed occur. Character 
+analyses make for some of the more memorable thinking 
+and talking points, and pride is a building block for 
+some of these analyses. Persuasion-first and truth-first 
+are two labels for a kind of classification for these 
+analyses. So that is one way to attempt to understand 
+pride, through a juvenile thinking of dualities on what 
+the prideful is or does, a kind of hit-or-miss guessing 
+game played by a third-party from a safe space. 
