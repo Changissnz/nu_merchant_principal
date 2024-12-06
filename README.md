@@ -8867,7 +8867,12 @@ though, goes a certain line of thinking, for opinion to
 be swayed, then there cannot be engineering of opinion. 
 But the previous statement too is stubbed reasoning, 
 since persuasion by a narrative convincing enough of 
-any notion posed as fact does indeed occur. Character 
+any notion posed as fact does indeed occur. No living 
+being can ever prove that they cannot be deceived; either 
+the trials of variations prove that they are deceived, 
+or the lack of varying trials prove that they are untested 
+and can yet still be deceived. That is just how an 
+ever-present adversary is, duality and all. Character 
 analyses make for some of the more memorable thinking 
 and talking points, and pride is a building block for 
 some of these analyses. Persuasion-first and truth-first 
@@ -8876,4 +8881,20 @@ analyses. So that is one way to attempt to understand
 pride, through a juvenile thinking of dualities on what 
 the prideful is or does, a kind of hit-or-miss guessing 
 game gleefully played by a third-party from a safe space. 
+Pride becomes less and less of the central focus in the 
+specific designing of the duality test for the prideful. 
+The test could still work though, as in be incredibly 
+accurate to predicting what the prideful will do. If 
+all operating conditions of the prideful and effecting 
+conditions of the environment remain identical to the 
+those of the test setting, then the prideful can perform 
+differently only out of pathology (the fluke) or the 
+choice to "fail" by choosing the opposite. But then 
+the test's accuracy measures are for the symptoms of 
+the host that is alleged to be prideful. There is the 
+virtually identical expected and actual of what the 
+specific prideful would rather do as opposed to the 
+alternative. But there is the requirement to connect 
+through more than correlation the specific prideful's 
+preferred action to pride. 
 
