@@ -8748,11 +8748,11 @@ host form is that pride is frequently more fit to be
 a commander than a doer. And it does not take much 
 life experience to state this truth: to be an effective 
 commander, one should practice an even-tempered conduct. 
-Why pride when pride can be a motivator for outcomes 
-thoroughly fit by some self-interests? The objective 
-of accomplishing some task sometimes requires the kind 
-of humiliating and unserious conduct that cannot be 
-considered representative of pride by any standard. 
+Why question pride when pride can be a motivator for 
+outcomes thoroughly fit by some self-interests? The 
+objective of accomplishing some task sometimes requires 
+the kind of humiliating and unserious conduct that cannot 
+be considered representative of pride by any standard. 
 Immediately, with the words "humiliating" and "unserious", 
 the reader could suppose the doer to be a charlatan 
 or a seller of gratification. But such conduct does not 
