@@ -8704,9 +8704,10 @@ give for the expectation of something reciprocal back to
 the giver, could be or could have been the power to take. 
 Every one has their own doubts about high charity, while 
 the starved and deprived put aside their doubts for their 
-will to live, perhaps even have to pretend to be a believer 
+will to live, perhaps even have to pretend to be believers 
 because that is the passage to kill off the starvation 
 where charity, the only way, may as well be the self-proclaimed 
 Holy Emperor. 
 
 ## Pride Plays Perception Pt. III <a name="p26"></a> 
+
