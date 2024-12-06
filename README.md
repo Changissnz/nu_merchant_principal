@@ -8698,10 +8698,10 @@ choice of the other, and for the other to respond that that
 is God's will as the simple explanation, as if any life 
 below quarter-starvation to death can muster the clarity 
 of cognition to formulate a rational response back, as 
-if reason in its lone practice can help clear up the 
-way for deprivation to be no more. Charity, the power to 
-give for the expectation of something reciprocal back to 
-the giver, could be or could have been the power to take. 
+if reason in its lone practice can clear up the way for 
+deprivation to be no more. Charity, the power to give 
+for the expectation of something reciprocal back to the 
+giver, could be or could have been the power to take. 
 Every one has their own doubts about high charity, while 
 the starved and deprived put aside their doubts for their 
 will to live, perhaps even have to pretend to be believers 
@@ -8766,5 +8766,15 @@ the doer to an alleged commander of the doer, that most
 prideful one, becomes something like another chain of 
 events that could be called "humiliating" and "unserious", 
 with objection not of an entirely absolute degree, to the 
-theorists.
+theorists. 
 
+Pride being a force, labeled this word, that is part of 
+cognitive processes, and this force having to be self-generated, 
+as in "it comes from within" (yes, this does read cliche), 
+although the self-generative process may have to take into 
+account variables outside of pride's host/s so that the force 
+of pride can be generated according to the self's formulation 
+of it, then has to be the hosts' objective but with 
+possibilities of nullification through the lack of positive 
+feedback from the external validators, possibly inanimate 
+and definitely not omnipotent. 
