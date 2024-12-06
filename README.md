@@ -8833,4 +8833,10 @@ facts, the prideful believes that they are somehow an
 "enlightened", "educated", or "informed" one, and these 
 categorical terms are noted in their psyche through 
 the terms' recycling back into the prideful's self-generation 
-of pride. 
+of pride. The narrative could be anything, such as a 
+fact in which the prideful won something, and the fact 
+is re-iterated time to time in the cognition of the 
+prideful as part of the self-generation for pride. The 
+narrative could also be lofty thoughts of grandiose 
+power, how someone was so humiliated and embarassed, 
+clearly a great contrast to their honor, the prideful. 
