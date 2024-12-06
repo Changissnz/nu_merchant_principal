@@ -8824,6 +8824,14 @@ question, is it not?
 The two possibilities described that the tested host, 
 in the previous example, can decide on in effect point to 
 the principle of pride being a force present in a host 
-that could, in turn, control the force such as by hiding 
-this force, expressing this force, and probably also be able 
-to distribute this force.
+that can, in turn, control the force such as by hiding 
+this force, expressing this force, and probably also be 
+able to distribute this force. 
+
+The prideful operates on narratives rather than a 
+knowledge base of facts. With just a knowledge base of 
+facts, the prideful believes that they are somehow an 
+"enlightened", "educated", or "informed" one, and these 
+categorical terms are noted in their psyche through 
+the terms' recycling back into the prideful's self-generation 
+of pride. 
