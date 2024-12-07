@@ -8980,9 +8980,18 @@ of connections from those case events to the claims, the claims
 then serving as the ignition for the "infrastructure" to 
 function for the stated purpose, such as correction or 
 promotion, and the "infrastructure" does not work as 
-intended, then the sequence from the prideful being an 
+intended so that the sequence from the prideful being an 
 illusionist to the "infrastructure" acting on this labeling 
 is ineffective by the stated intentions of cause-and-effect, 
-the sequence having to fall under the category of reasoning 
-in practice that is stubbed. 
+the sequence has to fall under the category of reasoning 
+in practice that is stubbed. This long sentence that could 
+be split into several sentences is intentional so as to 
+communicate another idea. There is the notion that something 
+is united and integrated as one, meaning the reasoning starts 
+from a point and ends at a point reliable to any practitioner 
+of that reasoning, but that something both does not have the 
+"infrastructure" to deliver on the stated effects and is 
+still the method of validation on the design of cause-and-effect. 
+
+
 
