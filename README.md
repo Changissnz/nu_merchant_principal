@@ -8971,4 +8971,18 @@ of reasoning tools are self-justifying, used to send
 messages to be interpreted as impervious by their lack 
 of substance underneath, vulnerable not because of truth 
 but by the prospects of adversarial usage of those truths. 
+A possible misconception on the "infrastructure" of operation, 
+in this paragraph's explanation, is valuable enough to point 
+out. If a prideful were to be labeled an "illusionist", and 
+there is purported to be ample evidence for this labeling 
+in the form of case events and the accomodated valid drawing 
+of connections from those case events to the claims, the claims 
+then serving as the ignition for the "infrastructure" to 
+function for the stated purpose, such as correction or 
+promotion, and the "infrastructure" does not work as 
+intended, then the sequence from the prideful being an 
+illusionist to the "infrastructure" acting on this labeling 
+is ineffective by the stated intentions of cause-and-effect, 
+the sequence having to fall under the category of reasoning 
+in practice that is stubbed. 
 
