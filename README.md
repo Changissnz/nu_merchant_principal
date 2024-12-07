@@ -8899,5 +8899,22 @@ connect the specific prideful's preferred action to
 pride, through more than correlation, there is still 
 something missing. 
 
-
-
+Many of the statements made in this section on pride's 
+symptoms, exhibited in those believed to be prideful, 
+carry a curious kind of contention in cognition. For 
+one not habitual in feeling doubt or skepticism, or 
+asking questions, the lack of those kinds of sentiments 
+encourage the perception of these statements to be impersonal 
+affronts to their existence and functionalities. When 
+these psyches register critique of the metaphysical driver 
+of pride, questions re-emerge in the cognitive space and 
+there is a yearning to be the correct ("good") orientation 
+in these analytical posits on pride. Similarly, sometimes 
+it is not a particular knowledge or wisdom that is desired 
+to be actively registered by cognition, regardless of the 
+truth value, due to rationales that rest on such things 
+as pragmatism (staying focused on the task/s) and the 
+defending of one's morale, especially on topics typically 
+thought of to be universal/common forces that make their 
+hosts and subjects alike unhelpable in the deterministic 
+outlook. 
