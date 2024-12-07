@@ -8985,7 +8985,7 @@ illusionist to the "infrastructure" acting on this labeling
 is ineffective by the stated intentions of cause-and-effect, 
 the sequence has to fall under the category of reasoning 
 in practice that is stubbed. This long sentence that could 
-be split into several sentences is intentional so as to 
+have been split into several sentences is intentional so as to 
 communicate another idea. There is the notion that something 
 is united and integrated as one, meaning the reasoning starts 
 from a point and ends at a point reliable to any practitioner 
@@ -8995,7 +8995,7 @@ still the method of validation on the design of cause-and-effect.
 The same long sentence could have been split into smaller 
 sentences, each sentence serving as an accountable authority 
 over the deliverance of its notion. Instead, many sentences 
-were pieced together into one that is to indisputably pass 
-as the one, not some or none. 
+were pieced together into one that is meant to indisputably 
+pass as the one, not some or none. 
 
 
