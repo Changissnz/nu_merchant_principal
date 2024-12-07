@@ -8936,4 +8936,14 @@ about revealing a secret believed to yield powerful effects
 via a confession of confidante allegiance. There is pride, 
 and then there are the two realms that pride's hosts have 
 to balance out their own way, transparency and deception. 
-
+Through these "own" ways, transparency by levels and 
+attributes specified by the prideful, the propellant is 
+their desire to communicate the message to observers that 
+they are entitled to being prideful because they exhibit 
+a factual greatness outwards. Almost always, a carefully 
+considerate calculation is done by the strategic prideful 
+due to notions of their own vulnerability. Deception. A 
+very hefty field that is a serious sub-field of all of 
+the social as well as natural sciences, in both the practices 
+of knowledge transmission and the actual that has to be 
+transcribed into the word for the knowledge transmission. 
