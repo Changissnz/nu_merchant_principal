@@ -8904,8 +8904,9 @@ for the actions that have to somehow be attributed back
 to pride in order for the test to be a valid mechanism 
 for the stated purpose, to measure pride, is something 
 circular. Alas, it is a world where the effects, 
-specifically the executed action, from lifeforms are 
-what counts so much in the eyes of co-lifeforms. 
+specifically the executed action, from or attributed 
+to lifeforms are what counts so much in the eyes of 
+co-lifeforms. 
 
 Many of the statements made in this section on pride's 
 symptoms, exhibited in those believed to be prideful, 
