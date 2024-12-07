@@ -8931,7 +8931,7 @@ outlook.
 Some things not quite right occur when pride is the 
 decisive driver in settings promoted by truth-agnostic or 
 truth-averse settings. This is not a denunciation on how 
-much the truth matters, as in one attempting to coax another 
+wrong untruths are, as in one attempting to coax another 
 about revealing a secret believed to yield powerful effects 
 via a confession of confidante allegiance. There is pride, 
 and then there are the two realms that pride's hosts have 
