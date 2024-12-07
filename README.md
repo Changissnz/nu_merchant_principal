@@ -8865,7 +8865,7 @@ precise identification, instead tools to engineer opinion
 on a specific prideful. If the credibility is not there 
 though, goes a certain line of thinking, for opinion to 
 be swayed, then there cannot be engineering of opinion. 
-But the previous statement too is <ins>stubbed reasoning</ins>, 
+But the previous statement too is stubbed reasoning, 
 since persuasion by a narrative convincing enough of 
 any notion posed as fact does indeed occur. No living 
 being can ever prove that they cannot be deceived; either 
@@ -8956,4 +8956,15 @@ one of the few attributes of complete truth for them;
 to be labeled any concept but for there to be no 
 "infrastructure" of truth to handle the effects from 
 being labeled as such is moot, and the labeling an 
-example of stubbed reasoning. 
+example of stubbed reasoning. <ins>Stubbed reasoning</ins> 
+is of a lower quality in usability than what can be 
+labeled circular reasoning. This category of reasoning 
+is not only circular, claimed to be justifiable by revolving 
+around a core that oftentimes is not of a factually 
+applicable standing, and the "bodies" in this reasoning 
+revolving around the core due to distorted connections 
+that yield truhs in the fanciness of probability, the 
+reasoning is also not very usable (a stub instead of 
+the required potential) through a deliberate stunting 
+of its development by its issuer. 
+
