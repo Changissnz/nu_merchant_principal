@@ -8886,8 +8886,8 @@ specific designing of the duality test for the prideful.
 The test could still work though, as in be incredibly 
 accurate to predicting what the prideful will do. If 
 all operating conditions of the prideful and effecting 
-conditions of the environment remain identical to the 
-those of the test setting, then the prideful can perform 
+conditions of the environment remain identical to those 
+of the test setting, then the prideful can perform 
 differently only out of pathology (the fluke) or the 
 choice to "fail" by choosing the opposite. But then 
 the test's accuracy measures are for the symptoms of 
