@@ -8954,17 +8954,21 @@ persistence and foolability, would make the explicit
 labeling of the strategic prideful (the illusionist) 
 one of the few attributes of complete truth for them; 
 to be labeled any concept but for there to be no 
-"infrastructure" of truth to handle the effects from 
+"infrastructure" of operation to deliver the effects from 
 being labeled as such is moot, and the labeling an 
 example of stubbed reasoning. <ins>Stubbed reasoning</ins> 
 is of a lower quality in usability than what can be 
 labeled circular reasoning. This category of reasoning 
-is not only circular, claimed to be justifiable by revolving 
-around a core that does not have to be on factually 
-applicable standing, and the "bodies" in this reasoning 
-revolving around the core due to connections distorted 
-to yield truths in the fanciness of probability, the 
-reasoning is also not very usable (a stub instead of 
+is not only circular, claimed to be justifiable by its 
+revolution around a core that does not have to be on 
+factually applicable standing, and the "bodies" in this 
+reasoning revolving around the core due to connections 
+distorted to yield truths in the fanciness of probability, 
+the reasoning is also not very usable (a stub instead of 
 the required potential) through a deliberate stunting 
-of its development by its issuer. 
+of its development by its issuer. These two categories 
+of reasoning tools are self-justifying, used to send 
+messages to be interpreted as impervious by their lack 
+of substance underneath, vulnerable not because of truth 
+but by the prospects of adversarial usage of those truths. 
 
