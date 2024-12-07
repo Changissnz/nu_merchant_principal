@@ -8897,7 +8897,15 @@ specific prideful would rather do as opposed to the
 alternative. Without satisfying the requirement to 
 connect the specific prideful's preferred action to 
 pride, through more than correlation, there is still 
-something missing. 
+something missing. Designing and executing testing 
+procedures to measure an alleged prideful's degrees 
+of pride, only for those procedures to solely account 
+for the actions that have to somehow be attributed back 
+to pride in order for the test to be a valid mechanism 
+for the stated purpose, to measure pride, is something 
+circular. Alas, it is a world where the effects, 
+specifically the executed action, from lifeforms are 
+what counts so much in the eyes of co-lifeforms. 
 
 Many of the statements made in this section on pride's 
 symptoms, exhibited in those believed to be prideful, 
@@ -8918,3 +8926,4 @@ defending of one's morale, especially on topics typically
 thought of to be universal/common forces that make their 
 hosts and subjects alike unhelpable in the deterministic 
 outlook. 
+
