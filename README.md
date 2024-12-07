@@ -8992,6 +8992,10 @@ from a point and ends at a point reliable to any practitioner
 of that reasoning, but that something both does not have the 
 "infrastructure" to deliver on the stated effects and is 
 still the method of validation on the design of cause-and-effect. 
-
+The same long sentence could have been split into smaller 
+sentences, each sentence serving as an accountable authority 
+over the deliverance of its notion. Instead, many sentences 
+were pieced together into one that is to indisputably pass 
+as the one, not some or none. 
 
 
