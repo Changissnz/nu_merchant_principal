@@ -8998,4 +8998,10 @@ over the deliverance of its notion. Instead, many sentences
 were pieced together into one that is meant to indisputably 
 pass as the one, not some or none. 
 
-
+The cause-and-effect from the labeling of the strategic 
+prideful, as an illusionist, to the wanted effects carried 
+out by an "infrastructure" is the infrastructure's consequentialist 
+usage. Any that attempt to play against the role of an illusionist, 
+regardless of their matter of being prideful, could also use 
+this kind of "infrastructure" to reveal and act in the manner 
+of correctness. 
