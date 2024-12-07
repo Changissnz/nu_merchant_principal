@@ -8865,7 +8865,7 @@ precise identification, instead tools to engineer opinion
 on a specific prideful. If the credibility is not there 
 though, goes a certain line of thinking, for opinion to 
 be swayed, then there cannot be engineering of opinion. 
-But the previous statement too is stubbed reasoning, 
+But the previous statement too is <ins>stubbed reasoning</ins>, 
 since persuasion by a narrative convincing enough of 
 any notion posed as fact does indeed occur. No living 
 being can ever prove that they cannot be deceived; either 
@@ -8947,3 +8947,13 @@ very hefty field that is a serious sub-field of all of
 the social as well as natural sciences, in both the practices 
 of knowledge transmission and the actual that has to be 
 transcribed into the word for the knowledge transmission. 
+The strategic prideful uses deception for defense, this 
+utility necessitating them to be labeled an illusionist 
+for purposes of transparency. Effective deception, in 
+persistence and foolability, would make the explicit 
+labeling of the strategic prideful (the illusionist) 
+one of the few attributes of complete truth for them; 
+to be labeled any concept but for there to be no 
+"infrastructure" of truth to handle the effects from 
+being labeled as such is moot, and the labeling an 
+example of stubbed reasoning. 
