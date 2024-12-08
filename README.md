@@ -9048,16 +9048,16 @@ power.
 Those that place great reliance on the deceptive power of 
 illusions do so for their defensive power. This specifying 
 of illusion as for defensive rather than offensive power 
-should serve as an orthodoxy, in order to clarify on the 
+should serve as the orthodoxy, in order to clarify on the 
 confusion. Those deceived by illusions act out of error, 
 and these errors are either also anticipated by a forward-thinking 
 illusionist for launch points of their action, or desired by 
 the illusionist to somehow yield the coincidence of their 
-own gains through the deceived's mistake/s. As both a 
-projecting influencer and a defensive apparatus, there are 
+own gains through the deceived's mistake/s. There are 
 those kinds of simplistic propers that do not believe the 
-illusionist to be merely a benign defendor. The status is 
-what the prideful seeks. This status could be an equilibrium, 
+illusionist to be merely a benign defendor, as both a 
+projecting influencer and a defensive apparatus. The status 
+is what the prideful seeks. This status could be an equilibrium, 
 a harmony with their surroundings of both natural and 
 artificial construct; that would appear modest. Objectives 
 geared for this equilibrium would position the prideful 
