@@ -9071,8 +9071,8 @@ uni-directional. The command is both reliable, the commander's
 desired start and end points equal to the actual, and of a capable 
 degree, in both of the categories "positive" and "negative", such 
 that the pertaining categorical system could be the orthodox 
-or the contra. Functionally-directed power is capabilities 
-outside of maintaining equilibrium through channels of preserving 
+or the contra. <ins>Functionally-directed power</ins> is capabilities 
+in excess of maintaining equilibrium through channels of preserving 
 procedures and the materials/agents those procedures depend on. 
 For those categorized solely by the label of illusionist, 
 their command cannot be dynamically suited to purposes outside 
@@ -9144,3 +9144,4 @@ to errors than the centralization for a uni-recognized
 source; measures of deliverance and performance are 
 registered in rational-like systems as truth-agnostic, 
 inconsequential in another word. 
+
