@@ -9066,11 +9066,12 @@ the illusionist: to be the agent of functionally-directed
 power, of degrees multiple in average by comparison. Another 
 fundamental clarification is required on what functionally-directed 
 power is. The unit of exchange in this kind of power is a class 
-of command. The command is both reliable, the commander's desired 
-start and end points equal to the actual, and of a capable degree, 
-in both of the categories "positive" and "negative", such 
+of command. This unit of exchange is typically designed to be 
+uni-directional. The command is both reliable, the commander's 
+desired start and end points equal to the actual, and of a capable 
+degree, in both of the categories "positive" and "negative", such 
 that the pertaining categorical system could be the orthodox 
-or the contra. Functionally-directed power has capabilities 
+or the contra. Functionally-directed power is capabilities 
 outside of maintaining equilibrium through channels of preserving 
 procedures and the materials/agents those procedures depend on. 
 For those categorized solely by the label of illusionist, 
@@ -9079,3 +9080,60 @@ of the obscured design for a narrow scope of effects wanted by
 the illusionist; this narrow scope of wanted effects does 
 not include the entire possible spectrum of the illusion's 
 reception. 
+
+Pride, when recognized strictly as a vice, in its hosts must 
+operate in antinomy. An example of antinomy has already been 
+provided, the putting into motion a system based on transparency 
+and a system based on deception clash unless the prideful, as 
+an illusionist, plays a balancing act to nullify each motion 
+to clash. A convincing argument can be made that deception is 
+a super-class containing illusion, in the different categories 
+of operating bodies of truth. The prideful, as a deceiver, 
+appears in limited ways to those the prideful wishes to deceive, 
+while the totality of their actions involve more than their 
+appearing in those limited ways. This dichotomy that must be 
+lived by the prideful in the manner of a oneness that conquers 
+this duality is a challenge on scales proportional to how much 
+is to be gained from their deception of the other. Then, 
+the attack surface that adversaries aim for against the 
+illusionist is the oneness that operates by split procedures, 
+yet must still recirculate itself back to those supposed to 
+be deceived. Attempts are made to shatter the oneness to 
+exist in perceivable action as an unresolvable duality, in 
+which valid calls can be made for one or both of the complements 
+to be corrected by methodologies such as retraining and 
+destruction. 
+
+The prideful, in the face of rising or ever-present great 
+animosity against their standing, do have the validity 
+rationalized on their own standing to be an effective illusionist, 
+amongst other things. In effective illusions, the prideful 
+projects an image that should be readily accepted, taken for 
+granted in the orthodoxically positive sense, by virtually 
+all others. Stubbed reasoning on the image is the default 
+preference of the prideful. Mono-characters instead of 
+characters with automated meaning of various forms, possibly 
+dangerous to some, that ensues immediately after the characters' 
+registration into cognition. 
+
+A prideful that has waning functionally-directed powers 
+is forced to fall back on illusion, or resign from chaos 
+inevitable through their own direct actions. Notions of 
+power in practice are seldom singularly agreed on, at 
+least from the beginning and from all cognition to all 
+genuine practice. In the objective of status for the 
+illusionist with little else, the ultimately prideful 
+wishes to be that something believed to be the power 
+"source" that all must name as the power "source". 
+The infrastructure in place to deliver on the prideful's 
+command does not result in uniform deliverance, deliverance 
+that is consistent according to the frameworks that 
+can be structured into hierarchical format and also 
+evenly distributed across all recognized contexts, so 
+the "name" counts more than the "substance". Initiatives 
+such as these place high negative value on splits, the 
+value signifying recognition of split as greater contributors 
+to errors than the centralization for a uni-recognized 
+source; measures of deliverance and performance are 
+registered in rational-like systems as truth-agnostic, 
+inconsequential in another word. 
