@@ -9020,7 +9020,7 @@ non-identical to the input. The input to craft illusions is
 seldom desired by the illusionist to be known, in full 
 principle that includes the details, to the observer. In 
 this desire is a prime building block for arguments against 
-the illusionist as a deceiver. What is more, the output is 
+the illusionist as a deceiver. A repeat, the output is 
 typically not the same as the input. The absolute equality 
 of the input and the output, along all attributes, would 
 be self-defeating to the intents of the illusionist: to 
@@ -9042,5 +9042,5 @@ the experience and with non-null probabilities of being
 retained in secrecy for purposes of belief and private 
 initiative. So for this section, the use of the illusion 
 to describe the prideful's practice is catered to references 
-of the prideful's objective: status or functionally-directed 
+of the prideful's objective: status and/or functionally-directed 
 power. 
