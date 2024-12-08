@@ -9073,5 +9073,5 @@ that the pertaining categorical system could be the orthodox
 or the contra. The command of the illusionist cannot be 
 dynamically suited to purposes outside of the obscured design 
 for a narrow scope of effects wanted by the illusionist; this 
-narrow scope of effects do not include the entire possible 
-spectrum of the illusion's reception. 
+narrow scope of wanted effects does not include the entire 
+possible spectrum of the illusion's reception. 
