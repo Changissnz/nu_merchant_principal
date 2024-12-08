@@ -9123,9 +9123,9 @@ by opposition to the offensives as insanity at its worst,
 barking at those truths that prevailed and continue to 
 prevail. 
 
-A prideful that has waning functionally-directed powers 
-is forced to fall back on illusion, or resign from chaos 
-inevitable through their own direct actions. Notions of 
+A projecting prideful that has waning functionally-directed 
+powers is forced to fall back on illusion, or resign from 
+chaos inevitable through their own direct actions. Notions of 
 power in practice are seldom singularly agreed on, at 
 least from the beginning and from all cognition to all 
 genuine practice. In the objective of status for the 
