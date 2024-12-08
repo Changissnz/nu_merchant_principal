@@ -9016,7 +9016,7 @@ of correctness.
 
 Crafting of illusions requires skill, and the desired effects 
 of the illusions tend to elicit the kinds of values that are 
-asymmetric to the input. The input to craft illusions is 
+non-identical to the input. The input to craft illusions is 
 seldom desired by the illusionist to be known, in full 
 principle that includes the details, to the observer. In 
 this desire is a prime building block for arguments against 
@@ -9034,3 +9034,13 @@ concealed origin as deception. Subjective claims of offense
 then emerge: the illusionist is the offendor, or those that 
 make invasive or deflecting movements into the illusionist's 
 illusion out of their belief that the illusion is contrived. 
+Illusions, as sentients' constructs, are incredibly dense 
+topics for thorough discussion, not requiring book knowledge 
+from history till now and for many regions of the world, 
+since illusion first and foremost is received through 
+the experience and with non-null probabilities of being 
+retained in secrecy for purposes of belief and private 
+initiative. So for this section, the use of the illusion 
+to describe the prideful's practice is catered to references 
+of the prideful's objective: status or functionally-directed 
+power. 
