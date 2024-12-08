@@ -9094,15 +9094,17 @@ while the totality of their actions involve more than their
 appearing in those limited ways. This dichotomy that must be 
 lived by the prideful in the manner of a oneness that conquers 
 this duality is a challenge on scales proportional to how much 
-is to be gained from their deception of the other. Then, 
-the attack surface that adversaries aim for against the 
-illusionist is the oneness that operates by split procedures, 
-yet must still recirculate itself back to those supposed to 
-be deceived. Attempts are made to shatter the oneness to 
-exist in perceivable action as an unresolvable duality, in 
-which valid calls can be made for one or both of the complements 
-to be corrected by methodologies such as retraining and 
-destruction. 
+is to be gained from their deception of the other; the gains 
+may be outlandishly greater than what is required to craft 
+the illusion, but there is still a positive correlation that 
+can be exploited. Then, the attack surface that adversaries 
+aim for against the illusionist is the oneness that operates 
+by split procedures, yet must still recirculate its one self 
+back to those supposed to be deceived. Attempts are made to 
+shatter the oneness to exist in perceivable action as an 
+unresolvable duality, in which valid calls can be made for 
+one or both of the complements to be corrected by methodologies 
+such as retraining and destruction. 
 
 The prideful, in the face of rising or ever-present great 
 animosity against their standing, do have the validity 
