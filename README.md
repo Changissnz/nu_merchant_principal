@@ -9057,10 +9057,10 @@ own gains through the deceived's mistake/s. There are
 those kinds of simplistic propers that do not believe the 
 illusionist to be merely a benign defendor, as both a 
 projecting influencer and a defensive apparatus. The status 
-is what the prideful seeks. This status could be an equilibrium, 
-a harmony with their surroundings of both natural and 
-artificial construct; that would appear modest. Objectives 
-geared for this equilibrium would position the prideful 
-as poorly fit for the other primary objective of the 
+is what the prideful seeks. This status could be an equilibrium 
+in the form of a harmony with their surroundings of both 
+natural and artificial construct; that would appear modest. 
+Objectives geared for this equilibrium would position the 
+prideful as poorly fit for the other primary objective of the 
 prideful, the illusionist: to be the agent of functionally-directed 
 power, of degrees multiple in average by comparison. 
