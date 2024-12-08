@@ -9116,7 +9116,12 @@ all others. Stubbed reasoning on the image is the default
 preference of the prideful. Mono-characters instead of 
 characters with automated meaning of various forms, possibly 
 dangerous to some, that ensues immediately after the characters' 
-registration into cognition. 
+registration into cognition. Offensives in rhetoric of 
+reason against mono-characters of an immoveable standing 
+are obviously ineffective, and could additionally be depicted 
+by opposition to the offensives as insanity at its worst, 
+barking at those truths that prevailed and continue to 
+prevail. 
 
 A prideful that has waning functionally-directed powers 
 is forced to fall back on illusion, or resign from chaos 
