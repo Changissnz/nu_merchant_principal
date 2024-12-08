@@ -9072,7 +9072,7 @@ desired start and end points equal to the actual, and of a capable
 degree, in both of the categories "positive" and "negative", such 
 that the pertaining categorical system could be the orthodox 
 or the contra. <ins>Functionally-directed power</ins> is capabilities 
-in excess of maintaining equilibrium through channels of preserving 
+in excess of maintaining equilibrium through channels for preserving 
 procedures and the materials/agents those procedures depend on. 
 For those categorized solely by the label of illusionist, 
 their command cannot be dynamically suited to purposes outside 
@@ -9098,7 +9098,7 @@ is to be gained from their deception of the other; the gains
 may be outlandishly greater than what is required to craft 
 the illusion, but there is still a positive correlation that 
 can be exploited. Then, the attack surface that adversaries 
-aim for against the illusionist is the oneness that operates 
+aim at against the illusionist is the oneness that operates 
 by split procedures, yet must still recirculate its one self 
 back to those supposed to be deceived. Attempts are made to 
 shatter the oneness into their perceivable action as an 
@@ -9162,13 +9162,13 @@ the mark cannot be set on the metaphysical force itself.
 Incompleteness here, an understanding without full 
 control over. In the second part of this series, jealousy 
 in practice was mentioned in a few statements of difference 
-to that of pride. The jealous are also ones not very 
-consistent. The jealous oftentimes view themselves as 
-second-best, at most, in some respects. And in their 
-latching of focus onto this view of being second-best, 
-the jealous can also become an illusionist, a deceiver 
-in practices of duality for their competitive states. 
-The moral outcry against unfairness, such outcries 
+to that of pride. Ones that operate on jealousy are 
+also not very consistent. The jealous oftentimes view 
+themselves as second-best, at most, in some respects. 
+And in their latching of focus onto this view of being 
+second-best, the jealous can also become an illusionist, 
+a deceiver in practices of duality for their competitive 
+states. The moral outcry against unfairness, such outcries 
 typically not openly expressed during the jealous' 
 deception, is treated as a fundamental building block 
 for their rationale. According to the jealous that 
