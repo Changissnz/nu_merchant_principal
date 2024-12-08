@@ -9156,7 +9156,7 @@ for the contrary. In a more simpler way of reasoning
 that is not so much for constructive purposes but to 
 assuage, measurement of a metaphysical force by 
 the symptoms exhibited in their hosts has the potential 
-to be a satisfactory predictor of the hosts' activity. 
+to aid for satisfactory predictors of the hosts' activity. 
 But that is a predictor for the host's expression, and 
 the mark cannot be set on the metaphysical force itself. 
 Incompleteness here, an understanding without full 
