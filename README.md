@@ -9068,10 +9068,14 @@ fundamental clarification is required on what functionally-directed
 power is. The unit of exchange in this kind of power is a class 
 of command. The command is both reliable, the commander's desired 
 start and end points equal to the actual, and of a capable degree, 
-in either of the categories "positive" and "negative", such 
+in both of the categories "positive" and "negative", such 
 that the pertaining categorical system could be the orthodox 
-or the contra. The command of the illusionist cannot be 
-dynamically suited to purposes outside of the obscured design 
-for a narrow scope of effects wanted by the illusionist; this 
-narrow scope of wanted effects does not include the entire 
-possible spectrum of the illusion's reception. 
+or the contra. Functionally-directed power has capabilities 
+outside of maintaining equilibrium through channels of preserving 
+procedures and the materials/agents those procedures depend on. 
+For those categorized solely by the label of illusionist, 
+their command cannot be dynamically suited to purposes outside 
+of the obscured design for a narrow scope of effects wanted by 
+the illusionist; this narrow scope of wanted effects does 
+not include the entire possible spectrum of the illusion's 
+reception. 
