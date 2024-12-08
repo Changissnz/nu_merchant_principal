@@ -9141,7 +9141,7 @@ the "name" counts more than the "substance". Initiatives
 such as these place high negative value on splits, the 
 value signifying recognition of split as greater contributors 
 to errors than the centralization for a uni-recognized 
-source; measures of deliverance and performance are 
+source; measures of performance and deliverance are 
 registered in rational-like systems as truth-agnostic, 
 inconsequential in another word. 
 
