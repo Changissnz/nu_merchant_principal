@@ -9188,3 +9188,22 @@ of those driven by jealousy.
 
 ## About the Simplicity of the Cycle Pt. III <a name="p27"></a> 
 
+Many more interesting notions, in relation to the cycle, 
+have not been written about. In this third of the series, 
+the cycle is placed into more review of its pathological 
+power. As a disclaimer, topics of such broad scope that 
+can be scientifically defined, and formulated for applied 
+use, always seem to have more room for discussion, albeit 
+the content of each of these discussions have to relate 
+in some way to the topic, lest the discussion is one on 
+explicit amalgamation, meaning to place the fields of 
+distinctness into reconciliables (dualities, et cetera) 
+for the gesture of positive growth in some context, or 
+misdirection, in either the casual sense to end discussion 
+on the topic or to deceive through silent convolution 
+by another topic for or to avoid a result intended by 
+the expressor. Appalling if not useless, the uni-construct 
+of the cycle is theorized to have as much potential for 
+discussion as duality, due to some reasons such as the 
+infinite ways of expressing the finite abstraction for 
+an infinite number of practices. 
