@@ -9206,4 +9206,7 @@ the expressor. Appalling if not useless, the uni-construct
 of the cycle is theorized to have as much potential for 
 discussion as duality, due to some reasons such as the 
 infinite ways of expressing the finite abstraction for 
-an infinite number of practices. 
+an infinite number of practices, such that the "expression" 
+and the "practice" are labeled two different words with 
+their existences ranging from very different to identical, 
+in comparison. 
