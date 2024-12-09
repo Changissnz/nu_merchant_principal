@@ -9209,4 +9209,6 @@ such as the infinite ways of expressing the finite abstraction
 for an infinite number of practices. The "expression" 
 and the "practice" are labeled two different words with 
 their existences ranging from very different to identical, 
-in comparison. 
+in comparison. This span, in turn, should not be taken 
+to validate the claim of the "power of language", since 
+language is really one field out of the involved many. 
