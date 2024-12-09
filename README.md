@@ -7,33 +7,38 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Table of Contents
-1. [Autonomy and Games](#p1)
-2. [Situational Engineering](#p2)
-3. [Security's Price of Choice-Communication](#p3)
-4. [Maintenance as Half-Measures of the Potential](#p4)
-5. [Wasting the Drive in Gridlock](#p5)
-6. [How Obtuse Judgments Can Count](#p6)
-7. [To Be Revered by What](#p7)
-8. [Curse by Pre-emptive Doxing](#p8)
-9. [A Simple Template For Expectations of Cost](#p9)
-10. [The Effectiveness of Imagined Fallibilities](#p10)
-11. [Shifty and Shifting Alliances](#p11)
-12. [Denying Sophistication](#p12)
-13. [The Sophisticated as Behavior After Appearance](#p13)
-14. [Shifty and Shifting Alliances Pt. II](#p14)
-15. [The Great-Wind's Restriction](#p15)
-16. [The Idiom and the Idiot](#p16)
-17. [Half-Efforts, Full Takes](#p17)
-18. [Arguments in Image-Projectable Contexts](#p18)
-19. [Proprietary Calculations](#p19)
-20. [The Audience Is the Vulture](#p20)
-21. [About the Simplicity of the Cycle](#p21)
-22. [Shifty and Shifting Alliances Pt. III](#p22)
-23. [Pride Plays Perception](#p23)
-24. [Pride Plays Perception Pt. II](#p24)
-25. [About the Simplicity of the Cycle Pt. II](#p25)
-26. [Pride Plays Perception Pt. III](#p26)
-
+- [Nu Merchant Principal](#nu-merchant-principal)
+  - [~ ongoing notions by me, Richard Pham.](#-ongoing-notions-by-me-richard-pham)
+    - [The Big Principle:](#the-big-principle)
+    - [In mercantilism, that "father figure" you have that told you "it is not about the money, it is about the principle" might just rape you dead and take all of your belongings...](#in-mercantilism-that-father-figure-you-have-that-told-you-it-is-not-about-the-money-it-is-about-the-principle-might-just-rape-you-dead-and-take-all-of-your-belongings)
+- [Table of Contents](#table-of-contents)
+  - [Autonomy and Games ](#autonomy-and-games-)
+  - [Situational Engineering ](#situational-engineering-)
+  - [Security's Price of Choice-Communication ](#securitys-price-of-choice-communication-)
+  - [Maintenance as Half-Measures of the Potential ](#maintenance-as-half-measures-of-the-potential-)
+  - [Wasting the Drive in Gridlock ](#wasting-the-drive-in-gridlock-)
+  - [How Obtuse Judgments Can Count ](#how-obtuse-judgments-can-count-)
+  - [To Be Revered by What ](#to-be-revered-by-what-)
+  - [Curse by Pre-emptive Doxing ](#curse-by-pre-emptive-doxing-)
+  - [A Simple Template For Expectations of Cost ](#a-simple-template-for-expectations-of-cost-)
+  - [The Effectiveness of Imagined Fallibilities ](#the-effectiveness-of-imagined-fallibilities-)
+  - [Shifty and Shifting Alliances ](#shifty-and-shifting-alliances-)
+  - [Denying Sophistication ](#denying-sophistication-)
+  - [The Sophisticated as Behavior After Appearance ](#the-sophisticated-as-behavior-after-appearance-)
+  - [Shifty and Shifting Alliances Pt. II ](#shifty-and-shifting-alliances-pt-ii-)
+  - [The Great-Wind's Restriction ](#the-great-winds-restriction-)
+  - [The Idiom and the Idiot ](#the-idiom-and-the-idiot-)
+  - [Half-Efforts, Full Takes ](#half-efforts-full-takes-)
+  - [Arguments in Image-Projectable Contexts ](#arguments-in-image-projectable-contexts-)
+  - [Proprietary Calculations ](#proprietary-calculations-)
+  - [The Audience Is the Vulture ](#the-audience-is-the-vulture-)
+  - [About the Simplicity of the Cycle ](#about-the-simplicity-of-the-cycle-)
+  - [Shifty and Shifting Alliances Pt. III ](#shifty-and-shifting-alliances-pt-iii-)
+  - [Pride Plays Perception ](#pride-plays-perception-)
+  - [Pride Plays Perception Pt. II ](#pride-plays-perception-pt-ii-)
+  - [About the Simplicity of the Cycle Pt. II ](#about-the-simplicity-of-the-cycle-pt-ii-)
+  - [Pride Plays Perception Pt. III ](#pride-plays-perception-pt-iii-)
+  - [About the Simplicity of the Cycle Pt. III ](#about-the-simplicity-of-the-cycle-pt-iii-)
 
 Business comes and goes, much more frequently than governments. 
 So how can commerce thrive without the dread of disillusionment
@@ -44,20 +49,19 @@ outside of this zero-sum strategic convention in politics,
 business, and war. Well, to clarify, there are few paradigms 
 of thought, outside of zero-sum, that have gained enough 
 mainstream adoption for the concepts to be taught in typical 
-higher education settings.
-
-Brilliance does not quite make the mark in intensely competitive 
-settings. But there are some that argue that it is the misuse 
-of brilliance, trained and primed towards "malfeasant" outlets,
-that results in clear defeats for the owner/s of that brilliance. 
-But there have been and are plenty of brilliant people that 
-did not quite train and prime themselves towards "malfeasant" 
-outlets. And they get paid in dirt. The dumb and perhaps 
-retarded scoff at their ideas, deny their promotion, and ruin 
-their composure. This is how some brilliant people get treated
-like dirt. They get invited to a club or party of some high-society
-members, after achieving much and expecting some festive recognition, 
-and the invites are rescinded. And the club/party mentions them as if 
+higher education settings. Brilliance does not quite make 
+the mark in intensely competitive settings. But there are 
+some that argue that it is the misuse of brilliance, trained 
+and primed towards "malfeasant" outlets, that results in clear 
+defeats for the owner/s of that brilliance. But there have been 
+and are plenty of brilliant people that did not quite train 
+and prime themselves towards "malfeasant" outlets. And they 
+get paid in dirt. The dumb and perhaps retarded scoff at their 
+ideas, deny their promotion, and ruin their composure. This is 
+how some brilliant people get treated like dirt. They get 
+invited to a club or party of some high-society members, after 
+achieving much and expecting some festive recognition, and the 
+invites are rescinded. And the club/party mentions them as if 
 they are some dull one fit for exploitation. The high-society 
 members already know, due to the luxury and power that they 
 are able to retain, that preventative measures against 
@@ -9181,3 +9185,6 @@ conflicting metrics, an antinomy, which becomes a
 greater influence than the jealous' desired belief, 
 supposed to be officially recognized, in the actions 
 of those driven by jealousy. 
+
+## About the Simplicity of the Cycle Pt. III <a name="p27"></a> 
+
