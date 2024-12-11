@@ -9212,3 +9212,20 @@ their existences ranging from very different to identical,
 in comparison. This span, in turn, should not be taken 
 to validate the claim of the "power of language", since 
 language is really one field out of the involved many. 
+
+In the first aspect of discussing the pathological power 
+of the cycle, consider those that have to fend off that 
+power as defendors, specifically ones that have to employ 
+an assortment of deception as response to the cycle. The 
+use of the term "cycle" in this case is not for those lone 
+and permutatatorial processes that these defendors use, 
+actually antagonistic to them. This strict usage of the 
+conceptual cycle as an antagonist to these defendors is 
+a duality, and perhaps the terms "good" and "bad" do not 
+suffice in full capture of these agents' orientations 
+along select lines of judgment. The defendors could also 
+employ techniques, practical advancements rooted in the 
+conceptual cycle, although the description of their 
+situation with the antagonistic, the cycle, does not 
+label them as a "cycle". 
+
