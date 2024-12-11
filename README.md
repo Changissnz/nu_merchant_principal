@@ -9254,14 +9254,29 @@ Proponents for this form of deception argue that the
 antagonist has the capability to execute on methodologies 
 effective to the detriment of the group. There are three 
 primary components pertinent to group-directed deception. 
-1. the methodology/ies to be used by the antagonist
-2. the security requirement, in the form of two that is 
-  an executable assignment and deceptive assignment, used by 
-  the group.
-3. the alert mechanism corresponding to the deceptive 
+1. The methodology/ies to be used by the antagonist as 
+   a set of paired values, the first value representing 
+   an ordered sequence of variables and the second value 
+   representing a corresponding sequence of "best" values 
+   for those variables. 
+2. The security requirement, in the form of two that is 
+  an executable assignment and deceptive assignment, for the 
+  pertaining sequence of variables belonging to the first 
+  component, used by the group.
+3. The alert mechanism corresponding to the deceptive 
    assignment; consists of procedure/s for each member of 
    the group, used in the case of query by outside force 
    to help maintain intra-group perfect information on 
    adversarial exploits. 
 
-  
+The freedom of differing styles of representation, all the 
+while that suits the same purpose by expressing the same 
+kind of information in totality, implies that this section's 
+illustrating of group-directed deception is incomplete by 
+the narrowness of stylistic expression. But in fact, not 
+many other forms can reasonably exemplify this category 
+of deception that can satisfy the streamlined (barebones) 
+without the excess of other attributes that is there, for 
+practical purposes, to serve other conditions not briefed 
+in the description of this kind of deception's three primary 
+components.
