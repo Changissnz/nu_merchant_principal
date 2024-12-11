@@ -9213,7 +9213,7 @@ in comparison. This span, in turn, should not be taken
 to validate the claim of the "power of language", since 
 language is really one field out of the involved many. 
 
-In the first aspect of discussing the pathological power 
+In the first aspect of discussion on the pathological power 
 of the cycle, consider those that have to fend off that 
 power as defendors, specifically ones that have to employ 
 an assortment of deception as response to the cycle. The 
@@ -9227,5 +9227,16 @@ along select lines of judgment. The defendors could also
 employ techniques, practical advancements rooted in the 
 conceptual cycle, although the description of their 
 situation with the antagonistic, the cycle, does not 
-label them as a "cycle". 
+label them as a "cycle". Orthodoxy by preferred labels 
+is a kind of duality, although the adoptability by 
+orthodoxy of complements outputs solutions that seldomly 
+aim for anything below preservation of the "hard" line, 
+the separator between the 1 and the 0. Solutions that 
+carry connotations of "ambition", "control", and 
+"conquest" strive to achieve the oneness of the duality, 
+the oneness being the much greater fact, by truth through 
+observation and analysis, over that which can be interpeted 
+as two where one or both do not satisfy for those modalities 
+of cognition and action deemed pressing in the spatiotemporal 
+span. 
 
