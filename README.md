@@ -9414,7 +9414,7 @@ adversary intends to take. But the group's initial configuration
 should be one considerate in the active use of group-based 
 deception for what they believe are the beginning steps 
 of the adversary's offense. The accurate knowledge of these 
-beginning steps taken by the adversary play a pivotal role 
+beginning steps taken by the adversary plays a pivotal role 
 in the actualization of the group's predictive success of 
 knowing what exactly the vulnerability exploit the adversary 
 intends to take or intended to take before quitting midway. 
