@@ -9389,7 +9389,7 @@ distributed. One condition is that the alert system is
 timely in its communication. In the example, the alert 
 system is the default of sending out the alert immediately 
 after the first attempt made by the adversary, in their search 
-of a variable that they mistook the deceptive as the 
+of a variable that they mistook the deceptive for the 
 executive. From the perspective of the group, each variable 
 involved in the adversary's vulnerability exploit should 
 have deceptive members completely distinct from executive 
