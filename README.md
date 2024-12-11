@@ -9354,7 +9354,7 @@ upon the distribution of information on the adversary's
 step in their attack sequence. In this example, it could 
 be safely assumed that the alerted member of the group 
 has to put aside some of their potential temporal energy 
-in order to appropriately respond to the alert, an 
+in order to appropriately respond to the alert; an 
 adversary is attempting to attack the variable that the 
 alerted member is currently using in its running 
 functionalities. 
@@ -9383,3 +9383,17 @@ turn enabling the alert mechanism to accurately relay
 specific knowledge of the current step being taken by 
 the adversary that has to, hopefully by the perspective 
 of the group, endure retaliatory measures of some nature. 
+Two important conditions, besides from the group's open-ended 
+design of their retaliatory measures after the alert is 
+distributed. One condition is that the alert system is 
+timely in its communication. In the example, the alert 
+system is the default of sending out the alert immediately 
+after the first attempt made by the adversary, in their search 
+of a variable in which they mistook the deceptive as the 
+executive. From the perspective of the group, each variable 
+involved in the adversary's vulnerability exploit should 
+have deceptive members completely distinct from executive 
+members, so as to avoid the risk of the adversary correctly 
+guessing the member associated with its current step 
+centering around a variable in the group's configuration. 
+
