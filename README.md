@@ -9394,7 +9394,7 @@ executive. From the perspective of the group, each variable
 involved in the adversary's vulnerability exploit should 
 have deceptive members completely distinct from executive 
 members, so as to avoid the risk of the adversary correctly 
-guessing the member associated with its current step 
-centering around a variable in the group's configuration, 
+guessing the member associated with their current step 
+centering around a variable of the group's configuration, 
 in their procedure to inflict loss onto the group. 
 
