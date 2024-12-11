@@ -9279,12 +9279,13 @@ of deception that can satisfy the streamlined (barebones)
 without the excess of other attributes that is there, for 
 practical purposes, to serve other conditions not briefed 
 in the description of this kind of deception's three primary 
-components, due to the deliberation of designing a quantitative 
-abstract by the use of elementary mathematical structures. 
-The previous statement is arguable, and the decision to use 
-differed forms is entirely up to the discretion of the reader 
-that chooses to implement techniques of group-directed deception 
-by first establishing the stepping stone of a preliminary past 
-the abstraction of the plainform (natural language) description.  
+components, due to the written deliberation to design a 
+quantitative abstract by the use of elementary mathematical 
+structures. The previous statement is debatable, and the 
+decision to use differed forms is entirely up to the discretion 
+of the reader that chooses to implement techniques of group-directed 
+deception by first establishing the stepping stone of a 
+preliminary past the abstraction of the plainform (natural 
+language) description.  
 
 
