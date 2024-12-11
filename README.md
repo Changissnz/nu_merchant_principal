@@ -9324,7 +9324,7 @@ in events of the adversary's querying of their appeared
 (inactive) variable. 
 
 An example of group-directed deception is shown in diagrams 
-ASOC3(1-4), and there are a few attributes to it that does 
+ASOC3(1-4), and there are a few attributes to it that do 
 not have to be present in other instances of this kind of 
 deception. For one, the optimal methodology that adversary 
 $A$ chooses to execute a specific vulnerability coincides with 
@@ -9415,7 +9415,7 @@ should be one considerate in the active use of group-based
 deception for what they believe are the beginning steps 
 of the adversary's offense. The accurate knowledge of these 
 beginning steps taken by the adversary play a pivotal role 
-in the actualization of the group's predictive success in 
+in the actualization of the group's predictive success of 
 knowing what exactly the vulnerability exploit the adversary 
 intends to take or intended to take before quitting midway. 
 
