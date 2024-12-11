@@ -9269,7 +9269,7 @@ primary components pertinent to group-directed deception.
    to help maintain intra-group perfect information on 
    adversarial exploits. 
 
-The freedom of differing styles of representation, all the 
+The freedom of differing styles for representation, all the 
 while that suits the same purpose by expressing the same 
 kind of information in totality, implies that this section's 
 illustrating of group-directed deception is incomplete by 
@@ -9279,4 +9279,12 @@ of deception that can satisfy the streamlined (barebones)
 without the excess of other attributes that is there, for 
 practical purposes, to serve other conditions not briefed 
 in the description of this kind of deception's three primary 
-components.
+components, due to the deliberation of designing a quantitative 
+abstract by the use of elementary mathematical structures. 
+The previous statement is arguable, and the decision to use 
+differed forms is entirely up to the discretion of the reader 
+that chooses to implement techniques of group-directed deception 
+by first establishing the stepping stone of a preliminary past 
+the abstraction of the plainform (natural language) description.  
+
+
