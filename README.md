@@ -9254,18 +9254,28 @@ Proponents for this form of deception argue that the
 antagonist has the capability to execute on methodologies 
 effective to the detriment of the group. There are three 
 primary components pertinent to group-directed deception. 
+A group always has at least two members in this deception. 
+
 1. The methodology/ies to be used by the antagonist as 
    a set of paired values, the first value representing 
    an ordered sequence of variables and the second value 
    representing a corresponding sequence of "best" values 
-   for those variables. 
+   for those variables. Additionally, each of these variables 
+   are not unique to any one member of the group. The 
+   "best" value for each variable denotes the "condition" 
+   of the variable that is a part of the group configuration, 
+   a unique form out of more than one capable of being expressed 
+   by the group for purposes of internal and/or external 
+   functionalities. A group configuration that matches this 
+   set of paired values make it vulnerable to an associated 
+   attack from an adversary.
 2. The security requirement, in the form of two that is 
   an executable assignment and deceptive assignment, for the 
   pertaining sequence of variables belonging to the first 
   component, used by the group.
 3. The alert mechanism corresponding to the deceptive 
    assignment; consists of procedure/s for each member of 
-   the group, used in the case of query by outside force 
+   the group, used in the case of query by outside force. 
    to help maintain intra-group perfect information on 
    adversarial exploits. 
 
@@ -9283,9 +9293,93 @@ components, due to the written deliberation to design a
 quantitative abstract by the use of elementary mathematical 
 structures. The previous statement is debatable, and the 
 decision to use differed forms is entirely up to the discretion 
-of the reader that chooses to implement techniques of group-directed 
-deception by first establishing the stepping stone of a 
+of the reader that chooses to use techniques of group-directed 
+deception, after first establishing the stepping stone of a 
 preliminary past the abstraction of the plainform (natural 
-language) description.  
+language) description. 
 
+![image info](./images/asoc3_one.PNG)
 
+**ASOC31:** A group $G$ with six members, connected by the 
+displayed configuration for their wanted assortment of 
+functions after co-existence. 
+
+![image info](./images/asoc3_two.PNG)
+
+**ASOC32:** A methodology used by the adversary $A$ in 
+their objective of vulnerability exploitation to inflict 
+losses against group $G$. 
+
+![image info](./images/asoc3_three.PNG)
+
+**ASOC33:** Two tables, deceptive and executable assignments, 
+respectively, that show the configuration as appeared and 
+actual (in practice) of group $G$. 
+
+![image info](./images/asoc3_four.PNG)
+
+**ASOC34:** A table showing the alert paths that each member 
+of group $G$ sends the attempted intrusion message to, used 
+in events of the adversary's querying of their appeared 
+(inactive) variable. 
+
+An example of group-directed deception is shown in diagrams 
+ASOC3(1-4), and there are a few attributes to it that does 
+not have to be present in other instances of this kind of 
+deception. For one, the optimal methodology that adversary 
+$A$ chooses to execute a specific vulnerability coincides with 
+conditions of configuration for tasks intended to be executed 
+by the group themself. In some cases of group-directed 
+deception, the members part of the deceptive assignment do 
+not have corresponding members (part of their complement) 
+that are required to employ those variables as part of their 
+executable assignment. This specific category of cases make 
+for relatively easy assignment of variables by the group 
+onto their members; the group could function for its demanded 
+tasks without having to allocate resources in fulfillment of a 
+double-security schematic with two non-null complements, 
+the deceptive and the executable. Group-directed deception 
+is a design based on the double-security schematic, and its 
+benefits gauged by the group of use rests on the principle 
+of adversarial error in action out of error in perception, 
+virtually akin to the previous section's explanation of 
+illusion as strictly defensive mechanisms. Another striking 
+fact about this specific example is that the alert mechanism 
+for each of the pertinent variables consists of a path from 
+the deceptive member of that variable's appearance to the 
+executive member of that same variable. The alert mechanism 
+is illustrated by simple paths on simple graphs, so there 
+is still the question of how exactly the group will respond 
+upon the distribution of information on the adversary's 
+step in their attack sequence. In this example, it could 
+be safely assumed that the alerted member of the group 
+has to put aside some of their potential temporal energy 
+in order to appropriately respond to the alert, an 
+adversary is attempting to attack the variable that the 
+alerted member is currently using in its running 
+functionalities. 
+
+Group-directed deception is used due to group circumstances 
+that validate the group's call for this practice. The 
+big condition for using this practice is the assumption 
+that for each variable the adversary relates to, as a step 
+in their vulnerability exploit, the adversary can access 
+any member of the group for the "vector" that pertains to 
+that variable, although not all group members are required 
+to be using the variable, as already specified in the practice's 
+definition. The group hopes that the adversary's breadth of 
+access to their members is limited by the effect of granting 
+the adversary only the appearance of the member, the appearance 
+being possibly deceptive, and only the values for pertaining 
+variables in the adversary's attack sequence is noted by them 
+so that the sequence of actions taken by the adversary stays 
+in a relatively predictable range by the group's knowledge 
+of their methodology in vulnerability exploit. Overall, 
+group-directed deception is an application of boolean 
+mathematics that uses the basis of 1 as the executable and 
+0 as the deceptive, or vice-versa, such that the 0 is 
+intended for the adversary to pursue and believe in, in 
+turn enabling the alert mechanism to accurately relay 
+specific knowledge of the current step being taken by 
+the adversary that has to, hopefully by the perspective 
+of the group, endure retaliatory measures of some nature. 
