@@ -9218,7 +9218,7 @@ of the cycle, consider those that have to fend off that
 power as defendors, specifically ones that have to employ 
 an assortment of deception as response to the cycle. The 
 use of the term "cycle" in this case is not for those lone 
-and permutatatorial processes that these defendors use, 
+and permutatorial processes that these defendors use, 
 actually antagonistic to them. This strict usage of the 
 conceptual cycle as an antagonist to these defendors is 
 a duality, and perhaps the terms "good" and "bad" do not 
@@ -9240,3 +9240,28 @@ as two where one or both do not satisfy for those modalities
 of cognition and action deemed pressing in the spatiotemporal 
 span. 
 
+There are two relevant labels for the cases of deception 
+that defendors use, <ins>group-directed</ins> and 
+<ins>group-targetted</ins> deception, such that the term 
+"group" denotes the defendors. The labels denote the 
+directionality of "negative" effects from deception with 
+respect to the group (defendors), "negative" a term that 
+rests on the orthodoxy of directly connected losses. The 
+purpose of group-directed deception is to deter influence, 
+intrusion, and other forms of manipulation from outside 
+sources, especially the central antagonist, the cycle. 
+Proponents for this form of deception argue that the 
+antagonist has the capability to execute on methodologies 
+effective to the detriment of the group. There are three 
+primary components pertinent to group-directed deception. 
+1. the methodology/ies to be used by the antagonist
+2. the security requirement, in the form of two that is 
+  an executable assignment and deceptive assignment, used by 
+  the group.
+3. the alert mechanism corresponding to the deceptive 
+   assignment; consists of procedure/s for each member of 
+   the group, used in the case of query by outside force 
+   to help maintain intra-group perfect information on 
+   adversarial exploits. 
+
+  
