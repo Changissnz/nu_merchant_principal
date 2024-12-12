@@ -9629,5 +9629,6 @@ used in situations to avoid the compromise of valuable
 information after a holder of that information has 
 been compromised. As for the industrialization of 
 this kind of deception, not much information can be 
-gathered that explicitly mentions the phenomenon, 
-ephemeral deception. 
+gathered that explicitly mentions the phenomenon of 
+ephemeral deception in mass usage, let alone the 
+success/failure rates. 
