@@ -9482,3 +9482,11 @@ illustrates the actuality that is the evidence of $X_0$'s
 execution of their functionalities, possibly detectable in 
 empirical form to outsiders residing in the outside. 
 
+Some offhand explanation is necessary for this section's usage 
+of "empirical cognition". Empirical cognition is the processing 
+of the input of information, from the external, with readily 
+available objective information, essentially transcribable into 
+mathematical form with correctness in the boolean space of 
+completely correct or completely false. Furthermore, it is 
+not an internalist mechanism of reflection, contemplation, 
+and judgment based on biases innate or not. 
