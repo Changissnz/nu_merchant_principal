@@ -9277,7 +9277,7 @@ two members in this deception.
   pertaining sequence of variables belonging to the first 
   component, used by the group.
 3. The alert mechanism corresponding to the deceptive 
-   assignment; consists of procedure/s for each member of 
+   assignment; it consists of procedure/s for each member of 
    the group, used in the case of query by outside force. 
    to help maintain intra-group perfect information on 
    adversarial exploits. 
@@ -9568,7 +9568,7 @@ deceived to be a wrong inflicted by one or more co-members
 onto them. Naturally, accounting ensues, and this umbrella 
 of processes inquires on two primary marks for each case of 
 deceived members. 
-- The source of the deceptive detail, and the communicative 
+- The source of the deceptive detail, and the communication 
   chain of members from the source to the member deceived. 
 - The effect/s that are understood to have stemmed from 
   the deceptive detail registered by the deceived member. 
