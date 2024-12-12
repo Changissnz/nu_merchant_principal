@@ -3988,7 +3988,7 @@ the target agent.
 target from the left. 
 
 The multiple layers of a typical onion-based pulse 
-are intended to detach the intended target of their  
+are intended to detach the intended target of their 
 assets by the vicious gaps between every layer of 
 the pulse. The Great-Wind would expect, with a 
 non-zero probability, that the assets would come 
@@ -9467,6 +9467,18 @@ appearance to be the only result from the split knowable to
 outsiders, thus shielding the group's "actual" for their 
 executive processes. Because the appearance projected is 
 the first active point in empirical cognition, members of the 
-group may ironically be subject to the deceptive image that the 
-group intended to be completely directed to the outside, not 
-internally. 
+group may ironically be subject to the same deceptive image 
+that the group intended to be completely directed to the 
+outside, not internally. 
+
+![image info](./images/asoc3_five.PNG)
+
+**ASOC34:** Two visualizations of what a group member active 
+in a group-directed deception is attempting to accomplish. 
+The first diagram illustrates $X_0$ attempting full control 
+over the execution of their functionalities while projecting 
+a deceptive image to the outside. The second diagram illustrates 
+the actuality that is the evidence of $X_0$'s execution of 
+their functionalities, possibly detectable in empirical form 
+to outsiders residing in the outside. 
+
