@@ -9558,6 +9558,7 @@ it useful to analyze, as individual members or other
 subsetting schematics, the quality of their using 
 this kind of deception. The irony previously mentioned, 
 on the projection of group member appearance (deception) 
-to the outside may in turn deceive members of the group 
-to their detriment. This irony is a big part of the 
-group's analysis/es of their deception quality. 
+to the outside in turn deceiving members of the group 
+to their detriment, is an unignorable part of the 
+any competent analysis/es by the group of their deception 
+quality. 
