@@ -9594,5 +9594,5 @@ also be used by group members to help build their base
 of analytical processes for judging the quality of their 
 group-directed deception. 
 
-Some examples on what is a group member deceived by 
-group-directed deception. 
+Some examples are in order on what is a group member 
+deceived by group-directed deception. 
