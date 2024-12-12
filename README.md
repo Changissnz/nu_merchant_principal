@@ -9609,4 +9609,7 @@ their performance of demanded functions. In another
 case, the same deceptive member $m_0$ deceives the 
 one responsible for executing functions by the 
 pertaining variable, $x_0$. So the group does not 
-have any production that involves an active $x_0$. 
+have any production that requires an active $x_0$. 
+
+A class of deception, from one to another, is termed 
+<ins>ephemeral deception</ins>. 
