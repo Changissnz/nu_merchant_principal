@@ -9643,3 +9643,24 @@ is the falsehood and the second that is the truth,
 when they have to decide using such information 
 as their limited access to the empirical and 
 quasi-scientific principles such as Occam's Razor. 
+Next is an example of ephemeral deception on query 
+$Q$, the deceiver being $D_1$ and the deceived $D_0$. 
+The deceived intends to take this sequence of actions 
+after being communicated the value of $Q$. 
+
+$a_0,a_1,\dots,a_{n-1}$.  
+
+During $D_0$'s progress of this sequence, $D_1$ 
+tells $D_0$ the true value of $Q$ after action 
+$a_3$. $D_0$ takes an alternative sequence of 
+actions after:  
+
+$a_3^{(1)},\dots,a_m^{(1)}$.  
+
+The gains from $D_0$'s planned sequence in comparison 
+to their sequence corrected at $a_3$ is left up to 
+speculation. The point is that the course of actions, 
+due to the changes in decisions spurred by a different 
+truth, can be much different from that planned. But 
+to what extent is a question best answered after the 
+knowledge of the specifics. 
