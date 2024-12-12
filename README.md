@@ -9618,12 +9618,11 @@ positively gainful case, the deceiver reveals the
 on the same query, to the one that was previously 
 deceived but now "enlightened" by the "truth", and 
 there are gains to a lengthy right from the zero 
-that resulted from the cooperation that results 
-from actions taken due to the pertaining "truth" 
-of the statement, these gains being distributed 
-in a satisfactory way to the ex-deceiver and the 
-previously deceived. The timing of revealing the 
-truth for a successful coordination between those 
+that resulted from the informed actions taken due 
+to the revealed "truth" of the query, these gains 
+being distributed in a satisfactory way to the ex-deceiver 
+and the previously deceived. The timing of revealing 
+the truth for a successful coordination between those 
 involved in ephemeral deception is the aim. Ephemeral 
 deception is a frequent information security practice, 
 used in situations to avoid the compromise of valuable 
