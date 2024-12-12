@@ -9576,4 +9576,8 @@ deceived members.
 Truth-agnostic and truth-averse arrangements encourage the 
 second of the primary marks to outweigh the first in 
 importance of value for the singular judgment, one of 
-the main points in the analysis/es. 
+the main points in the analysis/es. It is the effects, 
+outward from one being separated by time and space to 
+another, that count so much, as already stated in other 
+words in the previous section (Pride Plays Perception Pt. 
+III). 
