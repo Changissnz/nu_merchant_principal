@@ -9450,3 +9450,23 @@ announcement of an authentic few steps past the countable
 derivatives from the fundamental is viewed as a vulnerability 
 due to the probability of adversarial gain in that information. 
 
+Innate weaknesses, due to the economy of split, immediately 
+present themselves in some form and degree after the group 
+decides on the route of group-directed deception. There is 
+existence, the required base state for all members of the 
+group. From this existence, a split is designed with the 
+objective to serve as a clear dividor between the appearance 
+the group projects (as deception) and the "actual" group 
+activity for their "actual" functionalities to execute, such 
+that the group's "actual" is but a portion of their "total". 
+The appearance projected is the first active point in cognition 
+for an empirical analysis, this condition due to the foremost 
+necessity to deceive, for both the group and outsiders such 
+as the adversary. And the group intends for this projected 
+appearance to be the only result from the split knowable to 
+outsiders, thus shielding the group's "actual" for their 
+executive processes. Because the appearance projected is 
+the first active point in cognition, members of the group 
+may ironically be subject to the deceptive image that the 
+group intended to be completely directed to the outside, not 
+internally. 
