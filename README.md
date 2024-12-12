@@ -9641,5 +9641,5 @@ deception. The deceived has to contemplate which
 of the statements to believe in, the first that 
 is the falsehood and the second that is the truth, 
 when they have to decide using such information 
-as their empirical access and quasi-scientific 
-principles such as Occam's Razor. 
+as their limited access to the empirical and 
+quasi-scientific principles such as Occam's Razor. 
