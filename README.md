@@ -9460,13 +9460,13 @@ the group projects (as deception) and the "actual" group
 activity for their "actual" functionalities to execute, such 
 that the group's "actual" is but a portion of their "total". 
 The appearance projected is the first active point in cognition 
-for an empirical analysis, this condition due to the foremost 
+for any empirical analysis, this condition due to the foremost 
 necessity to deceive, for both the group and outsiders such 
 as the adversary. And the group intends for this projected 
 appearance to be the only result from the split knowable to 
 outsiders, thus shielding the group's "actual" for their 
 executive processes. Because the appearance projected is 
-the first active point in cognition, members of the group 
-may ironically be subject to the deceptive image that the 
+the first active point in empirical cognition, members of the 
+group may ironically be subject to the deceptive image that the 
 group intended to be completely directed to the outside, not 
 internally. 
