@@ -9518,4 +9518,11 @@ to undergo specification to accomododate those
 specific measures, not necessarily in the context 
 of a mechanical computing system with security that 
 is pre-programmed restrictions put in place in the 
-advent of a failed attempt. 
+advent of a failed attempt. Consider these two 
+techniques, named <ins>spam crusher</ins> and 
+<ins>the inquisitor</ins>. Descriptions of these 
+two techniques will not delve into the quantitative 
+specifics, since the context is the general context, 
+that is, one without the definition required for the 
+enumeration on and around it. 
+
