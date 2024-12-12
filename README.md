@@ -9498,7 +9498,7 @@ assignment shields them from the infliction of a deceived
 adversary. A hasty leap in reason goes as such: the group's 
 deceptive assignment works in routing the choice of the 
 adversary towards the deceptive, and the deceptive can 
-easily, practically in an autonomous way, use the alarm 
+easily, practically in an automated way, use the alarm 
 protocol to alert the other member/s of the group for 
 appropriate retaliatory measures. Verification processes 
 to prove that this leap in reason, the guaranteed 
@@ -9506,3 +9506,4 @@ effectiveness in connectivity of communicative and
 retaliatory forms from the deceptive to the reactors, 
 are unique to the environment and protocols of the 
 group operating by group-directed deception. 
+
