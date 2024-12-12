@@ -9475,10 +9475,10 @@ outside, not internally.
 
 **ASOC34:** Two visualizations of what a group member active 
 in a group-directed deception is attempting to accomplish. 
-The first diagram illustrates $X_0$ attempting full control 
-over the execution of their functionalities while projecting 
-a deceptive image to the outside. The second diagram illustrates 
-the actuality that is the evidence of $X_0$'s execution of 
-their functionalities, possibly detectable in empirical form 
-to outsiders residing in the outside. 
+The first diagram illustrates $X_0$ attempting fully private 
+control over the execution of their functionalities while 
+projecting a deceptive image to the outside. The second diagram 
+illustrates the actuality that is the evidence of $X_0$'s 
+execution of their functionalities, possibly detectable in 
+empirical form to outsiders residing in the outside. 
 
