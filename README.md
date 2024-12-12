@@ -9448,4 +9448,5 @@ pivots required against errors not understood in linear manner.
 In environments emphatic on deception as a strength, the 
 announcement of an authentic few steps past the countable 
 derivatives from the fundamental is viewed as a vulnerability 
-due to adversarial gain in that information. 
+due to the probability of adversarial gain in that information. 
+
