@@ -9578,6 +9578,17 @@ second of the primary marks to outweigh the first in
 importance of value for the singular judgment, one of 
 the main points in the analysis/es. It is the effects, 
 outward from one being separated by time and space to 
-another, that count so much, as already stated in other 
-words in the previous section (Pride Plays Perception Pt. 
-III). 
+another, that count so much in certain terms, as already 
+stated in other words in the previous section (Pride 
+Plays Perception Pt. III). What this means is simple in 
+terms of self-interest that must operate in some construct: 
+if something is beneficial, there is no need to place it 
+in the lens of a dichotomy of truth and deception. 
+Conversely, if something is not, by any means including 
+the dichotomy of truth and deception. These statements 
+are not a promotion or demotion of these views, but 
+serve as a healthy reminder on the kind of rationales 
+accepted by sentient thinking on many occasions. The 
+statements can also be used by group members to build 
+their base of analytical processes to judge the quality 
+of their group-directed deception. 
