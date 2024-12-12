@@ -9550,6 +9550,14 @@ brute-force. The naming of these two techniques is
 something preferential, and works as an example of 
 the farfetched semantics in notation, for some things 
 much more universal in practice (negation and extraction), 
-to contain the meaning of technicalities at play in 
+to capture the meaning of technicalities at play in 
 practice. 
 
+A group in use of group-directed deception may find 
+it useful to analyze, as individual members or other 
+subsetting schematics, the quality of their using 
+this kind of deception. The irony previously mentioned, 
+on the projection of group member appearance (deception) 
+to the outside may in turn deceive members of the group 
+to their detriment. This irony is a big part of the 
+group's analysis/es of their deception quality. 
