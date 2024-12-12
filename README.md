@@ -9585,11 +9585,14 @@ terms of any self-interest that must operate in some
 construct ruled by social acceptance: if something is 
 beneficial, there is no need to place it in the lens 
 of a dichotomy of truth and deception. Conversely, if 
-something is not, by any means including the dichotomy 
-of truth and deception. These statements are not a 
-promotion or demotion of these views, but serve as a 
-healthy reminder on the kind of rationales accepted by 
-sentient thinking on many occasions. The statements can 
-also be used by group members to build their base of 
-analytical processes to judge the quality of their 
+something is not, by any other means, including the 
+dichotomy of truth and deception. These statements are 
+not a promotion or demotion of these views, but serve 
+as a healthy reminder on the kind of rationales accepted 
+by sentient thinking on many occasions. The statements can 
+also be used by group members to help build their base 
+of analytical processes for judging the quality of their 
+group-directed deception. 
+
+Some examples on what is a group member deceived by 
 group-directed deception. 
