@@ -3356,7 +3356,7 @@ in execution (behavior).
 **INCON:** A function $F$ with five different 
 variants, of a roughly equivalent identity. 
 The five variants are constituents of the 
-elaborated and operated by it, depicted as 
+elaborate and operated by them, depicted as 
 node $S_0$.  
 
 Suppose the wanted function is $F^{(1)}$, for 
@@ -9392,7 +9392,7 @@ distributed. One condition is that the alert system is
 timely in its communication. In the example, the alert 
 system is the default of sending out the alert immediately 
 after the first attempt made by the adversary, in their search 
-of a variable that they mistook the deceptive for the 
+of a variable where they mistook the deceptive for the 
 executive. From the perspective of the group, each variable 
 involved in the adversary's vulnerability exploit should 
 have deceptive members completely distinct from executive 
@@ -9489,4 +9489,20 @@ available objective information, essentially transcribable into
 mathematical form with correctness in the boolean space of 
 completely correct or completely false. Furthermore, it is 
 not an internalist mechanism of reflection, contemplation, 
-and judgment based on biases innate or not. 
+and judgment based on biases innate or not, in and of itself. 
+
+A group's practice of group-directed deception has the 
+possibility of resting on an assumption dangerous to their 
+existence. The assumption is that the group's deceptive 
+assignment shields them from the infliction of a deceived 
+adversary. A hasty leap in reason goes as such: the group's 
+deceptive assignment works in routing the choice of the 
+adversary towards the deceptive, and the deceptive can 
+easily, practically in an autonomous way, use the alarm 
+protocol to alert the other member/s of the group for 
+appropriate retaliatory measures. Verification processes 
+to prove that this leap in reason, the guaranteed 
+effectiveness in connectivity of communicative and 
+retaliatory forms from the deceptive to the reactors, 
+are unique to the environment and protocols of the 
+group operating by group-directed deception. 
