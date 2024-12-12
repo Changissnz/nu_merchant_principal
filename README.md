@@ -9611,5 +9611,12 @@ one responsible for executing functions by the
 pertaining variable, $x_0$. So the group does not 
 have any production that requires an active $x_0$. 
 
-A class of deception, from one to another, is termed 
-<ins>ephemeral deception</ins>. 
+A class of deception, committed from one to another, 
+is termed <ins>ephemeral deception</ins>. In the 
+positively gainful case, the deceiver reveals the 
+"truth", something different to a statement made 
+on the same query, to the one that was previously 
+deceived but now "enlightened" by the "truth", and 
+there are gains to a lengthy right from the zero, 
+these gains being distributed in a satisfactory 
+way to the ex-deceiver and the previously deceived. 
