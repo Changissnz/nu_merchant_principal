@@ -9441,6 +9441,9 @@ of phrasing suffices in explaining the truthfulness of any
 situation approaching a critical decision junction point, 
 but truthfully, suffices only as a product from a countable 
 number of steps past the abstract, free from error of its 
-own form but vulnerable by the lack of specialization for 
-the specific pivots required against errors not understood 
-in linear manner. 
+own form but vulnerable in practice, by the lack of specialization 
+for the specific pivots required against errors not understood 
+in linear manner. In environments emphatic on deception as 
+a strength, the announcement of an authentic few steps past the 
+countable derivations from the fundamental is viewed as a 
+vulnerability due to adversarial gain in that information.
