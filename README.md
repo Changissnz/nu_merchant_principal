@@ -9507,7 +9507,7 @@ retaliatory forms from the deceptive to the reactors,
 are unique to the environment and protocols of the 
 group operating by group-directed deception. 
 
-What exactly would deter an adversary, in their 
+What exactly would deter an adversary, during their 
 conducting of a vulnerability exploit, when they 
 are deceived by a deceptive group member at an 
 arbitrary step in their exploit? This question is 
