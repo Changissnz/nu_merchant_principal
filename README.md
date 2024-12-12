@@ -9529,7 +9529,7 @@ enumeration on and around it.
 The spam crusher is so named because it is a 
 brute-force method for the destruction of the member 
 queried by the adversary at a specific step during 
-their vulnerability exploit. Whatever the effects 
+their vulnerability exploit. Whatever the total effects 
 of the vulnerability exploit, the adversary's being 
 deceived by a deceptive member during this sequence 
 of steps then derails the adversary from continuing 
@@ -9573,3 +9573,7 @@ deceived members.
 - The effect/s that are understood to have stemmed from 
   the deceptive detail registered by the deceived member. 
 
+Truth-agnostic and truth-averse arrangements encourage the 
+second of the primary marks to outweigh the first in 
+importance of value for the singular judgment, one of 
+the main points in the analysis/es. 
