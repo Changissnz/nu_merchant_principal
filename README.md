@@ -9517,7 +9517,7 @@ general context without that same context having
 to undergo specification to accomododate those 
 specific measures, not necessarily in the context 
 of a mechanical computing system with security that 
-is pre-programmed restrictions put in place in the 
+is pre-programmed restrictions put in place for the 
 advent of a failed attempt. Consider these two 
 techniques, named <ins>spam crusher</ins> and 
 <ins>the inquisitor</ins>. Descriptions of these 
@@ -9526,3 +9526,29 @@ specifics, since the context is the general context,
 that is, one without the definition required for the 
 enumeration on and around it. 
 
+The spam crusher is so named because it is a 
+brute-force method for the destruction of the member 
+queried by the adversary at a specific step during 
+their vulnerability exploit. Whatever the effects 
+of the vulnerability exploit, the adversary's being 
+deceived by a deceptive member during this sequence 
+of steps then derails the adversary from continuing 
+on with the exploit. The adversary then uses repeatedly 
+destructive "querying" methodologies against that 
+particular member that served a deceptive appearance 
+to them, until that member is "destroyed" below a 
+point of relevant existence. The inquisitor is also 
+a brute-force method, but instead of "destroying" 
+the deceptive member, the adversary applies repetitive 
+inquisitive forces onto them, with the expectation 
+that the member will eventually give way, as in reveal 
+the other member that is actually responsible for the 
+pertaining variable in the execution of group functionalities. 
+The spam crusher is a negation through brute-force, 
+and the inquisitor an information extractor through 
+brute-force. The naming of these two techniques is 
+something preferential, and works as an example of 
+the farfetched semantics in notation, for some things 
+much more universal in practice (negation and extraction) 
+to contain the meaning of technicalities at play in 
+practice. 
