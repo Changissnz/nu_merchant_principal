@@ -9595,4 +9595,14 @@ of analytical processes for judging the quality of their
 group-directed deception. 
 
 Some examples are in order on what is a group member 
-deceived by group-directed deception. 
+deceived by group-directed deception. In this first 
+case, there is a functionality that requires variable 
+$x_0$. A deceptive member $m_0$ is the one tasked with 
+appearing this way, and an executive member $m_1$ is 
+the actual responsible. Another member $m_2$ is required 
+to fetch values from tasks involving $x_0$, and mistakenly 
+goes to $m_0$ instead of $m_1$, fooled by the deceptive 
+appearance of the pertinent variable, $x_0$. The mistake 
+is costly to $m_2$, making $m_2$ responsible as the 
+direct actor, and also costs the group overall in 
+their performance of demanded functions. 
