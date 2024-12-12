@@ -9605,4 +9605,8 @@ goes to $m_0$ instead of $m_1$, fooled by the deceptive
 appearance of the pertinent variable, $x_0$. The mistake 
 is costly to $m_2$, making $m_2$ responsible as the 
 direct actor, and also costs the group overall in 
-their performance of demanded functions. 
+their performance of demanded functions. In another 
+case, the same deceptive member $m_0$ deceives the 
+one responsible for executing functions by the 
+pertaining variable, $x_0$. So the group does not 
+have any production that involves an active $x_0$. 
