@@ -9687,5 +9687,9 @@ argument based solely on facts. However, these kinds of
 settings, funnily enough, are very rare in some social 
 arrangements due to necessary expenses in fact-gathering only 
 for stalemate to result from those facts, dreadful to 
-certain interests. 
+certain interests. This statement is, of course, relativistic 
+due to the descriptor of "very rare in some social 
+arrangements", but the degrees of manipulation and 
+dishonesty are not so obvious, rather the statement 
+is meant to express a kind of truism about self-interests. 
 
