@@ -9680,16 +9680,46 @@ a group member's knowledge, used to induce expectations
 of group proceedings in group-directed deception, and 
 the actual. The claim that one deceived another due to 
 the fact that expectations were not met, with empirical 
-facts that cannot additonally make the leap that deliberate 
-actions were taken to blockade that expectation from being 
-met, is surely to be challenged in any setting of communicative 
-argument based solely on facts. However, these kinds of 
-settings, funnily enough, are very rare in some social 
-arrangements due to necessary expenses in fact-gathering only 
-for stalemate to result from those facts, dreadful to 
-certain interests. This statement is, of course, relativistic 
-due to the descriptor of "very rare in some social 
-arrangements", but the degrees of its manipulation and 
-dishonesty are not objective, rather meant to express 
-a kind of truism about self-interest. 
+facts that cannot additonally make the leap to factualize 
+the claim of deliberate actions taken to blockade that 
+expectation from being met, is surely to be challenged in 
+any setting of communicative argument based solely on facts. 
+However, these kinds of settings, funnily enough, are very 
+rare in some social arrangements due to necessary expenses 
+in fact-gathering only for stalemate to result from those 
+facts, dreadful to certain interests. This statement is, 
+of course, relativistic due to the descriptor of "very 
+rare in some social arrangements", but the degrees of 
+its manipulation and dishonesty are not objective, rather 
+meant to express a kind of truism about self-interest. 
 
+The premise, the non-null difference being a pivotal 
+step in one group member's belief of their being 
+deceived by a co-member of the group, takes place by 
+a few general pathways. 
+1. A member was not informed of their executive and 
+   deceptive assignments. 
+2. A member does not act properly on their executive 
+   and deceptive assignments.
+   a. Does not fulfill tasks required for the assignment.
+   b. Fulfills the wrong tasks, the errors which then 
+   contribute to the probability of the group's failure 
+   in executive and deceptive functionalities. 
+3. A member is misinformed on the executive and deceptive 
+   assignments belonging to them or another co-member. 
+
+In every one of these pathways, there is the apriori 
+expectation, before the expectation of satisfying results, 
+of a "social contract", per se, consisting of one principle 
+agreed upon by all members of the group. The principle is 
+perfect information, meaning accurate information of 
+logistical relevance known to each member of the group, 
+that is the foremost driver in all group members, each 
+member not necessarily possessing identical information 
+to another. This principle, once in the stages of 
+deliberation for implementation, becomes practically 
+complex quickly and according to the scale of group-directed 
+deception design that emerges from the group's necessity 
+to defend, the design also having to possess adaptive 
+mechanisms precise to the specific vulnerability exploit 
+the adversary intends to attempt. 
