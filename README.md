@@ -9733,8 +9733,10 @@ assignment of the member, not any other member, as well as
 the routing specific to the member for the alert mechanism. 
 Limitations of this specification may not do in logistics 
 of co-dependency. For example, one member may require to 
-know who is their deceptive counterpart for a variable, 
-since one of their responsibilities is to tell another 
-co-member to take up the deceptive assignment for that 
-variable in the case of marked changes onto the initial 
-deceptive counterpart. 
+know their deceptive counterpart for a variable, since one 
+of their responsibilities is to tell another co-member 
+to take up the deceptive assignment for that variable 
+in the case of marked changes onto the initial deceptive 
+counterpart that make the counterpart's deceptive appearance 
+no longer effective. 
+
