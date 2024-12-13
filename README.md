@@ -39,6 +39,8 @@
   - [About the Simplicity of the Cycle Pt. II ](#about-the-simplicity-of-the-cycle-pt-ii-)
   - [Pride Plays Perception Pt. III ](#pride-plays-perception-pt-iii-)
   - [About the Simplicity of the Cycle Pt. III ](#about-the-simplicity-of-the-cycle-pt-iii-)
+  - [So That Is Accounting ](#so-that-is-accounting-)
+  
 
 Business comes and goes, much more frequently than governments. 
 So how can commerce thrive without the dread of disillusionment
@@ -9911,3 +9913,5 @@ the group, is the reactionary body of deceptive and
 corrective processes a group may believe that they have 
 to engage in as adequate defense for their structural 
 and economic insufficiencies against the "cycle". 
+
+## So That Is Accounting <a name="p28"></a> 
