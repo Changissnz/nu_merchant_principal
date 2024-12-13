@@ -9635,14 +9635,15 @@ success/failure rates.
 
 An opinionated statement is that the phenomenon 
 of ephemeral deception makes for a marvellous 
-research topic of study. Doubt is a factor in 
-equations concerning the use of this kind of 
-deception. The deceived has to contemplate which 
-of the statements to believe in, the first that 
-is the falsehood and the second that is the truth, 
-when they have to decide using such information 
-as their limited access to the empirical and 
-quasi-scientific principles such as Occam's Razor. 
+research topic of study. Doubt, in variables that 
+may go by different names such as "confidence" in 
+statistics, is a factor in equations concerning 
+the use of this kind of deception. The deceived 
+has to contemplate which of the statements to believe 
+in, the first that is the falsehood and the second 
+that is the truth, when they have to decide using 
+such information as their limited access to the empirical 
+and quasi-scientific principles such as Occam's Razor. 
 Next is an example of ephemeral deception on query 
 $Q$, the deceiver being $D_1$ and the deceived $D_0$. 
 The deceived intends to take this sequence of actions 
@@ -9650,7 +9651,7 @@ after being communicated the value of $Q$.
 
 $a_0,a_1,\dots,a_{n-1}$.  
 
-During $D_0$'s progress of this sequence, $D_1$ 
+During $D_0$'s progress in this sequence, $D_1$ 
 tells $D_0$ the true value of $Q$ after action 
 $a_3$. $D_0$ takes an alternative sequence of 
 actions after:  
@@ -9665,3 +9666,9 @@ truth, can be much different from that planned. But
 to what extent is a question best answered after the 
 knowledge of the specifics. 
 
+When members of a group recognize the group as the 
+"greater self", synonymously the ideal greater than 
+the practical individual existence, the concept of 
+one deceiving one's self can be extended to one group 
+member deceiving another group member being equivalent 
+to the group deceiving their self, group-deception. 
