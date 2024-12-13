@@ -9689,7 +9689,7 @@ arrangements due to necessary expenses in fact-gathering only
 for stalemate to result from those facts, dreadful to 
 certain interests. This statement is, of course, relativistic 
 due to the descriptor of "very rare in some social 
-arrangements", but the degrees of manipulation and 
-dishonesty are not so obvious, rather the statement 
-is meant to express a kind of truism about self-interests. 
+arrangements", but the degrees of its manipulation and 
+dishonesty are not objective, rather meant to express 
+a kind of truism about self-interest. 
 
