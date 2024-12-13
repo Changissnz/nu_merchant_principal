@@ -9840,6 +9840,12 @@ definitively repelled. The forced reflection
 attack is a cyclical process, each cycle an 
 attempt to correct or account for a grouped 
 self-deceptive detail, and is conducted by one 
-or more members of the group for the purpose of 
-correctly attributing a correction to fix a fault 
-of another member's deception. 
+or more members of the group. This specific 
+process becomes an attack from the group onto 
+themself when there are consequences nonconsensual 
+by at least one member and of a relatively high 
+number excessive to the group's allocation of 
+resources, the excess being the quality that 
+qualifies the process as a reflection attack 
+instead of reflection for meditative growth. 
+
