@@ -9816,4 +9816,24 @@ from at least one group member's belief that
 there is grouped self-deception occurring, 
 are a symptom of the group's instability to 
 maintain proper procedures based on the 
-strategy of group-directed deception. 
+strategy of group-directed deception. The 
+group's accounting of its deficits are another 
+class of burdens the group has to contend with. 
+This class of burdens can be called the 
+<ins>forced reflection attack</ins>, done from 
+one group onto itself. Reflection, as a cognitive 
+phenomenon to review information for purposes 
+of long-term memory storage and deeper analyses, 
+is pro-actively done for the benefit of the 
+self's understanding. But the forced reflection 
+attack is different to the conventional concept 
+of the self's reflection. For one, the group 
+regards themselves as the "higher" self to 
+each of their members. "Reflection", that is 
+accounting done from one member to themself 
+or to another member for purposes of eliminating 
+internal deception believed to have occurred, 
+has the problem of spatiotemporal challenges 
+outside of accounting such as the persistent 
+adversary if said adversary has not been 
+definitively repelled. 
