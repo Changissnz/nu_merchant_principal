@@ -9785,5 +9785,23 @@ members such as the accused deceiver, the allegedly
 deceived, and sympathizers for either one. These toss-up 
 procedures constitute the "randomness" mentioned, and 
 the effects range from behaviorial modifications to 
-exclusion of the accused deceiver or the allegedly 
-deceived. 
+exclusion/elimination of the accused deceiver 
+or the allegedly deceived. These toss-up procedures 
+that take place after a grouped self-deception is 
+believed by the group to have occur could result in 
+a <ins>caving duplicity</ins>. So there is a member 
+that is believed by another member to be at fault. 
+And the way to correct the fault is by inflicting 
+what is arguably a fault onto the accused member. 
+A caving duplicity occurs in groups with two or more 
+members. The group had agreed to a "social contract" 
+with terms possibly unique to some members. But 
+due to the duality of the sub-optimal actual and 
+the expected actual, the duality turns into a 
+dichotomy, and the dichotomy is viewed as negatively 
+duplicitous by one or more members of the group. So 
+there are changes that take place, in the form of 
+actions geared against one or more members of the 
+group at their expense, the "caving" effect as the 
+result from attempting to remove the duplicity by 
+acting on the believed sources of it. 
