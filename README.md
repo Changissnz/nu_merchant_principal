@@ -9738,5 +9738,9 @@ of their responsibilities is to tell another co-member
 to take up the deceptive assignment for that variable 
 in the case of marked changes onto the initial deceptive 
 counterpart that make the counterpart's deceptive appearance 
-no longer effective. 
+no longer effective. Knowledge requirements, for a group 
+member to know another group member's assignment and alert 
+route, increases the number of members that know that private 
+information, in turn possibly increasing the probability of 
+the compromise of private information. 
 
