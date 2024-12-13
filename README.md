@@ -9804,4 +9804,16 @@ there are changes that take place, in the form of
 actions geared against one or more members of the 
 group at their expense, the "caving" effect as the 
 result from attempting to remove the duplicity by 
-acting on the believed sources of it. 
+acting against the believed sources of it. 
+
+The ideal outcomes of group-directed deception 
+consist of a unidirectional adversarial effect 
+from the group to the adversary. Complications 
+of this arrangement could poses issues such as 
+the group's caving duplicity. Measures designed 
+by the group to combat this problem, emerged 
+from at least one group member's belief that 
+there is grouped self-deception occurring, 
+are a symptom of the group's instability to 
+maintain proper procedures based on the 
+strategy of group-directed deception. 
