@@ -9873,7 +9873,7 @@ For a section that is supposed to focus on the cycle,
 but the "cycle" is the adversary and the group it 
 antagonizes not the "cycle", most of the discussion 
 focuses on certain kinds of deception used by the 
-group fending off the cycle. Two possible forms 
+group fending off the "cycle". Two possible forms 
 of deception capable by groups was explored in this 
 section, the deception used for defensive purposes 
 in economies of split between the appearance and the 
@@ -9900,7 +9900,7 @@ cycle intent on continuing its attack. The forced
 reflection attack is a cyclical process of accounting 
 and correcting unwanted internal deception. Introspective 
 processes are fundamentally cyclical due the "self" 
-having to analyze and understand the "self". Lastly, 
+having to analyze and understand its "self". Lastly, 
 the phenomenon of caving duplicity is both itself a 
 cycle and also a body of variables in the cycle of 
 group-directed deception, reducing the effectiveness 
