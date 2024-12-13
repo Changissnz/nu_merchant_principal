@@ -9804,7 +9804,8 @@ there are changes that take place, in the form of
 actions geared against one or more members of the 
 group at their expense, the "caving" effect as the 
 result from attempting to remove the duplicity by 
-acting against the believed sources of it. 
+adversarially acting against the believed sources 
+of it. 
 
 The ideal outcomes of group-directed deception 
 rests on a unidirectional adversarial effect 
@@ -9899,4 +9900,8 @@ cycle intent on continuing its attack. The forced
 reflection attack is a cyclical process of accounting 
 and correcting unwanted internal deception. Introspective 
 processes are fundamentally cyclical due the "self" 
-having to analyze and understand the "self". 
+having to analyze and understand the "self". Lastly, 
+the phenomenon of caving duplicity is both itself a 
+cycle and also a body of variables in the cycle of 
+group-directed deception, reducing the effectiveness 
+of these logistics by effecting "cannibalistic" results. 
