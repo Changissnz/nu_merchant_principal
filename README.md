@@ -9867,3 +9867,36 @@ the deceptive detail as part of the basis for their
 decision-making, vulnerabilities previously non-existent 
 could possibly emerge in the group for the adversary's 
 gain if exploited. 
+
+For a section that is supposed to focus on the cycle, 
+but the "cycle" is the adversary and the group it 
+antagonizes not the "cycle", most of the discussion 
+focuses on certain kinds of deception used by the 
+group fending off the cycle. Two possible forms 
+of deception capable by groups was explored in this 
+section, the deception used for defensive purposes 
+in economies of split between the appearance and the 
+execution of functionalities, for the purpose of 
+illustrating how a predominantly defensive body, 
+not a forward force in other words, with vulnerabilities 
+as the effect from conditions of their own economy and 
+design, uses deceptive arrangements and other resulting 
+processes that can be conceptualized as cycles. 
+The wanted effects of a group from their use of 
+group-directed deception is also based on the cycle. 
+To elaborate, the adversary is expected by the group 
+to pursue the deceptive assignment, and the deceptive 
+assignment is to route the adversary's relevant information 
+after point of contact by specific instructions concerning 
+the alert mechanism, and the actions taken by the group 
+is to counter the adversary in some way. In generic 
+terms of the cycle, the head is the adversary's fall 
+for the deceptive, the next point the communication by 
+the alert mechanism, the next point the gains/losses 
+that ensued since the head, and the last point is the 
+head, to iterate once again in the case of a persisting 
+cycle intent on continuing its attack. The forced 
+reflection attack is a cyclical process of accounting 
+and correcting unwanted internal deception. Introspective 
+processes are fundamentally cyclical due the "self" 
+having to analyze and understand the "self". 
