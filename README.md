@@ -9740,7 +9740,7 @@ in the case of marked changes onto the initial deceptive
 counterpart that make the counterpart's deceptive appearance 
 no longer effective. Knowledge requirements, for a group 
 member to know another group member's assignment and alert 
-route, increases the number of members that know that private 
+route, increases the number of members that know the private 
 information, in turn possibly increasing the probability of 
-the compromise of private information. 
+the information's compromise. 
 
