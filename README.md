@@ -9826,9 +9826,9 @@ phenomenon to review information for purposes
 of long-term memory storage and deeper analyses, 
 is pro-actively done for the benefit of the 
 self's understanding. But the forced reflection 
-attack is different to the conventional concept 
+attack is different from the conventional concept 
 of the self's reflection. For one, the group 
-regards themselves as the "higher" self to 
+regards themself as the "higher" self to 
 each of their members. "Reflection", that is 
 accounting done from one member to themself 
 or to another member for purposes of eliminating 
@@ -9836,4 +9836,10 @@ internal deception believed to have occurred,
 has the problem of spatiotemporal challenges 
 outside of accounting such as the persistent 
 adversary if said adversary has not been 
-definitively repelled. 
+definitively repelled. The forced reflection 
+attack is a cyclical process, each cycle an 
+attempt to correct or account for a grouped 
+self-deceptive detail, and is conducted by one 
+or more members of the group for the purpose of 
+correctly attributing a correction to fix a fault 
+of another member's deception. 
