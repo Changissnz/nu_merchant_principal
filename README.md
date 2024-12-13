@@ -9905,3 +9905,9 @@ the phenomenon of caving duplicity is both itself a
 cycle and also a body of variables in the cycle of 
 group-directed deception, reducing the effectiveness 
 of these logistics by effecting "cannibalistic" results. 
+As it turned out in this section's descriptions, the 
+pathological power of the "cycle", the adversary to 
+the group, is the reactionary body of deceptive and 
+corrective processes the group believed that they had 
+to engage in as adequate defense for their structural 
+and economic insufficiencies against the "cycle". 
