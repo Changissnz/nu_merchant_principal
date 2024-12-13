@@ -9908,6 +9908,6 @@ of these logistics by effecting "cannibalistic" results.
 As it turned out in this section's descriptions, the 
 pathological power of the "cycle", the adversary to 
 the group, is the reactionary body of deceptive and 
-corrective processes the group believed that they had 
+corrective processes a group may believe that they have 
 to engage in as adequate defense for their structural 
 and economic insufficiencies against the "cycle". 
