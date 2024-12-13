@@ -7403,7 +7403,7 @@ not a good basis to begin with before the conflict.
 Here is a common feature of physically cyclical offendors 
 that were effective. The cycle, even after opposition had 
 learned it to the point of effectively countering it 
-at local scales, continues its targetted domination by 
+at local scales, continues its targeted domination by 
 birthing traitors out of the opposition. The mirror strategy, 
 with its drive towards the likeness of the adversary, does 
 carry this risk. Here is a common-sense saying: there 
@@ -9242,7 +9242,7 @@ span.
 
 There are two relevant labels for the cases of deception 
 that defendors use, <ins>group-directed</ins> and 
-<ins>group-targetted</ins> deception, such that the term 
+<ins>group-targeted</ins> deception, such that the term 
 "group" denotes the defendors. The labels denote the 
 directionality of "negative" effects from deception with 
 respect to the group (defendors), "negative" a term that 
@@ -9855,3 +9855,15 @@ the likelihood of caving duplicity does not stay
 below a threshold of minimal error, since caving 
 duplicity and forced reflection attacks are correlated 
 in occurrences. 
+
+Group-targeted deception is from an external source 
+to a group's members. Quite opposite from the group-directed 
+deception that seeks to harness the deceptive assignments 
+to encourage the mistakes of the adversary, the 
+deception involves the communication of deceptive details 
+to members about their own attributes or the attributes 
+of others. Through a group member's acceptance of 
+the deceptive detail as part of the basis for their 
+decision-making, vulnerabilities previously non-existent 
+could possibly emerge in the group for the adversary's 
+gain if exploited. 
