@@ -9848,4 +9848,10 @@ number excessive to the group's allocation of
 resources, the excess being the quality that 
 qualifies the process as a reflection attack 
 instead of reflection for meditative growth. 
-
+Through a group's prolonged experience of processes 
+such as forced reflection attacks, spurred probably 
+by inadequacies of their group-directed deception, 
+the likelihood of caving duplicity does not stay 
+below a threshold of minimal error, since caving 
+duplicity and forced reflection attacks are correlated 
+in occurrences. 
