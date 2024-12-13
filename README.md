@@ -9744,3 +9744,46 @@ route, increases the number of members that know the private
 information, in turn possibly increasing the probability of 
 the information's compromise. 
 
+In cases of group-directed deception such that minor mistakes 
+in the schematic implementation may result in drastic 
+failures, the group of a calculating nature is naturally 
+inclined to conduct accounting of their workings. And 
+these accoutings are expected to be called necessary by 
+them, the group, in instances of clear loss or other kinds 
+of sub-optimal measures. Refer back to the three pathways 
+of the beliefs in deception. In the first and third pathways, 
+the member that was responsible for informing that uninformed 
+member is the source that is responsible for the deception. 
+In the second case, the member themself is the source 
+responsible due to failure by possibly their choice. However 
+easy this arithmetic-like reasoning of accounting may 
+read, the effects of a group's accounting for their 
+grouped self-deception is not that simple, even in 
+small-scale cases. This reasoning supposes that one or 
+more members, in the group, acting as the source for a 
+particular information for another member, and the source 
+is supposed to penalized in some way for their failure to 
+adequately commit to the "social contract". Another supposition 
+is that the schematic for the group-directed deception is 
+static in detail, but it cannot be in situations of adaptive 
+adversaries, so accounting must rest on prescribed courses 
+of action to take when deception within the group is 
+recognized by any of the group members. Unanticipated 
+fluxes in the differences between group member's expected 
+and the actual have the variable of time, as an additional 
+challenge, to account for their mistakes while possibly 
+having to deal with more issues from the adversary, 
+thereby placing another duality of tending to a past 
+problem and tending to a present one. The idea of 
+"randomness", as events not part of group consensus, 
+makes its way into this attempt to explain this kind 
+of accounting's effects. After a group member is labeled 
+a source of grouped self-deception, a possibly arbitrary 
+subset of the group engages in "corrections". These 
+"corrections" consists of toss-up procedures between 
+members such as the accused deceiver, the allegedly 
+deceived, and sympathizers for either one. These toss-up 
+procedures constitute the "randomness" mentioned, and 
+the effects range from behaviorial modifications to 
+exclusion of the accused deceiver or the allegedly 
+deceived. 
