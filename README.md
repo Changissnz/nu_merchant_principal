@@ -9775,7 +9775,7 @@ fluxes in the differences between group member's expected
 and the actual have the variable of time, as an additional 
 challenge, for the group to account for their mistakes 
 while possibly having to deal with more issues from the 
-adversary, thereby placing another duality of tending 
+adversary, thereby growing another duality of tending 
 to a past problem and tending to a present one. The idea 
 of "randomness", as events not part of group consensus, 
 makes its way into this attempt to explain this kind 
@@ -9915,3 +9915,4 @@ to engage in as adequate defense for their structural
 and economic insufficiencies against the "cycle". 
 
 ## So That Is Accounting <a name="p28"></a> 
+
