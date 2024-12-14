@@ -9658,10 +9658,10 @@ tells $D_0$ the true value of $Q$ after action
 $a_3$. $D_0$ takes an alternative sequence of 
 actions after:  
 
-$a_3^{(1)},\dots,a_m^{(1)}$.  
+$a_4^{(1)},\dots,a_m^{(1)}$.  
 
 The gains from $D_0$'s planned sequence in comparison 
-to their sequence corrected at $a_3$ is left up to 
+to their sequence corrected after $a_3$ is left up to 
 speculation. The point is that the course of actions, 
 due to the changes in decisions spurred by a different 
 truth, can be much different from that planned. But 
