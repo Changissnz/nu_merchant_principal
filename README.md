@@ -1,5 +1,5 @@
 # Nu Merchant Principal, by Richard Pham
-
+# Copyright 2024 Richard Pham 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### The Big Principle: 
 ### In mercantilism, that "father figure" you have that told you "it is not about the money, it is about the principle" might just rape you dead and take all of your belongings...
@@ -7,6 +7,7 @@
 
 # Table of Contents
 - [Nu Merchant Principal, by Richard Pham](#nu-merchant-principal-by-richard-pham)
+- [Copyright 2024 Richard Pham](#copyright-2024-richard-pham)
     - [The Big Principle:](#the-big-principle)
     - [In mercantilism, that "father figure" you have that told you "it is not about the money, it is about the principle" might just rape you dead and take all of your belongings...](#in-mercantilism-that-father-figure-you-have-that-told-you-it-is-not-about-the-money-it-is-about-the-principle-might-just-rape-you-dead-and-take-all-of-your-belongings)
 - [Table of Contents](#table-of-contents)
