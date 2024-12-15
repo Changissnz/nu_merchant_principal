@@ -9958,3 +9958,12 @@ accounting, and those effects are subject to accounting.
 This is a common pattern in accounting, in prescribed 
 routes of iteration that are synonymously cycles. 
 
+Accounting serves the purposes of an axiomatic construct 
+with input-output functionalities. In one version of 
+an ideal case of the practice of accounting, the 
+"wholeness" is somehow recycled back due to perfect 
+attribution, due to and for integrity. Without a relevant 
+axiomatic construct, accounting even of the purest factual 
+form is subject to the decision of preference, in effect 
+bearing effects that are subjective due to the lack of 
+prescription to any relevant axiomatic construct. 
