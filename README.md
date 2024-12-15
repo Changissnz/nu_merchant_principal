@@ -9943,20 +9943,21 @@ transcribed into the records, for the account, in
 more words, by and through the practice of accounting 
 is the effect. 
 
-The accounts become facts, and then the accounting is 
-self-justifying greatly because it influences the course 
-of justice, and is common misconceived as the craft of 
-practice which can be innately provable in the same 
-nature as mathematical claims, in turn, part of the 
-structure of defense against third-party questions 
+The accounts become recognized as facts, and then the 
+accounting is self-justifying greatly because it influences 
+the course of justice, and is common misconceived as 
+the craft of practice which can be innately provable in 
+the same nature as mathematical claims, in turn, part of 
+the structure of defense against third-party questions 
 dangerous to the organization the accounts correspond 
 to, as well as the organization's accurate introspection, 
 commonly referred to as "internal investigations" in 
 settings of more than one individual. Accounting becomes 
 a cause for effects outside the tasks involved in 
-accounting, and those effects are subject to accounting. 
-This is a common pattern in accounting, in prescribed 
-routes of iteration that are synonymously cycles. 
+accounting, and those effects are then subject to 
+accounting. This is a common pattern in accounting, in 
+prescribed routes of iteration that are synonymously 
+cycles. 
 
 Accounting serves the purposes of an axiomatic construct 
 with input-output functionalities. In one version of 
@@ -9966,19 +9967,19 @@ attribution, due to and for integrity. Without a relevant
 axiomatic construct, accounting even of the purest factual 
 form is subject to the decision of preference, in effect 
 bearing effects that are subjective due to the lack of 
-prescription from any relevant axiomatic construct. An 
+prescription from any relevant axiomatic construct. In an 
 involuntary servitude of the agents in accounting for 
-an axiomatic concept, deception occurs alongside voluntary 
-revolts against servitude. But a disingenuine servitude 
-of an axiomatic construct is surely to deceive. To offer 
-one's self for serving a particular axiomatic construct, 
-the self is supposed to be deemed suitable by third-party 
-judgment before that one's admission. There are preferences 
-in the form of leanings and prejudices, many of which 
-rest on top of the Seven Deadly Sins, before the practice 
-of accounting, to uphold the practice of accounting, 
-and the effects expressed by choice-systematic use 
-of accounting. 
+an axiomatic concept, there is the possibility of deception 
+occurring alongside voluntary revolts against servitude. 
+But a disingenuine servitude of an axiomatic construct is 
+surely to deceive. To offer one's self for serving a particular 
+axiomatic construct, the self is supposed to be deemed 
+suitable by third-party judgment before that one's admission. 
+There are preferences in the form of leanings and prejudices, 
+many of which rest on top of the Seven Deadly Sins, before 
+the practice of accounting, to uphold the practice of 
+accounting, and the effects expressed by choice-systematic 
+use of accounting. 
 
 <ins>Pathological accounting</ins> is a phenomenon 
 that works via an accountable system's lack of fulfilling 
@@ -9989,7 +9990,7 @@ has deliberately been cut short, due to the view that
 there is no need to introduce accounting tricks to 
 illuminate on how pathological accounting has ensued, 
 for that would also give knowledge on how pathological 
-account can continue to ensue. 
+accounting can continue to ensue. 
 
 ## End Note <a name="p29"></a> 
 
