@@ -9923,8 +9923,8 @@ rulers, et cetera. Accounting, as a cornerstone, was
 greatly advanced by human societies after the adoption 
 of writing systems. The writing is to record the ephemeral 
 experience of sound and fleeting image. Over time, the 
-innate deficiencies of sentient transparency became 
-evident through the accounting of accounting, not of 
+innate deficiencies of sentient transparency re-emerged 
+in evidence through the accounting of accounting, not of 
 accurate marks for some things of effect from causes of 
 interpreting not the fact. And this did and does prove 
 to be a persistent problem, not necessarily in the name 
@@ -9955,7 +9955,7 @@ commonly referred to as "internal investigations" in
 settings of more than one individual. Accounting becomes 
 a cause for effects outside the tasks involved in 
 accounting, and those effects are then subject to 
-accounting. This is a common pattern in accounting, in 
+accounting. This is a common pattern in accounting, 
 prescribed routes of iteration that are synonymously 
 cycles. 
 
@@ -9984,10 +9984,10 @@ use of accounting.
 <ins>Pathological accounting</ins> is a phenomenon 
 that works via an accountable system's lack of fulfilling 
 an entity's expectations, these expectations the calculated 
-outcomes by the entity based on a combination of their 
-knowledge and compliance with said system. This section 
-has deliberately been cut short, due to the view that 
-there is no need to introduce accounting tricks to 
+outcomes (forecasts) by the entity based on a combination 
+of their knowledge and compliance with said system. This 
+section has deliberately been cut short, due to the view 
+that there is no need to introduce accounting tricks to 
 illuminate on how pathological accounting has ensued, 
 for that would also give knowledge on how pathological 
 accounting can continue to ensue. 
