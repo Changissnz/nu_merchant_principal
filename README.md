@@ -9978,4 +9978,5 @@ admission. There are preferences in the form of
 leanings and prejudices, many of which rest on top 
 of the Seven Deadly Sins, before the practice of 
 accounting, to uphold the practice of accounting, 
-and the effects expressed by using 
+and the effects expressed by choice-systematic use 
+of accounting. 
