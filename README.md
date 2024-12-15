@@ -9939,7 +9939,12 @@ Accounting can also be thought of as a literary expression
 of etiology, the study of cause-and-effect. There is a 
 cause, the event that typically involves values of 
 pertinent variables. And then the effect is the event 
-is transcribed into the records, for the account, in 
+transcribed into the records, for the account, in 
 more words, by and through the practice of accounting 
 is the effect. 
 
+The accounts become facts, accounting is self-justifying 
+because it influences the course of justice, and is 
+common misconceived as the craft of practice which can 
+be innately provable in the same nature as mathematical 
+claims. 
