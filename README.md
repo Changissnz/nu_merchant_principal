@@ -9943,8 +9943,14 @@ transcribed into the records, for the account, in
 more words, by and through the practice of accounting 
 is the effect. 
 
-The accounts become facts, accounting is self-justifying 
-because it influences the course of justice, and is 
-common misconceived as the craft of practice which can 
-be innately provable in the same nature as mathematical 
-claims. 
+The accounts become facts, and then the accounting is 
+self-justifying greatly because it influences the course 
+of justice, and is common misconceived as the craft of 
+practice which can be innately provable in the same 
+nature as mathematical claims, in turn part of the 
+structure of defense against third-party questions 
+dangerous to the organization the accounts correspond 
+to, as well as accurate introspection, commonly referred 
+to as "internal investigations" in settings of more than 
+one individual. 
+
