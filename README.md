@@ -9952,5 +9952,9 @@ structure of defense against third-party questions
 dangerous to the organization the accounts correspond 
 to, as well as the organization's accurate introspection, 
 commonly referred to as "internal investigations" in 
-settings of more than one individual. 
+settings of more than one individual. Accounting becomes 
+a cause for effects outside the tasks involved in 
+accounting, and those effects are subject to accounting. 
+This is a common pattern in accounting, in prescribed 
+routes of iteration that are synonymously cycles. 
 
