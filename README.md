@@ -9632,7 +9632,7 @@ information after a holder of that information has
 been compromised. As for the industrialization of 
 this kind of deception, not much information can be 
 gathered that explicitly mentions the phenomenon of 
-ephemeral deception in mass usage, let alone the 
+"ephemeral deception" in mass usage, let alone the 
 success/failure rates. 
 
 An opinionated statement is that the phenomenon 
@@ -9915,4 +9915,31 @@ to engage in as adequate defense for their structural
 and economic insufficiencies against the "cycle". 
 
 ## So That Is Accounting <a name="p28"></a> 
+
+In resource-finite settings, accounting is a cornerstone 
+of the settings' continuation. Equilibrium of wanted 
+forms, and attribution to the makers, the doers, the 
+rulers, et cetera. Accounting, as a cornerstone, was 
+greatly advanced by human societies after the adoption 
+of writing systems. The writing is to record the ephemeral 
+experience of sound and fleeting image. Over time, the 
+innate deficiencies of sentient transparency became 
+evident through the accounting of accounting, not of 
+accurate marks for some things of effect from causes of 
+interpreting not the fact. And this did and does prove 
+to be a persistent problem, not necessarily in the name 
+of truth above all things, for truth and complexity and 
+naturalism make for a swirl of layered truths outside 
+the absolute bipolarity of absolutely true and absolutely 
+false, but in the name of accounting for its designated 
+purpose, a non-fiction genre of representation, from the 
+standpoint of backtracking from that which is most evident, 
+the record in account to the experience of the past. 
+Accounting can also be thought of as a literary expression 
+of etiology, the study of cause-and-effect. There is a 
+cause, the event that typically involves values of 
+pertinent variables. And then the effect is the event 
+is transcribed into the records, for the account, in 
+more words, by and through the practice of accounting 
+is the effect. 
 
