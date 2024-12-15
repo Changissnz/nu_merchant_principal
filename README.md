@@ -9945,19 +9945,18 @@ is the effect.
 
 The accounts become recognized as facts, and then the 
 accounting is self-justifying greatly because it influences 
-the course of justice, and is common misconceived as 
-the craft of practice which can be innately provable in 
-the same nature as mathematical claims, in turn, part of 
-the structure of defense against third-party questions 
-dangerous to the organization the accounts correspond 
-to, as well as the organization's accurate introspection, 
-commonly referred to as "internal investigations" in 
-settings of more than one individual. Accounting becomes 
-a cause for effects outside the tasks involved in 
-accounting, and those effects are then subject to 
-accounting. This is a common pattern in accounting, 
-prescribed routes of iteration that are synonymously 
-cycles. 
+the course of justice, and is commonly misconceived as 
+the craft of practice which is innately provable in the 
+same nature as mathematical claims, in turn, part of the 
+structure of defense against third-party questions dangerous 
+to the organization the accounts correspond to, as well as 
+the organization's accurate introspection, commonly referred 
+to as "internal investigations" in settings of more than one 
+individual. Accounting becomes a cause for effects outside 
+the tasks involved in accounting, and those effects are 
+then subject to accounting. This is a common pattern in 
+accounting, prescribed routes of iteration that are 
+synonymously cycles. 
 
 Accounting serves the purposes of an axiomatic construct 
 with input-output functionalities. In one version of 
