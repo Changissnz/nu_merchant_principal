@@ -9984,13 +9984,12 @@ of accounting.
 that works via a system's lack of fulfilling an 
 entity's expectations, these expectations the calculated 
 outcomes by the entity based on a combination of their 
-knowledge and compliance with said system. 
-
-This section has deliberately been cut short, due to 
-the view that there is no need to introduce accounting 
-tricks to illuminate on how pathological accounting 
-has ensued, for that would also give knowledge on how 
-pathological account can continue to ensue. 
+knowledge and compliance with said system. This section 
+has deliberately been cut short, due to the view that 
+there is no need to introduce accounting tricks to 
+illuminate on how pathological accounting has ensued, 
+for that would also give knowledge on how pathological 
+account can continue to ensue. 
 
 ## End Note <a name="p29"></a> 
 
