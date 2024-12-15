@@ -9981,8 +9981,8 @@ and the effects expressed by choice-systematic use
 of accounting. 
 
 <ins>Pathological accounting</ins> is a phenomenon 
-that works via a system's lack of fulfilling an 
-entity's expectations, these expectations the calculated 
+that works via an accountable system's lack of fulfilling 
+an entity's expectations, these expectations the calculated 
 outcomes by the entity based on a combination of their 
 knowledge and compliance with said system. This section 
 has deliberately been cut short, due to the view that 
