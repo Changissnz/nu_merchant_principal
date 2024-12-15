@@ -1,5 +1,4 @@
-# Nu Merchant Principal
-## ~ ongoing notions by me, Richard Pham. 
+# Nu Merchant Principal, by Richard Pham
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### The Big Principle: 
@@ -7,8 +6,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Table of Contents
-- [Nu Merchant Principal](#nu-merchant-principal)
-  - [~ ongoing notions by me, Richard Pham.](#-ongoing-notions-by-me-richard-pham)
+- [Nu Merchant Principal, by Richard Pham](#nu-merchant-principal-by-richard-pham)
     - [The Big Principle:](#the-big-principle)
     - [In mercantilism, that "father figure" you have that told you "it is not about the money, it is about the principle" might just rape you dead and take all of your belongings...](#in-mercantilism-that-father-figure-you-have-that-told-you-it-is-not-about-the-money-it-is-about-the-principle-might-just-rape-you-dead-and-take-all-of-your-belongings)
 - [Table of Contents](#table-of-contents)
@@ -40,6 +38,7 @@
   - [Pride Plays Perception Pt. III ](#pride-plays-perception-pt-iii-)
   - [About the Simplicity of the Cycle Pt. III ](#about-the-simplicity-of-the-cycle-pt-iii-)
   - [So That Is Accounting ](#so-that-is-accounting-)
+  - [End Note ](#end-note-)
   
 
 Business comes and goes, much more frequently than governments. 
@@ -9980,3 +9979,23 @@ of the Seven Deadly Sins, before the practice of
 accounting, to uphold the practice of accounting, 
 and the effects expressed by choice-systematic use 
 of accounting. 
+
+<ins>Pathological accounting</ins> is a phenomenon 
+that works via a system's lack of fulfilling an 
+entity's expectations, these expectations the calculated 
+outcomes by the entity based on a combination of their 
+knowledge and compliance with said system. 
+
+This section has deliberately been cut short, due to 
+the view that there is no need to introduce accounting 
+tricks to illuminate on how pathological accounting 
+has ensued, for that would also give knowledge on how 
+pathological account can continue to ensue. 
+
+## End Note <a name="p29"></a> 
+
+I, Richard Pham, am honored, although for no agenda to 
+self-laud, to have been able to write this book that 
+covers topics such as the political economy and economic 
+philosophy. I hope that you, the reader, was able to 
+gather some insight into the concepts explained. 
