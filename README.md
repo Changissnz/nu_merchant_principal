@@ -9996,5 +9996,5 @@ account can continue to ensue.
 I, Richard Pham, am honored, although for no agenda to 
 self-laud, to have been able to write this book that 
 covers topics such as the political economy and economic 
-philosophy. I hope that you, the reader, was able to 
+philosophy. I hope that you, the reader, were able to 
 gather some insight into the concepts explained. 
